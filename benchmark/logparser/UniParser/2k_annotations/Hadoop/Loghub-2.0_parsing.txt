@@ -1,0 +1,13568 @@
+Created	O
+MRAppMaster	O
+for	O
+application	O
+appattempt_1445144423722_0020_000001	B
+
+Executing	O
+with	O
+tokens:	O
+
+Kind:	O
+YARN_AM_RM_TOKEN,	O
+Service:	O
+,	O
+Ident:	O
+(appAttemptId	O
+{	O
+application_id	O
+{	O
+id:	O
+20	B
+cluster_timestamp:	O
+1445144423722	B
+}	O
+attemptId:	O
+1	B
+}	O
+keyId:	O
+-127633188)	B
+
+Using	O
+mapred	O
+newApiCommitter.	O
+
+OutputCommitter	O
+set	O
+in	O
+config	O
+null	B
+
+OutputCommitter	O
+is	O
+org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter	O
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.jobhistory.EventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.job.event.JobEventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobEventDispatcher	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.job.event.TaskEventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskEventDispatcher	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.job.event.TaskAttemptEventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskAttemptEventDispatcher	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.commit.CommitterEventHandler	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.speculate.Speculator$EventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$SpeculatorEventDispatcher	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.rm.ContainerAllocator$EventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$ContainerAllocatorRouter	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncher$EventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$ContainerLauncherRouter	B
+
+Default	O
+file	O
+system	O
+[hdfs://msra-sa-41:9000]	B
+
+Default	O
+file	O
+system	O
+[hdfs://msra-sa-41:9000]	B
+
+Default	O
+file	O
+system	O
+[hdfs://msra-sa-41:9000]	B
+
+Emitting	O
+job	O
+history	O
+data	O
+to	O
+the	O
+timeline	O
+server	O
+is	O
+not	O
+enabled	O
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.job.event.JobFinishEvent$Type	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobFinishEventHandler	B
+
+loaded	O
+properties	O
+from	O
+hadoop-metrics2.properties	O
+
+Scheduled	O
+snapshot	O
+period	O
+at	O
+10	B
+second(s).	O
+
+MRAppMaster	O
+metrics	O
+system	O
+started	O
+
+Adding	O
+job	O
+token	O
+for	O
+job_1445144423722_0020	B
+to	O
+jobTokenSecretManager	O
+
+Not	O
+uberizing	O
+job_1445144423722_0020	B
+because:	O
+not	O
+enabled;	O
+too	O
+many	O
+maps;	O
+too	O
+much	O
+input;	O
+
+Input	O
+size	O
+for	O
+job	O
+job_1445144423722_0020	B
+=	O
+1256521728.	B
+Number	O
+of	O
+splits	O
+=	O
+10	B
+
+Number	O
+of	O
+reduces	O
+for	O
+job	O
+job_1445144423722_0020	B
+=	O
+1	B
+
+job_1445144423722_0020Job	B
+Transitioned	O
+from	O
+NEW	O
+to	O
+INITED	O
+
+MRAppMaster	O
+launching	O
+normal,	O
+non-uberized,	O
+multi-container	O
+job	O
+job_1445144423722_0020.	B
+
+Using	O
+callQueue	O
+class	O
+java.util.concurrent.LinkedBlockingQueue	O
+
+Starting	O
+Socket	O
+Reader	O
+#1	B
+for	O
+port	O
+62260	B
+
+Adding	O
+protocol	O
+org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB	O
+to	O
+the	O
+server	O
+
+Instantiated	O
+MRClientService	O
+at	O
+MININT-FNANLI5.fareast.corp.microsoft.com/10.86.169.121:62260	B
+
+IPC	O
+Server	O
+Responder:	O
+starting	O
+
+IPC	O
+Server	O
+listener	O
+on	O
+62260:	B
+starting	O
+
+Logging	O
+to	O
+org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log)	B
+via	O
+org.mortbay.log.Slf4jLog	B
+
+Http	O
+request	O
+log	O
+for	O
+http.requests.mapreduce	O
+is	O
+not	O
+defined	O
+
+Added	O
+global	O
+filter	O
+'safety'	O
+(class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)	O
+
+Added	O
+filter	O
+AM_PROXY_FILTER	O
+(class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter)	O
+to	O
+context	O
+mapreduce	O
+
+Added	O
+filter	O
+AM_PROXY_FILTER	O
+(class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter)	O
+to	O
+context	O
+static	O
+
+adding	O
+path	O
+spec:	O
+/mapreduce/*	B
+
+adding	O
+path	O
+spec:	O
+/ws/*	B
+
+Jetty	O
+bound	O
+to	O
+port	O
+62267	B
+
+jetty-6.1.26	B
+
+Extract	O
+jar:file:/D:/hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-SNAPSHOT.jar!/webapps/mapreduce	B
+to	O
+C:\Users\msrabi\AppData\Local\Temp\Jetty_0_0_0_0_62267_mapreduce____.8n7xum\webapp	B
+
+Started	O
+HttpServer2$SelectChannelConnectorWithSafeStartup@0.0.0.0:62267	B
+
+Web	O
+app	O
+/mapreduce	B
+started	O
+at	O
+62267	B
+
+Registered	O
+webapp	O
+guice	O
+modules	O
+
+Using	O
+callQueue	O
+class	O
+java.util.concurrent.LinkedBlockingQueue	O
+
+JOB_CREATE	O
+job_1445144423722_0020	B
+
+nodeBlacklistingEnabled:true	B
+
+maxTaskFailuresPerNode	O
+is	O
+3	B
+
+blacklistDisablePercent	O
+is	O
+33	B
+
+Starting	O
+Socket	O
+Reader	O
+#1	B
+for	O
+port	O
+62270	B
+
+IPC	O
+Server	O
+listener	O
+on	O
+62270:	B
+starting	O
+
+IPC	O
+Server	O
+Responder:	O
+starting	O
+
+Connecting	O
+to	O
+ResourceManager	O
+at	O
+msra-sa-41/10.190.173.170:8030	B
+
+maxContainerCapability:	O
+<memory:8192,	B
+vCores:32>	B
+
+queue:	O
+default	O
+
+Upper	O
+limit	O
+on	O
+the	O
+thread	O
+pool	O
+size	O
+is	O
+500	B
+
+yarn.client.max-cached-nodemanagers-proxies	O
+:	O
+0	B
+
+job_1445144423722_0020Job	B
+Transitioned	O
+from	O
+INITED	O
+to	O
+SETUP	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+JOB_SETUP	O
+
+job_1445144423722_0020Job	B
+Transitioned	O
+from	O
+SETUP	O
+to	O
+RUNNING	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000000	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000001	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000002	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000003	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000004	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000005	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000006	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000007	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000008	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000009	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+task_1445144423722_0020_r_000000	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+attempt_1445144423722_0020_m_000000_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000001_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000003_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000004_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000005_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000006_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000007_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000008_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_m_000009_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+attempt_1445144423722_0020_r_000000_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+mapResourceRequest:<memory:1024,	B
+vCores:1>	B
+
+Event	O
+Writer	O
+setup	O
+for	O
+JobId:	O
+job_1445144423722_0020,	B
+File:	O
+hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job_1445144423722_0020_1.jhist	B
+
+reduceResourceRequest:<memory:1024,	B
+vCores:1>	B
+
+Before	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:10	B
+ScheduledReds:0	B
+AssignedMaps:0	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:0	B
+ContRel:0	B
+HostLocal:0	B
+RackLocal:0	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:10240,	B
+vCores:-17>	B
+knownNMs=4	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:10240,	B
+vCores:-17>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:10240,	B
+vCores:-17>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Resolved	O
+04DN8IQ.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000002	B
+to	O
+attempt_1445144423722_0020_m_000000_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:8192,	B
+vCores:-19>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:9	B
+ScheduledReds:0	B
+AssignedMaps:1	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:1	B
+ContRel:0	B
+HostLocal:0	B
+RackLocal:1	B
+
+Resolved	O
+04DN8IQ.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+The	O
+job-jar	O
+file	O
+on	O
+the	O
+remote	O
+FS	O
+is	O
+hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.jar	B
+
+The	O
+job-conf	O
+file	O
+on	O
+the	O
+remote	O
+FS	O
+is	O
+/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.xml	B
+
+Adding	O
+#0	B
+tokens	O
+and	O
+#1	B
+secret	O
+keys	O
+for	O
+NM	O
+use	O
+for	O
+launching	O
+container	O
+
+Size	O
+of	O
+containertokens_dob	O
+is	O
+1	B
+
+Putting	O
+shuffle	O
+token	O
+in	O
+serviceData	O
+
+attempt_1445144423722_0020_m_000000_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000002	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000000_0	B
+
+Opening	O
+proxy	O
+:	O
+04DN8IQ.fareast.corp.microsoft.com:54883	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000000_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000000_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000002	B
+on	O
+NM:	O
+[04DN8IQ.fareast.corp.microsoft.com:54883]	B
+
+attempt_1445144423722_0020_m_000000_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000000	B
+
+task_1445144423722_0020_m_000000	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:7168,	B
+vCores:-20>	B
+knownNMs=4	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:7168,	B
+vCores:-20>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Resolved	O
+MININT-FNANLI5.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000003	B
+to	O
+attempt_1445144423722_0020_m_000001_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:5120,	B
+vCores:-22>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:8	B
+ScheduledReds:0	B
+AssignedMaps:2	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:2	B
+ContRel:0	B
+HostLocal:0	B
+RackLocal:2	B
+
+Resolved	O
+MININT-FNANLI5.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000001_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000003	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000001_0	B
+
+Opening	O
+proxy	O
+:	O
+MININT-FNANLI5.fareast.corp.microsoft.com:52368	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000001_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000001_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000003	B
+on	O
+NM:	O
+[MININT-FNANLI5.fareast.corp.microsoft.com:52368]	B
+
+attempt_1445144423722_0020_m_000001_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000001	B
+
+task_1445144423722_0020_m_000001	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:4096,	B
+vCores:-23>	B
+knownNMs=4	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:4096,	B
+vCores:-23>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Resolved	O
+MININT-FNANLI5.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000004	B
+to	O
+attempt_1445144423722_0020_m_000002_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:3072,	B
+vCores:-24>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:7	B
+ScheduledReds:0	B
+AssignedMaps:3	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:3	B
+ContRel:0	B
+HostLocal:0	B
+RackLocal:3	B
+
+Resolved	O
+MININT-FNANLI5.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000004	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000002_0	B
+
+Opening	O
+proxy	O
+:	O
+MININT-FNANLI5.fareast.corp.microsoft.com:52368	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000002_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000002_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000004	B
+on	O
+NM:	O
+[MININT-FNANLI5.fareast.corp.microsoft.com:52368]	B
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000002	B
+
+task_1445144423722_0020_m_000002	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:1024,	B
+vCores:-26>	B
+knownNMs=4	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:1024,	B
+vCores:-26>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000002	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000002	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000000_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:1024,	B
+vCores:-26>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000003	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000003	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000001_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000004	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000004	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000002_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.023958297	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.065791264	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.05713628	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10004553	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.079464614	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.06741504	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.10501281	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.103304505	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000005	B
+to	O
+attempt_1445144423722_0020_m_000003_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:6	B
+ScheduledReds:0	B
+AssignedMaps:4	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:4	B
+ContRel:0	B
+HostLocal:1	B
+RackLocal:3	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000003_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000005	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000003_0	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000003_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000003_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000005	B
+on	O
+NM:	O
+[MSRA-SA-41.fareast.corp.microsoft.com:7109]	B
+
+attempt_1445144423722_0020_m_000003_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000003	B
+
+task_1445144423722_0020_m_000003	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000005	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000005	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000003_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.10875365	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.106493875	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.14981231	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.13841225	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.106493875	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.1430594	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19084874	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.106493875	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.17293417	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.1795899	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.17982168	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.19209063	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.19209063	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.20639901	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.27765483	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.27765483	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.27765483	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.358454	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.36323506	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.36323506	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.20757815	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.36323506	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.24035259	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.22765201	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.4486067	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19716828	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.26542902	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.26314905	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.4486067	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.23859076	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.4486067	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.2754006	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.5091932	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.5343203	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Got	O
+allocated	O
+containers	O
+2	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000006	B
+to	O
+attempt_1445144423722_0020_m_000004_0	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000007	B
+to	O
+attempt_1445144423722_0020_m_000005_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:4	B
+ScheduledReds:0	B
+AssignedMaps:6	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:6	B
+ContRel:0	B
+HostLocal:3	B
+RackLocal:3	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000004_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000005_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000006	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000004_0	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000007	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000005_0	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000004_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000004_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000006	B
+on	O
+NM:	O
+[MSRA-SA-41.fareast.corp.microsoft.com:7109]	B
+
+attempt_1445144423722_0020_m_000004_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000004	B
+
+task_1445144423722_0020_m_000004	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000005_0	B
+:	O
+13562	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.5343203	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000005_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000007	B
+on	O
+NM:	O
+[MSRA-SA-41.fareast.corp.microsoft.com:7109]	B
+
+attempt_1445144423722_0020_m_000005_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000005	B
+
+task_1445144423722_0020_m_000005	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=1	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000008	B
+to	O
+attempt_1445144423722_0020_m_000006_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:3	B
+ScheduledReds:0	B
+AssignedMaps:7	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:7	B
+ContRel:0	B
+HostLocal:4	B
+RackLocal:3	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000006_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000008	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000006_0	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000006_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000006_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000008	B
+on	O
+NM:	O
+[MSRA-SA-41.fareast.corp.microsoft.com:7109]	B
+
+attempt_1445144423722_0020_m_000006_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000006	B
+
+task_1445144423722_0020_m_000006	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000007	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000006	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000007	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000005_0	B
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000006	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000004_0	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000008	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000008	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000006_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.5343203	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.5806522	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.10685723	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000009	B
+to	O
+attempt_1445144423722_0020_m_000007_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:2	B
+ScheduledReds:0	B
+AssignedMaps:8	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:8	B
+ContRel:0	B
+HostLocal:5	B
+RackLocal:3	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000007_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.10680563	B
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000009	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000007_0	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.6199081	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000007_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000007_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000009	B
+on	O
+NM:	O
+[MSRA-SA-41.fareast.corp.microsoft.com:7109]	B
+
+attempt_1445144423722_0020_m_000007_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000007	B
+
+task_1445144423722_0020_m_000007	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.106964506	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000009	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000009	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000007_0	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.10685723	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000010	B
+to	O
+attempt_1445144423722_0020_m_000008_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:1	B
+ScheduledReds:0	B
+AssignedMaps:9	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:9	B
+ContRel:0	B
+HostLocal:6	B
+RackLocal:3	B
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000008_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.10680563	B
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000010	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000008_0	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-39.fareast.corp.microsoft.com:28345	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.6199081	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000008_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000008_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000010	B
+on	O
+NM:	O
+[MSRA-SA-39.fareast.corp.microsoft.com:28345]	B
+
+attempt_1445144423722_0020_m_000008_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000008	B
+
+task_1445144423722_0020_m_000008	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.106964506	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=1	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000011	B
+to	O
+attempt_1445144423722_0020_m_000009_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:0	B
+ScheduledReds:0	B
+AssignedMaps:10	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:10	B
+ContRel:0	B
+HostLocal:7	B
+RackLocal:3	B
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000009_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000011	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+
+Launching	O
+attempt_1445144423722_0020_m_000009_0	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-39.fareast.corp.microsoft.com:28345	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000009_0	B
+:	O
+13562	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000009_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000011	B
+on	O
+NM:	O
+[MSRA-SA-39.fareast.corp.microsoft.com:28345]	B
+
+attempt_1445144423722_0020_m_000009_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	O
+to	O
+RUNNING	O
+
+ATTEMPT_START	O
+task_1445144423722_0020_m_000009	B
+
+task_1445144423722_0020_m_000009	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=1	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:0	B
+ScheduledReds:0	B
+AssignedMaps:10	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.10685723	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=0	B
+release=	O
+1	B
+newContainers=0	B
+finishedContainers=1	B
+resourcelimit=<memory:1024,	B
+vCores:-26>	B
+knownNMs=4	B
+
+Received	O
+completed	O
+container	O
+container_1445144423722_0020_01_000012	B
+
+Container	O
+complete	O
+event	O
+for	O
+unknown	O
+container	O
+id	O
+container_1445144423722_0020_01_000012	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:1024,	B
+vCores:-26>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.10680563	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.6199081	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000010	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000010	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000008_0	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.106964506	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000011	B
+asked	O
+for	O
+a	O
+task	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000011	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000009_0	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.29115766	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.6199081	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.2898827	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.19247705	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.18529637	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.10681946	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.667	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.19266446	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.31981927	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.32958937	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.19247705	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.19242907	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.10681946	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.667	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.19266446	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.106881365	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.295472	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.19247705	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.3512319	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.19242907	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.10681946	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.667	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.19266446	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.106881365	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.295472	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.19247705	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.19242907	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.1337379	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.6854124	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.29998285	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.19266446	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.106881365	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.295472	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.27813601	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.25258622	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.19255035	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.7198902	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.27613032	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.33995733	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.106881365	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.295472	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.27813601	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.2781602	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.19255035	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.7607953	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.2783809	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.106881365	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.295472	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.27813601	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.2781602	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.19255035	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.80356	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.2783809	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.18216328	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.4956123	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.32285523	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.25511068	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.2781602	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.83331466	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.29597813	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.19258286	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.5323719	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.36390656	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.27825075	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.36388028	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.87672114	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.36404583	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.19258286	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.5323719	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.36390656	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.36388028	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.27825075	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.9185183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.36404583	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.19258286	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.5323719	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.36390656	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.36388028	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.27825075	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.9543898	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.36404583	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.5323719	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.27811313	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.667	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.43890014	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.36388028	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.35880664	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.9854844	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.4156165	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.27811313	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+1.0	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Done	O
+acknowledgement	O
+from	O
+attempt_1445144423722_0020_m_000003_0	B
+
+attempt_1445144423722_0020_m_000003_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+RUNNING	O
+to	O
+SUCCESS_CONTAINER_CLEANUP	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_CLEANUP	B
+for	O
+container	O
+container_1445144423722_0020_01_000005	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+
+KILLING	O
+attempt_1445144423722_0020_m_000003_0	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.3673702	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.667	B
+
+attempt_1445144423722_0020_m_000003_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+SUCCESS_CONTAINER_CLEANUP	O
+to	O
+SUCCEEDED	O
+
+Task	O
+succeeded	O
+with	O
+attempt	O
+attempt_1445144423722_0020_m_000003_0	B
+
+task_1445144423722_0020_m_000003	B
+Task	O
+Transitioned	O
+from	O
+RUNNING	O
+to	O
+SUCCEEDED	O
+
+Num	O
+completed	O
+Tasks:	O
+1	B
+
+Before	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:0	B
+ScheduledReds:0	B
+AssignedMaps:10	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+reached.	O
+Scheduling	O
+reduces.	O
+
+All	O
+maps	O
+assigned.	O
+Ramping	O
+up	O
+all	O
+remaining	O
+reduces:1	B
+
+After	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:0	B
+ScheduledReds:1	B
+AssignedMaps:10	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.3638923	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.44950968	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.44968578	B
+
+DefaultSpeculator.addSpeculativeAttempt	O
+--	O
+we	O
+are	O
+speculating	O
+task_1445144423722_0020_m_000000	B
+
+Scheduling	O
+a	O
+redundant	O
+attempt	O
+for	O
+task	O
+task_1445144423722_0020_m_000000	B
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000000_1	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+Before	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:1	B
+ScheduledReds:1	B
+AssignedMaps:10	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.44980705	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=5	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=1	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Received	O
+completed	O
+container	O
+container_1445144423722_0020_01_000005	B
+
+After	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:1	B
+ScheduledReds:1	B
+AssignedMaps:9	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Diagnostics	O
+report	O
+from	O
+attempt_1445144423722_0020_m_000003_0:	B
+Container	O
+killed	O
+by	O
+the	O
+ApplicationMaster.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37225527	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.3787692	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.667	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.27811313	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.3638923	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.44950968	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.44968578	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.44980705	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37322965	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38007197	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.76133776	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.34610128	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.3707891	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Slow	O
+ReadProcessor	O
+read	O
+fields	O
+took	O
+65020ms	B
+(threshold=30000ms);	B
+ack:	O
+seqno:	O
+-2	B
+status:	O
+SUCCESS	O
+status:	O
+ERROR	O
+downstreamAckTimeNanos:	O
+0,	B
+targets:	O
+[10.86.169.121:50010,	B
+10.190.173.170:50010]	B
+
+Error	O
+Recovery	O
+for	O
+block	O
+BP-1347369012-10.190.173.170-1444972147527:blk_1073743512_2731	B
+in	O
+pipeline	O
+10.86.169.121:50010,	B
+10.190.173.170:50010:	B
+bad	O
+datanode	O
+10.190.173.170:50010	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+DataStreamer	O
+Exception	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+RUNNING	O
+to	O
+FAIL_CONTAINER_CLEANUP	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_CLEANUP	B
+for	O
+container	O
+container_1445144423722_0020_01_000004	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+
+KILLING	O
+attempt_1445144423722_0020_m_000002_0	B
+
+Opening	O
+proxy	O
+:	O
+MININT-FNANLI5.fareast.corp.microsoft.com:52368	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+FAIL_CONTAINER_CLEANUP	O
+to	O
+FAIL_TASK_CLEANUP	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+TASK_ABORT	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Task	O
+cleanup	O
+failed	O
+for	O
+attempt	O
+attempt_1445144423722_0020_m_000002_0	B
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+FAIL_TASK_CLEANUP	O
+to	O
+FAILED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000002_1	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+Error	O
+writing	O
+History	O
+Event:	O
+org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d	B
+
+Thread	O
+Thread[eventHandlingThread,5,main]	B
+threw	O
+an	O
+Exception.	O
+
+1	B
+failures	O
+on	O
+node	O
+MININT-FNANLI5.fareast.corp.microsoft.com	B
+
+Added	O
+attempt_1445144423722_0020_m_000002_1	B
+to	O
+list	O
+of	O
+failed	O
+maps	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Before	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:2	B
+ScheduledReds:1	B
+AssignedMaps:9	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+attempt_1445144423722_0020_m_000001_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+RUNNING	O
+to	O
+FAIL_CONTAINER_CLEANUP	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_CLEANUP	B
+for	O
+container	O
+container_1445144423722_0020_01_000003	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+
+KILLING	O
+attempt_1445144423722_0020_m_000001_0	B
+
+Opening	O
+proxy	O
+:	O
+MININT-FNANLI5.fareast.corp.microsoft.com:52368	B
+
+attempt_1445144423722_0020_m_000001_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+FAIL_CONTAINER_CLEANUP	O
+to	O
+FAIL_TASK_CLEANUP	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+TASK_ABORT	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Task	O
+cleanup	O
+failed	O
+for	O
+attempt	O
+attempt_1445144423722_0020_m_000001_0	B
+
+attempt_1445144423722_0020_m_000001_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+FAIL_TASK_CLEANUP	O
+to	O
+FAILED	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+attempt_1445144423722_0020_m_000001_1	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+2	B
+failures	O
+on	O
+node	O
+MININT-FNANLI5.fareast.corp.microsoft.com	B
+
+Added	O
+attempt_1445144423722_0020_m_000001_1	B
+to	O
+list	O
+of	O
+failed	O
+maps	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Before	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:3	B
+ScheduledReds:1	B
+AssignedMaps:9	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+

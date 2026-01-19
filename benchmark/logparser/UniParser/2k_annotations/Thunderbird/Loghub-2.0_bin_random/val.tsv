@@ -1,0 +1,2953 @@
+DHCPREQUEST	O
+for	O
+10.100.4.251	B
+(10.100.0.250)	B
+from	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B
+--	O
+using	O
+short	O
+name	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C4]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/time-udp	B
+[file=/etc/xinetd.d/time-udp]	B
+[line=17]	B
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+jA9JBVPb007417:	B
+to=root,	B
+ctladdr=root	B
+(0/0),	O
+delay=00:00:00,	B
+xdelay=00:00:00,	B
+mailer=relay,	O
+pri=659060,	B
+relay=[127.0.0.1]	B
+[127.0.0.1],	B
+dsn=4.0.0,	B
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B
+
+jA9J1UvC004306:	B
+to=root,	B
+ctladdr=root	B
+(0/0),	O
+delay=00:00:01,	B
+xdelay=00:00:00,	B
+mailer=relay,	O
+pri=659060,	B
+relay=[127.0.0.1]	B
+[127.0.0.1],	B
+dsn=4.0.0,	B
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D5]	B
+datasource	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B
+(10.100.0.250)	B
+from	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.26.250,	B
+stratum	O
+3	B
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/echo-udp	B
+[file=/etc/xinetd.d/echo-udp]	B
+[line=14]	B
+
+assuming	O
+drive	O
+cache:	O
+write	O
+through	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A7]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A3]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B3]	B
+datasource	O
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+DHCPOFFER	O
+on	O
+10.100.4.251	B
+to	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1	O
+
+session	O
+opened	O
+for	O
+user	O
+root	B
+by	O
+(uid=0)	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A1]	B
+datasource	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen-udp	B
+[file=/etc/xinetd.d/chargen-udp]	B
+[line=18]	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B4]	B
+datasource	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+initialized	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C1]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D7]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A7]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A1]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B5]	B
+datasource	O
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B6]	B
+datasource	O
+
+Server	O
+listening	O
+on	O
+::	O
+port	O
+22.	B
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.30.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B1]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+not	O
+allocating	O
+divert_blk	O
+for	O
+non-ethernet	O
+device	O
+sit0	B
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A1]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C4]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+PE/PV	O
+Model:	O
+1x2	B
+SCSI	O
+BP	O
+Rev:	O
+1.0	B
+
+Physical	O
+Processor	O
+ID:	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+jA9J1Wd7019391:	B
+to=root,	B
+ctladdr=root	B
+(0/0),	O
+delay=00:00:02,	B
+xdelay=00:00:00,	B
+mailer=relay,	O
+pri=1624553,	B
+relay=[127.0.0.1]	B
+[127.0.0.1],	B
+dsn=4.0.0,	B
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B
+
+session	O
+opened	O
+for	O
+user	O
+root	B
+by	O
+(uid=0)	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.10.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A5]	B
+datasource	O
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.30.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+session	O
+opened	O
+for	O
+user	O
+root	B
+by	O
+(uid=0)	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B1]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A6]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D6]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.30.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A6]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B
+--	O
+using	O
+short	O
+name	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKC]	B
+(IRQs	O
+3	B
+4	B
+5	B
+6	B
+7	B
+10	B
+11	B
+12)	B
+*15	B
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+CentOS-4	B
+(Kernel	O
+Module	O
+GPG	O
+key)	O
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B3]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C5]	B
+datasource	O
+
+eth0:	B
+e1000_probe:	B
+Intel(R)	O
+PRO/1000	B
+Network	O
+Connection	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+Now	O
+running	O
+on	O
+#29#'s	B
+privileges.	O
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B3]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D7]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C1]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B5]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C1]	B
+datasource	O
+
+Wait	O
+for	O
+ready	O
+failed	O
+before	O
+probe	O
+!	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A7]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A1]	B
+datasource	O
+
+xinetd	O
+Version	O
+2.3.13	B
+started	O
+with	O
+libwrap	O
+loadavg	O
+options	O
+compiled	O
+in.	O
+
+synchronized	O
+to	O
+10.100.14.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C5]	B
+datasource	O
+
+(root)	B
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B
+
+rpc.statd	O
+startup	O
+succeeded	O
+
+connection	O
+from	O
+"#28#"	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+(root)	B
+CMD	O
+(/projects/tbird/temps/get_temps	B
+d)	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B4]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C1]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D5]	B
+datasource	O
+
+passed.	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C6]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.26.250,	B
+stratum	O
+3	B
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/time	B
+[file=/etc/xinetd.d/time]	B
+[line=18]	B
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D2]	B
+datasource	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B1]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+Interpreter	O
+enabled	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C8]	B
+datasource	O
+
+Wait	O
+for	O
+ready	O
+failed	O
+before	O
+probe	O
+!	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PBHI.PXB2._PRT]	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+[ib_sm_sweep.c:1482]:	B
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+...	O
+autorun	O
+DONE.	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D4]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	B
+datasource	O
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C5]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B5]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+session	O
+closed	O
+for	O
+user	O
+root	B
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.VPR0._PRT]	B
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B
+(10.100.0.250)	B
+from	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A3]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+removing	O
+rsync	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+apic_id	O
+9,	B
+version	O
+32,	B
+address	O
+0xfec80000,	B
+GSI	O
+32-55	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B5]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+session	O
+opened	O
+for	O
+user	O
+root	B
+by	O
+(uid=0)	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+time	O
+reset	O
++0.182379	B
+s	O
+
+md	O
+driver	O
+0.90.0	B
+MAX_MD_DEVS=256,	B
+MD_SB_DISKS=27	B
+
+IRQ2	B
+used	O
+by	O
+override.	O
+
+jA9J1dQ7016560:	B
+from=root,	B
+size=1595423,	B
+class=0,	B
+nrcpts=1,	B
+msgid=<200511091901.jA9J1dQ7016560@aadmin1>,	B
+relay=#7#@localhost	B
+
+Changing	O
+permissions	O
+on	O
+special	O
+file	O
+/dev/logsurfer	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D5]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.26.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A4]	B
+datasource	O
+
+Processor	O
+ANSI	O
+SCSI	O
+revision:	O
+02	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D7]	B
+datasource	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PICH._PRT]	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D8]	B
+datasource	O
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+synchronized	O
+to	O
+10.100.22.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+scanning	O
+scsi	O
+channel	O
+0	B
+[Phy	O
+0]	B
+for	O
+non-raid	O
+devices	O
+
+Intel(R)	O
+Xeon(TM)	O
+CPU	O
+3.60GHz	B
+stepping	O
+03	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C8]	B
+datasource	O
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+DHCPACK	O
+on	O
+10.100.4.251	B
+to	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C1]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C1]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A1]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A3]	B
+datasource	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B3]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A1]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.26.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B1]	B
+datasource	O
+
+LAPIC	O
+(acpi_id[0x02]	B
+lapic_id[0x06]	B
+enabled)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D6]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.10.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+removing	O
+telnet	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A4]	B
+datasource	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	B
+->	O
+GSI	O
+16	B
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	B
+
+(root)	B
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.18.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C1]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D7]	B
+datasource	O
+
+Physical	O
+Processor	O
+ID:	O
+3	B
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+L2	O
+cache:	O
+2048K	B
+
+Local	O
+disconnected:	O
+Connection	O
+closed.	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C4]	B
+datasource	O
+
+LAPIC_NMI	O
+(acpi_id[0x01]	B
+high	O
+edge	O
+lint[0x1])	B
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C1]	B
+datasource	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/daytime	B
+[file=/etc/xinetd.d/daytime]	B
+[line=11]	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A5]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.30.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D8]	B
+datasource	O
+
+HPET	B
+(v001	O
+DELL	O
+PE	O
+BKC	O
+0x00000001	B
+MSFT	O
+0x0100000a)	B
+@	O
+0x00000000000fd81c	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B3]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A5]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B6]	B
+datasource	O
+
+My	O
+unqualified	O
+host	O
+name	O
+(dadmin1)	B
+unknown;	O
+sleeping	O
+for	O
+retry	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+[ib_sm_sweep.c:1831]:	B
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C4]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B8]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B7]	B
+datasource	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd):	B
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131559854	B
+when	O
+last	O
+update	O
+time	O
+is	O
+1131559854	B
+(minimum	O
+one	O
+second	O
+step)	O
+
+[ib_sm_sweep.c:1455]:	B
+No	O
+topology	O
+change	O
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A7]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A2]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B6]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.28.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_B6]	B
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A4]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.16.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_C6]	B
+datasource	O
+
+synchronized	O
+to	O
+10.100.14.250,	B
+stratum	O
+3	B
+
+synchronized	O
+to	O
+10.100.20.250,	B
+stratum	O
+3	B
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_D4]	B
+datasource	O
+

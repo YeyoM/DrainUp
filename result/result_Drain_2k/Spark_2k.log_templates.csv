@@ -1,0 +1,34 @@
+EventId,EventTemplate,Occurrences
+932c104e,"Registered signal handlers for [TERM, HUP, INT]",1
+7bb9d001,"Changing <*> acls to: yarn,curi",4
+29bc3dfc,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",2
+b923f8c3,Slf4jLogger started,1
+e99571c6,Starting remoting,1
+27a2a4ad,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],1
+f5a68e94,Successfully started service <*> on port <*>,2
+9ffef012,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,1
+ab59d05a,MemoryStore started with capacity 17.7 GB,1
+06cc9899,Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069,1
+5a5c5838,Successfully registered with driver,1
+508e4f7f,Starting executor ID 5 on host mesos-slave-07,1
+a352752c,Server created on 40984,1
+17f432d4,Trying to register BlockManager,1
+1c507e44,Registered BlockManager,1
+9ba7fdc2,Got assigned task <*>,305
+ae0572db,Running task <*> in stage <*> (TID <*>,305
+6c90e140,Started reading broadcast variable <*>,37
+7d93e8ed,Block <*> stored as <*> in memory (estimated size <*> <*> free <*> KB),149
+c0edc03b,Reading broadcast variable <*> took <*> ms,37
+3d6e0eb0,"Partition <*> not found, computing it",75
+f1a8cca8,Input split: <*>,45
+8671f9ed,"mapred.tip.id is deprecated. Instead, use mapreduce.task.id",1
+863158e5,"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id",1
+e4c5fa8f,"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap",1
+8ae18a42,"mapred.job.id is deprecated. Instead, use mapreduce.job.id",1
+6e5305e4,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition",1
+15498983,Times: total = <*> boot = <*> init = <*> finish = <*>,375
+33da0487,Finished task <*> in stage <*> (TID <*> <*> bytes result sent to driver,300
+d7f24216,Found block <*> locally,257
+a899e693,File Output Committer Algorithm version is 1,30
+e967b817,Saved output of task <*> to <*>,30
+9a5790d1,<*> Committed,30

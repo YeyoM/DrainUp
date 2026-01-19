@@ -1,0 +1,8838 @@
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:e3871ffd-5cd5-4287-bddd-3529f7b59515	B
+for	O
+instance	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d	B
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Took	O
+19.05	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Took	O
+19.84	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Terminating	O
+instance	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/b9000564-fe1a-409b-b8cc-1e88b294cd1d_del	B
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/b9000564-fe1a-409b-b8cc-1e88b294cd1d_del	B
+complete	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Took	O
+1.03	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Took	O
+0.48	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Claim	O
+successful	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Creating	O
+image	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:a208479c-c0e3-4730-a5a0-d75e8afd0252	B
+for	O
+instance	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Took	O
+19.96	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Took	O
+20.71	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Successfully	O
+synced	O
+instances	O
+from	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Terminating	O
+instance	O
+
+Running	O
+instance	O
+usage	O
+audit	O
+for	O
+host	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+from	O
+2017-05-16	B
+05:00:00	B
+to	O
+2017-05-16	B
+06:00:00.	B
+87	B
+instances.	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del	B
+complete	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Took	O
+1.11	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Took	O
+0.52	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Claim	O
+successful	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Creating	O
+image	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:d1ce4c5a-2811-41c3-8a5a-39f9e6defcb8	B
+for	O
+instance	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Took	O
+19.37	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Took	O
+20.14	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Terminating	O
+instance	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del	B
+complete	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Took	O
+1.05	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Took	O
+0.45	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Claim	O
+successful	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Creating	O
+image	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Creating	O
+event	O
+network-vif-plugged:b26c4935-6377-4e96-9ba1-ec6985d42d5d	B
+for	O
+instance	O
+78dc1847-8848-49cc-933e-9239b12c9dcf	B
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Took	O
+20.47	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Took	O
+21.25	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Terminating	O
+instance	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del	B
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del	B
+complete	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Took	O
+1.02	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Took	O
+0.48	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Claim	O
+successful	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Creating	O
+image	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Creating	O
+event	O
+network-vif-plugged:1cf11429-1563-4f6c-823c-91ba6e0f6675	B
+for	O
+instance	O
+95960536-049b-41f6-9049-05fc479b6a7c	B
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Took	O
+19.71	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Took	O
+20.72	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+Successfully	O
+synced	O
+instances	O
+from	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Terminating	O
+instance	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/95960536-049b-41f6-9049-05fc479b6a7c_del	B
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/95960536-049b-41f6-9049-05fc479b6a7c_del	B
+complete	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Took	O
+1.00	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Took	O
+0.46	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+0	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=512MB	B
+phys_disk=15GB	B
+used_disk=0GB	B
+total_vcpus=16	B
+used_vcpus=0	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Claim	O
+successful	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Creating	O
+image	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:85754923-baff-45ad-9e35-a3055c898234	B
+for	O
+instance	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Took	O
+19.07	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Took	O
+19.92	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Terminating	O
+instance	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5_del	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5_del	B
+complete	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Took	O
+0.99	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Took	O
+0.54	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Claim	O
+successful	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Creating	O
+image	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Creating	O
+event	O
+network-vif-plugged:7bdba89d-dd80-489c-ab06-11d494c5c478	B
+for	O
+instance	O
+af5f7392-f7d4-4298-b647-c98924c64aa1	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Took	O
+20.35	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Took	O
+21.11	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Terminating	O
+instance	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/af5f7392-f7d4-4298-b647-c98924c64aa1_del	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/af5f7392-f7d4-4298-b647-c98924c64aa1_del	B
+complete	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Took	O
+1.01	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Took	O
+0.48	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Claim	O
+successful	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Creating	O
+image	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+The	O
+instance	O
+sync	O
+for	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'	B
+did	O
+not	O
+match.	O
+Re-created	O
+its	O
+InstanceList.	O
+
+Creating	O
+event	O
+network-vif-plugged:98dbd0a6-013e-4cd9-9986-fa32e5d6dd32	B
+for	O
+instance	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f	B
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Took	O
+20.09	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Took	O
+20.89	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Terminating	O
+instance	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f_del	B
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/ae3a1b5d-eec1-45bb-b76a-c59d83b1471f_del	B
+complete	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Took	O
+1.02	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Took	O
+0.45	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+0	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=512MB	B
+phys_disk=15GB	B
+used_disk=0GB	B
+total_vcpus=16	B
+used_vcpus=0	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Claim	O
+successful	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Creating	O
+image	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:60df1c66-a513-4973-aeed-095809a52794	B
+for	O
+instance	O
+43204226-2f87-4da7-b7ee-4d20cc66e846	B
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Took	O
+19.37	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Took	O
+20.14	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Terminating	O
+instance	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/43204226-2f87-4da7-b7ee-4d20cc66e846_del	B
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/43204226-2f87-4da7-b7ee-4d20cc66e846_del	B
+complete	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Took	O
+1.01	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Took	O
+0.46	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Claim	O
+successful	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Creating	O
+image	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:8b683414-2896-4251-aa05-980752c9b9b3	B
+for	O
+instance	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e	B
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Took	O
+20.32	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Took	O
+21.11	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Terminating	O
+instance	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/fecdd5a9-3ca0-4c82-9336-63b7774f738e_del	B
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/fecdd5a9-3ca0-4c82-9336-63b7774f738e_del	B
+complete	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Took	O
+1.04	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Took	O
+0.54	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Claim	O
+successful	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Creating	O
+image	O
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+The	O
+instance	O
+sync	O
+for	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'	B
+did	O
+not	O
+match.	O
+Re-created	O
+its	O
+InstanceList.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:e1bf6353-ae58-4e46-b2d1-65a69b992bed	B
+for	O
+instance	O
+63a0d960-70b6-44c6-b606-491478a5cadf	B
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Took	O
+20.03	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Took	O
+20.80	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Terminating	O
+instance	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del	B
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del	B
+complete	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Took	O
+1.04	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Took	O
+0.46	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+0	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=512MB	B
+phys_disk=15GB	B
+used_disk=0GB	B
+total_vcpus=16	B
+used_vcpus=0	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Claim	O
+successful	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Creating	O
+image	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:f53e6f35-05f7-4896-9abf-6df58d3e69b8	B
+for	O
+instance	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c	B
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Took	O
+19.32	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Took	O
+20.23	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Terminating	O
+instance	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c_del	B
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c_del	B
+complete	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Took	O
+1.02	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Took	O
+0.47	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Claim	O
+successful	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Creating	O
+image	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:899a49ed-0154-4308-949e-f59ac7acc66d	B
+for	O
+instance	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Took	O
+18.98	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Took	O
+19.79	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Terminating	O
+instance	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del	B
+complete	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Took	O
+1.00	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Took	O
+0.57	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Claim	O
+successful	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Creating	O
+image	O
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+The	O
+instance	O
+sync	O
+for	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'	B
+did	O
+not	O
+match.	O
+Re-created	O
+its	O
+InstanceList.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:1bb8c7a3-effa-4568-8cf7-2b9a55011df9	B
+for	O
+instance	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8	B
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Took	O
+20.05	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Took	O
+20.83	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Terminating	O
+instance	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/70c1714b-c11b-4c88-b300-239afe1f5ff8_del	B
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/70c1714b-c11b-4c88-b300-239afe1f5ff8_del	B
+complete	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Took	O
+0.99	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Took	O
+0.47	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+0	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=512MB	B
+phys_disk=15GB	B
+used_disk=0GB	B
+total_vcpus=16	B
+used_vcpus=0	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Claim	O
+successful	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Creating	O
+image	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+While	O
+synchronizing	O
+instance	O
+power	O
+states,	O
+found	O
+1	B
+instances	O
+in	O
+the	O
+database	O
+and	O
+0	B
+instances	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:5c0b217a-68a9-46d1-8936-23c5688aa673	B
+for	O
+instance	O
+bf8c824d-f099-4433-a41e-e3da7578262e	B
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Took	O
+19.53	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Took	O
+20.31	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Terminating	O
+instance	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/bf8c824d-f099-4433-a41e-e3da7578262e_del	B
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/bf8c824d-f099-4433-a41e-e3da7578262e_del	B
+complete	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Took	O
+1.00	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Took	O
+0.53	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Claim	O
+successful	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Creating	O
+image	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:418c107f-95d6-4655-ae6b-90bca57d9a71	B
+for	O
+instance	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc	B
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Took	O
+19.16	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Took	O
+19.97	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Terminating	O
+instance	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/be793e89-2cc3-4f99-9884-9c6a624a84bc_del	B
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/be793e89-2cc3-4f99-9884-9c6a624a84bc_del	B
+complete	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Took	O
+1.01	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Took	O
+0.46	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Claim	O
+successful	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Creating	O
+image	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+The	O
+instance	O
+sync	O
+for	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'	B
+did	O
+not	O
+match.	O
+Re-created	O
+its	O
+InstanceList.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:72791ba0-33ef-44f2-9d88-d7c8f313cb46	B
+for	O
+instance	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Took	O
+20.25	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Took	O
+21.08	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Terminating	O
+instance	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/a015cf14-84bb-4156-a48d-7c4824ac7a9d_del	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/a015cf14-84bb-4156-a48d-7c4824ac7a9d_del	B
+complete	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Took	O
+1.04	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Took	O
+0.57	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+0	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=512MB	B
+phys_disk=15GB	B
+used_disk=0GB	B
+total_vcpus=16	B
+used_vcpus=0	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Claim	O
+successful	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Creating	O
+image	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:a444c98d-73cb-4ef8-b9c8-dbc1c4a7bd5c	B
+for	O
+instance	O
+d96a117b-0193-4549-bdcc-63b917273d1d	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Took	O
+19.74	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Took	O
+20.55	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Terminating	O
+instance	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/d96a117b-0193-4549-bdcc-63b917273d1d_del	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/d96a117b-0193-4549-bdcc-63b917273d1d_del	B
+complete	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Took	O
+1.03	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Took	O
+0.45	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Claim	O
+successful	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Creating	O
+image	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:0b72aca0-102e-4421-8ff3-2902d8353ff0	B
+for	O
+instance	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e	B
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Took	O
+19.19	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Took	O
+20.05	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Terminating	O
+instance	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/d6b7bd36-2943-4363-9235-fffdd89ea40e_del	B
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/d6b7bd36-2943-4363-9235-fffdd89ea40e_del	B
+complete	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Took	O
+1.01	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Took	O
+0.45	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Claim	O
+successful	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Creating	O
+image	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+The	O
+instance	O
+sync	O
+for	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'	B
+did	O
+not	O
+match.	O
+Re-created	O
+its	O
+InstanceList.	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:b25f912d-d8bd-4332-b55f-8e244fe36c7c	B
+for	O
+instance	O
+127e769a-4fe6-4548-93b1-513ac51e0452	B
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Took	O
+20.29	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Took	O
+21.05	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Terminating	O
+instance	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/127e769a-4fe6-4548-93b1-513ac51e0452_del	B
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/127e769a-4fe6-4548-93b1-513ac51e0452_del	B
+complete	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Took	O
+1.00	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Took	O
+0.47	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+0	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=512MB	B
+phys_disk=15GB	B
+used_disk=0GB	B
+total_vcpus=16	B
+used_vcpus=0	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Claim	O
+successful	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Creating	O
+image	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:b73a8d80-ce9e-49ff-bb0d-a1b8571f5e26	B
+for	O
+instance	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf	B
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Took	O
+20.03	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Took	O
+20.79	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Terminating	O
+instance	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del	B
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/c62f4f25-982c-4ea2-b5e4-93000edfcfbf_del	B
+complete	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Took	O
+1.02	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Took	O
+0.58	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Claim	O
+successful	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Creating	O
+image	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+Auditing	O
+locally	O
+available	O
+compute	O
+resources	O
+for	O
+node	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Creating	O
+event	O
+network-vif-plugged:1771f0af-aae8-4b03-97c9-a7bc9c5e4bb7	B
+for	O
+instance	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f	B
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Took	O
+19.47	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Took	O
+20.22	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Terminating	O
+instance	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Instance	O
+destroyed	O
+successfully.	O
+

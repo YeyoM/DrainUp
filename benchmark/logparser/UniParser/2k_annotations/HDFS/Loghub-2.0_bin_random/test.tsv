@@ -1,0 +1,9943 @@
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.73.220:50010	B
+is	O
+added	O
+to	O
+blk_7128370237687728475	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_8229193803249955061	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.11.85:50010	B
+is	O
+added	O
+to	O
+blk_2377150260128098806	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_572492839287299681	B
+terminating	O
+
+Received	O
+block	O
+blk_3587508140051953248	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.42.84	B
+
+Receiving	O
+block	O
+blk_5792489080791696128	B
+src:	O
+/10.251.30.6:33145	B
+dest:	O
+/10.251.30.6:50010	B
+
+Receiving	O
+block	O
+blk_1724757848743533110	B
+src:	O
+/10.251.111.130:49851	B
+dest:	O
+/10.251.111.130:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811092030_0001_m_000590_0/part-00590.	B
+blk_-1727475099218615100	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811092030_0001_m_000742_0/part-00742.	B
+blk_-7878121102358435702	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.111.130:50010	B
+is	O
+added	O
+to	O
+blk_4568434182693165548	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-5704899712662113150	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.91.229	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.38.197:50010	B
+is	O
+added	O
+to	O
+blk_8763662564934652249	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.74.134:50010	B
+is	O
+added	O
+to	O
+blk_7453815855294711849	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_8291449241650212794	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.89.155	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811092030_0001_m_000487_0/part-00487.	B
+blk_-5319073033164653435	B
+
+Verification	O
+succeeded	O
+for	O
+blk_-4980916519894289629	B
+
+Received	O
+block	O
+blk_-5974833545991408899	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.31.180	B
+
+Received	O
+block	O
+blk_6921674711959888070	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.65.203	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.244:50010	B
+is	O
+added	O
+to	O
+blk_5165786360127153975	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_2937758977269298350	B
+src:	O
+/10.251.194.129:37476	B
+dest:	O
+/10.251.194.129:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.6.191:50010	B
+is	O
+added	O
+to	O
+blk_673825774073966710	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-7526945448667194862	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.203.80	B
+
+Received	O
+block	O
+blk_-2094397855762091248	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.126.83	B
+
+Received	O
+block	O
+blk_-8523968015014407246	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.225	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.89.155:50010	B
+is	O
+added	O
+to	O
+blk_8181993091797661153	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_4755566011267050000	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.75.79	B
+
+Received	O
+block	O
+blk_-3909548841543565741	B
+of	O
+size	O
+3542967	B
+from	O
+/10.251.195.33	B
+
+Receiving	O
+block	O
+blk_-6809181994368905854	B
+src:	O
+/10.250.17.225:51754	B
+dest:	O
+/10.250.17.225:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.106.50:50010	B
+is	O
+added	O
+to	O
+blk_-29548654251973735	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-5073870177832699716	B
+terminating	O
+
+Received	O
+block	O
+blk_-8241093737585222406	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.5.161	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.111.228:50010	B
+is	O
+added	O
+to	O
+blk_-2480595760294717232	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-1527267659500322006	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_4886940526690879848	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-4229375751333894621	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-774267833966018354	B
+src:	O
+/10.251.38.53:51057	B
+dest:	O
+/10.251.38.53:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811092030_0001_m_001648_0/part-01648.	B
+blk_2513940824125131775	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811092030_0001_m_001866_0/part-01866.	B
+blk_-1282453782148343691	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.106.50:50010	B
+is	O
+added	O
+to	O
+blk_-2530087534157630851	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_8408125361497769001	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.70.211	B
+
+Received	O
+block	O
+blk_3777400576053320362	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.31.5	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-5852844080027817147	B
+terminating	O
+
+Received	O
+block	O
+blk_-2129171714384027465	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.75.228	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_9093049293972551787	B
+terminating	O
+
+Deleting	O
+block	O
+blk_1781953582842324563	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir5/blk_1781953582842324563	B
+
+10.251.91.229:50010	B
+Served	O
+block	O
+blk_-3358448553918665902	B
+to	O
+/10.251.91.229	B
+
+10.251.39.192:50010	B
+Served	O
+block	O
+blk_-5341992729755584578	B
+to	O
+/10.251.39.192	B
+
+10.250.5.237:50010	B
+Served	O
+block	O
+blk_3166960787499091856	B
+to	O
+/10.251.43.147	B
+
+10.251.126.255:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_8376667364205250596	B
+to	O
+/10.251.91.159:	B
+
+10.251.71.68:50010	B
+Served	O
+block	O
+blk_-2794533871450434534	B
+to	O
+/10.251.199.150	B
+
+10.251.123.132:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_3763728533434719668	B
+to	O
+/10.251.38.214:	B
+
+10.250.13.188:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_6241141267506413726	B
+to	O
+/10.251.194.245:	B
+
+10.251.214.32:50010	B
+Served	O
+block	O
+blk_-6520030462660619051	B
+to	O
+/10.251.215.70	B
+
+10.251.199.19:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_8466246428293623262	B
+to	O
+/10.251.106.37:	B
+
+10.250.9.207:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-3140754468249228022	B
+to	O
+/10.250.9.207:	B
+
+10.251.202.134:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_3441699978641526775	B
+to	O
+/10.251.126.5:	B
+
+10.250.6.214:50010	B
+Served	O
+block	O
+blk_5739119717322549945	B
+to	O
+/10.251.43.115	B
+
+10.251.203.166:50010	B
+Served	O
+block	O
+blk_8787656642683881295	B
+to	O
+/10.251.107.98	B
+
+10.251.90.64:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-4841792440390267307	B
+to	O
+/10.251.90.239:	B
+
+10.250.10.144:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_5126469776250053435	B
+to	O
+/10.250.11.100:	B
+
+10.251.71.146:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-2032740670708110312	B
+to	O
+/10.251.197.161:	B
+
+10.251.43.210:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_2969087638814291714	B
+to	O
+/10.251.199.86:	B
+
+10.251.73.188:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_7517964792804498202	B
+to	O
+/10.250.6.191:	B
+
+10.251.35.1:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_7940316270494947483	B
+to	O
+/10.251.122.38:	B
+
+Receiving	O
+block	O
+blk_8692428775973608797	B
+src:	O
+/10.250.10.213:56574	B
+dest:	O
+/10.250.10.213:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-6837050820114491742	B
+terminating	O
+
+Received	O
+block	O
+blk_-5195432543794777448	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.6	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.110.68:50010	B
+is	O
+added	O
+to	O
+blk_1636660629634995787	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-1798958443298220150	B
+src:	O
+/10.251.111.209:57419	B
+dest:	O
+/10.251.111.209:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-54240672253074715	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-7172347691639518373	B
+src:	O
+/10.251.111.37:35327	B
+dest:	O
+/10.251.111.37:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_2028803850179311599	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-8562334328670278932	B
+src:	O
+/10.251.194.147:46714	B
+dest:	O
+/10.251.194.147:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-8108913101671416218	B
+terminating	O
+
+Receiving	O
+block	O
+blk_7654726977769174867	B
+src:	O
+/10.251.110.160:49990	B
+dest:	O
+/10.251.110.160:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_8320088109701056055	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.197.226:50010	B
+is	O
+added	O
+to	O
+blk_4585055992495043771	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-4330512786228504138	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.67.225	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-7436749154361133879	B
+terminating	O
+
+Received	O
+block	O
+blk_-684595390732854503	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.6.191	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand/_temporary/_task_200811092030_0002_r_000230_0/part-00230.	B
+blk_559204981722276126	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand/_temporary/_task_200811092030_0002_r_000169_0/part-00169.	B
+blk_-7105305952901940477	B
+
+Receiving	O
+block	O
+blk_-9103764593642564543	B
+src:	O
+/10.251.43.115:46385	B
+dest:	O
+/10.251.43.115:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_4568377692254637284	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-5217146995455608468	B
+src:	O
+/10.251.214.67:38871	B
+dest:	O
+/10.251.214.67:50010	B
+
+Receiving	O
+block	O
+blk_-522892190802801712	B
+src:	O
+/10.251.74.134:39584	B
+dest:	O
+/10.251.74.134:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.19:50010	B
+is	O
+added	O
+to	O
+blk_-3249711809227781266	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-6329494504520216748	B
+src:	O
+/10.251.25.237:39332	B
+dest:	O
+/10.251.25.237:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0/part-00318.	B
+blk_-207775976836691685	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.6.4:50010	B
+is	O
+added	O
+to	O
+blk_5114010683183383297	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-7656610147924319419	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand/_temporary/_task_200811092030_0002_r_000318_0/part-00318.	B
+blk_2096692261399680562	B
+
+Receiving	O
+block	O
+blk_-8255732027871411321	B
+src:	O
+/10.251.39.179:33950	B
+dest:	O
+/10.251.39.179:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-2896670847306153652	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-8856628810470361280	B
+src:	O
+/10.250.5.237:41923	B
+dest:	O
+/10.250.5.237:50010	B
+
+Received	O
+block	O
+blk_3463540868626173125	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.30.134	B
+
+Received	O
+block	O
+blk_-5309211894896608429	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.202.181	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.15.240:50010	B
+is	O
+added	O
+to	O
+blk_-1055254430948037872	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-730776401372551814	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.90.239:50010	B
+is	O
+added	O
+to	O
+blk_-9069971851590882719	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.146:50010	B
+is	O
+added	O
+to	O
+blk_278357163850888	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-5135777574223073423	B
+src:	O
+/10.251.65.237:48648	B
+dest:	O
+/10.251.65.237:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1148756466197125339	B
+terminating	O
+
+Received	O
+block	O
+blk_-4067446915270471579	B
+of	O
+size	O
+25933924	B
+from	O
+/10.251.110.8	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_3259872359515191972	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_5963816136267066159	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand/_temporary/_task_200811092030_0002_r_000138_0/part-00138.	B
+blk_-210021574616486609	B
+
+Receiving	O
+block	O
+blk_-8524274644018377752	B
+src:	O
+/10.251.42.16:33011	B
+dest:	O
+/10.251.42.16:50010	B
+
+Receiving	O
+block	O
+blk_-2015110815660478655	B
+src:	O
+/10.251.35.1:53344	B
+dest:	O
+/10.251.35.1:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.242:50010	B
+is	O
+added	O
+to	O
+blk_-4110733372292809607	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_8772892713521115147	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.194.245	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-4799092443170733505	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-5215520749152394224	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_397848436489409658	B
+terminating	O
+
+Received	O
+block	O
+blk_-5124326558394984439	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.122.79	B
+
+Verification	O
+succeeded	O
+for	O
+blk_6996194389878584395	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.71.146:50010	B
+is	O
+added	O
+to	O
+blk_-6836642008179678048	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_5760391051658436046	B
+src:	O
+/10.251.42.84:59752	B
+dest:	O
+/10.251.42.84:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_000705_0/part-00705.	B
+blk_-9162090767925303921	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-4196449318426994195	B
+terminating	O
+
+Receiving	O
+block	O
+blk_4238127626194855481	B
+src:	O
+/10.250.11.100:59324	B
+dest:	O
+/10.250.11.100:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_3278280638950561822	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-9161369067334198861	B
+terminating	O
+
+Received	O
+block	O
+blk_-1094025072435547068	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.66.3	B
+
+Received	O
+block	O
+blk_6534693994677948144	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.201.204	B
+
+Receiving	O
+block	O
+blk_7672124247291403094	B
+src:	O
+/10.251.66.3:55531	B
+dest:	O
+/10.251.66.3:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-5569558931000121451	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-8093500164295459838	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001095_0/part-01095.	B
+blk_-7413910507260978729	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_4774656339381154282	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-8227485321105019293	B
+src:	O
+/10.251.195.33:56999	B
+dest:	O
+/10.251.195.33:50010	B
+
+Received	O
+block	O
+blk_3852281952649038166	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.122.65	B
+
+Receiving	O
+block	O
+blk_-6486714614940767660	B
+src:	O
+/10.250.11.53:48454	B
+dest:	O
+/10.250.11.53:50010	B
+
+Received	O
+block	O
+blk_7736147489540456118	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.74.227	B
+
+Received	O
+block	O
+blk_-3677956642639780952	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.123.20	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.73.220:50010	B
+is	O
+added	O
+to	O
+blk_3073404534069578592	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_1498192967843651378	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.42.84	B
+
+Receiving	O
+block	O
+blk_7229716389774599497	B
+src:	O
+/10.251.201.204:38310	B
+dest:	O
+/10.251.201.204:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_4741107979793372752	B
+terminating	O
+
+Receiving	O
+block	O
+blk_691517018986659607	B
+src:	O
+/10.251.195.70:59379	B
+dest:	O
+/10.251.195.70:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.203.129:50010	B
+is	O
+added	O
+to	O
+blk_6002109944224710483	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.122.65:50010	B
+is	O
+added	O
+to	O
+blk_5095897972833086609	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-3802183646922512795	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.201.204:50010	B
+is	O
+added	O
+to	O
+blk_9072829105973334075	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001365_0/part-01365.	B
+blk_4841101867353115844	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_1997668456720275587	B
+terminating	O
+
+Received	O
+block	O
+blk_3304535870056962597	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.203.166	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.196:50010	B
+is	O
+added	O
+to	O
+blk_6828121630547887549	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001506_0/part-01506.	B
+blk_1104376461837247304	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.111.130:50010	B
+is	O
+added	O
+to	O
+blk_-5511630179413516751	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_4404895858852856851	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001597_0/part-01597.	B
+blk_-591552904934794824	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001377_0/part-01377.	B
+blk_-8408087700903896282	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.122.38:50010	B
+is	O
+added	O
+to	O
+blk_-5404881839098659470	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001728_0/part-01728.	B
+blk_-488298625688742454	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-9110604833387121363	B
+terminating	O
+
+Receiving	O
+block	O
+blk_5977008528949258706	B
+src:	O
+/10.251.214.32:43860	B
+dest:	O
+/10.251.214.32:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_3781645897486585075	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.11.194:50010	B
+is	O
+added	O
+to	O
+blk_-1635752698830216319	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001661_0/part-01661.	B
+blk_-1674094254141559552	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001630_0/part-01630.	B
+blk_-8645365827804358878	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001817_0/part-01817.	B
+blk_3291173852929756766	B
+
+Received	O
+block	O
+blk_892900079071425422	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.73.188	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_2243777557693112935	B
+terminating	O
+
+Received	O
+block	O
+blk_-8192956077351896648	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.110.196	B
+
+Received	O
+block	O
+blk_-2020273862360001901	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.7.244	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001840_0/part-01840.	B
+blk_4210124392039605712	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.71.240:50010	B
+is	O
+added	O
+to	O
+blk_-6330812010936261924	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_001976_0/part-01976.	B
+blk_-8380267327243110056	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.110.160:50010	B
+is	O
+added	O
+to	O
+blk_-8077373411465716253	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-9198375937828232046	B
+terminating	O
+
+Received	O
+block	O
+blk_4029732570544915384	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.35.1	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.43.210:50010	B
+is	O
+added	O
+to	O
+blk_-6995454028444097802	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.230:50010	B
+is	O
+added	O
+to	O
+blk_4984720043834039361	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_6398122733993275620	B
+src:	O
+/10.251.111.80:53737	B
+dest:	O
+/10.251.111.80:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.43.192:50010	B
+is	O
+added	O
+to	O
+blk_325981833999429148	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2568309208894455676	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.31.160:50010	B
+
+10.251.67.225:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-6900989714336081087	B
+to	O
+/10.251.25.237:	B
+
+10.251.42.191:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-8023826090828946372	B
+to	O
+/10.251.214.130:	B
+
+10.251.31.5:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-1367876730256254709	B
+to	O
+/10.251.67.225:	B
+
+10.251.126.83:50010	B
+Served	O
+block	O
+blk_-3860894070657427592	B
+to	O
+/10.251.126.83	B
+
+10.251.26.8:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-7983508786213002472	B
+to	O
+/10.251.38.197:	B
+
+10.251.71.97:50010	B
+Served	O
+block	O
+blk_5454332143498402824	B
+to	O
+/10.250.15.67	B
+
+10.250.6.214:50010	B
+Served	O
+block	O
+blk_-3384560576963801177	B
+to	O
+/10.250.6.214	B
+
+10.251.215.50:50010	B
+Served	O
+block	O
+blk_3963698556744744747	B
+to	O
+/10.251.107.196	B
+
+10.251.30.134:50010	B
+Served	O
+block	O
+blk_2039230511363331616	B
+to	O
+/10.251.65.203	B
+
+10.251.71.146:50010	B
+Served	O
+block	O
+blk_8482111101480751895	B
+to	O
+/10.251.71.146	B
+
+10.251.215.16:50010	B
+Served	O
+block	O
+blk_-5919767990596301121	B
+to	O
+/10.251.215.16	B
+
+10.251.199.225:50010	B
+Served	O
+block	O
+blk_8457344665564381337	B
+to	O
+/10.251.199.225	B
+
+10.251.66.102:50010	B
+Served	O
+block	O
+blk_2986720270598512615	B
+to	O
+/10.251.66.102	B
+
+10.251.90.64:50010	B
+Served	O
+block	O
+blk_-5719934513583495857	B
+to	O
+/10.251.199.245	B
+
+10.251.75.228:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-7680599654910200999	B
+to	O
+/10.251.75.228:	B
+
+10.250.10.6:50010	B
+Served	O
+block	O
+blk_1598414622053793245	B
+to	O
+/10.251.90.239	B
+
+10.250.19.16:50010	B
+Served	O
+block	O
+blk_-7837339190764609698	B
+to	O
+/10.251.197.161	B
+
+10.251.42.191:50010	B
+Served	O
+block	O
+blk_3515154079719300106	B
+to	O
+/10.251.42.191	B
+
+10.251.38.214:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_5547569777499890340	B
+to	O
+/10.251.195.52:	B
+
+10.251.111.130:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_3169060243663461885	B
+to	O
+/10.251.214.32:	B
+
+10.250.11.194:50010	B
+Served	O
+block	O
+blk_3087787567144441647	B
+to	O
+/10.251.91.84	B
+
+10.250.10.100:50010	B
+Served	O
+block	O
+blk_-3657665801189425193	B
+to	O
+/10.250.10.100	B
+
+10.251.26.8:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-8522942048313632858	B
+to	O
+/10.251.31.85:	B
+
+10.251.90.239:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-8679916835272129336	B
+to	O
+/10.250.15.198:	B
+
+10.251.66.102:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_6106884317961925960	B
+to	O
+/10.251.66.102:	B
+
+10.250.17.225:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-5935642747315643391	B
+to	O
+/10.251.199.150:	B
+
+10.250.19.227:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-7372087176866857012	B
+to	O
+/10.251.110.68:	B
+
+10.251.215.16:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-4590972095204776122	B
+to	O
+/10.251.30.6:	B
+
+10.251.106.214:50010	B
+Served	O
+block	O
+blk_-8277873627721528374	B
+to	O
+/10.251.122.79	B
+
+10.250.10.176:50010	B
+Served	O
+block	O
+blk_3797494971676497497	B
+to	O
+/10.251.29.239	B
+
+10.251.126.22:50010	B
+Served	O
+block	O
+blk_805587860540600864	B
+to	O
+/10.251.126.22	B
+
+Verification	O
+succeeded	O
+for	O
+blk_-4117999745005013424	B
+
+10.251.107.50:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_4524198807982839635	B
+to	O
+/10.251.122.79:	B
+
+10.250.14.224:50010	B
+Served	O
+block	O
+blk_666713934549639791	B
+to	O
+/10.250.14.224	B
+
+10.251.126.22:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_1686195200514944346	B
+to	O
+/10.250.6.223:	B
+
+10.250.6.191:50010	B
+Served	O
+block	O
+blk_5952254363678329024	B
+to	O
+/10.250.6.191	B
+
+Verification	O
+succeeded	O
+for	O
+blk_9188832735514090334	B
+
+10.251.106.10:50010	B
+Served	O
+block	O
+blk_2273334621242106674	B
+to	O
+/10.251.106.10	B
+
+10.251.125.193:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_3790492230047189408	B
+to	O
+/10.251.199.159:	B
+
+10.251.107.50:50010	B
+Served	O
+block	O
+blk_-2285729896739318683	B
+to	O
+/10.251.70.5	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1233005817943453613	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.75.49:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_166171721314010075	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.85:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3362838757940877177	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.5.161:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8350646254685996250	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.199.159:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4702684774678057084	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.13.240:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_434034567989619521	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.91.15:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_413552235254424009	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.35.1:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7177118590277025973	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.121.224:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2576408434603492552	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.106.37:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_356592557993755459	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.109.236:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_9111860234027679206	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.39.209:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5178539130945718870	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.107.19:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3792836284792472725	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.106.50:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6031076349976322578	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.67.225:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_4438674026376140804	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.106.50:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_1777689952069868672	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.31.85:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3275788837420923000	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.109.236:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6056336045486998577	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.126.255:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6855535886504612774	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.70.211:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_865453227320668516	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.71.240:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6763863888784019261	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.70.37:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-5145886774827574591	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.105.189:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3598904881888399067	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.5.237:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6255015379143356507	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.111.37:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8403618945096094999	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.42.9:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-2012430628930443984	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.11.100:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7819984111120374407	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.6:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2304296078821316612	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.39.64:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8404604116961181201	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.13.188:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3582070652284403613	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.10.213:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4954795063440871977	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.203.80:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3858015337960682724	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.214.130:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7418499425236853516	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.203.4:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-2834195813213005328	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.7.244:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-5972745462629982078	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.31.5:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7111788899695387329	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.75.228:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6489659315944341351	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.106.50:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-2589662411410634043	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.42.16:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8602496359012842630	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.7.32:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-133919539232421451	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.10.176:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6136511938931864993	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.14.38:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8871064397020855320	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.42.84:50010	B
+
+Received	O
+block	O
+blk_-9188933731705791676	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.192	B
+
+Deleting	O
+block	O
+blk_-8898274302731129139	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir18/blk_-8898274302731129139	B
+
+Deleting	O
+block	O
+blk_-8014701913801168461	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir27/blk_-8014701913801168461	B
+
+Deleting	O
+block	O
+blk_-7928230000822317050	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir9/blk_-7928230000822317050	B
+
+Deleting	O
+block	O
+blk_8303413189200230139	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir32/blk_8303413189200230139	B
+
+Deleting	O
+block	O
+blk_-8848810702648406400	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir11/blk_-8848810702648406400	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_000206_0/part-00206.	B
+blk_-2230892279625104430	B
+
+Deleting	O
+block	O
+blk_-8144387882075572886	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir42/blk_-8144387882075572886	B
+
+Deleting	O
+block	O
+blk_-8775602795571523802	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir41/blk_-8775602795571523802	B
+
+Received	O
+block	O
+blk_4098532420907418423	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.43.147	B
+
+Deleting	O
+block	O
+blk_-4368236874477798428	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_-4368236874477798428	B
+
+Deleting	O
+block	O
+blk_-6400421658804613208	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir29/blk_-6400421658804613208	B
+
+Deleting	O
+block	O
+blk_-7096508472270520039	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir20/blk_-7096508472270520039	B
+
+Deleting	O
+block	O
+blk_-3860035787700398391	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir6/blk_-3860035787700398391	B
+
+Deleting	O
+block	O
+blk_-2425070029518924403	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir39/blk_-2425070029518924403	B
+
+Deleting	O
+block	O
+blk_826351419727053015	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir6/blk_826351419727053015	B
+
+Deleting	O
+block	O
+blk_-1492402439215451727	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir25/blk_-1492402439215451727	B
+
+Deleting	O
+block	O
+blk_-4298255715894292387	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir38/blk_-4298255715894292387	B
+
+Deleting	O
+block	O
+blk_830855781964014378	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir48/blk_830855781964014378	B
+
+Deleting	O
+block	O
+blk_-1581605246928123722	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir13/blk_-1581605246928123722	B
+
+Deleting	O
+block	O
+blk_-1897524391075610396	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir47/blk_-1897524391075610396	B
+
+Deleting	O
+block	O
+blk_-8588908000680498	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir21/blk_-8588908000680498	B
+
+Deleting	O
+block	O
+blk_-3636681193077858741	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir37/blk_-3636681193077858741	B
+
+Deleting	O
+block	O
+blk_-1775264355226395799	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir26/blk_-1775264355226395799	B
+
+Deleting	O
+block	O
+blk_-1599621098605751235	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir16/blk_-1599621098605751235	B
+
+Deleting	O
+block	O
+blk_-1111344660779690782	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir40/blk_-1111344660779690782	B
+
+Deleting	O
+block	O
+blk_3585588704565901062	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir15/blk_3585588704565901062	B
+
+Received	O
+block	O
+blk_-4935573595350235765	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.123.195	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_000097_0/part-00097.	B
+blk_496376132244907301	B
+
+Deleting	O
+block	O
+blk_2731617036199392057	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir39/blk_2731617036199392057	B
+
+Deleting	O
+block	O
+blk_7190156588310412626	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir30/blk_7190156588310412626	B
+
+Deleting	O
+block	O
+blk_8189008752707332487	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir7/blk_8189008752707332487	B
+
+Deleting	O
+block	O
+blk_6828263829429857572	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir26/blk_6828263829429857572	B
+
+Deleting	O
+block	O
+blk_7942183449206967755	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir30/blk_7942183449206967755	B
+
+Deleting	O
+block	O
+blk_5272005015837990021	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir0/blk_5272005015837990021	B
+
+Deleting	O
+block	O
+blk_7090935285617451450	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir60/blk_7090935285617451450	B
+
+Deleting	O
+block	O
+blk_7603278760520020831	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir59/blk_7603278760520020831	B
+
+Deleting	O
+block	O
+blk_9169945668827621796	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir50/blk_9169945668827621796	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.194.147:50010	B
+is	O
+added	O
+to	O
+blk_5277338321835341602	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_6973321719929905054	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir14/blk_6973321719929905054	B
+
+Deleting	O
+block	O
+blk_5948455948626091880	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir28/blk_5948455948626091880	B
+
+Deleting	O
+block	O
+blk_6497260538939100482	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir46/blk_6497260538939100482	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_000056_0/part-00056.	B
+blk_6140788650991100539	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-3452734573703603740	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_000346_0/part-00346.	B
+blk_-2016403519138424998	B
+
+Receiving	O
+block	O
+blk_-4956232013010963754	B
+src:	O
+/10.251.126.22:58984	B
+dest:	O
+/10.251.126.22:50010	B
+
+Receiving	O
+block	O
+blk_-1753161039594546561	B
+src:	O
+/10.251.203.149:33685	B
+dest:	O
+/10.251.203.149:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_000121_0/part-00121.	B
+blk_-2073265102548439691	B
+
+Received	O
+block	O
+blk_-5236578579938215340	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.7.244	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.144:50010	B
+is	O
+added	O
+to	O
+blk_-6592952246351162022	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.14.224:50010	B
+is	O
+added	O
+to	O
+blk_-3329473910909732817	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-1347057913082589493	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir56/blk_-1347057913082589493	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_391813102554451063	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.67:50010	B
+is	O
+added	O
+to	O
+blk_-6449891932967810179	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-8563999607069929505	B
+src:	O
+/10.251.107.19:60076	B
+dest:	O
+/10.251.107.19:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_000749_0/part-00749.	B
+blk_-6909607053783233975	B
+
+Received	O
+block	O
+blk_-2141627858612526069	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.111.37	B
+
+Receiving	O
+block	O
+blk_5272731391668336674	B
+src:	O
+/10.250.6.191:46509	B
+dest:	O
+/10.250.6.191:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.179:50010	B
+is	O
+added	O
+to	O
+blk_5491101910066444061	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_5075966182561035053	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir53/blk_5075966182561035053	B
+
+Received	O
+block	O
+blk_-5421365489363678155	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.122.38	B
+
+Received	O
+block	O
+blk_2294700909811950327	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.90.64	B
+
+Received	O
+block	O
+blk_-8049908920306758342	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.73.220	B
+
+Received	O
+block	O
+blk_6746178639682808096	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.125.174	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.38.214:50010	B
+is	O
+added	O
+to	O
+blk_-5363213609331400263	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-5586529360624346565	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.43.115	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2974262690755997396	B
+terminating	O
+
+Received	O
+block	O
+blk_8751697793900992450	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.71.16	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.66.192:50010	B
+is	O
+added	O
+to	O
+blk_-6068587951382721748	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-2856928563366064757	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.42.9	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_8348114876238571434	B
+terminating	O
+
+Receiving	O
+block	O
+blk_1744485040428751334	B
+src:	O
+/10.250.5.237:52234	B
+dest:	O
+/10.250.5.237:50010	B
+
+Received	O
+block	O
+blk_-5960135894031733009	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.126.83	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_001587_0/part-01587.	B
+blk_6374836031306809839	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-1751996688557225241	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.127.47:50010	B
+is	O
+added	O
+to	O
+blk_-3990317238913332296	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.123.99:50010	B
+is	O
+added	O
+to	O
+blk_-2600305892036631113	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.19:50010	B
+is	O
+added	O
+to	O
+blk_-2144263949276079479	B
+size	O
+3547172	B
+
+Receiving	O
+block	O
+blk_-6927870228542972281	B
+src:	O
+/10.250.7.230:41059	B
+dest:	O
+/10.250.7.230:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_6610244864386894422	B
+terminating	O
+
+Verification	O
+succeeded	O
+for	O
+blk_774612454978154966	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-1387034299358896632	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.111.228:50010	B
+is	O
+added	O
+to	O
+blk_-5012639079435860269	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_5600017220681756254	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.130	B
+
+Receiving	O
+block	O
+blk_8235751201501175836	B
+src:	O
+/10.250.11.194:37449	B
+dest:	O
+/10.250.11.194:50010	B
+
+Received	O
+block	O
+blk_120277101968534224	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.122.65	B
+
+Received	O
+block	O
+blk_-5814328448485070742	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.74.134	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.10.100:50010	B
+is	O
+added	O
+to	O
+blk_1021828391502582165	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.38.53:50010	B
+is	O
+added	O
+to	O
+blk_3202507081359904616	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_2157471834570224881	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.126.22	B
+
+Received	O
+block	O
+blk_-7029628814943626474	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.7.230	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1485317050914225917	B
+terminating	O
+
+Receiving	O
+block	O
+blk_1727371778357941761	B
+src:	O
+/10.251.126.255:42844	B
+dest:	O
+/10.251.126.255:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.26.177:50010	B
+is	O
+added	O
+to	O
+blk_-2402036602753320612	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-7820996703068538967	B
+src:	O
+/10.251.35.1:59569	B
+dest:	O
+/10.251.35.1:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt2/_temporary/_task_200811101024_0002_m_000299_0/part-00299.	B
+blk_4984150784048864430	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.25.237:50010	B
+is	O
+added	O
+to	O
+blk_-8145226289286457574	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.18:50010	B
+is	O
+added	O
+to	O
+blk_5809900021002850724	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_2735034460607366827	B
+src:	O
+/10.251.91.15:57370	B
+dest:	O
+/10.251.91.15:50010	B
+
+Receiving	O
+block	O
+blk_-7486746679002157277	B
+src:	O
+/10.251.42.207:57669	B
+dest:	O
+/10.251.42.207:50010	B
+
+Receiving	O
+block	O
+blk_591323161994959677	B
+src:	O
+/10.251.195.33:50123	B
+dest:	O
+/10.251.195.33:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-5828360070550196756	B
+terminating	O
+
+Receiving	O
+block	O
+blk_7733243482102436613	B
+src:	O
+/10.250.6.223:34069	B
+dest:	O
+/10.250.6.223:50010	B
+
+Receiving	O
+block	O
+blk_2980964138205299397	B
+src:	O
+/10.251.110.196:53450	B
+dest:	O
+/10.251.110.196:50010	B
+
+Receiving	O
+block	O
+blk_-2746863406163228797	B
+src:	O
+/10.251.39.160:35642	B
+dest:	O
+/10.251.39.160:50010	B
+
+Receiving	O
+block	O
+blk_3067558337579347170	B
+src:	O
+/10.250.6.191:34137	B
+dest:	O
+/10.250.6.191:50010	B
+
+Receiving	O
+block	O
+blk_8992894896370738220	B
+src:	O
+/10.251.43.210:54766	B
+dest:	O
+/10.251.43.210:50010	B
+
+Receiving	O
+block	O
+blk_1869228153483717375	B
+src:	O
+/10.251.203.4:56599	B
+dest:	O
+/10.251.203.4:50010	B
+
+Received	O
+block	O
+blk_-2117066166574895060	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.73.188	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.195.33:50010	B
+is	O
+added	O
+to	O
+blk_512039711533506696	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.126.83:50010	B
+is	O
+added	O
+to	O
+blk_5176855630425795751	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-4433556521525567493	B
+of	O
+size	O
+28492032	B
+from	O
+/10.250.6.4	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-5321676321043683563	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_1279439901767890758	B
+terminating	O
+
+Receiving	O
+block	O
+blk_8942969309743886844	B
+src:	O
+/10.251.110.68:58266	B
+dest:	O
+/10.251.110.68:50010	B
+
+Received	O
+block	O
+blk_469871968689793326	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.30.179	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt2/_temporary/_task_200811101024_0002_m_001080_0/part-01080.	B
+blk_2847401988110989655	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.197.226:50010	B
+is	O
+added	O
+to	O
+blk_4307207852226914003	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.73.220:50010	B
+is	O
+added	O
+to	O
+blk_3506875694435075421	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt2/_temporary/_task_200811101024_0002_m_000809_0/part-00809.	B
+blk_7550266985912909372	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.215.192:50010	B
+is	O
+added	O
+to	O
+blk_-4619809198345103330	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_4614530673206341566	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.91.229	B
+
+Receiving	O
+block	O
+blk_9146254623576405494	B
+src:	O
+/10.250.7.146:60294	B
+dest:	O
+/10.250.7.146:50010	B
+
+Received	O
+block	O
+blk_-6966935672736779591	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.90.64	B
+
+Receiving	O
+block	O
+blk_-4434479572312007079	B
+src:	O
+/10.251.30.101:60539	B
+dest:	O
+/10.251.30.101:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1680563440028826904	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.66.3:50010	B
+is	O
+added	O
+to	O
+blk_6547729596040509998	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_6085274723649229095	B
+src:	O
+/10.251.127.191:51113	B
+dest:	O
+/10.251.127.191:50010	B
+
+Received	O
+block	O
+blk_-227411387418683230	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.194.213	B
+
+Received	O
+block	O
+blk_692184983396207285	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.6.214	B
+
+Received	O
+block	O
+blk_2599050023684318911	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.106.10	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.123.195:50010	B
+is	O
+added	O
+to	O
+blk_3911263675181899748	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_5641239200978828454	B
+src:	O
+/10.251.42.9:51808	B
+dest:	O
+/10.251.42.9:50010	B
+
+Receiving	O
+block	O
+blk_-8852638972311349374	B
+src:	O
+/10.251.107.227:46913	B
+dest:	O
+/10.251.107.227:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.66.63:50010	B
+is	O
+added	O
+to	O
+blk_-3170270010972115378	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_6988110707613820142	B
+src:	O
+/10.251.123.132:47658	B
+dest:	O
+/10.251.123.132:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-1490623381339215624	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.125.237:50010	B
+is	O
+added	O
+to	O
+blk_4234385041723406944	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_8968608251219902913	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.195.52	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.10.100:50010	B
+is	O
+added	O
+to	O
+blk_-8502460962248995911	B
+size	O
+28489733	B
+
+Received	O
+block	O
+blk_-1201318815778694289	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.194.147	B
+
+Received	O
+block	O
+blk_-9089815063425241739	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.126.255	B
+
+Received	O
+block	O
+blk_557803157214911261	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.198.196	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_7345322407792942877	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_3958940914408609637	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-5587827566367944828	B
+terminating	O
+
+10.250.11.53:50010	B
+Served	O
+block	O
+blk_-743349875664670637	B
+to	O
+/10.250.11.53	B
+
+10.251.70.5:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_4581070264530964999	B
+to	O
+/10.250.13.188:	B
+
+10.250.13.188:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_73389299186801686	B
+to	O
+/10.251.123.33:	B
+
+10.251.71.240:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-8082428389627750477	B
+to	O
+/10.251.71.97:	B
+
+10.251.39.192:50010	B
+Served	O
+block	O
+blk_6338761369201338121	B
+to	O
+/10.251.90.81	B
+
+10.251.67.225:50010	B
+Served	O
+block	O
+blk_2038610753592374847	B
+to	O
+/10.250.18.114	B
+
+10.251.26.177:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_3848747149919646864	B
+to	O
+/10.251.125.174:	B
+
+10.251.30.85:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_8059204889272489644	B
+to	O
+/10.250.7.96:	B
+
+10.250.10.100:50010	B
+Served	O
+block	O
+blk_9216955386716663841	B
+to	O
+/10.251.90.64	B
+
+10.251.203.149:50010	B
+Served	O
+block	O
+blk_-1432303681669932458	B
+to	O
+/10.250.10.176	B
+
+10.251.70.37:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_1646534811870220828	B
+to	O
+/10.250.11.100:	B
+
+Verification	O
+succeeded	O
+for	O
+blk_-4984504651603069357	B
+
+10.251.214.130:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_424461424221613461	B
+to	O
+/10.251.71.193:	B
+
+10.251.214.18:50010	B
+Served	O
+block	O
+blk_7297060562345904886	B
+to	O
+/10.251.29.239	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-2591043665372016488	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand2/_temporary/_task_200811101024_0003_r_000257_0/part-00257.	B
+blk_-1732662141253491971	B
+
+Receiving	O
+block	O
+blk_4959462704623252283	B
+src:	O
+/10.251.125.174:44166	B
+dest:	O
+/10.251.125.174:50010	B
+
+Receiving	O
+block	O
+blk_-3261177124784025140	B
+src:	O
+/10.251.29.239:43937	B
+dest:	O
+/10.251.29.239:50010	B
+
+Received	O
+block	O
+blk_7501235595045510958	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.67	B
+
+Receiving	O
+block	O
+blk_-3486808304671603275	B
+src:	O
+/10.251.30.85:37518	B
+dest:	O
+/10.251.30.85:50010	B
+
+Receiving	O
+block	O
+blk_-7355153279766988632	B
+src:	O
+/10.251.194.245:35876	B
+dest:	O
+/10.251.194.245:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.195.70:50010	B
+is	O
+added	O
+to	O
+blk_4318179566727871532	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_727000711161641724	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.123.33:50010	B
+is	O
+added	O
+to	O
+blk_-2916658835497879256	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_7227035060836018780	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.5.237	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.111.209:50010	B
+is	O
+added	O
+to	O
+blk_4069436988023676023	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_728165942214842306	B
+src:	O
+/10.251.30.179:57828	B
+dest:	O
+/10.251.30.179:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.27.63:50010	B
+is	O
+added	O
+to	O
+blk_7838843222458775811	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-3620767662957963389	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.203.179	B
+
+Receiving	O
+block	O
+blk_7193551490488433552	B
+src:	O
+/10.251.74.227:44191	B
+dest:	O
+/10.251.74.227:50010	B
+
+Receiving	O
+block	O
+blk_-5003122231679852524	B
+src:	O
+/10.250.7.230:51033	B
+dest:	O
+/10.250.7.230:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand2/_temporary/_task_200811101024_0003_r_000210_0/part-00210.	B
+blk_-7667417209393167541	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_7533949673910842243	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_8842097432176169457	B
+terminating	O
+
+Received	O
+block	O
+blk_560063894682806537	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.194.129	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.26.131:50010	B
+is	O
+added	O
+to	O
+blk_-4174618838156947380	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-8915123233040672605	B
+src:	O
+/10.250.10.176:58294	B
+dest:	O
+/10.250.10.176:50010	B
+
+Received	O
+block	O
+blk_-5633587983998853189	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.73.220	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_2570966823909513791	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-3172594752427649592	B
+src:	O
+/10.251.198.196:57807	B
+dest:	O
+/10.251.198.196:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_8285441926344578159	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.71.193:50010	B
+is	O
+added	O
+to	O
+blk_7415823309220171667	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand2/_temporary/_task_200811101024_0003_r_000116_0/part-00116.	B
+blk_6749232449432458524	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.38.197:50010	B
+is	O
+added	O
+to	O
+blk_-5427918313707752877	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-4673509946769671609	B
+src:	O
+/10.251.30.85:34022	B
+dest:	O
+/10.251.30.85:50010	B
+
+Verification	O
+succeeded	O
+for	O
+blk_-7803343374223161433	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.105.189:50010	B
+is	O
+added	O
+to	O
+blk_-3275237990609680332	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-8584158329012779023	B
+src:	O
+/10.250.19.16:50122	B
+dest:	O
+/10.250.19.16:50010	B
+
+Receiving	O
+block	O
+blk_-4468166796563085237	B
+src:	O
+/10.251.215.50:53705	B
+dest:	O
+/10.251.215.50:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.73.188:50010	B
+is	O
+added	O
+to	O
+blk_-3897674589140998025	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.17.225:50010	B
+is	O
+added	O
+to	O
+blk_-3573208405519699182	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.67:50010	B
+is	O
+added	O
+to	O
+blk_4154740411570608045	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.203.179:50010	B
+is	O
+added	O
+to	O
+blk_8188837227311063557	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1733803097614960767	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand2/_temporary/_task_200811101024_0003_r_000344_0/part-00344.	B
+blk_-2004529166303428909	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.13.188:50010	B
+is	O
+added	O
+to	O
+blk_5971534893446541111	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_4742178675580222210	B
+src:	O
+/10.251.42.9:60232	B
+dest:	O
+/10.251.42.9:50010	B
+
+Verification	O
+succeeded	O
+for	O
+blk_-8507209254958698084	B
+
+Receiving	O
+block	O
+blk_-6884056342993438262	B
+src:	O
+/10.251.193.175:46638	B
+dest:	O
+/10.251.193.175:50010	B
+
+10.251.67.225:50010	B
+Served	O
+block	O
+blk_5240632065631390212	B
+to	O
+/10.251.67.225	B
+
+10.251.106.50:50010	B
+Served	O
+block	O
+blk_-8907436477337775860	B
+to	O
+/10.251.106.50	B
+
+10.251.195.33:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_6702054389824523327	B
+to	O
+/10.251.195.33:	B
+
+Verification	O
+succeeded	O
+for	O
+blk_2904134648927436267	B
+
+10.250.11.53:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-7125370327234065733	B
+to	O
+/10.250.15.240:	B
+
+10.251.202.209:50010	B
+Served	O
+block	O
+blk_-5086369325828333421	B
+to	O
+/10.251.194.213	B
+
+10.250.10.223:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_8478683141242372735	B
+to	O
+/10.251.70.5:	B
+
+10.251.107.50:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-4737948505610037427	B
+to	O
+/10.251.75.79:	B
+
+Verification	O
+succeeded	O
+for	O
+blk_1150231966878829887	B
+
+10.250.10.223:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_9095955277706686312	B
+to	O
+/10.250.5.161:	B
+
+10.251.71.97:50010	B
+Served	O
+block	O
+blk_6552418180158772377	B
+to	O
+/10.251.39.242	B
+
+10.251.26.8:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-3572295706132449090	B
+to	O
+/10.251.111.130:	B
+
+10.251.202.209:50010	B
+Served	O
+block	O
+blk_-1442905060580014339	B
+to	O
+/10.251.202.209	B
+
+10.251.127.243:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_7760079751081658559	B
+to	O
+/10.251.215.70:	B
+
+10.251.39.179:50010	B
+Served	O
+block	O
+blk_798664047382151445	B
+to	O
+/10.251.39.179	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4657423175636611807	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.193.175:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6117917602803602155	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.67.211:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7584542530081657301	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.10.223:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3652427357251545055	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.10.223:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1342669964196815853	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.17.225:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-424018194735922479	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.42.84:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3754029959138975487	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.214.112:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5868517220927475394	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.67.113:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7048740572660501729	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.107.98:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-795209964982424254	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.107.227:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7606019272539977822	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.67.211:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8632488927959646482	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.39.64:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-490230821467544285	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.10.6:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_4713968111267226537	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.70.5:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7473411975130090672	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.75.143:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_753559000954836892	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.101:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_9085898147979939648	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.67.225:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7693277678281547790	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.6:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3792448673967861371	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.89.155:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5496448884081025648	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.123.195:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-2439225174716664723	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.42.207:50010	B
+
+Received	O
+block	O
+blk_-8214089520956286311	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.26.131	B
+
+Deleting	O
+block	O
+blk_-8949548167466276130	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir2/blk_-8949548167466276130	B
+
+Receiving	O
+block	O
+blk_-4831379247767940447	B
+src:	O
+/10.251.65.237:42885	B
+dest:	O
+/10.251.65.237:50010	B
+
+Deleting	O
+block	O
+blk_-9171803179611497035	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir35/blk_-9171803179611497035	B
+
+Deleting	O
+block	O
+blk_-6901909114834172466	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir57/blk_-6901909114834172466	B
+
+Deleting	O
+block	O
+blk_-6075803209168884005	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir31/blk_-6075803209168884005	B
+
+Receiving	O
+block	O
+blk_7347539858784653625	B
+src:	O
+/10.250.11.194:46600	B
+dest:	O
+/10.250.11.194:50010	B
+
+Deleting	O
+block	O
+blk_7855353385462032387	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir41/blk_7855353385462032387	B
+
+Deleting	O
+block	O
+blk_-6942784423611603919	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir38/blk_-6942784423611603919	B
+
+Deleting	O
+block	O
+blk_-5603192027616633151	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_-5603192027616633151	B
+
+Deleting	O
+block	O
+blk_-4551689611865410817	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_-4551689611865410817	B
+
+Deleting	O
+block	O
+blk_-4110699195744660699	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_-4110699195744660699	B
+
+Deleting	O
+block	O
+blk_7721951162137927252	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir52/blk_7721951162137927252	B
+
+Deleting	O
+block	O
+blk_-1535908830476495455	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir10/blk_-1535908830476495455	B
+
+Deleting	O
+block	O
+blk_1184972950286241114	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir39/blk_1184972950286241114	B
+
+Deleting	O
+block	O
+blk_-3396836569886642130	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir32/blk_-3396836569886642130	B
+
+Deleting	O
+block	O
+blk_22457656256024207	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_22457656256024207	B
+
+Deleting	O
+block	O
+blk_5905689738251144455	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_5905689738251144455	B
+
+Deleting	O
+block	O
+blk_-2210703755506918304	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir26/blk_-2210703755506918304	B
+
+Deleting	O
+block	O
+blk_773599351835388127	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir60/blk_773599351835388127	B
+
+Deleting	O
+block	O
+blk_2156262111024914941	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir14/blk_2156262111024914941	B
+
+Deleting	O
+block	O
+blk_4658551441818960395	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir19/blk_4658551441818960395	B
+
+Deleting	O
+block	O
+blk_3076992299328673559	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir54/blk_3076992299328673559	B
+
+Deleting	O
+block	O
+blk_1746384029810476219	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir18/blk_1746384029810476219	B
+
+Deleting	O
+block	O
+blk_1144571179430079218	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_1144571179430079218	B
+
+Deleting	O
+block	O
+blk_8693774866554287286	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir55/blk_8693774866554287286	B
+
+Deleting	O
+block	O
+blk_6695517786834913217	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir15/blk_6695517786834913217	B
+
+Deleting	O
+block	O
+blk_70980361971054326	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir27/blk_70980361971054326	B
+
+Deleting	O
+block	O
+blk_6499414220139660338	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir59/blk_6499414220139660338	B
+
+Deleting	O
+block	O
+blk_7108974241330205218	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir22/blk_7108974241330205218	B
+
+Deleting	O
+block	O
+blk_6445339027653789144	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir16/blk_6445339027653789144	B
+
+Deleting	O
+block	O
+blk_8699831307500970779	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir54/blk_8699831307500970779	B
+
+Deleting	O
+block	O
+blk_3221204570666147236	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_3221204570666147236	B
+
+Deleting	O
+block	O
+blk_7360639743953947587	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir35/blk_7360639743953947587	B
+
+Received	O
+block	O
+blk_4182287230523664560	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.111.130	B
+
+Receiving	O
+block	O
+blk_995094303184954394	B
+src:	O
+/10.251.91.84:35590	B
+dest:	O
+/10.251.91.84:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-5680441982827916621	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_2089955821703690032	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.106.10:50010	B
+is	O
+added	O
+to	O
+blk_1151012386083696649	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_2282833575688432184	B
+terminating	O
+
+Received	O
+block	O
+blk_3960527526103274525	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.30.134	B
+
+Receiving	O
+block	O
+blk_-852118157909078164	B
+src:	O
+/10.251.30.101:57254	B
+dest:	O
+/10.251.30.101:50010	B
+
+10.250.15.198:50010	B
+Starting	O
+thread	O
+to	O
+transfer	O
+block	O
+blk_4292382298896622412	B
+to	O
+10.250.15.240:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.73.188:50010	B
+is	O
+added	O
+to	O
+blk_8761786041973172187	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.70.211:50010	B
+is	O
+added	O
+to	O
+blk_-5471660287004025096	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_3755116621101133849	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.144:50010	B
+is	O
+added	O
+to	O
+blk_-5542336029922582303	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_165707910410871749	B
+terminating	O
+
+Received	O
+block	O
+blk_6698851413708497072	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.74.134	B
+
+Received	O
+block	O
+blk_6730979070070986233	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.90.239	B
+
+Deleting	O
+block	O
+blk_-468830939205980722	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir10/blk_-468830939205980722	B
+
+Received	O
+block	O
+blk_-7056746602297676104	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.209	B
+
+Received	O
+block	O
+blk_6686361711974377273	B
+of	O
+size	O
+3554889	B
+from	O
+/10.251.214.130	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.123.33:50010	B
+is	O
+added	O
+to	O
+blk_-6442394521537090621	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.91.84:50010	B
+is	O
+added	O
+to	O
+blk_6039898256291822367	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_7580930377559819562	B
+src:	O
+/10.251.110.68:54793	B
+dest:	O
+/10.251.110.68:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_429279891070363457	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-9132218772786220159	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-2901266958756042716	B
+src:	O
+/10.251.110.160:35787	B
+dest:	O
+/10.251.110.160:50010	B
+
+Received	O
+block	O
+blk_6323743466920239525	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.15.67	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-7948158002985968470	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.112:50010	B
+is	O
+added	O
+to	O
+blk_8063831442998721547	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand3/_temporary/_task_200811101024_0005_m_001091_0/part-01091.	B
+blk_-4468645577339843974	B
+
+Receiving	O
+block	O
+blk_9121519145462575118	B
+src:	O
+/10.250.10.223:58281	B
+dest:	O
+/10.250.10.223:50010	B
+
+Receiving	O
+block	O
+blk_-878226404201600469	B
+src:	O
+/10.250.7.96:40849	B
+dest:	O
+/10.250.7.96:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-703436021914343546	B
+terminating	O
+
+Received	O
+block	O
+blk_-8641647081502666269	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.100	B
+
+Receiving	O
+block	O
+blk_3542047035353248258	B
+src:	O
+/10.250.6.214:59051	B
+dest:	O
+/10.250.6.214:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-736188013503336717	B
+terminating	O
+
+Received	O
+block	O
+blk_1188202922232921994	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.100	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.195.33:50010	B
+is	O
+added	O
+to	O
+blk_-9049344623659872649	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_4575129504644372394	B
+terminating	O
+
+Receiving	O
+block	O
+blk_8574493302165689212	B
+src:	O
+/10.251.194.245:34656	B
+dest:	O
+/10.251.194.245:50010	B
+
+Received	O
+block	O
+blk_2474460483915499078	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.195.52	B
+
+Received	O
+block	O
+blk_8097409435735325492	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.111.209	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-966013175018359901	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand3/_temporary/_task_200811101024_0005_m_001655_0/part-01655.	B
+blk_-6802153775367591521	B
+
+Received	O
+block	O
+blk_-3300851862683571086	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.203.166	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.105.189:50010	B
+is	O
+added	O
+to	O
+blk_-2035996502664501008	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_8222237992861447018	B
+src:	O
+/10.251.203.4:60086	B
+dest:	O
+/10.251.203.4:50010	B
+
+Receiving	O
+block	O
+blk_6556854018013706836	B
+src:	O
+/10.251.202.134:48721	B
+dest:	O
+/10.251.202.134:50010	B
+
+Received	O
+block	O
+blk_8302956190102508375	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.109.236	B
+
+Receiving	O
+block	O
+blk_-2583370070230800221	B
+src:	O
+/10.251.31.160:58714	B
+dest:	O
+/10.251.31.160:50010	B
+
+Receiving	O
+block	O
+blk_5525607749827896334	B
+src:	O
+/10.251.66.102:33326	B
+dest:	O
+/10.251.66.102:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_6809155287484296510	B
+terminating	O
+
+Received	O
+block	O
+blk_-8923698979247229952	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.90.239	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.91.84:50010	B
+is	O
+added	O
+to	O
+blk_-2321016155994168744	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-1733154814375651491	B
+terminating	O
+
+Received	O
+block	O
+blk_5379939266348893280	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.66.63	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_1979447750586388860	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.215.192:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6881216037013929188	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.91.32:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1680175975862749862	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.14.38:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5176179471361959897	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.9.207:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4385347171136037814	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.67.113:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8384329882986724706	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.123.195:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6392434729242722288	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.134:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_1714886759174770356	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.31.5:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8353423262983821010	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.39.209:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7017399031777870797	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.5.161:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt3/_temporary/_task_200811101024_0007_m_000190_0/part-00190.	B
+blk_641646158310569454	B
+
+Deleting	O
+block	O
+blk_-9171930401624803515	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir56/blk_-9171930401624803515	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.42.84:50010	B
+is	O
+added	O
+to	O
+blk_5938666289587069744	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-8294986551316947211	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_-8294986551316947211	B
+
+Deleting	O
+block	O
+blk_-5718504625725408070	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_-5718504625725408070	B
+
+Deleting	O
+block	O
+blk_2353918919834315845	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir35/blk_2353918919834315845	B
+
+Deleting	O
+block	O
+blk_391507259220628397	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_391507259220628397	B
+
+Deleting	O
+block	O
+blk_-1263913006422225885	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir2/blk_-1263913006422225885	B
+
+Deleting	O
+block	O
+blk_1689772850125323349	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir27/blk_1689772850125323349	B
+
+Deleting	O
+block	O
+blk_8615522912610884162	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir35/blk_8615522912610884162	B
+
+Deleting	O
+block	O
+blk_107727140948970996	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_107727140948970996	B
+
+Deleting	O
+block	O
+blk_-1598760065436384831	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir53/blk_-1598760065436384831	B
+
+Deleting	O
+block	O
+blk_8950932638808086257	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir18/blk_8950932638808086257	B
+
+Receiving	O
+block	O
+blk_323887415551221572	B
+src:	O
+/10.251.39.144:46278	B
+dest:	O
+/10.251.39.144:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_1349228381785843634	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt3/_temporary/_task_200811101024_0007_m_000186_0/part-00186.	B
+blk_-6754647973871368247	B
+
+Received	O
+block	O
+blk_6406847509870023726	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.106.50	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.43.115:50010	B
+is	O
+added	O
+to	O
+blk_-7893636450787030202	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_4231049049582051919	B
+of	O
+size	O
+28496610	B
+from	O
+/10.250.19.227	B
+
+Receiving	O
+block	O
+blk_7661189768086976193	B
+src:	O
+/10.251.195.52:56915	B
+dest:	O
+/10.251.195.52:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_8971893898579544235	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-3417101330634563680	B
+src:	O
+/10.251.110.68:44200	B
+dest:	O
+/10.251.110.68:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.160:50010	B
+is	O
+added	O
+to	O
+blk_1865953191447352631	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-5610308397633191834	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.67.113:50010	B
+is	O
+added	O
+to	O
+blk_-8393060055740236791	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_1463530401988623658	B
+src:	O
+/10.251.111.37:41293	B
+dest:	O
+/10.251.111.37:50010	B
+
+Received	O
+block	O
+blk_-8377763431920892140	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.6.223	B
+
+Receiving	O
+block	O
+blk_-1728983474612515818	B
+src:	O
+/10.251.70.211:39459	B
+dest:	O
+/10.251.70.211:50010	B
+
+Receiving	O
+block	O
+blk_8007544297333060851	B
+src:	O
+/10.251.90.134:47340	B
+dest:	O
+/10.251.90.134:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.230:50010	B
+is	O
+added	O
+to	O
+blk_6238543795209416553	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_4599950495841528213	B
+src:	O
+/10.251.194.102:59433	B
+dest:	O
+/10.251.194.102:50010	B
+
+Received	O
+block	O
+blk_3586596428873150919	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.26.131	B
+
+Receiving	O
+block	O
+blk_-7815259387557421424	B
+src:	O
+/10.250.13.240:50649	B
+dest:	O
+/10.250.13.240:50010	B
+
+Receiving	O
+block	O
+blk_3358274959811806117	B
+src:	O
+/10.251.106.214:51334	B
+dest:	O
+/10.251.106.214:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.215.192:50010	B
+is	O
+added	O
+to	O
+blk_-1704027189958470814	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.106.50:50010	B
+is	O
+added	O
+to	O
+blk_-2023442822091562967	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.198.196:50010	B
+is	O
+added	O
+to	O
+blk_1779145401405339993	B
+size	O
+28499417	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.199.159:50010	B
+is	O
+added	O
+to	O
+blk_7705518309270121951	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-9120005470237070778	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.32:50010	B
+is	O
+added	O
+to	O
+blk_3849239820458663566	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-1657856234642335063	B
+src:	O
+/10.251.38.197:44516	B
+dest:	O
+/10.251.38.197:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_6048652012880073760	B
+terminating	O
+
+Received	O
+block	O
+blk_-5534560875087182998	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.7.230	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2691304991047255190	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt3/_temporary/_task_200811101024_0007_m_001230_0/part-01230.	B
+blk_8708862520108736953	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.75.79:50010	B
+is	O
+added	O
+to	O
+blk_-5718873743060788176	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_6245594177708848366	B
+src:	O
+/10.250.15.198:46793	B
+dest:	O
+/10.250.15.198:50010	B
+
+Received	O
+block	O
+blk_4433676399725693167	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.37.240	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.64:50010	B
+is	O
+added	O
+to	O
+blk_207875475387433291	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-1956140031907143783	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.70.112	B
+
+Receiving	O
+block	O
+blk_-3657751236932275338	B
+src:	O
+/10.251.123.99:50481	B
+dest:	O
+/10.251.123.99:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.193.224:50010	B
+is	O
+added	O
+to	O
+blk_-6299730951392868297	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.194.213:50010	B
+is	O
+added	O
+to	O
+blk_-3575568207121859434	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-4325209272072286951	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-9056865861421808370	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_7627900514276120558	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2389216938154332862	B
+terminating	O
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1335063409877429524	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.107.196:50010	B
+
+10.251.202.181:50010	B
+Served	O
+block	O
+blk_-5236655516146555545	B
+to	O
+/10.251.31.5	B
+
+10.251.126.227:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-4181768899028058192	B
+to	O
+/10.251.26.177:	B
+
+10.251.123.99:50010	B
+Served	O
+block	O
+blk_-7990763409688650846	B
+to	O
+/10.251.197.161	B
+
+10.251.127.243:50010	B
+Served	O
+block	O
+blk_8711213005689112399	B
+to	O
+/10.251.74.134	B
+
+10.251.195.70:50010	B
+Served	O
+block	O
+blk_-3696162841836791939	B
+to	O
+/10.251.195.70	B
+
+10.251.214.175:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_481857539063371482	B
+to	O
+/10.251.105.189:	B
+
+10.250.10.6:50010	B
+Served	O
+block	O
+blk_1200136320542454615	B
+to	O
+/10.250.10.6	B
+
+10.251.39.144:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-8083036675630459841	B
+to	O
+/10.251.39.209:	B
+
+10.251.31.180:50010	B
+Served	O
+block	O
+blk_3905759687686730625	B
+to	O
+/10.251.31.180	B
+
+10.251.121.224:50010	B
+Served	O
+block	O
+blk_342378162324355732	B
+to	O
+/10.251.121.224	B
+
+10.251.107.98:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-3140031507252212554	B
+to	O
+/10.250.7.244:	B
+
+10.250.13.240:50010	B
+Served	O
+block	O
+blk_-3134225108208373949	B
+to	O
+/10.250.13.240	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1162676743264290624	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.194.213:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4269939382058952254	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.203.129:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6978845808078082463	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.109.209:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1071115021179995772	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.11.53:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8493856762887493521	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.26.131:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3225035678192156905	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.38.214:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5572208681898881669	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.38.197:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3946183108430554053	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.11.100:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3681974396824196300	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.17.177:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2736251498135196075	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.90.64:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_1275198635723397883	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.202.134:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3428998332517532825	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.43.192:50010	B
+
+Deleting	O
+block	O
+blk_-7411858598798393933	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir24/blk_-7411858598798393933	B
+
+Deleting	O
+block	O
+blk_-5429479049793046826	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_-5429479049793046826	B
+
+Deleting	O
+block	O
+blk_-2923662094689783995	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir38/blk_-2923662094689783995	B
+
+10.250.14.143:50010	B
+Served	O
+block	O
+blk_-664656559337730574	B
+to	O
+/10.250.7.96	B
+
+Received	O
+block	O
+blk_3224393364314749254	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.37.240	B
+
+Deleting	O
+block	O
+blk_1483582953997932733	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir7/blk_1483582953997932733	B
+
+Deleting	O
+block	O
+blk_-3607708283707030582	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir31/blk_-3607708283707030582	B
+
+Deleting	O
+block	O
+blk_4365203784873840210	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir1/blk_4365203784873840210	B
+
+Deleting	O
+block	O
+blk_1920931690498309324	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir42/blk_1920931690498309324	B
+
+Deleting	O
+block	O
+blk_2731746367139956284	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir15/blk_2731746367139956284	B
+
+Deleting	O
+block	O
+blk_-626413149556394155	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir26/blk_-626413149556394155	B
+
+Deleting	O
+block	O
+blk_1692958087244489888	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir62/blk_1692958087244489888	B
+
+Deleting	O
+block	O
+blk_797263375273454863	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir16/blk_797263375273454863	B
+
+Deleting	O
+block	O
+blk_6148201552996212693	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir15/blk_6148201552996212693	B
+
+Deleting	O
+block	O
+blk_8761138012128091849	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_8761138012128091849	B
+
+Received	O
+block	O
+blk_-4071286774767564790	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.197.226	B
+
+10.251.122.65:50010	B
+Served	O
+block	O
+blk_2866275036574950116	B
+to	O
+/10.250.11.53	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.199.19:50010	B
+is	O
+added	O
+to	O
+blk_6748710057489679257	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.209:50010	B
+is	O
+added	O
+to	O
+blk_1833093108290599780	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_3941798034503185737	B
+src:	O
+/10.250.11.85:42358	B
+dest:	O
+/10.250.11.85:50010	B
+
+Receiving	O
+block	O
+blk_6491424745418112176	B
+src:	O
+/10.251.214.130:57008	B
+dest:	O
+/10.251.214.130:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand4/_temporary/_task_200811101024_0009_m_000176_0/part-00176.	B
+blk_8924207394547472950	B
+
+Receiving	O
+block	O
+blk_-4526931594457272384	B
+src:	O
+/10.251.43.147:40348	B
+dest:	O
+/10.251.43.147:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.31.242:50010	B
+is	O
+added	O
+to	O
+blk_5390763359901143305	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_5062112794659861146	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.91.84	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_4628975089896927394	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-764747190320632607	B
+src:	O
+/10.251.127.191:49914	B
+dest:	O
+/10.251.127.191:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.110.160:50010	B
+is	O
+added	O
+to	O
+blk_-1675768179383804109	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-7483426835701512490	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-3752135158991310104	B
+src:	O
+/10.251.70.5:44375	B
+dest:	O
+/10.251.70.5:50010	B
+
+Receiving	O
+block	O
+blk_-8649503431827393598	B
+src:	O
+/10.251.199.19:48778	B
+dest:	O
+/10.251.199.19:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-6883339133893273874	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_6055109613223910610	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.66.3:50010	B
+is	O
+added	O
+to	O
+blk_1756478622414930264	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.127.47:50010	B
+is	O
+added	O
+to	O
+blk_-6555060221133060529	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-4165562468976768862	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-3295982945091621137	B
+terminating	O
+
+Receiving	O
+block	O
+blk_3181161977343808286	B
+src:	O
+/10.251.43.21:40127	B
+dest:	O
+/10.251.43.21:50010	B
+
+Receiving	O
+block	O
+blk_6807535563873595117	B
+src:	O
+/10.250.17.177:48934	B
+dest:	O
+/10.250.17.177:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.199.245:50010	B
+is	O
+added	O
+to	O
+blk_-7909610753867924116	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-7247291679155656679	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.176	B
+
+Receiving	O
+block	O
+blk_92273823183917102	B
+src:	O
+/10.250.15.67:53441	B
+dest:	O
+/10.250.15.67:50010	B
+
+Received	O
+block	O
+blk_-1141332313413855099	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.89.155	B
+
+Receiving	O
+block	O
+blk_3016571528120363023	B
+src:	O
+/10.251.194.102:60235	B
+dest:	O
+/10.251.194.102:50010	B
+
+Receiving	O
+block	O
+blk_-7678242108759603056	B
+src:	O
+/10.251.125.193:33553	B
+dest:	O
+/10.251.125.193:50010	B
+
+Receiving	O
+block	O
+blk_-6380328072112550668	B
+src:	O
+/10.250.6.191:37701	B
+dest:	O
+/10.250.6.191:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.11.100:50010	B
+is	O
+added	O
+to	O
+blk_3222673463853349950	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-3183355402229300197	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.26.8:50010	B
+is	O
+added	O
+to	O
+blk_-5963475042722370536	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand4/_temporary/_task_200811101024_0009_m_001398_0/part-01398.	B
+blk_-7527506469734664572	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.199.159:50010	B
+is	O
+added	O
+to	O
+blk_-4455205822455130625	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_3777399812922072863	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.199.225	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-4633546693082073737	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_1002945451269828722	B
+terminating	O
+
+Received	O
+block	O
+blk_566413670355737377	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.122.79	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_2819581679409796253	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand4/_temporary/_task_200811101024_0009_m_001611_0/part-01611.	B
+blk_285336326661214154	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_5018765878120211503	B
+terminating	O
+
+Receiving	O
+block	O
+blk_313888672758374538	B
+src:	O
+/10.251.39.179:40031	B
+dest:	O
+/10.251.39.179:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.109.209:50010	B
+is	O
+added	O
+to	O
+blk_3764801892187716497	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-2243784245784480521	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.6.191	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-5102453487463005287	B
+terminating	O
+
+Receiving	O
+block	O
+blk_7924393760966842810	B
+src:	O
+/10.251.202.209:59148	B
+dest:	O
+/10.251.202.209:50010	B
+
+Received	O
+block	O
+blk_5915244038969911075	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.11.53	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.10.144:50010	B
+is	O
+added	O
+to	O
+blk_3243316191092266549	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_8229768485681546149	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.43.21:50010	B
+is	O
+added	O
+to	O
+blk_3206064173813164493	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1957299792594627113	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-1690784932539647416	B
+src:	O
+/10.251.31.180:50205	B
+dest:	O
+/10.251.31.180:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_6745520736924802462	B
+terminating	O
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1525964299678787959	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.37.240:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7045475543362904558	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.106.214:50010	B
+
+Deleting	O
+block	O
+blk_-5205950257901523262	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir40/blk_-5205950257901523262	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1649239999940418046	B
+terminating	O
+
+Received	O
+block	O
+blk_6880728743505526406	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.197.226	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.26.177:50010	B
+is	O
+added	O
+to	O
+blk_6928449948805597176	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2529569087635823495	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt4/_temporary/_task_200811101024_0010_m_000222_0/part-00222.	B
+blk_3764836840384130740	B
+
+Receiving	O
+block	O
+blk_3020717811556957482	B
+src:	O
+/10.251.90.81:48077	B
+dest:	O
+/10.251.90.81:50010	B
+
+Received	O
+block	O
+blk_-577659324269246113	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.203.179	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_6137960563260046065	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.203.246:50010	B
+is	O
+added	O
+to	O
+blk_-6909400912794057067	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.43.192:50010	B
+is	O
+added	O
+to	O
+blk_8249475180346179102	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-5045144756510626150	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.160	B
+
+Received	O
+block	O
+blk_752365829198406123	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.6.214	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_5663417083925711869	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-2014243777892518956	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-8123824094195108685	B
+src:	O
+/10.251.194.213:54308	B
+dest:	O
+/10.251.194.213:50010	B
+
+Received	O
+block	O
+blk_-290874442865281380	B
+of	O
+size	O
+28497700	B
+from	O
+/10.251.203.179	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.73.220:50010	B
+is	O
+added	O
+to	O
+blk_5953577136151423920	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-2780312306380730204	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-633826175832239328	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.91.229:50010	B
+is	O
+added	O
+to	O
+blk_-4651707530079874243	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-420564586555502239	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.90.64	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-3025440686907267472	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.215.70:50010	B
+is	O
+added	O
+to	O
+blk_-420818767915591010	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_8422946850755720617	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-5646228903161999640	B
+src:	O
+/10.251.71.97:60870	B
+dest:	O
+/10.251.71.97:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-4430291708660291878	B
+terminating	O
+
+Received	O
+block	O
+blk_3813891701916249413	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.121.224	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.105.189:50010	B
+is	O
+added	O
+to	O
+blk_4812792845864526586	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.70.211:50010	B
+is	O
+added	O
+to	O
+blk_5570475465835003801	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-9190864897806028230	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.130	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.242:50010	B
+is	O
+added	O
+to	O
+blk_6640583412927022083	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_3550669278239526374	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.123.1	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_4873550540813847659	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-1133573997287815203	B
+src:	O
+/10.251.123.195:59430	B
+dest:	O
+/10.251.123.195:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-1842096107468319932	B
+terminating	O
+
+Received	O
+block	O
+blk_-8965508153794244104	B
+of	O
+size	O
+28494398	B
+from	O
+/10.251.70.112	B
+
+Receiving	O
+block	O
+blk_1074754942323612586	B
+src:	O
+/10.251.202.181:45279	B
+dest:	O
+/10.251.202.181:50010	B
+
+Receiving	O
+block	O
+blk_-7727864185516010230	B
+src:	O
+/10.251.43.192:36039	B
+dest:	O
+/10.251.43.192:50010	B
+
+Receiving	O
+block	O
+blk_5335498635665743905	B
+src:	O
+/10.251.73.220:50095	B
+dest:	O
+/10.251.73.220:50010	B
+
+Receiving	O
+block	O
+blk_-5144503768267321004	B
+src:	O
+/10.251.107.19:36862	B
+dest:	O
+/10.251.107.19:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_1927336911952959118	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-2506231977021079951	B
+src:	O
+/10.251.31.160:57634	B
+dest:	O
+/10.251.31.160:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_6918427074195439966	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.31.5:50010	B
+is	O
+added	O
+to	O
+blk_5813361416484537967	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-2313277713021896570	B
+src:	O
+/10.251.123.195:58823	B
+dest:	O
+/10.251.123.195:50010	B
+
+Received	O
+block	O
+blk_-3607860197409267245	B
+of	O
+size	O
+28503188	B
+from	O
+/10.251.31.180	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-3363550789841756902	B
+terminating	O
+
+Receiving	O
+block	O
+blk_345577139488306634	B
+src:	O
+/10.251.37.240:38873	B
+dest:	O
+/10.251.37.240:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.71.193:50010	B
+is	O
+added	O
+to	O
+blk_4577632468651859430	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-2680500627064966252	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-9092685890953655332	B
+src:	O
+/10.250.15.240:43274	B
+dest:	O
+/10.250.15.240:50010	B
+
+Receiving	O
+block	O
+blk_-4473020641607592551	B
+src:	O
+/10.251.42.191:48114	B
+dest:	O
+/10.251.42.191:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.111.37:50010	B
+is	O
+added	O
+to	O
+blk_-524128780228307052	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_4443043493758564822	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.106.37	B
+
+Received	O
+block	O
+blk_5118390778403008591	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.30.101	B
+
+Received	O
+block	O
+blk_-9013487557842539661	B
+of	O
+size	O
+28485342	B
+from	O
+/10.251.215.192	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.202.209:50010	B
+is	O
+added	O
+to	O
+blk_111759050707136656	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3729730843466061623	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.27.63:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3876184938151091897	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.85:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1227720343537039835	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.202.134:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3539852484771802299	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.19.227:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2341651676737321162	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.203.129:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-765820154946060546	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.65.203:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-2492400942012223395	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.202.209:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8351015090014570293	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.199.86:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8130925109202184099	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.125.193:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3242342105286997235	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.71.97:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2468407162668753567	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.106.37:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7841365850685201915	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.110.68:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_815809455641029563	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.111.37:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6413710007211667486	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.179:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1573544581830458089	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.122.65:50010	B
+
+Deleting	O
+block	O
+blk_-8167717961644709843	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_-8167717961644709843	B
+
+Deleting	O
+block	O
+blk_-5934436507161953485	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_-5934436507161953485	B
+
+Received	O
+block	O
+blk_-3922743468150895472	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.179	B
+
+Deleting	O
+block	O
+blk_-8547071368131084410	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir38/blk_-8547071368131084410	B
+
+Deleting	O
+block	O
+blk_-5429042599096020592	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_-5429042599096020592	B
+
+Received	O
+block	O
+blk_-1522998827901549925	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.127.47	B
+
+Deleting	O
+block	O
+blk_-4311652947826112510	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir57/blk_-4311652947826112510	B
+
+Deleting	O
+block	O
+blk_-1754204887541031211	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir58/blk_-1754204887541031211	B
+
+Deleting	O
+block	O
+blk_4863571548336254624	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir5/blk_4863571548336254624	B
+
+Deleting	O
+block	O
+blk_-1046472716157313227	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir62/blk_-1046472716157313227	B
+
+Deleting	O
+block	O
+blk_449049393237281194	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir18/blk_449049393237281194	B
+
+Deleting	O
+block	O
+blk_352185875883785141	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir44/blk_352185875883785141	B
+
+Deleting	O
+block	O
+blk_2180875151184358991	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir31/blk_2180875151184358991	B
+
+Receiving	O
+block	O
+blk_-8879979113392880065	B
+src:	O
+/10.251.202.181:33345	B
+dest:	O
+/10.251.202.181:50010	B
+
+Deleting	O
+block	O
+blk_1553688227908800900	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir15/blk_1553688227908800900	B
+
+Deleting	O
+block	O
+blk_6138894560185644209	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir42/blk_6138894560185644209	B
+
+Deleting	O
+block	O
+blk_-1368324087589035770	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_-1368324087589035770	B
+
+Deleting	O
+block	O
+blk_5736622945587812309	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir19/blk_5736622945587812309	B
+
+Deleting	O
+block	O
+blk_6147898566868510104	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir36/blk_6147898566868510104	B
+
+Deleting	O
+block	O
+blk_9081834782322008396	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir40/blk_9081834782322008396	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.75.143:50010	B
+is	O
+added	O
+to	O
+blk_2312679955495839894	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_2380775154966815858	B
+src:	O
+/10.251.107.50:33333	B
+dest:	O
+/10.251.107.50:50010	B
+
+Received	O
+block	O
+blk_3777389444004341563	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.175	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-4578850505370039622	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.6.214:50010	B
+is	O
+added	O
+to	O
+blk_4893049344332234616	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_9131004320470011870	B
+src:	O
+/10.251.123.132:52815	B
+dest:	O
+/10.251.123.132:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.130:50010	B
+is	O
+added	O
+to	O
+blk_-9056748866943837167	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-337972286882621518	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.144	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-8225435781013159573	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand5/_temporary/_task_200811101024_0011_m_000541_0/part-00541.	B
+blk_-6841570414687342011	B
+
+Receiving	O
+block	O
+blk_9074726164158535746	B
+src:	O
+/10.251.214.32:34409	B
+dest:	O
+/10.251.214.32:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.242:50010	B
+is	O
+added	O
+to	O
+blk_-5773244829531118765	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-8703611999267892995	B
+src:	O
+/10.250.15.101:32889	B
+dest:	O
+/10.250.15.101:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.15.101:50010	B
+is	O
+added	O
+to	O
+blk_-5352085087037370841	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-2268450354164990110	B
+terminating	O
+
+Received	O
+block	O
+blk_-2935178173527646581	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.65.237	B
+
+Received	O
+block	O
+blk_49420377461855719	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.70.112	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-805262942087665153	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.225:50010	B
+is	O
+added	O
+to	O
+blk_8323519561483823145	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-6618090096819679591	B
+src:	O
+/10.251.214.67:58610	B
+dest:	O
+/10.251.214.67:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.42.16:50010	B
+is	O
+added	O
+to	O
+blk_-3253005280055520211	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-6832799704680039005	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.17.225	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.65.203:50010	B
+is	O
+added	O
+to	O
+blk_4777657900314457675	B
+size	O
+3546628	B
+
+Received	O
+block	O
+blk_8993862241777591326	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.15.240	B
+
+Receiving	O
+block	O
+blk_8452214765874767801	B
+src:	O
+/10.251.38.197:60409	B
+dest:	O
+/10.251.38.197:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.90.239:50010	B
+is	O
+added	O
+to	O
+blk_-2281067667503210140	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-4424971182856566289	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-663653551898848389	B
+src:	O
+/10.251.203.149:42756	B
+dest:	O
+/10.251.203.149:50010	B
+
+Receiving	O
+block	O
+blk_-5836693155656083066	B
+src:	O
+/10.251.214.67:41233	B
+dest:	O
+/10.251.214.67:50010	B
+
+Receiving	O
+block	O
+blk_-7228803354694123939	B
+src:	O
+/10.251.195.70:50389	B
+dest:	O
+/10.251.195.70:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2953550760670423417	B
+terminating	O
+
+Received	O
+block	O
+blk_5348548743130215090	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.179	B
+
+Received	O
+block	O
+blk_6329639726609402522	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.107.19	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand5/_temporary/_task_200811101024_0011_m_001408_0/part-01408.	B
+blk_6601059760261449131	B
+
+Received	O
+block	O
+blk_4989329877491629543	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.15.67	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-5580322334454533924	B
+terminating	O
+
+Receiving	O
+block	O
+blk_8087142318511408355	B
+src:	O
+/10.250.15.67:55334	B
+dest:	O
+/10.250.15.67:50010	B
+
+Received	O
+block	O
+blk_-997605125898553536	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.30.179	B
+
+Received	O
+block	O
+blk_6685663454079607598	B
+of	O
+size	O
+10157271	B
+from	O
+/10.251.66.3	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-1067234447809438340	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.125.193:50010	B
+is	O
+added	O
+to	O
+blk_-8657800226489501791	B
+size	O
+3550839	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_2151150262081352617	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-6811828069408410657	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.127.243:50010	B
+is	O
+added	O
+to	O
+blk_-719178972315562824	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.244:50010	B
+is	O
+added	O
+to	O
+blk_6095704128062577668	B
+size	O
+28484260	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_6123232805286187512	B
+terminating	O
+
+Receiving	O
+block	O
+blk_6413965758113058023	B
+src:	O
+/10.251.199.150:45184	B
+dest:	O
+/10.251.199.150:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.197.226:50010	B
+is	O
+added	O
+to	O
+blk_7275457888263057111	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_6818232325322327288	B
+terminating	O
+
+Received	O
+block	O
+blk_-5954527587435406374	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.106.10	B
+
+Received	O
+block	O
+blk_-4358842839092719327	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.15.67	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-615578808743808725	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt5/_temporary/_task_200811101024_0012_m_001192_0/part-01192.	B
+blk_7720864196601815614	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-9098645110390099509	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.109.209:50010	B
+is	O
+added	O
+to	O
+blk_1129715194117079802	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt5/_temporary/_task_200811101024_0012_m_000900_0/part-00900.	B
+blk_6690143611140381289	B
+
+Received	O
+block	O
+blk_7463248820468902190	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.91.15	B
+
+Received	O
+block	O
+blk_3961831045048378097	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.160	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-6220821375880228145	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-8389657728641837382	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-5145508449157510071	B
+src:	O
+/10.251.203.246:48508	B
+dest:	O
+/10.251.203.246:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.215.50:50010	B
+is	O
+added	O
+to	O
+blk_6675543598756975559	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-8364400144313355814	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_4877808040461609832	B
+terminating	O
+
+Received	O
+block	O
+blk_2616961363639592748	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.202.134	B
+
+Receiving	O
+block	O
+blk_2824047463816148563	B
+src:	O
+/10.251.42.84:35776	B
+dest:	O
+/10.251.42.84:50010	B
+
+Received	O
+block	O
+blk_-9211699406261033878	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.30.85	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.67:50010	B
+is	O
+added	O
+to	O
+blk_-5961895238114806886	B
+size	O
+28508403	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.19:50010	B
+is	O
+added	O
+to	O
+blk_-2654726224018724510	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.75.143:50010	B
+is	O
+added	O
+to	O
+blk_-1379379987510648393	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt5/_temporary/_task_200811101024_0012_m_001726_0/part-01726.	B
+blk_1858805942071850133	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt5/_temporary/_task_200811101024_0012_m_001554_0/part-01554.	B
+blk_5183831565578080242	B
+
+Receiving	O
+block	O
+blk_3248835454898465560	B
+src:	O
+/10.251.42.84:40950	B
+dest:	O
+/10.251.42.84:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt5/_temporary/_task_200811101024_0012_m_001709_0/part-01709.	B
+blk_3776895047834644694	B
+
+Receiving	O
+block	O
+blk_1606295458729964667	B
+src:	O
+/10.251.214.32:47910	B
+dest:	O
+/10.251.214.32:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.203.149:50010	B
+is	O
+added	O
+to	O
+blk_-7282356322111075290	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-7256345477493725857	B
+terminating	O
+
+Received	O
+block	O
+blk_3480684347183600958	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.111.209	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.31.5:50010	B
+is	O
+added	O
+to	O
+blk_-1821104627978106102	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_8116683912654412228	B
+src:	O
+/10.251.39.179:42019	B
+dest:	O
+/10.251.39.179:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4438918035940270891	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.71.193:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5616920288053661280	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.42.9:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5580254744888391593	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.201.204:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5505696082121135363	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.214.130:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5689009809369418749	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.91.84:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8155177385081669900	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.197.161:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_247452006316846355	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.6.191:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-2451769929123196359	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.199.159:50010	B
+
+Deleting	O
+block	O
+blk_-9169228974826183399	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir5/blk_-9169228974826183399	B
+
+Received	O
+block	O
+blk_5406084276349645828	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.223	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_2016964533702776852	B
+terminating	O
+
+Deleting	O
+block	O
+blk_-1306900105984505600	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir31/blk_-1306900105984505600	B
+
+Deleting	O
+block	O
+blk_-1312981516354612257	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir29/blk_-1312981516354612257	B
+
+Deleting	O
+block	O
+blk_2107487634698646045	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir3/blk_2107487634698646045	B
+
+Deleting	O
+block	O
+blk_1587615395786683981	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir14/blk_1587615395786683981	B
+
+Deleting	O
+block	O
+blk_3706543205492061794	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir1/blk_3706543205492061794	B
+
+Deleting	O
+block	O
+blk_3862032846413436284	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir28/blk_3862032846413436284	B
+
+Deleting	O
+block	O
+blk_4632283243694149854	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir40/blk_4632283243694149854	B
+
+Deleting	O
+block	O
+blk_1018961650823645078	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir60/blk_1018961650823645078	B
+
+Deleting	O
+block	O
+blk_2473550781612396886	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir54/blk_2473550781612396886	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-352190670750948803	B
+terminating	O
+
+Deleting	O
+block	O
+blk_6491888411266994867	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir39/blk_6491888411266994867	B
+
+Deleting	O
+block	O
+blk_6077744985764117617	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir17/blk_6077744985764117617	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_6975937964598933356	B
+terminating	O
+
+Receiving	O
+block	O
+blk_8596624696139957935	B
+src:	O
+/10.251.214.175:41468	B
+dest:	O
+/10.251.214.175:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_000153_0/part-00153.	B
+blk_8596624696139957935	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.67:50010	B
+is	O
+added	O
+to	O
+blk_-8483420270408348004	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_5989505185938770383	B
+src:	O
+/10.251.67.4:53429	B
+dest:	O
+/10.251.67.4:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.121.224:50010	B
+is	O
+added	O
+to	O
+blk_3134656542322449478	B
+size	O
+67108864	B
+
+Verification	O
+succeeded	O
+for	O
+blk_-8050165297538775793	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_5114572025256210948	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_000451_0/part-00451.	B
+blk_-8744988583359134013	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_000079_0/part-00079.	B
+blk_4225726256421431188	B
+
+Received	O
+block	O
+blk_1060814796407897179	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.109.209	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.25.237:50010	B
+is	O
+added	O
+to	O
+blk_-1496429201748767714	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_000077_0/part-00077.	B
+blk_608957629753483727	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-7937864120968665564	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.130:50010	B
+is	O
+added	O
+to	O
+blk_-4427507243535536615	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_7830067201550857864	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.105.189	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_8459274965060101250	B
+terminating	O
+
+Receiving	O
+block	O
+blk_2377944115560974127	B
+src:	O
+/10.251.75.163:55681	B
+dest:	O
+/10.251.75.163:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-7269672042149855641	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.30.134:50010	B
+is	O
+added	O
+to	O
+blk_-5214060566378896158	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_000523_0/part-00523.	B
+blk_-4801855948459616884	B
+
+Received	O
+block	O
+blk_-4846710336436578833	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.203.129	B
+
+Received	O
+block	O
+blk_-1846853350696018836	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.15.67	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_000997_0/part-00997.	B
+blk_-500534246236005335	B
+
+Received	O
+block	O
+blk_-1236077201457689973	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.35.1	B
+
+Received	O
+block	O
+blk_8474920544984206742	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.91.229	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.71.16:50010	B
+is	O
+added	O
+to	O
+blk_-6464763289185102366	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-41928108292416895	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-7389979618829759505	B
+src:	O
+/10.251.127.47:58395	B
+dest:	O
+/10.251.127.47:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_2096030750186708493	B
+terminating	O
+
+Received	O
+block	O
+blk_5834218936335592624	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.111.228	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-5504500392858491441	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.126.22:50010	B
+is	O
+added	O
+to	O
+blk_707166530951154301	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-8475679647841427708	B
+src:	O
+/10.251.75.49:58661	B
+dest:	O
+/10.251.75.49:50010	B
+
+Receiving	O
+block	O
+blk_-7238035741206373733	B
+src:	O
+/10.251.202.209:59561	B
+dest:	O
+/10.251.202.209:50010	B
+
+Received	O
+block	O
+blk_2253084440592362960	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.199.19	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-8568673600040025636	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.242:50010	B
+is	O
+added	O
+to	O
+blk_621685330749869453	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.230:50010	B
+is	O
+added	O
+to	O
+blk_8663640697928077697	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_1508705816376906895	B
+terminating	O
+
+Received	O
+block	O
+blk_-6441360440068187612	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.100	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_2128110944185709079	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_871974742726663441	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_8049943837789435742	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-8246207776580662770	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.11.100:50010	B
+is	O
+added	O
+to	O
+blk_3406384548372443486	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-7207514537719465756	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.75.143	B
+
+Receiving	O
+block	O
+blk_5216491057643255876	B
+src:	O
+/10.251.105.189:55126	B
+dest:	O
+/10.251.105.189:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-85872290979354091	B
+terminating	O
+
+Received	O
+block	O
+blk_-8310554294841246175	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.123.132	B
+
+Receiving	O
+block	O
+blk_-7293871043749246063	B
+src:	O
+/10.251.193.175:59757	B
+dest:	O
+/10.251.193.175:50010	B
+
+Received	O
+block	O
+blk_3107521534415119817	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.193.224	B
+
+Received	O
+block	O
+blk_-5450224419450631495	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.42.84	B
+
+Receiving	O
+block	O
+blk_5881782374981838094	B
+src:	O
+/10.251.214.18:43091	B
+dest:	O
+/10.251.214.18:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_7078766226078740026	B
+terminating	O
+
+Received	O
+block	O
+blk_-7380871572601322244	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.121.224	B
+
+Receiving	O
+block	O
+blk_3846795603907041885	B
+src:	O
+/10.250.10.176:47296	B
+dest:	O
+/10.250.10.176:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-5722491454804415982	B
+terminating	O
+
+Received	O
+block	O
+blk_-3482997549732691785	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.122.79	B
+
+Received	O
+block	O
+blk_-1090213273274684471	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.130	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_001835_0/part-01835.	B
+blk_6178964531181542074	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_8550326614414622861	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_001983_0/part-01983.	B
+blk_8861349372992394289	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1049340855430710153	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-7460532841070848624	B
+src:	O
+/10.250.15.67:55076	B
+dest:	O
+/10.250.15.67:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.111.228:50010	B
+is	O
+added	O
+to	O
+blk_-1237539644269634790	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_283922378823540530	B
+terminating	O
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_4471044334742081825	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.15.198:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-75893538967225087	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.15.198:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4681205519208992498	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.6.191:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_4834069779372284635	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.71.97:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5018797996887008111	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.89.155:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8121498678081035000	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.11.100:50010	B
+
+Deleting	O
+block	O
+blk_6888300867578983331	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir46/blk_6888300867578983331	B
+
+Deleting	O
+block	O
+blk_-8443921001690182522	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_-8443921001690182522	B
+
+Receiving	O
+block	O
+blk_706826531153199550	B
+src:	O
+/10.250.5.161:58254	B
+dest:	O
+/10.250.5.161:50010	B
+
+Deleting	O
+block	O
+blk_-4352313989800650828	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir56/blk_-4352313989800650828	B
+
+Deleting	O
+block	O
+blk_-6292499669518281202	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir26/blk_-6292499669518281202	B
+
+Deleting	O
+block	O
+blk_-6750694665033046901	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir63/blk_-6750694665033046901	B
+
+Deleting	O
+block	O
+blk_-6131345369657245178	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_-6131345369657245178	B
+
+Deleting	O
+block	O
+blk_-4380385204018751771	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir38/blk_-4380385204018751771	B
+
+Deleting	O
+block	O
+blk_-3594701313167635091	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir54/blk_-3594701313167635091	B
+
+Deleting	O
+block	O
+blk_-1693418636466747515	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir16/blk_-1693418636466747515	B
+
+Deleting	O
+block	O
+blk_5806397523737304814	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_5806397523737304814	B
+
+Deleting	O
+block	O
+blk_-1345585044778938153	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir45/blk_-1345585044778938153	B
+
+Deleting	O
+block	O
+blk_-1800458850981311953	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir57/blk_-1800458850981311953	B
+
+Deleting	O
+block	O
+blk_-1278725622357466169	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir0/blk_-1278725622357466169	B
+
+Deleting	O
+block	O
+blk_4513772639980123655	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_4513772639980123655	B
+
+Deleting	O
+block	O
+blk_7985460426680885040	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_7985460426680885040	B
+
+Deleting	O
+block	O
+blk_2215517976324634098	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir4/blk_2215517976324634098	B
+
+Deleting	O
+block	O
+blk_5453150794205420798	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir24/blk_5453150794205420798	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.194.102:50010	B
+is	O
+added	O
+to	O
+blk_-7522572236891389139	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_7583807825342916938	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir13/blk_7583807825342916938	B
+
+Receiving	O
+block	O
+blk_-5957060034695163774	B
+src:	O
+/10.251.29.239:56334	B
+dest:	O
+/10.251.29.239:50010	B
+
+Receiving	O
+block	O
+blk_-2250942073136893488	B
+src:	O
+/10.251.126.22:59179	B
+dest:	O
+/10.251.126.22:50010	B
+
+Deleting	O
+block	O
+blk_8384967715738359346	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir27/blk_8384967715738359346	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.202.209:50010	B
+is	O
+added	O
+to	O
+blk_-6224982681533811277	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.196:50010	B
+is	O
+added	O
+to	O
+blk_-2843780069100181052	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_8083872765147994327	B
+src:	O
+/10.250.15.67:41990	B
+dest:	O
+/10.250.15.67:50010	B
+
+Received	O
+block	O
+blk_-6502143621885580798	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.179	B
+
+Receiving	O
+block	O
+blk_-8323785930877970805	B
+src:	O
+/10.250.13.240:40589	B
+dest:	O
+/10.250.13.240:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.74.192:50010	B
+is	O
+added	O
+to	O
+blk_7439201509602018752	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_3224184805694764748	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.18.114	B
+
+BLOCK*	O
+ask	O
+10.250.14.38:50010	B
+to	O
+replicate	O
+blk_-7571492020523929240	B
+to	O
+datanode(s)	O
+10.251.122.38:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.30.6:50010	B
+is	O
+added	O
+to	O
+blk_1119272693889755844	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.110.160:50010	B
+is	O
+added	O
+to	O
+blk_-2852294661215451806	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.15.240:50010	B
+is	O
+added	O
+to	O
+blk_8512974147315737844	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_427477290315080955	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.123.132	B
+
+Received	O
+block	O
+blk_-7630699912570186723	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.71.240	B
+
+Received	O
+block	O
+blk_8655748951361667770	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.109.236	B
+
+Receiving	O
+block	O
+blk_-8162657657061473938	B
+src:	O
+/10.251.26.131:35484	B
+dest:	O
+/10.251.26.131:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.66.3:50010	B
+is	O
+added	O
+to	O
+blk_-4970213618915792510	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_9034824096129858680	B
+src:	O
+/10.250.6.223:45371	B
+dest:	O
+/10.250.6.223:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001049_0/part-01049.	B
+blk_-1533191386601391937	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_3433046099598424314	B
+terminating	O
+
+Received	O
+block	O
+blk_-3023983271692989109	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.110.68	B
+
+Receiving	O
+block	O
+blk_469126362137371425	B
+src:	O
+/10.251.199.245:53897	B
+dest:	O
+/10.251.199.245:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_7412933088374169877	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.192:50010	B
+is	O
+added	O
+to	O
+blk_-3888538223380979891	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-5970165518655489569	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.14.196	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-7319442762668598889	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_000973_0/part-00973.	B
+blk_5844313985011885282	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001348_0/part-01348.	B
+blk_4531288786306744275	B
+
+Received	O
+block	O
+blk_-3845286823494684378	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.107.196	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.123.33:50010	B
+is	O
+added	O
+to	O
+blk_1447281351164457761	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-7911408976820434495	B
+src:	O
+/10.251.42.191:35834	B
+dest:	O
+/10.251.42.191:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.89.155:50010	B
+is	O
+added	O
+to	O
+blk_-5455316994110506037	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_1122812501843755360	B
+src:	O
+/10.251.198.196:51036	B
+dest:	O
+/10.251.198.196:50010	B
+
+Receiving	O
+block	O
+blk_5983149244832683042	B
+src:	O
+/10.251.42.191:52748	B
+dest:	O
+/10.251.42.191:50010	B
+
+Receiving	O
+block	O
+blk_5781019224640206392	B
+src:	O
+/10.250.11.194:37060	B
+dest:	O
+/10.250.11.194:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.73.220:50010	B
+is	O
+added	O
+to	O
+blk_1303107722036031233	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_703387617548630438	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_5689516499354445029	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.11.100:50010	B
+is	O
+added	O
+to	O
+blk_-4595094649363595358	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-1733026139299872187	B
+src:	O
+/10.251.29.239:52800	B
+dest:	O
+/10.251.29.239:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001394_0/part-01394.	B
+blk_-1101091099241306483	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.42.207:50010	B
+is	O
+added	O
+to	O
+blk_2119401975697524206	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_6204056282927975796	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_215466486430758887	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001736_0/part-01736.	B
+blk_-3055230140330616860	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.73.220:50010	B
+is	O
+added	O
+to	O
+blk_4473390551542202999	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001649_0/part-01649.	B
+blk_-5581540863377925517	B
+
+Received	O
+block	O
+blk_4031738712701565209	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.199.150	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001940_0/part-01940.	B
+blk_1910319264393500537	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.17.177:50010	B
+is	O
+added	O
+to	O
+blk_5733038550092620376	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-954856062493437881	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.106.10	B
+
+Received	O
+block	O
+blk_241585185788373386	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.111.80	B
+
+Receiving	O
+block	O
+blk_3808164640986377400	B
+src:	O
+/10.251.75.79:36685	B
+dest:	O
+/10.251.75.79:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.197.226:50010	B
+is	O
+added	O
+to	O
+blk_-23492739449820023	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-8969188698416564850	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_002007_0/part-02007.	B
+blk_7908524857056299716	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3492869167398569662	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.5.161:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7873581794069372986	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.194.147:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2060553104861908174	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.201.204:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6783506473540833076	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.202.209:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8863130543753323383	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.123.1:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8769398708439834546	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.127.243:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1030832046197982436	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.89.155:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_4738781172941319823	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.91.32:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2869833078504290822	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.123.132:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6261136177206340449	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.70.37:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1755309160709170318	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.39.209:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8312238797251504127	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.89.155:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2713941272199175167	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.38.53:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7846283874350947646	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.199.150:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-793506372912437289	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.17.225:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-5293091556505218722	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.125.237:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_4516306414837452219	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.127.47:50010	B
+
+Deleting	O
+block	O
+blk_-8131422413299851907	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir46/blk_-8131422413299851907	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-2268477281422551537	B
+terminating	O
+
+Deleting	O
+block	O
+blk_-8060252929692927663	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir21/blk_-8060252929692927663	B
+
+Deleting	O
+block	O
+blk_-2518425063392446785	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir6/blk_-2518425063392446785	B
+
+Deleting	O
+block	O
+blk_901963876338651405	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir1/blk_901963876338651405	B
+
+Deleting	O
+block	O
+blk_-2722768686407017386	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir36/blk_-2722768686407017386	B
+
+Deleting	O
+block	O
+blk_92946806844541836	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir59/blk_92946806844541836	B
+
+Deleting	O
+block	O
+blk_1824928871191121429	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir2/blk_1824928871191121429	B
+
+Deleting	O
+block	O
+blk_-4301178988618507084	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir46/blk_-4301178988618507084	B
+
+Deleting	O
+block	O
+blk_-1451819169209310732	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir23/blk_-1451819169209310732	B
+
+Deleting	O
+block	O
+blk_5701964561533648583	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir10/blk_5701964561533648583	B
+
+Deleting	O
+block	O
+blk_4007982883396598426	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir13/blk_4007982883396598426	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.197.161:50010	B
+is	O
+added	O
+to	O
+blk_-3724350946705225881	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_6051144263842600010	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir42/blk_6051144263842600010	B
+
+Deleting	O
+block	O
+blk_8436095180790908547	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir43/blk_8436095180790908547	B
+
+Deleting	O
+block	O
+blk_5100975846124291571	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir38/blk_5100975846124291571	B
+
+Deleting	O
+block	O
+blk_-4941547144875557718	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir61/blk_-4941547144875557718	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_6791628131402590260	B
+terminating	O
+
+Receiving	O
+block	O
+blk_6585429064641693815	B
+src:	O
+/10.250.10.6:38158	B
+dest:	O
+/10.250.10.6:50010	B
+
+Received	O
+block	O
+blk_6000837850922531821	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.197.226	B
+
+Received	O
+block	O
+blk_7330803663603700184	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.42.246	B
+
+Receiving	O
+block	O
+blk_-4967783186426171722	B
+src:	O
+/10.251.39.192:57105	B
+dest:	O
+/10.251.39.192:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.11.100:50010	B
+is	O
+added	O
+to	O
+blk_-1970947032352756307	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_000737_0/part-00737.	B
+blk_5894088883762961800	B
+
+Receiving	O
+block	O
+blk_-4861262918414696307	B
+src:	O
+/10.251.198.196:34168	B
+dest:	O
+/10.251.198.196:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.160:50010	B
+is	O
+added	O
+to	O
+blk_-3510473878877779134	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-2808875502459981198	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir3/blk_-2808875502459981198	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_34905976850091068	B
+terminating	O
+
+Received	O
+block	O
+blk_4774383661473695119	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.110.68	B
+
+Receiving	O
+block	O
+blk_465845235850106928	B
+src:	O
+/10.251.70.112:39499	B
+dest:	O
+/10.251.70.112:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_4207359722112667226	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_000882_0/part-00882.	B
+blk_-3152434225121092058	B
+
+Receiving	O
+block	O
+blk_4820650745157199554	B
+src:	O
+/10.251.127.243:49726	B
+dest:	O
+/10.251.127.243:50010	B
+
+Deleting	O
+block	O
+blk_9173199815015538212	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir24/blk_9173199815015538212	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.42.207:50010	B
+is	O
+added	O
+to	O
+blk_-6314365697827006048	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_000939_0/part-00939.	B
+blk_-3522956055443924791	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_5454423648092670683	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_4565822428702518889	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.29.239:50010	B
+is	O
+added	O
+to	O
+blk_-409558225151784282	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-3967261531426400230	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-5799866343936729403	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_001294_0/part-01294.	B
+blk_4214952053910973364	B
+
+Receiving	O
+block	O
+blk_-6135061626100136978	B
+src:	O
+/10.251.31.180:48900	B
+dest:	O
+/10.251.31.180:50010	B
+
+Receiving	O
+block	O
+blk_-5057534532247887258	B
+src:	O
+/10.250.5.237:45766	B
+dest:	O
+/10.250.5.237:50010	B
+
+Receiving	O
+block	O
+blk_-4365612131648152536	B
+src:	O
+/10.251.107.227:57736	B
+dest:	O
+/10.251.107.227:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_3378157549705391333	B
+terminating	O
+
+Verification	O
+succeeded	O
+for	O
+blk_-8347949825960763812	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_412956398445037066	B
+terminating	O
+
+Received	O
+block	O
+blk_-9167880724995702718	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.225	B
+
+Receiving	O
+block	O
+blk_931297048899943584	B
+src:	O
+/10.251.67.113:54324	B
+dest:	O
+/10.251.67.113:50010	B
+
+Received	O
+block	O
+blk_-5785220384376578831	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.203.80	B
+
+Receiving	O
+block	O
+blk_1859772752119590543	B
+src:	O
+/10.251.42.246:57741	B
+dest:	O
+/10.251.42.246:50010	B
+
+Received	O
+block	O
+blk_-5385105076403314787	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.42.9	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_001473_0/part-01473.	B
+blk_-4390972361898978900	B
+
+Received	O
+block	O
+blk_1190791818440776717	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.43.147	B
+
+Received	O
+block	O
+blk_-3283153974358895314	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.111.228	B
+
+Receiving	O
+block	O
+blk_-8571819028995448536	B
+src:	O
+/10.251.197.226:34801	B
+dest:	O
+/10.251.197.226:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.67:50010	B
+is	O
+added	O
+to	O
+blk_-8428590803682810851	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_001860_0/part-01860.	B
+blk_8716294289715825928	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.123.132:50010	B
+is	O
+added	O
+to	O
+blk_8527475857502481768	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_406835586147450451	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.6.4:50010	B
+is	O
+added	O
+to	O
+blk_-6945615463687647586	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_1216611589160220108	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.30.134:50010	B
+is	O
+added	O
+to	O
+blk_2749066163012162435	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.111.228:50010	B
+is	O
+added	O
+to	O
+blk_-1305222006484630743	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_6446927133528675675	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.209	B
+
+Receiving	O
+block	O
+blk_3972778210951456006	B
+src:	O
+/10.251.121.224:56526	B
+dest:	O
+/10.251.121.224:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_1408672604432845193	B
+terminating	O
+
+Received	O
+block	O
+blk_7679838117000095334	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.30.85	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.71.193:50010	B
+is	O
+added	O
+to	O
+blk_5489815612272797790	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_8418106412701718933	B
+terminating	O
+
+Received	O
+block	O
+blk_6516880861186877710	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.42.84	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-3228470001178394592	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.29.239:50010	B
+is	O
+added	O
+to	O
+blk_-762982068597249045	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-5224756755359850354	B
+src:	O
+/10.251.43.192:38028	B
+dest:	O
+/10.251.43.192:50010	B
+
+Received	O
+block	O
+blk_-1440254020029439248	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.30.85	B
+
+Received	O
+block	O
+blk_-1592043549272047369	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.105.189	B
+
+Receiving	O
+block	O
+blk_4198733391373026104	B
+src:	O
+/10.251.106.10:46843	B
+dest:	O
+/10.251.106.10:50010	B
+
+Received	O
+block	O
+blk_-5815145248455404269	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.121.224	B
+
+Receiving	O
+block	O
+blk_4343207286455274569	B
+src:	O
+/10.250.9.207:59759	B
+dest:	O
+/10.250.9.207:50010	B
+

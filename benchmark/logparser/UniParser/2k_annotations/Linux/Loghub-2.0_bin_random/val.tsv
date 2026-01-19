@@ -1,0 +1,982 @@
+BIOS-e820:	O
+00000000000f0000	B
+-	O
+0000000000100000	B
+(reserved)	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+DMA	O
+zone:	O
+4096	B
+pages,	O
+LIFO	O
+batch:1	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+isapnp:	O
+Scanning	O
+for	O
+PnP	O
+cards...	O
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Permission	O
+denied	O
+in	O
+replay	O
+cache	O
+code	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+usbcore:	O
+registered	O
+new	O
+driver	O
+hub	O
+
+Intel	O
+machine	O
+check	O
+reporting	O
+enabled	O
+on	O
+CPU#0.	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+getpeername	O
+(ftpd):	O
+Transport	O
+endpoint	O
+is	O
+not	O
+connected	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+cupsd	O
+startup	O
+succeeded	O
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+warning:	O
+can't	O
+get	O
+client	O
+address:	O
+Connection	O
+reset	O
+by	O
+peer	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=211-76-104-65.ebix.net.tw	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+Kerberos	O
+authentication	O
+failed	O
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+apm:	O
+BIOS	O
+version	O
+1.2	B
+Flags	O
+0x03	B
+(Driver	O
+version	O
+1.16ac)	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+Kerberos	O
+authentication	O
+failed	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=061092085098.ctinets.com	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+klogd	O
+startup	O
+succeeded	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+CPU:	O
+L2	O
+cache:	O
+256K	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Permission	O
+denied	O
+in	O
+replay	O
+cache	O
+code	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=65.166.159.14	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=d211-116-254-214.rev.krline.net	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+Memory:	O
+125312k/129720k	B
+available	O
+(1540k	B
+kernel	O
+code,	O
+3860k	B
+reserved,	O
+599k	B
+data,	O
+144k	B
+init,	O
+0k	B
+highmem)	O
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Permission	O
+denied	O
+in	O
+replay	O
+cache	O
+code	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=d211-116-254-214.rev.krline.net	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Permission	O
+denied	O
+in	O
+replay	O
+cache	O
+code	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=211-76-104-65.ebix.net.tw	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=65.166.159.14	B
+
+syslogd	O
+startup	O
+succeeded	O
+
+Kerberos	O
+authentication	O
+failed	O
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=061092085098.ctinets.com	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+On	O
+node	O
+0	B
+totalpages:	O
+32430	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=:0	B
+ruser=	O
+rhost=	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+klogd	O
+1.4.1,	B
+log	O
+source	O
+=	O
+/proc/kmsg	B
+started.	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+CPU:	O
+Intel	O
+Pentium	O
+III	O
+(Coppermine)	O
+stepping	O
+06	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+Console:	O
+colour	O
+VGA+	O
+80x25	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=061092085098.ctinets.com	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=biblioteka.wsi.edu.pl	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=biblioteka.wsi.edu.pl	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+getpeername	O
+(ftpd):	O
+Transport	O
+endpoint	O
+is	O
+not	O
+connected	O
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+

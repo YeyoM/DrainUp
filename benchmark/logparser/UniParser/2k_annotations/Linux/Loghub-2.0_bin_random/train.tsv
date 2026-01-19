@@ -1,0 +1,937 @@
+rpc.statd	O
+startup	O
+succeeded	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=65.166.159.14	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+kernel.core_uses_pid	O
+=	O
+1	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.55.234.102	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net	B
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+***	O
+info	O
+[mice.c(1766)]:	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=211.115.206.155	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+cupsd	O
+startup	O
+succeeded	O
+
+Mount-cache	O
+hash	O
+table	O
+entries:	O
+512	B
+(order:	O
+0,	B
+4096	B
+bytes)	O
+
+sdpd	O
+v1.5	B
+started	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=211.115.206.155	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+hcid	O
+startup	O
+succeeded	O
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+PCI:	O
+Using	O
+configuration	O
+type	O
+1	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+VFS:	O
+Disk	O
+quotas	O
+dquot_6.5.1	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=zummit.com	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+You	O
+can	O
+enable	O
+it	O
+with	O
+acpi=force	O
+
+126MB	B
+LOWMEM	O
+available.	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net	B
+
+PCI:	O
+Using	O
+IRQ	O
+router	O
+PIIX/ICH	O
+[8086/2410]	B
+at	O
+0000:00:1f.0	B
+
+restart.	O
+
+CPU:	O
+L1	O
+I	O
+cache:	O
+16K,	B
+L1	O
+D	O
+cache:	O
+16K	B
+
+Enabling	O
+unmasked	O
+SIMD	O
+FPU	O
+exception	O
+support...	O
+done.	O
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=zummit.com	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=zummit.com	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=zummit.com	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+restart.	O
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+pci_hotplug:	O
+PCI	O
+Hot	O
+Plug	O
+PCI	O
+Core	O
+version:	O
+0.5	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=d211-116-254-214.rev.krline.net	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+HCI	O
+daemon	O
+ver	O
+2.4	B
+started	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+cupsd	O
+shutdown	O
+succeeded	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=210.229.150.228	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+Dquot-cache	O
+hash	O
+table	O
+entries:	O
+1024	B
+(order	O
+0,	B
+4096	B
+bytes)	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+PCI:	O
+Invalid	O
+ACPI-PCI	O
+IRQ	O
+routing	O
+table	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+removing	O
+device	O
+node	O
+'/udev/vcs2'	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+PID	O
+hash	O
+table	O
+entries:	O
+512	B
+(order	O
+9:	B
+4096	B
+bytes)	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+Received	O
+SNMP	O
+packet(s)	O
+from	O
+67.170.148.126	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+NET:	O
+Registered	O
+protocol	O
+family	O
+16	B
+
+POSIX	O
+conformance	O
+testing	O
+by	O
+UNIFIX	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+Kerberos	O
+authentication	O
+failed	O
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+Security	O
+Scaffold	O
+v1.0.0	B
+initialized	O
+
+0MB	B
+HIGHMEM	O
+available.	O
+
+Checking	O
+'hlt'	O
+instruction...	O
+OK.	O
+
+Real	O
+Time	O
+Clock	O
+Driver	O
+v1.12	B
+
+Using	O
+tsc	O
+for	O
+high-res	O
+timesource	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+check	O
+pass;	O
+user	O
+unknown	O
+
+Normal	O
+zone:	O
+28334	B
+pages,	O
+LIFO	O
+batch:6	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+

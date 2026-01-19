@@ -1,0 +1,1731 @@
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+lh3.googleusercontent.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+comment.5054399.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+get.sogou.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+www.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+www.evernote.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+203.205.151.164:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+127.0.0.1:135	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Proxy	O
+server	O
+cannot	O
+establish	O
+a	O
+connection	O
+with	O
+the	O
+target,	O
+status	O
+code	O
+403	B
+
+mail.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+sestat.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+mtalk.google.com:5228	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Proxy	O
+server	O
+cannot	O
+establish	O
+a	O
+connection	O
+with	O
+the	O
+target,	O
+status	O
+code	O
+403	B
+
+api.github.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+short.weixin.qq.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+www.qq.com:80	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Could	O
+not	O
+resolve	O
+proxy.cse.cuhk.edu.hk	B
+error	O
+11001	B
+
+182.254.114.110:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+yt3.ggpht.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+assets-cdn.github.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+www.google.com.hk:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+bolt.dropbox.com:443	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+connection	O
+attempt	O
+failed	O
+with	O
+error	O
+10061	B
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+clients4.google.com:443	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Could	O
+not	O
+resolve	O
+proxy.cse.cuhk.edu.hk	B
+error	O
+11001	B
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+t12.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+api.github.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+oimagec7.ydstatic.com:80	B
+error	O
+:	O
+A	O
+connection	O
+request	O
+was	O
+canceled	O
+before	O
+the	O
+completion.	O
+
+dj1.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+cgi.qqweb.qq.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+tc.dl.pinyin.sogoucdn.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+trello.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+t12.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+www.ieeeconfpublishing.org:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+get.sogou.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+www.google.com:443	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+connection	O
+attempt	O
+failed	O
+with	O
+error	O
+10061	B
+
+wpad:80	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Could	O
+not	O
+resolve	O
+proxy.cse.cuhk.edu.hk	B
+error	O
+11001	B
+
+people-pa.clients6.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+js.t.sinajs.cn:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+oimagec4.ydstatic.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+avatars.githubusercontent.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+r1---sn-i3beln7k.googlevideo.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+cidian.youdao.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+block-edge.dropbox.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+qd-update.qq.com:8080	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Proxy	O
+server	O
+cannot	O
+establish	O
+a	O
+connection	O
+with	O
+the	O
+target,	O
+status	O
+code	O
+403	B
+
+c.trello.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+bolt.dropbox.com:443	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+connection	O
+attempt	O
+failed	O
+with	O
+error	O
+10061	B
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+apis.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+dup.baidustatic.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+hm.baidu.com:80	B
+error	O
+:	O
+A	O
+connection	O
+request	O
+was	O
+canceled	O
+before	O
+the	O
+completion.	O
+
+i1.ytimg.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+101.226.211.46:8080	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Could	O
+not	O
+resolve	O
+proxy.cse.cuhk.edu.hk	B
+error	O
+11001	B
+
+qbwup.imtt.qq.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+pagead2.googlesyndication.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+mail.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+cpro.baidustatic.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+b1.bdstatic.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+clients4.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+static.doubleclick.net:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+formi.baidu.com:843	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Proxy	O
+server	O
+cannot	O
+establish	O
+a	O
+connection	O
+with	O
+the	O
+target,	O
+status	O
+code	O
+403	B
+
+ss.bdimg.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+d.dropbox.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+tc.dl.pinyin.sogoucdn.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+client-lb.dropbox.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+yt3.ggpht.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+t12.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+assets.changyan.sohu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+mtalk.google.com:5228	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Could	O
+not	O
+resolve	O
+proxy.cse.cuhk.edu.hk	B
+error	O
+11001	B
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+tvax1.sinaimg.cn:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+src.wei.focus.cn:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+config.pinyin.sogou.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+clients1.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+183.62.156.108:22	B
+open	O
+through	O
+proxy	O
+socks.cse.cuhk.edu.hk:5070	B
+SOCKS5	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+block.dropbox.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+play.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+mtalk.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+collector.githubapp.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+223.167.104.147:80	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Could	O
+not	O
+resolve	O
+proxy.cse.cuhk.edu.hk	B
+error	O
+11001	B
+
+qd-update.qq.com:8080	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Proxy	O
+server	O
+cannot	O
+establish	O
+a	O
+connection	O
+with	O
+the	O
+target,	O
+status	O
+code	O
+403	B
+
+mtalk.google.com:5228	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Proxy	O
+server	O
+cannot	O
+establish	O
+a	O
+connection	O
+with	O
+the	O
+target,	O
+status	O
+code	O
+403	B
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+dup.baidustatic.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+oimageb5.ydstatic.com:80	B
+error	O
+:	O
+A	O
+connection	O
+request	O
+was	O
+canceled	O
+before	O
+the	O
+completion.	O
+
+tcpconn6.tencent.com:443	B
+error	O
+:	O
+A	O
+connection	O
+request	O
+was	O
+canceled	O
+before	O
+the	O
+completion.	O
+
+tools.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+oimagea5.ydstatic.com:80	B
+error	O
+:	O
+A	O
+connection	O
+request	O
+was	O
+canceled	O
+before	O
+the	O
+completion.	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+oimageb8.ydstatic.com:80	B
+error	O
+:	O
+A	O
+connection	O
+request	O
+was	O
+canceled	O
+before	O
+the	O
+completion.	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+show.re.taobao.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+q1.cnzz.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+sestat.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+clients4.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+clients6.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+www.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+puui.qpic.cn:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+0-edge-chat.facebook.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+user-images.githubusercontent.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+r2---sn-i3b7kne6.googlevideo.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+puui.qpic.cn:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+bolt.dropbox.com:443	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+connection	O
+attempt	O
+failed	O
+with	O
+error	O
+10061	B
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+tcpconn3.tencent.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+odr.mookie1.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+block.dropbox.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+oimagec7.ydstatic.com:80	B
+error	O
+:	O
+A	O
+connection	O
+request	O
+was	O
+canceled	O
+before	O
+the	O
+completion.	O
+
+api.share.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+play.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+client-lb.dropbox.com:443	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+connection	O
+attempt	O
+failed	O
+with	O
+error	O
+10061	B
+
+d.agkn.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+hangouts.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+183.60.49.182:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+pdlxf-doctor.qq.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+block.dropbox.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+bolt.dropbox.com:443	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+Could	O
+not	O
+resolve	O
+proxy.cse.cuhk.edu.hk	B
+error	O
+11001	B
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+ubmcmm.baidustatic.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+csi.gstatic.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+qa.sockets.stackexchange.com:443	B
+error	O
+:	O
+Could	O
+not	O
+connect	O
+to	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+-	O
+connection	O
+attempt	O
+failed	O
+with	O
+error	O
+10061	B
+
+t12.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+log.getdropbox.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+clients4.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+csi.gstatic.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+play.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+www.google.com:443	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+suggestion.baidu.com:80	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+
+proxy.cse.cuhk.edu.hk:5070	B
+open	O
+through	O
+proxy	O
+proxy.cse.cuhk.edu.hk:5070	B
+HTTPS	O
+

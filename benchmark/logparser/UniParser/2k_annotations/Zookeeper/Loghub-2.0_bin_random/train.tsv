@@ -1,0 +1,2856 @@
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Expiring	O
+session	O
+0x24ede63a01b0062,	B
+timeout	O
+of	O
+10000ms	B
+exceeded	O
+
+Established	O
+session	O
+0x14ed93111f2002b	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.22:47073	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:47258	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Established	O
+session	O
+0x24ee30a54f5001e	B
+with	O
+negotiated	O
+timeout	O
+20000	B
+for	O
+client	O
+/10.10.34.11:45101	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:46914	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:59078	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:45651	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Client	O
+attempting	O
+to	O
+establish	O
+new	O
+session	O
+at	O
+/10.10.34.11:52866	B
+
+Established	O
+session	O
+0x24f4a631df9000e	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.16:53681	B
+
+Connection	O
+request	O
+from	O
+old	O
+client	O
+/10.10.34.37:34701;	B
+will	O
+be	O
+dropped	O
+if	O
+server	O
+is	O
+in	O
+r-o	O
+mode	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupting	O
+SendWorker	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:49270	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Notification:	O
+1	B
+(n.leader),	O
+0xb0000007b	B
+(n.zxid),	O
+0x2	B
+(n.round),	O
+LOOKING	O
+(n.state),	O
+1	B
+(n.sid),	O
+0xb	B
+(n.peerEPoch),	O
+LEADING	O
+(my	O
+state)	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Notification	O
+time	O
+out:	O
+60000	B
+
+Connection	O
+request	O
+from	O
+old	O
+client	O
+/10.10.34.11:51043;	B
+will	O
+be	O
+dropped	O
+if	O
+server	O
+is	O
+in	O
+r-o	O
+mode	O
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:47635	B
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Getting	O
+a	O
+snapshot	O
+from	O
+leader	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:48922	B
+
+*******	O
+GOODBYE	O
+/10.10.34.13:57653	B
+********	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Notification	O
+time	O
+out:	O
+60000	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:46170	B
+
+Cannot	O
+open	O
+channel	O
+to	O
+3	B
+at	O
+election	O
+address	O
+/10.10.34.13:3888	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Unexpected	O
+exception	O
+causing	O
+shutdown	O
+while	O
+sock	O
+still	O
+open	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Interrupting	O
+SendWorker	O
+
+Client	O
+attempting	O
+to	O
+establish	O
+new	O
+session	O
+at	O
+/10.10.34.15:54175	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:48373	B
+
+Accepted	O
+socket	O
+connection	O
+from	O
+/10.10.34.17:46387	B
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x24ed9311942000c	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:49300	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Notification	O
+time	O
+out:	O
+60000	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.11:34266	B
+which	O
+had	O
+sessionid	O
+0x24f4a631df9000a	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.24:45152	B
+which	O
+had	O
+sessionid	O
+0x24edfaa8717001a	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupting	O
+SendWorker	O
+
+Accepted	O
+socket	O
+connection	O
+from	O
+/10.10.34.24:37975	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Accepted	O
+socket	O
+connection	O
+from	O
+/10.10.34.12:59323	B
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Established	O
+session	O
+0x24ed9311942008c	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.18:40006	B
+
+Interrupting	O
+SendWorker	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+3	B
+at	O
+election	O
+address	O
+/10.10.34.13:3888	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+*******	O
+GOODBYE	O
+/10.10.34.13:57247	B
+********	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+autopurge.purgeInterval	O
+set	O
+to	O
+0	B
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x14ede63a5a70023	B
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34f4a63146b000f	B
+
+Connection	O
+request	O
+from	O
+old	O
+client	O
+/10.10.34.25:44819;	B
+will	O
+be	O
+dropped	O
+if	O
+server	O
+is	O
+in	O
+r-o	O
+mode	O
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34ed9ac1c1e00ae	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Accepted	O
+socket	O
+connection	O
+from	O
+/10.10.34.18:40006	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Notification:	O
+3	B
+(n.leader),	O
+0x700000197	B
+(n.zxid),	O
+0x1	B
+(n.round),	O
+LOOKING	O
+(n.state),	O
+3	B
+(n.sid),	O
+0x7	B
+(n.peerEPoch),	O
+LOOKING	O
+(my	O
+state)	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:56093	B
+
+*******	O
+GOODBYE	O
+/10.10.34.11:52844	B
+********	O
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34ede65503f0039	B
+
+Expiring	O
+session	O
+0x34ed9ac1c1e007f,	B
+timeout	O
+of	O
+10000ms	B
+exceeded	O
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+autopurge.purgeInterval	O
+set	O
+to	O
+0	B
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:48602	B
+
+Interrupting	O
+SendWorker	O
+
+Interrupting	O
+SendWorker	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:33198	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:48254	B
+
+Established	O
+session	O
+0x34edfaa9c22001e	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.41:51908	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34ede65503f002b	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:46440	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:44219	B
+
+Notification	O
+time	O
+out:	O
+60000	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:32924	B
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:58282	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:49283	B
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34ed9ac1c1e0085	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Client	O
+attempting	O
+to	O
+establish	O
+new	O
+session	O
+at	O
+/10.10.34.12:43125	B
+
+Accepted	O
+socket	O
+connection	O
+from	O
+/10.10.34.23:51828	B
+
+Unexpected	O
+Exception:	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+minSessionTimeout	O
+set	O
+to	O
+-1	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:44989	B
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.11:54983	B
+which	O
+had	O
+sessionid	O
+0x14ed93111f200f0	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:46922	B
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:48280	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:47615	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:60423	B
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x14ed93111f20050	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+3	B
+at	O
+election	O
+address	O
+/10.10.34.13:3888	B
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.13:42060	B
+which	O
+had	O
+sessionid	O
+0x34edfaa9c22002d	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:54788	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Established	O
+session	O
+0x14ed93111f2007c	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.11:50276	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:46410	B
+
+Interrupting	O
+SendWorker	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:49361	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:44256	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:47767	B
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34ed9ac1c1e007a	B
+
+Connection	O
+broken	O
+for	O
+id	O
+1,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Expiring	O
+session	O
+0x14f05578bd8000f,	B
+timeout	O
+of	O
+10000ms	B
+exceeded	O
+
+Connection	O
+request	O
+from	O
+old	O
+client	O
+/10.10.34.16:40418;	B
+will	O
+be	O
+dropped	O
+if	O
+server	O
+is	O
+in	O
+r-o	O
+mode	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:57707	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:46592	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:46538	B
+
+Server	O
+environment:user.dir=/	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupting	O
+SendWorker	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:59722	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:46563	B
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34ed9ac1c1e0030	B
+
+Server	O
+environment:user.name=zookeeper	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34ed9ac1c1e0080	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:49396	B
+
+Unexpected	O
+exception	O
+causing	O
+shutdown	O
+while	O
+sock	O
+still	O
+open	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:47512	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:60575	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:45307	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Notification	O
+time	O
+out:	O
+60000	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+3	B
+at	O
+election	O
+address	O
+/10.10.34.13:3888	B
+
+Interrupting	O
+SendWorker	O
+
+Client	O
+attempting	O
+to	O
+establish	O
+new	O
+session	O
+at	O
+/10.10.34.13:54387	B
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:49518	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:51380	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Established	O
+session	O
+0x34ed9ac1c1e0036	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.36:37583	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:56426	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupting	O
+SendWorker	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Client	O
+attempting	O
+to	O
+establish	O
+new	O
+session	O
+at	O
+/10.10.34.11:57796	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.12:59284	B
+which	O
+had	O
+sessionid	O
+0x34ed9ac1c1e0059	B
+
+Accepted	O
+socket	O
+connection	O
+from	O
+/10.10.34.11:51562	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Follower	O
+sid:	O
+3	B
+:	O
+info	O
+:	O
+org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4	B
+
+Client	O
+attempting	O
+to	O
+establish	O
+new	O
+session	O
+at	O
+/10.10.34.13:50253	B
+
+*******	O
+GOODBYE	O
+/10.10.34.11:52502	B
+********	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:55648	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Accepted	O
+socket	O
+connection	O
+from	O
+/10.10.34.30:38562	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:46424	B
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Interrupting	O
+SendWorker	O
+
+Interrupting	O
+SendWorker	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:33138	B
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.11:51097	B
+which	O
+had	O
+sessionid	O
+0x34ede65503f002f	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:46519	B
+
+autopurge.purgeInterval	O
+set	O
+to	O
+0	B
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.11:53520	B
+which	O
+had	O
+sessionid	O
+0x24ed9311942005f	B
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:48096	B
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Notification	O
+time	O
+out:	O
+60000	B
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x34edfaa9c22003d	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:59897	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.18:46783	B
+which	O
+had	O
+sessionid	O
+0x34ed9ac1c1e0086	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:59688	B
+
+Client	O
+attempting	O
+to	O
+renew	O
+session	O
+0x24ed93119420016	B
+at	O
+/10.10.34.13:37115	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:47613	B
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:60834	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Expiring	O
+session	O
+0x24edfaa87170002,	B
+timeout	O
+of	O
+10000ms	B
+exceeded	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:58865	B
+
+Cannot	O
+open	O
+channel	O
+to	O
+3	B
+at	O
+election	O
+address	O
+/10.10.34.13:3888	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:58764	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Established	O
+session	O
+0x24ee30a54f5001c	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.32:45013	B
+
+Established	O
+session	O
+0x24ede63a01b0027	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.13:52301	B
+
+Connection	O
+request	O
+from	O
+old	O
+client	O
+/10.10.34.30:60436;	B
+will	O
+be	O
+dropped	O
+if	O
+server	O
+is	O
+in	O
+r-o	O
+mode	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:46360	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Interrupting	O
+SendWorker	O
+
+Cannot	O
+open	O
+channel	O
+to	O
+2	B
+at	O
+election	O
+address	O
+/10.10.34.12:3888	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Established	O
+session	O
+0x14ed93111f2005f	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.36:32876	B
+
+Interrupting	O
+SendWorker	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:49662	B
+
+caught	O
+end	O
+of	O
+stream	O
+exception	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Client	O
+attempting	O
+to	O
+establish	O
+new	O
+session	O
+at	O
+/10.10.34.38:43508	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:43921	B
+
+Accepted	O
+socket	O
+connection	O
+from	O
+/10.10.34.11:49346	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:47366	B
+
+Interrupting	O
+SendWorker	O
+
+Established	O
+session	O
+0x24ede63a01b000a	B
+with	O
+negotiated	O
+timeout	O
+10000	B
+for	O
+client	O
+/10.10.34.13:52286	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.11:53310	B
+which	O
+had	O
+sessionid	O
+0x34edfaa9c220012	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:51296	B
+
+Interrupting	O
+SendWorker	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:49786	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+*******	O
+GOODBYE	O
+/10.10.34.11:52818	B
+********	O
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Interrupting	O
+SendWorker	O
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x14ede63a5a70002	B
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+LOOKING	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:48672	B
+
+Closed	O
+socket	O
+connection	O
+for	O
+client	O
+/10.10.34.12:36401	B
+(no	O
+session	O
+established	O
+for	O
+client)	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:47180	B
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Processed	O
+session	O
+termination	O
+for	O
+sessionid:	O
+0x14edfaa86f60019	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+3,	B
+error	O
+=	O
+
+Interrupted	O
+while	O
+waiting	O
+for	O
+message	O
+on	O
+queue	O
+
+Interrupting	O
+SendWorker	O
+
+Interrupting	O
+SendWorker	O
+
+Revalidating	O
+client:	O
+0x14f05578bd80018	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:51050	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.13:45695	B
+
+Send	O
+worker	O
+leaving	O
+thread	O
+
+Notification	O
+time	O
+out:	O
+60000	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.11:46329	B
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:56322	B
+
+Received	O
+connection	O
+request	O
+/10.10.34.12:56644	B
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+1,	B
+error	O
+=	O
+
+Interrupting	O
+SendWorker	O
+
+Connection	O
+broken	O
+for	O
+id	O
+188978561024,	B
+my	O
+id	O
+=	O
+2,	B
+error	O
+=	O
+

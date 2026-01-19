@@ -1,0 +1,2736 @@
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+blacklistDisablePercent	O
+is	O
+33	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000006	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000004_0	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000002	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000000_0	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+task_1445144423722_0020_m_000000	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+JOB_SETUP	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+IPC	O
+Server	O
+Responder:	O
+starting	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000008	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000006_0	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncher$EventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$ContainerLauncherRouter	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.19266446	B
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000005	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000003_0	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.31981927	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.36388028	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.36317363	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.667	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=1	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.5323719	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Launching	O
+attempt_1445144423722_0020_m_000007_0	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.2781602	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+task_1445144423722_0020_r_000000	B
+Task	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+SCHEDULED	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000009	B
+to	O
+attempt_1445144423722_0020_m_000007_0	B
+
+Resolved	O
+MININT-FNANLI5.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.3624012	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.106881365	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:3	B
+ScheduledReds:0	B
+AssignedMaps:7	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:7	B
+ContRel:0	B
+HostLocal:4	B
+RackLocal:3	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000003	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.36323506	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=0	B
+release=	O
+1	B
+newContainers=0	B
+finishedContainers=1	B
+resourcelimit=<memory:1024,	B
+vCores:-26>	B
+knownNMs=4	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+attempt_1445144423722_0020_m_000009_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.44980705	B
+
+attempt_1445144423722_0020_m_000006_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:7168,	B
+vCores:-20>	B
+knownNMs=4	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:0	B
+ScheduledReds:0	B
+AssignedMaps:10	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:10	B
+ContRel:0	B
+HostLocal:7	B
+RackLocal:3	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+All	O
+maps	O
+assigned.	O
+Ramping	O
+up	O
+all	O
+remaining	O
+reduces:1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+task_1445144423722_0020_m_000005	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.19255035	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000003	B
+asked	O
+for	O
+a	O
+task	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000000_0	B
+:	O
+13562	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.36388028	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.9543898	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+RUNNING	O
+to	O
+FAIL_CONTAINER_CLEANUP	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000007	B
+to	O
+attempt_1445144423722_0020_m_000005_0	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Not	O
+uberizing	O
+job_1445144423722_0020	B
+because:	O
+not	O
+enabled;	O
+too	O
+many	O
+maps;	O
+too	O
+much	O
+input;	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.jobhistory.EventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.5323719	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Executing	O
+with	O
+tokens:	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.10685723	B
+
+Before	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:3	B
+ScheduledReds:1	B
+AssignedMaps:9	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+adding	O
+path	O
+spec:	O
+/mapreduce/*	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.2783809	B
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000010	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:5120,	B
+vCores:-22>	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Error	O
+writing	O
+History	O
+Event:	O
+org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.358454	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.106964506	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.19258286	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000000_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000002	B
+on	O
+NM:	O
+[04DN8IQ.fareast.corp.microsoft.com:54883]	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.19242907	B
+
+Extract	O
+jar:file:/D:/hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-SNAPSHOT.jar!/webapps/mapreduce	B
+to	O
+C:\Users\msrabi\AppData\Local\Temp\Jetty_0_0_0_0_62267_mapreduce____.8n7xum\webapp	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Default	O
+file	O
+system	O
+[hdfs://msra-sa-41:9000]	B
+
+attempt_1445144423722_0020_m_000001_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	O
+to	O
+ASSIGNED	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Resolved	O
+04DN8IQ.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.4486067	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Task	O
+cleanup	O
+failed	O
+for	O
+attempt	O
+attempt_1445144423722_0020_m_000002_0	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.5091932	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.44968578	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.27613032	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:10240,	B
+vCores:-17>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Size	O
+of	O
+containertokens_dob	O
+is	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:1	B
+ScheduledReds:1	B
+AssignedMaps:9	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.05713628	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:4096,	B
+vCores:-23>	B
+knownNMs=4	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+attempt_1445144423722_0020_m_000009_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Adding	O
+protocol	O
+org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB	O
+to	O
+the	O
+server	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.44950968	B
+
+attempt_1445144423722_0020_m_000001_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+RUNNING	O
+to	O
+FAIL_CONTAINER_CLEANUP	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.10875365	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.36390656	B
+
+OutputCommitter	O
+set	O
+in	O
+config	O
+null	B
+
+KILLING	O
+attempt_1445144423722_0020_m_000003_0	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000008	B
+to	O
+attempt_1445144423722_0020_m_000006_0	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+attempt_1445144423722_0020_m_000001_1	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+JVM	O
+with	O
+ID	O
+:	O
+jvm_1445144423722_0020_m_000005	B
+asked	O
+for	O
+a	O
+task	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+task_1445144423722_0020_m_000007	B
+Task	O
+Transitioned	O
+from	O
+SCHEDULED	O
+to	O
+RUNNING	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:9	B
+ScheduledReds:0	B
+AssignedMaps:1	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:1	B
+ContRel:0	B
+HostLocal:0	B
+RackLocal:1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:8192,	B
+vCores:-19>	B
+
+attempt_1445144423722_0020_m_000008_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	O
+to	O
+UNASSIGNED	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Added	O
+attempt_1445144423722_0020_m_000002_1	B
+to	O
+list	O
+of	O
+failed	O
+maps	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
