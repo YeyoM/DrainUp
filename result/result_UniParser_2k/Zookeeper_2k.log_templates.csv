@@ -1,0 +1,47 @@
+EventId,EventTemplate
+0,Starting quorum peer
+1,Received connection request <*>
+2,******* GOODBYE <*> ********
+3,"Have smaller server identifier, so dropping the connection: <*>"
+4,Reading snapshot <*>
+5,LOOKING
+6,Getting a snapshot from leader
+7,Have quorum of supporters; starting up and setting last processed zxid: <*>
+8,Cannot open channel to <*> at election address <*>
+9,autopurge.snapRetainCount set to <*>
+10,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running
+11,My election bind port: <*>
+12,Closed socket connection for client <*> (no session established for client)
+13,Connection request from old client <*> will be dropped if server is in r-o mode
+14,autopurge.purgeInterval set to <*>
+15,Send worker leaving thread
+16,minSessionTimeout set to <*>
+17,Revalidating client: <*>
+18,Unexpected Exception:
+19,Connection broken for id <*> my id = <*> error =
+20,Established session <*> with negotiated timeout <*> for client <*>
+21,tickTime set to <*>
+22,Expiring session <*> timeout of <*> exceeded
+23,Server environment:user.dir=/
+24,New election. My id =  <*> proposed <*>
+25,Snapshotting: <*> to <*>
+26,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
+27,FOLLOWING - LEADER ELECTION TOOK - <*>
+28,Accepted socket connection from <*>
+29,Interrupted while waiting for message on queue
+30,Sending DIFF
+31,Notification time out: <*>
+32,Processed session termination for sessionid: <*>
+33,Interrupting SendWorker
+34,Unexpected exception causing shutdown while sock still open
+35,Client attempting to renew session <*> at <*>
+36,Server environment:java.vendor=Oracle Corporation
+37,Closed socket connection for client <*> which had sessionid <*>
+38,caught end of stream exception
+39,Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4
+40,First is <*>
+41,maxSessionTimeout set to <*>
+42,"Server environment:zookeeper.version=3.4.5--1, built on <*> GMT"
+43,shutdown of request processor complete
+44,FOLLOWING
+45,Got user-level KeeperException when processing <*> type:create cxid:0x55b8bb0f <*> txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper

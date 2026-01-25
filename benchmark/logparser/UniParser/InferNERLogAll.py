@@ -6,22 +6,24 @@ from ner.lr_finder import LRFinder
 from ner.trainer import Trainer
 from pprint import pprint
 from tqdm import tqdm
-from collections import Counter
 import os
 import csv
 import argparse
 import time
+import json
 
 def csv_reader(path):
     with open(path, 'r', encoding='utf-8') as fp:
         reader = csv.reader(fp)
         data = [i for i in reader]
     return data
+
 def csv_writer(path, header, data):
     with open(path, 'w', encoding='utf-8_sig', newline="") as csvfile:
         writer = csv.writer(csvfile, delimiter=',')
         writer.writerow(header)
         writer.writerows(data)
+
 def set_seed(seed=42):
     os.environ['PYHTONHASHSEED'] = str(seed)
     torch.manual_seed(seed)
@@ -30,7 +32,6 @@ def set_seed(seed=42):
 
 
 if __name__ == "__main__":
-    # os.environ["CUDA_VISIBLE_DEVICES"] = "2"
     config = argparse.ArgumentParser()
     config.add_argument('-full', '--full_data',
                         help="Set this if you want to test on full dataset",
@@ -40,18 +41,23 @@ if __name__ == "__main__":
     find_lr = False
     set_seed(42)
     use_device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    # use_device = torch.device("cuda")
     datasets = ['Apache', 'BGL', 'HDFS', 'HPC', 'Hadoop', 'HealthApp', 'Linux', 'Mac', 'OpenSSH', 'OpenStack',
              'Proxifier', 'Spark', 'Thunderbird', 'Zookeeper']
 
+    # Dictionary to store parsing times for all datasets
+    parsing_times = {}
+
     for dataset in datasets:
+        print("\n" + "=" * 50)
+        print(f"=== Parsing {dataset} ===")
+        print("=" * 50)
+        
         training_config = {
             "max_epochs": 50,
             "no_improvement": 10,
             "batch_size": 16,
             "lr": 1e-1,
             "weight_decay": 1e-2
-
         }
         input_folder = os.path.join(f"{data_type}_annotations", dataset, "Loghub-2.0_bin_random")
         corpus = Corpus(
@@ -63,6 +69,7 @@ if __name__ == "__main__":
         print(f"Train set: {len(corpus.train_dataset)} sentences")
         print(f"Val set: {len(corpus.val_dataset)} sentences")
         print(f"Test set: {len(corpus.test_dataset)} sentences")
+
         # configurations building block
         base = {
             "word_input_dim": len(corpus.word_field.vocab),
@@ -92,21 +99,8 @@ if __name__ == "__main__":
             "lstm_layers": 2,
             "lstm_dropout": 0.1
         }
-        # attn = {
-        #     "attn_heads": 16,
-        #     "attn_dropout": 0.25
-        # }
-        # transformer = {
-        #     "model_arch": "transformer",
-        #     "trf_layers": 1,
-        #     "fc_hidden": 256,
-        # }
         configs = {
-            # "bilstm": base,
-            # "bilstm+w2v": {**base, **w2v},
             "bilstm+w2v+cnn": {**base, **w2v, **cnn, **lstm},
-            # "bilstm+w2v+cnn+attn": {**base, **w2v, **cnn, **attn},
-            # "transformer+w2v+cnn": {**base, **transformer, **w2v, **cnn, **attn}
         }
         if find_lr:
             suggested_lrs = {}
@@ -120,12 +114,7 @@ if __name__ == "__main__":
         pprint(suggested_lrs)
 
         for model_name in configs:
-            # TODO: update the model path during inference
             checkpoint_path = f"saved_states_{data_type}/{dataset}/bilstm+w2v+cnn-w50c37f4k3-lstm64L2-lr0.1-epoch100bz16.pt"
-            # checkpoint_path = f"_{data_type}/{dataset}/{model_name}-" \
-            #                   f"w{configs[model_name]['word_emb_dim']}c{configs[model_name]['char_emb_dim']}f{configs[model_name]['char_cnn_filter_num']}k{configs[model_name]['char_cnn_kernel_size']}-" \
-            #                   f"lstm{configs[model_name]['lstm_hidden_dim']}L{configs[model_name]['lstm_layers']}-" \
-            #                   f"lr{suggested_lrs[model_name]}-epoch{training_config['max_epochs']}bz{training_config['batch_size']}.pt"
 
             model = NERModel(**configs[model_name])
             trainer = Trainer(
@@ -140,17 +129,37 @@ if __name__ == "__main__":
             else:
                 print("No checkpoint found. Use model's last state for inference.")
 
-            begin_time = time.time()
             infer_config = {
-                "infering_data_dir": f"../../{data_type}_dataset",
-                "output_dir": f"../../result/result_UniParser_{data_type}",
+                "infering_data_dir": f"../../../result/result_Drain_{data_type}",
+                "output_dir": f"../../../result/result_UniParser_{data_type}",
                 "batch_size": 8
             }
-            # if not os.path.exists(f"{infer_config['output_dir']}/{dataset}"):
-                # os.makedirs(f"{infer_config['output_dir']}/{dataset}")
-            # Start inferring...
-            infer_data = csv_reader(os.path.join(f"{infer_config['infering_data_dir']}/{dataset}/{dataset}_{data_type}.log_structured.csv"))
-            # infer_data = csv_reader(os.path.join(f"./{infer_config['infering_data_dir']}/{dataset}/{dataset}_50.log_structured.csv"))
+
+            # Check if low-confidence file exists
+            low_confidence_file = os.path.join(f"{infer_config['infering_data_dir']}/{dataset}_{data_type}.log_low_confidence.csv")
+            
+            print(f"\nLooking for low-confidence file: {low_confidence_file}")
+            
+            if not os.path.exists(low_confidence_file):
+                print(f"WARNING: Low-confidence file not found for {dataset}: {low_confidence_file}")
+                print(f"Skipping {dataset}. Please run Drain before running UniParser.")
+                parsing_times[dataset] = 0
+                continue
+
+            # Start inferring... (the actual parsing)
+            print(f"Reading low-confidence logs from: {low_confidence_file}")
+            infer_data = csv_reader(low_confidence_file)
+            
+            # Check if file is empty (only header or completely empty)
+            if len(infer_data) <= 1:
+                print(f"INFO: No low-confidence logs found for {dataset} (file is empty or has only header). Skipping with 0 time recorded.")
+                parsing_times[dataset] = 0
+                continue
+
+            print(f"Found {len(infer_data) - 1} low-confidence log entries to process")
+            
+            begin_time = time.time()
+            
             header = infer_data[0]
             sentence_idx = header.index("Content")
             infer_data = infer_data[1:]
@@ -158,11 +167,7 @@ if __name__ == "__main__":
 
             do_batch_infer = True
 
-            # with open(f"../2k_dataset/{dataset}/{dataset}_{data_type}.log", "r") as fr:
-            #     lines = fr.readlines()
-
             if do_batch_infer:
-                # batchs = [lines[i:i+infer_config['batch_size']] for i in range(0, len(lines), infer_config['batch_size'])]
                 batchs = [[item[sentence_idx] for item in infer_data[i:i+infer_config['batch_size']]] for i in range(0, len(infer_data), infer_config['batch_size'])]
                 for batch in tqdm(batchs, desc=f"BatchSize-{infer_config['batch_size']}, total: {len(infer_data)}"):
                     words, infer_tags = trainer.infer_batch(sentences=batch)
@@ -204,7 +209,9 @@ if __name__ == "__main__":
             new_csv = [[ori_item[sentence_idx], template2id[pred], pred] for ori_item, pred in zip(infer_data, predictions)]
             write_path = os.path.join(f"{infer_config['output_dir']}/{dataset}_{data_type}.log_structured.csv")
 
-            # write_path = os.path.join(f"./{infer_config['infering_data_dir']}/{dataset}/{dataset}_50.log_structured_prediction.csv")
+            # Create output directory if it doesn't exist
+            os.makedirs(infer_config['output_dir'], exist_ok=True)
+
             csv_writer(write_path, ["Content", "EventId", "EventTemplate"], new_csv)
 
             with open(f"{infer_config['output_dir']}/{dataset}_{data_type}.log_templates.csv", 'w', newline='') as csvfile:
@@ -212,8 +219,17 @@ if __name__ == "__main__":
                 writer.writerow(['EventId', 'EventTemplate'])
                 for key, value in template2id.items():
                     writer.writerow([value, key])
+            
             end_time = time.time()
-            with open(f"infer_time_{data_type}.txt", "a") as fw:
-                fw.write(f"UniParser: {dataset} ")
-                fw.write("{:3f}\n".format(end_time - begin_time))
+            elapsed_time = end_time - begin_time
+            parsing_times[dataset] = elapsed_time
+            print(f"UniParser: {dataset} - {elapsed_time:.4f}s")
 
+    # Save all parsing times to JSON file
+    json_output_path = f"../../../result/result_UniParser_{data_type}/parsing_times.json"
+    os.makedirs(os.path.dirname(json_output_path), exist_ok=True)
+    
+    with open(json_output_path, 'w') as json_file:
+        json.dump(parsing_times, json_file, indent=2)
+    
+    print(f"\nParsing times saved to: {json_output_path}")
