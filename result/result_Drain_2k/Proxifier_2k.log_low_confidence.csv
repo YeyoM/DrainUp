@@ -1,0 +1,19 @@
+Time,Program,Content
+10.30 16:49:06,chrome.exe,proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS
+10.30 16:49:07,chrome.exe,"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01"
+10.30 16:49:07,chrome.exe,"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 18846 bytes (18.4 KB) received, lifetime <1 sec"
+10.30 16:49:08,chrome.exe,"proxy.cse.cuhk.edu.hk:5070 close, 1190 bytes (1.16 KB) sent, 1671 bytes (1.63 KB) received, lifetime 00:02"
+10.30 16:49:09,chrome.exe,"proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 KB) sent, 815 bytes received, lifetime <1 sec"
+10.30 17:02:17,putty.exe,183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 SOCKS5
+10.30 17:15:42,QQ.exe,tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.
+10.30 17:16:10,QQ.exe,tcpconn4.tencent.com:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.
+10.30 17:51:21,QQ.exe,"2052.flash2-http.qq.com:80 close, 466 bytes sent, 125682 bytes (122 KB) received, lifetime <1 sec"
+10.30 18:00:12,FlashPlayerPlugin_18_0_0_209.exe,"formi.baidu.com:843 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403"
+10.30 18:05:44,firefox.exe,"proxy.cse.cuhk.edu.hk:5070 close, 983 bytes sent, 308385 bytes (301 KB) received, lifetime 01:57"
+10.30 18:11:26,chrome.exe,"proxy.cse.cuhk.edu.hk:5070 close, 326 bytes sent, 103039 bytes (100 KB) received, lifetime 00:01"
+10.30 20:46:52,chrome.exe,"proxy.cse.cuhk.edu.hk:5070 close, 588 bytes sent, 215882 bytes (210 KB) received, lifetime 00:03"
+07.26 14:23:31,Dropbox.exe,"block-edge.dropbox.com:443 close, 861480 bytes (841 KB) sent, 5464 bytes (5.33 KB) received, lifetime 01:45"
+07.26 15:31:07,chrome.exe *64,"dslb.cdn.krcom.cn:80 close, 446 bytes sent, 195160 bytes (190 KB) received, lifetime 00:59"
+07.26 16:21:04,chrome.exe *64,"clients2.google.com:443 close, 154863 bytes (151 KB) sent, 321609 bytes (314 KB) received, lifetime 01:00:12"
+07.26 17:23:51,WeChat.exe,223.167.104.147:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001
+07.27 05:05:50,chrome.exe *64,qa.sockets.stackexchange.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061

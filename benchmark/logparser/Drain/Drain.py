@@ -1,6 +1,6 @@
 """
-Description : This file implements the Drain algorithm for log parsing
-Author      : LogPAI team
+Description : This file implements the Drain algorithm for log parsing with confidence scoring
+Author      : LogPAI team (modified for confidence filtering)
 License     : MIT
 """
 
@@ -31,7 +31,7 @@ class Node:
 
 class LogParser:
     def __init__(self, log_format, indir='./', outdir='./result/', depth=4, st=0.4, 
-                 maxChild=100, rex=[], keep_para=True):
+                 maxChild=100, rex=[], keep_para=True, confidence_threshold=0.5):
         """
         Attributes
         ----------
@@ -42,6 +42,7 @@ class LogParser:
             maxChild : max number of children of an internal node
             logName : the name of the input file containing raw log messages
             savePath : the output path stores the file containing structured logs
+            confidence_threshold : threshold below which logs are written to low-confidence file
         """
         self.path = indir
         self.depth = depth - 2
@@ -53,16 +54,18 @@ class LogParser:
         self.log_format = log_format
         self.rex = rex
         self.keep_para = keep_para
+        self.confidence_threshold = confidence_threshold
 
     def hasNumbers(self, s):
         return any(char.isdigit() for char in s)
 
     def treeSearch(self, rn, seq):
         retLogClust = None
+        confidence = 0.0
 
         seqLen = len(seq)
         if seqLen not in rn.childD:
-            return retLogClust
+            return retLogClust, confidence
 
         parentn = rn.childD[seqLen]
 
@@ -76,14 +79,14 @@ class LogParser:
             elif '<*>' in parentn.childD:
                 parentn = parentn.childD['<*>']
             else:
-                return retLogClust
+                return retLogClust, confidence
             currentDepth += 1
 
         logClustL = parentn.childD
 
-        retLogClust = self.fastMatch(logClustL, seq)
+        retLogClust, confidence = self.fastMatch(logClustL, seq)
 
-        return retLogClust
+        return retLogClust, confidence
 
     def addSeqToPrefixTree(self, rn, logClust):
         seqLen = len(logClust.logTemplate)
@@ -177,7 +180,7 @@ class LogParser:
         if maxSim >= self.st:
             retLogClust = maxClust  
 
-        return retLogClust
+        return retLogClust, maxSim
 
     def getTemplate(self, seq1, seq2):
         assert len(seq1) == len(seq2)
@@ -255,18 +258,22 @@ class LogParser:
 
         self.load_data()
 
+        # Track confidence scores for each log line
+        confidence_scores = [0.0] * self.df_log.shape[0]
+
         count = 0
         for idx, line in self.df_log.iterrows():
             logID = line['LineId']
             logmessageL = self.preprocess(line['Content']).strip().split()
-            # logmessageL = filter(lambda x: x != '', re.split('[\s=:,]', self.preprocess(line['Content'])))
-            matchCluster = self.treeSearch(rootNode, logmessageL)
+            
+            matchCluster, confidence = self.treeSearch(rootNode, logmessageL)
 
             #Match no existing log cluster
             if matchCluster is None:
                 newCluster = Logcluster(logTemplate=logmessageL, logIDL=[logID])
                 logCluL.append(newCluster)
                 self.addSeqToPrefixTree(rootNode, newCluster)
+                confidence_scores[logID - 1] = 0.0  # No match found
 
             #Add the new log message to the existing cluster
             else:
@@ -274,6 +281,7 @@ class LogParser:
                 matchCluster.logIDL.append(logID)
                 if ' '.join(newTemplate) != ' '.join(matchCluster.logTemplate): 
                     matchCluster.logTemplate = newTemplate
+                confidence_scores[logID - 1] = confidence
 
             count += 1
             if count % 1000 == 0 or count == len(self.df_log):
@@ -283,9 +291,46 @@ class LogParser:
         if not os.path.exists(self.savePath):
             os.makedirs(self.savePath)
 
+        # Add confidence scores to dataframe
+        self.df_log['Confidence'] = confidence_scores
+
+        # Output low-confidence logs to separate file
+        self.output_low_confidence_logs()
+
+        # Output regular results (backward compatible)
         self.outputResult(logCluL)
 
         print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - start_time))
+
+    def output_low_confidence_logs(self):
+        """
+        Output log lines with confidence below threshold to a separate file.
+        This file has the same format as the input file for UniParser compatibility.
+        File is always replaced if it exists to ensure clean output with current threshold.
+        """
+        output_file = os.path.join(self.savePath, self.logName + '_low_confidence.csv')
+        
+        # Remove existing file if it exists to ensure clean replacement
+        if os.path.exists(output_file):
+            os.remove(output_file)
+            print(f"Removed existing low-confidence file: {output_file}")
+        
+        # Filter logs below confidence threshold
+        low_conf_df = self.df_log[self.df_log['Confidence'] < self.confidence_threshold].copy()
+        
+        if len(low_conf_df) > 0:
+            # Get original column headers (exclude LineId and Confidence)
+            headers = [col for col in self.df_log.columns if col not in ['LineId', 'Confidence', 'EventId', 'EventTemplate', 'ParameterList']]
+            
+            # Output only original columns for UniParser compatibility
+            low_conf_df[headers].to_csv(output_file, index=False)
+            
+            print(f"Output {len(low_conf_df)} low-confidence logs (< {self.confidence_threshold}) to {output_file}")
+            print(f"Confidence distribution: min={low_conf_df['Confidence'].min():.3f}, "
+                  f"max={low_conf_df['Confidence'].max():.3f}, "
+                  f"mean={low_conf_df['Confidence'].mean():.3f}")
+        else:
+            print(f"No low-confidence logs found (threshold: {self.confidence_threshold})")
 
     def load_data(self):
         headers, regex = self.generate_logformat_regex(self.log_format)
