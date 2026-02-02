@@ -1,0 +1,37 @@
+EventId,EventTemplate,Occurrences
+2817a946,Received disconnect from <*>: 11: <*> <*> <*>,413
+066b4d3e,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= <*> <*>,383
+f831cb6d,Failed password for <*> from <*> port <*> ssh2,383
+0849a7d0,pam_unix(sshd:auth): check pass; user unknown,135
+21bb6d0e,Failed password for invalid user <*> from <*> port <*> ssh2,135
+9302fad4,Invalid user <*> from <*>,113
+6b674ff1,input_userauth_request: invalid user <*> [preauth],112
+e2315f39,pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,109
+f7fe7f88,reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!,84
+d7242a1b,error: Received disconnect from <*>: 14: No more user authentication methods available. [preauth],44
+2491ca3e,Connection closed by <*> [preauth],34
+c926c7d9,Did not receive identification string from <*>,10
+6ff8b88b,PAM <*> more authentication <*> logname= uid=0 euid=0 tty=ssh ruser= rhost=<*>,7
+e2e22af4,Received disconnect from <*>: 11: Closed due to user request. [preauth],6
+00a684b8,PAM service(sshd) ignoring max retries; <*> > 3,6
+2702de18,Failed none for invalid user <*> from <*> port <*> ssh2,4
+509a487f,Disconnecting: Too many authentication failures for <*> [preauth],3
+fb624da8,Accepted password for <*> from <*> port <*> ssh2,1
+2f0e2a2f,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= <*>,1
+d8131f6d,pam_unix(sshd:session): session opened for user fztu by <*>,1
+d15baeb1,error: Received disconnect from <*> No more user authentication methods available. [preauth],1
+216ab66c,PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= <*> user=root,1
+4fbf66db,message repeated 5 times: [ Failed password for root from <*> port <*> ssh2],1
+cfe22f2e,pam_unix(sshd:session): session closed for user fztu,1
+e2b4c8e9,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com <*> failed - POSSIBLE BREAK-IN ATTEMPT!,1
+2f4ef63d,Received disconnect from <*> Closed due to user request. [preauth],1
+3a7285d3,error: Received disconnect from <*>: 3: <*>: Auth fail [preauth],1
+ebc2d194,error: Received disconnect from <*> com.jcraft.jsch.JSchException: Auth fail [preauth],1
+2f2318e5,PAM service(sshd) ignoring max retries; <*> > <*>,1
+85108c71,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,1
+62b06c7d,message repeated <*> times: [ Failed password for <*> from <*> port <*> ssh2],1
+23b13093,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>  user=root,1
+875aadf6,Received disconnect from <*> Bye Bye [preauth],1
+e28cd049,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>,1
+b5c76b83,input_userauth_request: invalid user webmaster [preauth],1
+f32f0642,fatal: Write failed: Connection reset by peer [preauth],1

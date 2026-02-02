@@ -2,7 +2,7 @@
 
 # GO TO DRAIN DIR
 echo "CDing into directory"
-cd ../benchmark/logparser/Drain
+cd ../../../benchmark/logparser/Drain
 pwd
 
 # ACTIVATE THE PYTHON ENV

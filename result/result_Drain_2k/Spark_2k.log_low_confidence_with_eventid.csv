@@ -1,0 +1,34 @@
+Date,Time,Level,Component,Content,EventId
+17/06/09,20:10:40,INFO,executor.CoarseGrainedExecutorBackend,"Registered signal handlers for [TERM, HUP, INT]",932c104e
+17/06/09,20:10:40,INFO,spark.SecurityManager,"Changing view acls to: yarn,curi",7bb9d001
+17/06/09,20:10:40,INFO,spark.SecurityManager,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",29bc3dfc
+17/06/09,20:10:41,INFO,slf4j.Slf4jLogger,Slf4jLogger started,b923f8c3
+17/06/09,20:10:41,INFO,Remoting,Starting remoting,e99571c6
+17/06/09,20:10:41,INFO,Remoting,Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],27a2a4ad
+17/06/09,20:10:41,INFO,util.Utils,Successfully started service 'sparkExecutorActorSystem' on port 55904.,f5a68e94
+17/06/09,20:10:41,INFO,storage.DiskBlockManager,Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,9ffef012
+17/06/09,20:10:41,INFO,storage.MemoryStore,MemoryStore started with capacity 17.7 GB,ab59d05a
+17/06/09,20:10:42,INFO,executor.CoarseGrainedExecutorBackend,Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069,06cc9899
+17/06/09,20:10:42,INFO,executor.CoarseGrainedExecutorBackend,Successfully registered with driver,5a5c5838
+17/06/09,20:10:42,INFO,executor.Executor,Starting executor ID 5 on host mesos-slave-07,508e4f7f
+17/06/09,20:10:42,INFO,netty.NettyBlockTransferService,Server created on 40984,a352752c
+17/06/09,20:10:42,INFO,storage.BlockManagerMaster,Trying to register BlockManager,17f432d4
+17/06/09,20:10:42,INFO,storage.BlockManagerMaster,Registered BlockManager,1c507e44
+17/06/09,20:10:45,INFO,executor.CoarseGrainedExecutorBackend,Got assigned task 0,9ba7fdc2
+17/06/09,20:10:45,INFO,executor.Executor,Running task 0.0 in stage 0.0 (TID 0),ae0572db
+17/06/09,20:10:45,INFO,broadcast.TorrentBroadcast,Started reading broadcast variable 9,6c90e140
+17/06/09,20:10:45,INFO,storage.MemoryStore,"Block broadcast_9_piece0 stored as bytes in memory (estimated size 5.2 KB, free 5.2 KB)",7d93e8ed
+17/06/09,20:10:45,INFO,broadcast.TorrentBroadcast,Reading broadcast variable 9 took 160 ms,c0edc03b
+17/06/09,20:10:46,INFO,spark.CacheManager,"Partition rdd_2_1 not found, computing it",3d6e0eb0
+17/06/09,20:10:46,INFO,rdd.HadoopRDD,Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292,f1a8cca8
+17/06/09,20:10:47,INFO,Configuration.deprecation,"mapred.tip.id is deprecated. Instead, use mapreduce.task.id",8671f9ed
+17/06/09,20:10:47,INFO,Configuration.deprecation,"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id",863158e5
+17/06/09,20:10:47,INFO,Configuration.deprecation,"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap",e4c5fa8f
+17/06/09,20:10:47,INFO,Configuration.deprecation,"mapred.job.id is deprecated. Instead, use mapreduce.job.id",8ae18a42
+17/06/09,20:10:47,INFO,Configuration.deprecation,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition",6e5305e4
+17/06/09,20:10:48,INFO,python.PythonRunner,"Times: total = 1072, boot = 856, init = 210, finish = 6",15498983
+17/06/09,20:10:48,INFO,executor.Executor,Finished task 3.0 in stage 0.0 (TID 3). 2703 bytes result sent to driver,33da0487
+17/06/09,20:10:52,INFO,storage.BlockManager,Found block rdd_2_0 locally,d7f24216
+17/06/09,20:10:57,INFO,output.FileOutputCommitter,File Output Committer Algorithm version is 1,a899e693
+17/06/09,20:10:57,INFO,output.FileOutputCommitter,Saved output of task 'attempt_201706092018_0024_m_000003_1012' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003,e967b817
+17/06/09,20:10:57,INFO,mapred.SparkHadoopMapRedUtil,attempt_201706092018_0024_m_000004_1026: Committed,9a5790d1

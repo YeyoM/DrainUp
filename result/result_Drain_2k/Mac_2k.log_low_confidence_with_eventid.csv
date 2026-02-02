@@ -1,0 +1,579 @@
+Month,Date,Time,User,Component,PID,Address,Content,EventId
+Jul,1,09:00:55,calvisitor-10-105-160-95,kernel,0,,IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 11 unplug = 0,fea8a7f7
+Jul,1,09:01:05,calvisitor-10-105-160-95,com.apple.CDScheduler,43,,Thermal pressure state: 1 Memory pressure state: 0,b7aaf5db
+Jul,1,09:01:06,calvisitor-10-105-160-95,QQ,10018,,FA||Url||taskID[2019352994] dealloc,bf6f5aee
+Jul,1,09:02:26,calvisitor-10-105-160-95,kernel,0,,ARPT: 620701.011328: AirPort_Brcm43xx::syncPowerState: WWEN[enabled],8f8ef862
+Jul,1,09:02:26,authorMacBook-Pro,kernel,0,,ARPT: 620702.879952: AirPort_Brcm43xx::platformWoWEnable: WWEN[disable],39189f14
+Jul,1,09:03:11,calvisitor-10-105-160-95,mDNSResponder,91,,mDNS_DeregisterInterface: Frequent transitions for interface awdl0 (FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF),1e62c609
+Jul,1,09:03:13,calvisitor-10-105-160-95,kernel,0,,"ARPT: 620749.901374: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,",f713d2b6
+Jul,1,09:04:33,calvisitor-10-105-160-95,kernel,0,,"ARPT: 620750.434035: wl0: wl_update_tcpkeep_seq: Original Seq: 3226706533, Ack: 3871687177, Win size: 4096",13c2a597
+Jul,1,09:04:33,authorMacBook-Pro,kernel,0,,ARPT: 620752.337198: ARPT: Wake Reason: Wake on Scan offload,548a9986
+Jul,1,09:04:37,authorMacBook-Pro,symptomsd,215,,__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2,1ca51907
+Jul,1,09:12:20,authorMacBook-Pro,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,1,09:18:16,calvisitor-10-105-160-95,kernel,0,,"ARPT: 620896.311264: wl0: MDNS: 0 SRV Recs, 0 TXT Recs",8d0bbd5d
+Jul,1,09:19:03,calvisitor-10-105-160-95,kernel,0,,AppleCamIn::systemWakeCall - messageType = 0xE0000340,dff6d2b2
+Jul,1,09:19:03,authorMacBook-Pro,configd,53,,"setting hostname to ""authorMacBook-Pro.local""",91eeaa24
+Jul,1,09:19:13,calvisitor-10-105-160-95,com.apple.cts,258,,"com.apple.icloud.fmfd.heartbeat: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 439034 seconds.  Ignoring.",8c3389f0
+Jul,1,09:21:57,authorMacBook-Pro,corecaptured,31174,,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,2fe4ad5c
+Jul,1,09:21:58,calvisitor-10-105-160-95,com.apple.WebKit.WebContent,25654,,[09:21:58.929] <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.,a097cfec
+Jul,1,09:22:25,calvisitor-10-105-160-95,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,1,09:23:26,calvisitor-10-105-160-95,kernel,0,,AirPort: Link Down on awdl0. Reason 1 (Unspecified).,005b6de9
+Jul,1,09:24:13,calvisitor-10-105-160-95,kernel,0,,"PM response took 2010 ms (54, powerd)",70e478c0
+Jul,1,09:25:45,calvisitor-10-105-160-95,kernel,0,,"ARPT: 621131.293163: wl0: Roamed or switched channel, reason #8, bssid 5c:50:15:4c:18:13, last RSSI -64",8f5dffe0
+Jul,1,09:26:43,calvisitor-10-105-160-95,networkd,195,,nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x4 to 0x8000000000000000,f09b7e9d
+Jul,1,09:27:06,calvisitor-10-105-160-95,kernel,0,,"IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)",7c9ca2b5
+Jul,1,09:28:41,authorMacBook-Pro,netbiosd,31198,,"network_reachability_changed : network is not reachable, netbiosd is shutting down",8274cb77
+Jul,1,09:28:41,authorMacBook-Pro,corecaptured,31206,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,1,09:29:02,calvisitor-10-105-160-95,sandboxd,129,[31211],com.apple.Addres(31211) deny network-outbound /private/var/run/mDNSResponder,19147422
+Jul,1,09:29:14,calvisitor-10-105-160-95,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,1,09:29:25,calvisitor-10-105-160-95,kernel,0,,ARPT: 621241.634070: wl0: MDNS: IPV6 Addr: 2607:f140:6000:8:c6b3:1ff:fecd:467f,55561498
+Jul,1,09:31:48,authorMacBook-Pro,kernel,0,,AirPort: Link Up on en0,de1b8e5e
+Jul,1,09:32:13,calvisitor-10-105-160-95,kernel,0,,Sandbox: com.apple.Addres(31229) deny(1) network-outbound /private/var/run/mDNSResponder,9cdbf8d2
+Jul,1,09:33:13,calvisitor-10-105-160-95,kernel,0,,ARPT: 621342.242614: AirPort_Brcm43xx::platformWoWEnable: WWEN[enable],46365224
+Jul,1,09:34:42,calvisitor-10-105-160-95,kernel,0,,AppleThunderboltGenericHAL::earlyWake - complete - took 0 milliseconds,a5714044
+Jul,1,09:36:19,calvisitor-10-105-160-95,kernel,0,,AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 7,e3b61a44
+Jul,1,09:39:57,calvisitor-10-105-160-95,kernel,0,,"ARPT: 621490.858770: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2119064372, Ack 3325040593, Win size 278",0753c14d
+Jul,1,09:41:34,calvisitor-10-105-160-95,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,1,09:42:23,calvisitor-10-105-160-95,kernel,0,,AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0,31fcada6
+Jul,1,09:42:54,calvisitor-10-105-160-95,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,1,09:43:22,calvisitor-10-105-160-95,mDNSResponder,91,,mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F),1cc4f682
+Jul,1,09:44:23,authorMacBook-Pro,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,1,09:45:08,calvisitor-10-105-160-95,kernel,0,,"ARPT: 621686.164365: wl0: setup_keepalive: Local port: 62614, Remote port: 443",a91f5e42
+Jul,1,10:08:20,calvisitor-10-105-160-95,Dock,307,,-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-01 17:08:20 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319),cb6d7ba7
+Jul,1,10:08:20,calvisitor-10-105-160-95,kernel,0,,en0: channel changed to 1,86f9b3d4
+Jul,1,10:08:20,authorMacBook-Pro,kernel,0,,ARPT: 621799.252673: AQM agg results 0x8001 len hi/lo: 0x0 0x26 BAbitmap(0-3) 0 0 0 0,8501e33e
+Jul,1,10:08:21,authorMacBook-Pro,corecaptured,31313,,"CCFile::captureLog Received Capture notice id: 1498928900.759059, reason = AuthFail:sts:5_rsn:0",60a574ff
+Jul,1,10:08:49,calvisitor-10-105-160-95,kernel,0,,IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED,6a6d7984
+Jul,1,10:08:55,calvisitor-10-105-160-95,AddressBookSourceSync,31318,,Unrecognized attribute value: t:AbchPersonItemType,75353338
+Jul,1,10:13:39,calvisitor-10-105-160-95,secd,276,,"SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=1035 ""Account identity not set"" UserInfo={NSDescription=Account identity not set}",61cb43e6
+Jul,1,10:13:43,calvisitor-10-105-160-95,SpotlightNetHelper,352,,"CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data",37c8aee1
+Jul,1,10:46:47,calvisitor-10-105-160-95,sharingd,30299,,10:46:47.425 : BTLE scanner Powered On,0af63e74
+Jul,1,10:46:48,calvisitor-10-105-160-95,QQ,10018,,button report: 0x8002be0,c5fb0953
+Jul,1,11:20:51,calvisitor-10-105-160-95,sharingd,30299,,11:20:51.293 : BTLE discovered device with hash <01faa200 00000000 0000>,4c518767
+Jul,1,11:24:45,calvisitor-10-105-160-95,secd,276,,"securityd_xpc_dictionary_handler cloudd[326] copy_matching Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",48b41a73
+Jul,1,11:29:32,calvisitor-10-105-160-95,locationd,82,,Location icon should now be in state 'Inactive',3813df52
+Jul,1,11:38:18,calvisitor-10-105-160-95,kernel,0,,"ARPT: 626126.086205: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10",a0672ef8
+Jul,1,11:38:18,calvisitor-10-105-160-95,kernel,0,,ARPT: 626126.086246: wl0: MDNS: IPV4 Addr: 10.105.160.95,6de264d8
+Jul,1,11:39:48,authorMacBook-Pro,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,1,11:39:48,calvisitor-10-105-160-95,networkd,195,,__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! QQ.10018 tc19060 125.39.133.143:14000,086cf4fa
+Jul,1,11:41:26,authorMacBook-Pro,kernel,0,,"Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0",fddcfc77
+Jul,1,11:43:08,authorMacBook-Pro,UserEventAgent,43,,Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive),c6b40f22
+Jul,1,11:44:25,authorMacBook-Pro,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,1,11:46:16,calvisitor-10-105-160-95,symptomsd,215,,-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.,209c69a9
+Jul,1,11:46:19,authorMacBook-Pro,sharingd,30299,,11:46:19.229 : Finished generating hashes,076ba0da
+Jul,1,11:46:21,authorMacBook-Pro,UserEventAgent,43,,Captive: CNPluginHandler en0: Evaluating,832283b9
+Jul,1,11:49:29,calvisitor-10-105-160-95,QQ,10018,,tcp_connection_destination_perform_socket_connect 19110 connectx to 183.57.48.75:80@0 failed: [50] Network is down,975ff4da
+Jul,1,11:49:29,calvisitor-10-105-160-95,kernel,0,,AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).,57ec2813
+Jul,1,11:49:29,authorMacBook-Pro,kernel,0,,"USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3",1bf3d457
+Jul,1,11:49:30,authorMacBook-Pro,corecaptured,31480,,CCXPCService::setStreamEventHandler Registered for notification callback.,ee8ee29b
+Jul,1,11:49:30,authorMacBook-Pro,Dropbox,24019,,[0701/114930:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.,47bc472f
+Jul,1,11:49:35,calvisitor-10-105-160-95,cdpd,11807,,Saw change in network reachability (isReachable=2),b58d6d06
+Jul,1,11:51:02,authorMacBook-Pro,kernel,0,,[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01),e9f3f528
+Jul,1,11:51:07,authorMacBook-Pro,kernel,0,,en0: BSSID changed to 5c:50:15:36:bc:03,3a8476ad
+Jul,1,11:51:25,calvisitor-10-105-160-95,com.apple.AddressBook.InternetAccountsBridge,31496,,dnssd_clientstub ConnectToServer: connect()-> No of tries: 1,fe0771c3
+Jul,1,11:53:49,authorMacBook-Pro,networkd,195,,-[NETClientConnection effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID,9a054d77
+Jul,1,12:52:57,calvisitor-10-105-160-95,kernel,0,,"RTC: Maintenance 2017/7/1 19:52:56, sleep 2017/7/1 19:40:18",08b5f84e
+Jul,1,12:52:57,calvisitor-10-105-160-95,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,1,13:41:48,calvisitor-10-105-160-95,kernel,0,,RTC: PowerByCalendarDate setting ignored,c5de5950
+Jul,1,13:47:33,calvisitor-10-105-160-95,kernel,0,,en0: 802.11d country code set to 'X3'.,7437a69c
+Jul,1,14:01:24,calvisitor-10-105-160-95,kernel,0,,"ARPT: 627305.613279: wl0: setup_keepalive: Seq: 1664112163, Ack: 818851215, Win size: 4096",33b587ef
+Jul,1,14:29:01,calvisitor-10-105-160-95,sandboxd,129,[10018],QQ(10018) deny mach-lookup com.apple.networking.captivenetworksupport,4362eb23
+Jul,1,14:52:03,calvisitor-10-105-160-95,kernel,0,,[HID] [MT] AppleMultitouchDevice::willTerminate entered,43658a65
+Jul,1,14:52:03,calvisitor-10-105-160-95,blued,85,,[BluetoothHIDDeviceController] EventServiceDisconnectedCallback,aaf79c0c
+Jul,1,15:05:42,calvisitor-10-105-160-95,kernel,0,,PMStats: Hibernate read took 197 ms,7a896c20
+Jul,1,15:05:51,calvisitor-10-105-160-95,com.apple.AddressBook.InternetAccountsBridge,31654,,dnssd_clientstub ConnectToServer: connect() failed path:/var/run/mDNSResponder Socket:4 Err:-1 Errno:1 Operation not permitted,1b7a983d
+Jul,1,19:43:22,calvisitor-10-105-160-95,kernel,0,,"pages 1471315, wire 491253, act 449877, inact 3, cleaned 0 spec 5, zf 23, throt 0, compr 345876, xpmapped 40000",e2f209de
+Jul,1,19:43:22,calvisitor-10-105-160-95,VDCAssistant,213,,"VDCAssistant:  Found a camera (0x1430000005ac8290) , but was not able to start it up (0x0 -- (os/kern) successful)",d2bf540c
+Jul,1,19:43:22,calvisitor-10-105-160-95,WindowServer,184,,handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3),cf2ccffd
+Jul,1,19:43:36,calvisitor-10-105-163-202,QQ,10018,,button report: 0x8002bdf,54b60a13
+Jul,1,19:46:26,calvisitor-10-105-163-202,GoogleSoftwareUpdateAgent,31702,,"2017-07-01 19:46:26.133 GoogleSoftwareUpdateAgent[31702/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] Checking with local engine: <KSUpdateEngine:0x100259c60 ticketStore=<KSPersistentTicketStore:0x100253770 store=<KSKeyedPersistentStore:0x100254d10 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x100254d80 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x100259e70 delegate=<KSUpdateEngine:0x100259c60> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x1002594d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >",95e2a5a3
+Jul,1,19:46:42,calvisitor-10-105-163-202,iconservicesagent,328,,-[ISGenerateImageOp generateImageWithCompletion:] Failed to composit image for descriptor <ISBindingImageDescriptor: 0x7f9950712080>.,b7844740
+Jul,1,19:50:12,calvisitor-10-105-163-202,quicklookd,31687,,Error returned from iconservicesagent: (null),4d69df78
+Jul,1,20:13:23,calvisitor-10-105-163-202,Safari,9852,,tcp_connection_tls_session_error_callback_imp 1977 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22,5d52b3d1
+Jul,1,20:23:09,calvisitor-10-105-163-202,cloudd,326,,"SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 ""query missing class name"" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}",bceb4345
+Jul,1,21:03:00,calvisitor-10-105-163-202,WindowServer,184,,send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.,ca501184
+Jul,1,21:10:19,calvisitor-10-105-163-202,Preview,11512,,WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.,118b2bf7
+Jul,1,22:03:31,calvisitor-10-105-163-202,com.apple.cts,258,,"com.apple.ical.sync.x-coredata://DB05755C-483D-44B7-B93B-ED06E57FF420/CalDAVPrincipal/p11: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 59 seconds.  Ignoring.",2c25f142
+Jul,1,22:08:16,calvisitor-10-105-163-202,WindowServer,184,,"device_generate_desktop_screenshot: authw 0x7fa823c89600(2000), shield 0x7fa8258cac00(2001)",fb7dc6f7
+Jul,1,22:22:59,calvisitor-10-105-163-202,CalendarAgent,279,,[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].],d8e2131a
+Jul,1,22:25:38,calvisitor-10-105-163-202,locationd,82,,"NETWORK: requery, 0, 0, 0, 0, 250, items, fQueryRetries, 0, fLastRetryTimestamp, 520665636.6",a12012c8
+Jul,1,22:30:15,calvisitor-10-105-163-202,QQ,10018,,button report: 0x8002bdf,54b60a13
+Jul,1,23:32:34,calvisitor-10-105-163-202,kernel,0,,Previous sleep cause: 5,9061729d
+Jul,1,23:46:06,calvisitor-10-105-163-202,kernel,0,,Wake reason: RTC (Alarm),2068da72
+Jul,1,23:46:06,calvisitor-10-105-163-202,kernel,0,,AppleThunderboltNHIType2::prePCIWake - power up complete - took 2 us,04f0e432
+Jul,2,02:18:39,calvisitor-10-105-163-202,configd,53,,network changed: v4(en0-:10.105.163.202) v6(en0:2607:f140:6000:8:c6b3:1ff:fecd:467f) DNS! Proxy SMB,7674dda1
+Jul,2,02:32:17,calvisitor-10-105-163-202,kernel,0,,hibernate_page_list_setall found pageCount 448015,038257e5
+Jul,2,02:32:17,calvisitor-10-105-163-202,kernel,0,,[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key,dc3856c1
+Jul,2,02:32:17,calvisitor-10-105-163-202,kernel,0,,[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x7000,df811d53
+Jul,2,10:20:52,calvisitor-10-105-163-202,QQ,10018,,FA||Url||taskID[2019353117] dealloc,d5dfa319
+Jul,2,10:40:07,calvisitor-10-105-163-202,GoogleSoftwareUpdateAgent,32012,,"2017-07-02 10:40:07.676 GoogleSoftwareUpdateAgent[32012/0x7000002a0000] [lvl=2] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for ""com.google.Keystone"" using engine <KSUpdateEngine:0x100313e70 ticketStore=<KSPersistentTicketStore:0x100332a60 store=<KSKeyedPersistentStore:0x100315fa0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x1003176d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x1003143e0 delegate=<KSUpdateEngine:0x100313e70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x100311a10 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >",c1e28b40
+Jul,2,11:38:49,calvisitor-10-105-163-202,QQ,10018,,2017/07/02 11:38:49.414 | I | VoipWrapper  | DAVEngineImpl.cpp:1400:Close             | close video chat. llFriendUIN = ******2341.,e3d70e64
+Jul,2,12:15:23,calvisitor-10-105-163-202,kernel,0,,Bluetooth -- LE is supported - Disable LE meta event,c86dfdd9
+Jul,2,12:15:23,calvisitor-10-105-163-202,sharingd,30299,,12:15:23.005 : Discoverable mode changed to Off,4279d8f0
+Jul,2,12:15:24,authorMacBook-Pro,QQ,10018,,tcp_connection_handle_connect_conditions_bad 19617 failed: 3 - No network route,54c05f44
+Jul,2,12:29:56,calvisitor-10-105-163-202,kernel,0,,ARPT: 645957.322055: wl0: setup_keepalive: Local IP: 10.105.163.202,b1bcc516
+Jul,2,13:05:38,calvisitor-10-105-163-202,kernel,0,,TBT W (2): 0x0040 [x],44545874
+Jul,2,13:05:40,authorMacBook-Pro,configd,53,,network changed: DNS* Proxy,1efe32ce
+Jul,2,13:10:47,calvisitor-10-105-163-202,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,2,13:44:55,calvisitor-10-105-163-202,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,2,15:06:24,calvisitor-10-105-163-202,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,2,15:46:40,calvisitor-10-105-163-202,GoogleSoftwareUpdateAgent,32432,,2017-07-02 15:46:40.516 GoogleSoftwareUpdateAgent[32432/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) launchedHelperTaskForToolPath:error:] KSOutOfProcessFetcher launched '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch' with process id: 32433,a52eafe1
+Jul,2,15:46:40,calvisitor-10-105-163-202,GoogleSoftwareUpdateAgent,32432,,"2017-07-02 15:46:40.697 GoogleSoftwareUpdateAgent[32432/0x7000002a0000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.",5c868c23
+Jul,2,15:46:41,calvisitor-10-105-163-202,ksfetch,32435,,2017-07-02 15:46:41.445 ksfetch[32435/0x7fff79824000] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x1005110b0> { URL: https://tools.google.com/service/update2?cup2hreq=53f725cf03f511fab16f19e789ce64aa1eed72395fc246e9f1100748325002f4&cup2key=7:1132320327 }) to folder:/tmp/KSOutOfProcessFetcher.YH2CjY1tnx/download,382f5e64
+Jul,2,16:51:10,calvisitor-10-105-163-202,QQ,10018,,FA||Url||taskID[2019353182] dealloc,f0a83c7f
+Jul,2,16:55:53,calvisitor-10-105-163-202,com.apple.xpc.launchd,1,com.apple.xpc.launchd.domain.pid.WebContent.32502,"Path not allowed in target domain: type = pid, path = /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc",b9b132a2
+Jul,2,17:13:46,calvisitor-10-105-163-202,com.apple.WebKit.WebContent,32514,,[17:13:46.390] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7f92413e3000) rejecting report of layer being serviced - IQ has not yet begun to update,9f6d6604
+Jul,2,17:19:15,calvisitor-10-105-163-202,com.apple.WebKit.WebContent,32514,,[17:19:15.148] itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2306,4752a3bd
+Jul,2,17:34:21,calvisitor-10-105-163-202,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,2,17:36:15,calvisitor-10-105-163-202,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,2,17:44:05,calvisitor-10-105-163-202,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,2,17:56:40,calvisitor-10-105-163-202,com.apple.ncplugin.WorldClock,32583,,host connection <NSXPCConnection: 0x7fddbbb015c0> connection from pid 30298 invalidated,dedd4866
+Jul,2,17:56:40,calvisitor-10-105-163-202,com.apple.ncplugin.weather,32585,,Error in CoreDragRemoveReceiveHandler: -1856,75e6bfe2
+Jul,2,18:08:55,calvisitor-10-105-163-202,kernel,0,,ARPT: 661549.802297: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.,99b87c94
+Jul,2,18:08:56,authorMacBook-Pro,kernel,0,,"ARPT: 661552.832561: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,",3600bdd8
+Jul,2,18:40:01,authorMacBook-Pro,kernel,0,,in6_unlink_ifa: IPv6 address 0x77c9114551ab23ab has no prefix,df7d7c2a
+Jul,2,19:34:33,calvisitor-10-105-163-202,com.apple.geod,30311,,"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1001 ""The request timed out."" UserInfo={NSUnderlyingError=0x7fe133460660 {Error Domain=kCFErrorDomainCFNetwork Code=-1001 ""The request timed out."" UserInfo={NSErrorFailingURLStringKey=https://gsp-ssl.ls.apple.com/dispatcher.arpc, NSErrorFailingURLKey=https://gsp-ssl.ls.apple.com/dispatcher.arpc, _kCFStreamErrorCodeKey=-2102, _kCFStreamErrorDomainKey=4, NSLocalizedDescription=The request timed out.}}, NSErrorFailingURLStringKey=https://gsp-ssl.ls.apple.com/dispatcher.arpc, NSErrorFailingURLKey=https://gsp-ssl.ls.apple.com/dispatcher.arpc, _kCFStreamErrorDomainKey=4, _kCFStreamErrorCodeKey=-2102, NSLocalizedDescription=The request timed out.}",38f5380c
+Jul,2,20:15:26,calvisitor-10-105-163-202,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,2,20:22:38,calvisitor-10-105-163-202,WindowServer,184,,"device_generate_lock_screen_screenshot: authw 0x7fa823962400(2000)[0, 0, 1440, 900] shield 0x7fa82d372000(2001), dev [1440,900]",9e54d618
+Jul,2,20:50:47,calvisitor-10-105-163-202,ksfetch,32776,,2017-07-02 20:50:47.457 ksfetch[32776/0x7fff79824000] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1926 bytes from stdin.,a173e4a3
+Jul,2,21:17:07,calvisitor-10-105-163-202,com.apple.WebKit.WebContent,32778,,[21:17:07.529] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92,d9e7a914
+Jul,2,21:46:49,calvisitor-10-105-163-202,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,2,21:48:53,calvisitor-10-105-163-202,sharingd,30299,,21:48:53.041 : BTLE scanner Powered Off,2c3a9fce
+Jul,2,22:24:03,authorMacBook-Pro,com.apple.geod,30311,,"PBRequester failed with Error Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7fe13512cf70 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://gsp-ssl.ls.apple.com/dispatcher.arpc, NSErrorFailingURLKey=https://gsp-ssl.ls.apple.com/dispatcher.arpc, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://gsp-ssl.ls.apple.com/dispatcher.arpc, NSErrorFailingURLKey=https://gsp-ssl.ls.apple.com/dispatcher.arpc, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}",aad31e72
+Jul,2,22:24:03,authorMacBook-Pro,kernel,0,,ARPT: 669592.164786: AQM agg params 0xfc0 maxlen hi/lo 0x0 0xffff minlen 0x0 adjlen 0x0,917783b9
+Jul,2,22:24:04,authorMacBook-Pro,corecaptured,32877,,Received Capture Event,3f143fab
+Jul,2,22:24:15,authorMacBook-Pro,kernel,0,,Sandbox: QQ(10018) deny(1) mach-lookup com.apple.networking.captivenetworksupport,8fc06651
+Jul,2,22:24:43,authorMacBook-Pro,corecaptured,32877,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,2,22:32:34,authorMacBook-Pro,com.apple.WebKit.WebContent,32778,,[22:32:34.846] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification,d8cfefd6
+Jul,2,23:35:17,authorMacBook-Pro,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,3,00:27:35,authorMacBook-Pro,ntpd,207,,sigio_handler: sigio_handler_active != 0,94349d5a
+Jul,3,00:27:54,authorMacBook-Pro,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,3,00:41:11,authorMacBook-Pro,syslogd,44,,"Configuration Notice: ASL Module ""com.apple.performance"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",c90ffe49
+Jul,3,01:06:37,authorMacBook-Pro,kernel,0,,Wake reason: ?,01e7355d
+Jul,3,01:06:37,authorMacBook-Pro,sharingd,30299,,01:06:37.436 : Scanning mode Contacts Only,cc50f92a
+Jul,3,01:42:26,authorMacBook-Pro,sharingd,30299,,01:42:26.004 : BTLE scanning stopped,1e78fa61
+Jul,3,01:58:00,authorMacBook-Pro,ntpd,207,,wake time set +0.270003 s,b35055fa
+Jul,3,02:07:59,authorMacBook-Pro,hidd,98,,[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.,404af4a7
+Jul,3,03:31:43,authorMacBook-Pro,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,3,04:43:26,authorMacBook-Pro,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,3,05:31:00,authorMacBook-Pro,QQ,10018,,button report: 0x80039B7,45b10d54
+Jul,3,05:31:03,authorMacBook-Pro,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,3,06:57:52,authorMacBook-Pro,sharingd,30299,,06:57:52.002 : Purged contact hashes,c535438a
+Jul,3,07:33:34,authorMacBook-Pro,sharingd,30299,,07:33:34.878 : BTLE scanning started,8e8e3fbe
+Jul,3,07:33:35,authorMacBook-Pro,kernel,0,,"IOPMrootDomain: idle cancel, state 1",6ecadd3f
+Jul,3,08:45:12,authorMacBook-Pro,kernel,0,,ARPT: 673325.798753: ARPT: Wake Reason: Wake on TCP Timeout,51488d9d
+Jul,3,09:21:24,authorMacBook-Pro,kernel,0,,"hibernate_alloc_pages act 173850, inact 24957, anon 891, throt 0, spec 73492, wire 527143, wireinit 39927",306d9f84
+Jul,3,09:21:24,authorMacBook-Pro,kernel,0,,hibernate_teardown_pmap_structs done: last_valid_compact_indx 282563,f2b041a7
+Jul,3,09:57:11,authorMacBook-Pro,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,3,10:20:32,authorMacBook-Pro,QQ,10018,,button report: 0x80039B7,45b10d54
+Jul,3,10:28:07,authorMacBook-Pro,pkd,324,,enabling pid=30298 for plug-in com.apple.ncplugin.weather(1.0) 131FE7ED-87F7-471D-8797-C11107688DF7 /System/Library/CoreServices/Weather.app/Contents/PlugIns/com.apple.ncplugin.weather.appex,fa54ebbe
+Jul,3,10:32:45,authorMacBook-Pro,QQ,10018,,FA||Url||taskID[2019353296] dealloc,de2b6b15
+Jul,3,10:40:41,authorMacBook-Pro,GoogleSoftwareUpdateAgent,33263,,"2017-07-03 10:40:41.730 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSAgentApp performSelfUpdateWithEngine:] Checking for self update with Engine: <KSUpdateEngine:0x10062de70 ticketStore=<KSPersistentTicketStore:0x1005206e0 store=<KSKeyedPersistentStore:0x1005282c0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"" lockFile=<KSLockFile:0x100510480 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"" locked=NO > >> processor=<KSActionProcessor:0x10062e060 delegate=<KSUpdateEngine:0x10062de70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x10062d2d0 path=""/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers""> errors=0 >",0f5aaf01
+Jul,3,10:40:42,authorMacBook-Pro,GoogleSoftwareUpdateAgent,33263,,2017-07-03 10:40:42.940 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.,40ff4c36
+Jul,3,11:22:49,authorMacBook-Pro,QQ,10018,,FA||Url||taskID[2019353306] dealloc,0f38c9e7
+Jul,3,11:31:49,authorMacBook-Pro,com.apple.WebKit.WebContent,32778,,[11:31:49.593] itemasync_CopyProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2092,1f672af4
+Jul,3,12:31:55,authorMacBook-Pro,kernel,0,,"Opened file /var/log/SleepWakeStacks.bin, size 172032, extents 1, maxio 2000000 ssd 1",899143a3
+Jul,3,12:35:55,authorMacBook-Pro,locationd,82,,"NETWORK: no response from server, reachability, 2, queryRetries, 0",1b3b24d2
+Jul,3,12:36:01,authorMacBook-Pro,kernel,0,,"Unexpected payload found for message 9, dataLen 0",6802d2e8
+Jul,3,12:36:38,calvisitor-10-105-160-237,corecaptured,33373,,CCFile::captureLog,4a019d20
+Jul,3,12:36:44,calvisitor-10-105-160-237,kernel,0,,en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161,4b8095ea
+Jul,3,13:21:50,calvisitor-10-105-160-237,kernel,0,,ARPT: 681387.132167: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake,883aa790
+Jul,3,13:31:35,calvisitor-10-105-160-237,CrashReporterSupportHelper,252,,Internal name did not resolve to internal address!,49a3bab2
+Jul,3,13:39:50,calvisitor-10-105-160-237,com.apple.xpc.launchd,1,com.apple.WebKit.Networking.A546008E-07AF-4FFC-8FF8-D8FD260359D9[33438],Service exited with abnormal code: 1,5109ec4c
+Jul,3,13:40:27,calvisitor-10-105-160-237,wirelessproxd,75,,Central manager is not powered on,e8fc3aab
+Jul,3,13:48:39,calvisitor-10-105-160-237,corecaptured,33452,,"CCFile::captureLogRun Skipping current file Dir file [2017-07-03_13,48,39.362458]-CCIOReporter-002.xml, Current File [2017-07-03_13,48,39.362458]-CCIOReporter-002.xml",f1885a0f
+Jul,3,13:50:14,authorMacBook-Pro,corecaptured,33452,,"CCFile::copyFile fileName is [2017-07-03_13,48,39.308188]-io80211Family-002.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_13,48,39.308188]-io80211Family-002.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_13,50,14.954481]=AssocFail:sts:2_rsn:0/IO80211AWDLPeerManager//[2017-07-03_13,48,39.308188]-io80211Family-002.pcapng",24d2420f
+Jul,3,13:50:15,authorMacBook-Pro,kernel,0,,ARPT: 682068.402171: framerdy 0x0 bmccmd 7 framecnt 1024,91ae3b89
+Jul,3,13:54:18,calvisitor-10-105-160-237,identityservicesd,272,,<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: YES,47bce755
+Jul,3,13:55:56,calvisitor-10-105-160-237,sharingd,30299,,13:55:56.094 : Starting AirDrop server for user 501 on wake,0c7af280
+Jul,3,14:35:17,calvisitor-10-105-160-237,kernel,0,,ARPT: 682406.173418: wl0: setup_keepalive: Remote IP: 17.249.28.77,0bd7d6b3
+Jul,3,14:47:59,calvisitor-10-105-160-237,kernel,0,,"RTC: Maintenance 2017/7/3 21:47:58, sleep 2017/7/3 21:35:20",e14bee0f
+Jul,3,15:28:51,calvisitor-10-105-160-237,com.apple.WebKit.WebContent,32778,,"<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of 4812 bytes @ 358800 took 1.053312 secs. to complete, 5 reads >= 1 sec.",96315708
+Jul,3,15:46:27,calvisitor-10-105-160-237,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,3,15:46:31,calvisitor-10-105-160-237,configd,53,,network changed: v4(en0:10.105.160.237) v6(en0!:2607:f140:6000:8:f1dc:a608:863:19ad) DNS Proxy SMB,4f583472
+Jul,3,15:47:12,calvisitor-10-105-160-237,corecaptured,33533,,Received Capture Event,3f143fab
+Jul,3,15:47:15,calvisitor-10-105-160-237,corecaptured,33533,,CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions,ea92f231
+Jul,3,15:47:15,calvisitor-10-105-160-237,corecaptured,33533,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,3,15:47:15,calvisitor-10-105-160-237,corecaptured,33533,,"CCFile::copyFile fileName is [2017-07-03_15,47,15.246620]-AirPortBrcm4360_Logs-007.txt, source path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-03_15,47,15.246620]-AirPortBrcm4360_Logs-007.txt, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-03_15,47,15.349129]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-03_15,47,15.246620]-AirPortBrcm4360_Logs-007.txt",892fc058
+Jul,3,15:53:49,calvisitor-10-105-160-237,corecaptured,33533,,"CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats",7e1070fc
+Jul,3,16:05:49,authorMacBook-Pro,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,3,16:05:51,authorMacBook-Pro,corecaptured,33544,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,3,16:05:51,authorMacBook-Pro,corecaptured,33544,,CCFile::captureLog,4a019d20
+Jul,3,16:07:32,authorMacBook-Pro,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,3,16:07:33,authorMacBook-Pro,configd,53,,network changed: v6(en0-:2607:f140:6000:8:d8d1:d506:6046:43e4) DNS- Proxy-,0581bc42
+Jul,3,16:07:33,authorMacBook-Pro,corecaptured,33544,,"CCFile::copyFile fileName is [2017-07-03_16,06,19.861073]-CCIOReporter-008.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-03_16,06,19.861073]-CCIOReporter-008.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,07,33.914349]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-03_16,06,19.861073]-CCIOReporter-008.xml",9437f4fc
+Jul,3,16:07:39,authorMacBook-Pro,corecaptured,33544,,"CCFile::copyFile fileName is [2017-07-03_16,07,38.954579]-io80211Family-016.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_16,07,38.954579]-io80211Family-016.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,07,39.094895]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-03_16,07,38.954579]-io80211Family-016.pcapng",07b15a23
+Jul,3,16:07:39,authorMacBook-Pro,corecaptured,33544,,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,2fe4ad5c
+Jul,3,16:07:39,authorMacBook-Pro,corecaptured,33544,,"CCFile::copyFile fileName is [2017-07-03_16,07,39.096792]-CCIOReporter-017.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-03_16,07,39.096792]-CCIOReporter-017.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,07,39.171995]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-03_16,07,39.096792]-CCIOReporter-017.xml",a0d20433
+Jul,3,16:07:39,authorMacBook-Pro,corecaptured,33544,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,3,16:07:40,authorMacBook-Pro,corecaptured,33544,,CCFile::captureLog,4a019d20
+Jul,3,16:07:40,authorMacBook-Pro,kernel,0,,ARPT: 682834.192587: wlc_dump_aggfifo:,8ee55528
+Jul,3,16:07:46,authorMacBook-Pro,corecaptured,33544,,CCFile::captureLog,4a019d20
+Jul,3,16:07:46,authorMacBook-Pro,corecaptured,33544,,"CCFile::copyFile fileName is [2017-07-03_16,07,46.105103]-CCIOReporter-032.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-03_16,07,46.105103]-CCIOReporter-032.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,07,46.298508]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-03_16,07,46.105103]-CCIOReporter-032.xml",a184ca72
+Jul,3,16:25:21,calvisitor-10-105-160-237,kernel,0,,Wake reason: ?,01e7355d
+Jul,3,16:25:45,authorMacBook-Pro,com.apple.WebKit.WebContent,25654,,[16:25:45.631] <<<< CRABS >>>> crabsFlumeHostUnavailable: [0x7f961cf08cf0] Byte flume reports host unavailable.,d8f43a7c
+Jul,3,16:27:05,authorMacBook-Pro,corecaptured,33544,,"CCFile::copyFile fileName is [2017-07-03_16,27,04.995982]-io80211Family-040.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_16,27,04.995982]-io80211Family-040.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,27,05.123034]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-03_16,27,04.995982]-io80211Family-040.pcapng",bb4d35de
+Jul,3,16:27:08,authorMacBook-Pro,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,3,16:27:09,authorMacBook-Pro,kernel,0,,ARPT: 682977.654133: wlc_dump_aggfifo:,fdd3ac20
+Jul,3,16:27:10,authorMacBook-Pro,corecaptured,33544,,"CCFile::copyFile fileName is [2017-07-03_16,27,09.910337]-AirPortBrcm4360_Logs-047.txt, source path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-03_16,27,09.910337]-AirPortBrcm4360_Logs-047.txt, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-03_16,27,10.162319]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-03_16,27,09.910337]-AirPortBrcm4360_Logs-047.txt",904fde5d
+Jul,3,16:27:10,authorMacBook-Pro,corecaptured,33544,,"doSaveChannels@286: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-03_16,27,09.307937] - AuthFail:sts:5_rsn:0.xml",8dc94ec9
+Jul,3,16:28:34,authorMacBook-Pro,QQ,10018,,tcp_connection_destination_perform_socket_connect 21152 connectx to 203.205.147.206:8080@0 failed: [51] Network is unreachable,cb8cb5d1
+Jul,3,16:28:35,authorMacBook-Pro,corecaptured,33544,,Received Capture Event,3f143fab
+Jul,3,16:28:40,authorMacBook-Pro,corecaptured,33544,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,3,16:28:40,authorMacBook-Pro,corecaptured,33544,,CCFile::captureLog,4a019d20
+Jul,3,16:28:56,calvisitor-10-105-160-184,QQ,10018,,button report: 0x8002bdf,54b60a13
+Jul,3,16:29:30,calvisitor-10-105-160-184,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,3,16:36:40,calvisitor-10-105-160-184,AddressBookSourceSync,33594,,"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/] Error Domain=NSURLErrorDomain Code=-1001 ""The request timed out."" UserInfo={NSUnderlyingError=0x7f9af3646900 {Error Domain=kCFErrorDomainCFNetwork Code=-1001 ""The request timed out."" UserInfo={NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorCodeKey=-2102, _kCFStreamErrorDomainKey=4, NSLocalizedDescription=The request timed out.}}, NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorDomainKey=4, _kCFStreamErrorCodeKey=-2102, NSLocalizedDescription=The request timed out.}",ca80ef4b
+Jul,3,16:36:49,calvisitor-10-105-160-184,corecaptured,33544,,CCFile::captureLog,4a019d20
+Jul,3,17:10:11,calvisitor-10-105-160-184,kernel,0,,hibernate image path: /var/vm/sleepimage,b2a94231
+Jul,3,17:10:11,calvisitor-10-105-160-184,kernel,0,,hibernate_flush_memory: buffer_cache_gc freed up 13202 wired pages,c158ae63
+Jul,3,17:10:11,calvisitor-10-105-160-184,kernel,0,,"hibernate_machine_init pagesDone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 Mb/s, comp bytes: 47288320 time: 32 ms 1369 Mb/s, crypt bytes: 158441472 time: 38 ms 3973 Mb/s",571fe9ec
+Jul,3,17:10:11,calvisitor-10-105-160-184,BezelServices 255.10,94,,ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789,83801e0d
+Jul,3,17:23:55,calvisitor-10-105-160-184,kernel,0,,hibernate_machine_init reading,164db6d5
+Jul,3,17:23:55,calvisitor-10-105-160-184,UserEventAgent,43,,assertion failed: 15G1510: com.apple.telemetry + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90,94f37b2f
+Jul,3,17:26:04,calvisitor-10-105-160-184,WeChat,24144,,jemmytest,b55176d9
+Jul,3,17:37:47,calvisitor-10-105-160-184,kernel,0,,hibernate_setup(0) took 4429 ms,93ccf765
+Jul,3,17:37:47,calvisitor-10-105-160-184,kernel,0,,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0x6800 ****,04bb0c62
+Jul,3,17:37:47,calvisitor-10-105-160-184,kernel,0,,**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- Connected to the transport successfully -- 0x5fd0 -- 0x9a00 -- 0x6800 ****,15e691e2
+Jul,3,17:37:48,calvisitor-10-105-160-184,blued,85,,hciControllerOnline; HID devices? 0,820d392f
+Jul,3,17:37:48,calvisitor-10-105-160-184,blued,85,,INIT -- Host controller is published,c17f6d5d
+Jul,3,17:51:25,calvisitor-10-105-160-184,kernel,0,,"polled file major 1, minor 0, blocksize 4096, pollers 5",ca177a76
+Jul,3,18:06:58,calvisitor-10-105-160-184,kernel,0,,BuildActDeviceEntry exit,d960bc67
+Jul,3,18:34:20,calvisitor-10-105-162-32,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,3,18:35:06,calvisitor-10-105-162-32,kernel,0,,"ARPT: 683604.474196: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': 578,",c7f74830
+Jul,3,18:56:23,calvisitor-10-105-162-32,kernel,0,,Wake reason: ARPT (Network),ccdef586
+Jul,3,18:56:23,calvisitor-10-105-162-32,kernel,0,,AppleActuatorHIDEventDriver: message service is terminated,c26f8a37
+Jul,3,18:56:33,calvisitor-10-105-162-32,QQ,10018,,button report: 0x80039B7,45b10d54
+Jul,3,18:57:12,calvisitor-10-105-162-32,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,3,18:57:57,calvisitor-10-105-162-32,kernel,0,,payload Data 07 00,47ab2462
+Jul,3,18:58:10,authorMacBook-Pro,corecaptured,33660,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,3,19:04:48,calvisitor-10-105-162-32,kernel,0,,WARNING: hibernate_page_list_setall skipped 11799 xpmapped pages,8efa77b8
+Jul,3,19:04:48,calvisitor-10-105-162-32,kernel,0,,"hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112",fab80546
+Jul,3,19:04:48,calvisitor-10-105-162-32,kernel,0,,"pages 554018, wire 418692, act 40000, inact 0, cleaned 0 spec 0, zf 0, throt 0, compr 112, xpmapped 40000",3e4f8a1b
+Jul,3,19:04:48,calvisitor-10-105-162-32,blued,85,,[BluetoothHIDDeviceController] EventServiceConnectedCallback,23320c25
+Jul,3,19:04:52,calvisitor-10-105-162-32,corecaptured,33660,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,3,19:04:58,authorMacBook-Pro,corecaptured,33660,,Received Capture Event,3f143fab
+Jul,3,19:05:37,calvisitor-10-105-162-32,corecaptured,33660,,"CCFile::copyFile fileName is [2017-07-03_19,04,57.722196]-io80211Family-018.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_19,04,57.722196]-io80211Family-018.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_19,05,37.535347]=AuthFail:sts:2_rsn:0/IO80211AWDLPeerManager//[2017-07-03_19,04,57.722196]-io80211Family-018.pcapng",45b62360
+Jul,3,19:11:48,authorMacBook-Pro,corecaptured,33660,,Received Capture Event,3f143fab
+Jul,3,19:11:55,calvisitor-10-105-162-32,QQ,10018,,button report: 0x8002be0,c5fb0953
+Jul,3,19:46:35,authorMacBook-Pro,kernel,0,,hibernate_rebuild_pmap_structs done: last_valid_compact_indx 285862,34fb4af9
+Jul,3,19:46:35,authorMacBook-Pro,kernel,0,,BuildActDeviceEntry enter,773e06a3
+Jul,3,20:07:56,calvisitor-10-105-161-225,mdworker,33804,,(ImportBailout.Error:1331) Asked to exit for Diskarb,2e7a9140
+Jul,3,20:25:13,calvisitor-10-105-161-225,GoogleSoftwareUpdateAgent,33847,,2017-07-03 20:25:13.378 GoogleSoftwareUpdateAgent[33847/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x10053b310 productID=com.google.Keystone version=1.2.8.57 xc=<KSPathExistenceChecker:0x10053ac30 path=/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle> url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:17 ticketVersion=1 > )} Using server: <KSOmahaServer:0x100248090 engine=<KSUpdateEngine:0x1007249c0> >,d6bcf554
+Jul,3,20:56:39,calvisitor-10-105-161-225,WeChat,24144,,jemmytest,b55176d9
+Jul,3,20:56:57,calvisitor-10-105-161-225,QQ,10018,,FA||Url||taskID[2019353376] dealloc,dce510e0
+Jul,3,21:17:04,calvisitor-10-105-161-225,Safari,9852,,KeychainGetICDPStatus: status: off,7a123c93
+Jul,3,21:30:41,authorMacBook-Pro,corecaptured,33951,,CCFile::captureLog,4a019d20
+Jul,3,21:30:41,authorMacBook-Pro,corecaptured,33951,,"CCFile::copyFile fileName is [2017-07-03_21,30,41.859869]-CCIOReporter-002.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-03_21,30,41.859869]-CCIOReporter-002.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_21,30,40.703152]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-03_21,30,41.859869]-CCIOReporter-002.xml",23f1bc9c
+Jul,3,22:32:26,airbears2-10-142-110-255,WeChat,24144,,jemmytest,b55176d9
+Jul,3,23:16:10,airbears2-10-142-110-255,QQ,10018,,FA||Url||taskID[2019353410] dealloc,1f8d0ffc
+Jul,3,23:31:42,airbears2-10-142-110-255,Safari,9852,,KeychainGetICDPStatus: status: off,7a123c93
+Jul,3,23:44:36,airbears2-10-142-110-255,kernel,0,,ARPT: 697702.656868: AirPort_Brcm43xx::powerChange: System Sleep,e61842f1
+Jul,3,23:55:44,airbears2-10-142-110-255,Safari,9852,,tcp_connection_tls_session_error_callback_imp 2210 tcp_connection_tls_session_handle_read_error.790 error 60,135dfb40
+Jul,4,00:36:02,airbears2-10-142-110-255,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,4,01:00:22,airbears2-10-142-110-255,com.apple.AddressBook.InternetAccountsBridge,646,,Checking iCDP status for DSID 874161398 (checkWithServer=0),8d60a944
+Jul,4,02:25:38,airbears2-10-142-110-255,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,4,04:52:25,airbears2-10-142-110-255,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,4,06:03:27,authorMacBook-Pro,corecaptured,34369,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,4,06:52:58,authorMacBook-Pro,configd,53,,network changed: v4(en0-:10.105.162.105) v6(en0-:2607:f140:6000:8:c6b3:1ff:fecd:467f) DNS- Proxy-,43b40b33
+Jul,4,07:06:38,calvisitor-10-105-162-105,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,4,07:10:06,authorMacBook-Pro,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,4,07:23:41,calvisitor-10-105-162-105,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,4,07:23:47,authorMacBook-Pro,configd,53,,network changed: DNS*,a21373d4
+Jul,4,07:23:47,calvisitor-10-105-162-105,kernel,0,,en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165,bbfca46f
+Jul,4,08:21:25,calvisitor-10-105-162-105,corecaptured,34531,,Received Capture Event,3f143fab
+Jul,4,08:34:31,calvisitor-10-105-162-105,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,4,09:02:25,calvisitor-10-105-162-105,QQ,10018,,FA||Url||taskID[2019353444] dealloc,a338a6e8
+Jul,4,09:15:18,calvisitor-10-105-162-105,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,4,09:42:57,calvisitor-10-105-162-105,GoogleSoftwareUpdateAgent,34603,,"2017-07-04 09:42:57.924 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]=""EQHXZ8M8AV"" and (identifier=""com.google.Keystone"")'",9eef0e32
+Jul,4,09:42:58,calvisitor-10-105-162-105,ksfetch,34604,,2017-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.,e0a369be
+Jul,4,09:56:38,calvisitor-10-105-162-105,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,4,09:57:31,authorMacBook-Pro,configd,53,,network changed: v4(en0!:10.105.162.105) DNS+ Proxy+ SMB,662270aa
+Jul,4,10:09:39,calvisitor-10-105-162-105,AddressBookSourceSync,34636,,-[SOAPParser:0x7f82b1f24e50 parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid),c6c6ddc6
+Jul,4,10:26:52,calvisitor-10-105-162-105,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,4,11:28:35,authorMacBook-Pro,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,4,11:28:42,authorMacBook-Pro,corecaptured,34722,,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,2fe4ad5c
+Jul,4,11:55:51,calvisitor-10-105-162-105,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,4,11:55:52,calvisitor-10-105-162-105,corecaptured,34743,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,4,12:06:24,calvisitor-10-105-162-105,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,4,12:22:18,calvisitor-10-105-162-105,UserEventAgent,43,,extension com.apple.ncplugin.WorldClock -> (null),5a5f25d8
+Jul,4,12:34:56,authorMacBook-Pro,corecaptured,34861,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,4,13:02:13,calvisitor-10-105-162-105,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,4,13:41:20,calvisitor-10-105-162-105,QQ,10018,,button report: 0x8002be0,c5fb0953
+Jul,4,13:56:31,calvisitor-10-105-162-105,com.apple.AddressBook.ContactsAccountsService,289,,"[Accounts] Current connection, <NSXPCConnection: 0x7fda74805bf0> connection from pid 487, doesn't have account access.",7ad80bd1
+Jul,4,13:56:31,calvisitor-10-105-162-105,SCIM,487,,"[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 ""(null)""",3098c1cb
+Jul,4,14:34:52,calvisitor-10-105-162-105,com.apple.SecurityServer,80,,Session 101921 created,dc30adf1
+Jul,4,15:03:53,calvisitor-10-105-162-105,GoogleSoftwareUpdateAgent,35018,,"2017-07-04 15:03:53.270 GoogleSoftwareUpdateAgent[35018/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: ""https://tools.google.com/service/update2?cup2hreq=a70d6372a4e45a6cbba61cd7f057c79bf73c79db1b1951dc17c605e870f0419b&cup2key=7:934679018""",06979a2a
+Jul,4,15:11:20,calvisitor-10-105-162-105,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,4,16:32:07,calvisitor-10-105-162-105,QQ,10018,,button report: 0x8002be0,c5fb0953
+Jul,4,16:32:32,calvisitor-10-105-162-105,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,4,17:00:00,calvisitor-10-105-162-105,kernel,0,,kern_open_file_for_direct_io took 6 ms,28f62078
+Jul,4,18:07:00,calvisitor-10-105-162-105,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,4,18:07:01,calvisitor-10-105-162-105,QQ,10018,,button report: 0x80039B7,45b10d54
+Jul,4,19:29:41,calvisitor-10-105-162-105,WindowServer,184,,CGXDisplayDidWakeNotification [712572581805245]: posting kCGSDisplayDidWake,9243e37f
+Jul,4,19:43:32,calvisitor-10-105-162-105,wirelessproxd,75,,Peripheral manager is not powered on,dfcdcbbe
+Jul,4,23:10:29,calvisitor-10-105-162-105,kernel,0,,"PM response took 113 ms (24144, WeChat)",0a237d9d
+Jul,4,23:17:17,calvisitor-10-105-162-105,Safari,9852,,KeychainGetICDPStatus: status: off,7a123c93
+Jul,4,23:20:18,calvisitor-10-105-162-105,QQ,10018,,FA||Url||taskID[2019353517] dealloc,617d6b14
+Jul,4,23:22:09,calvisitor-10-105-162-105,Microsoft Word,14463,,Cocoa scripting error for '0x00660011': four character codes must be four characters long.,3a1142a3
+Jul,4,23:22:09,calvisitor-10-105-162-105,Microsoft Word,14463,,.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.,b8893af4
+Jul,4,23:25:29,calvisitor-10-105-162-105,WeChat,24144,,jemmytest,b55176d9
+Jul,4,23:30:23,calvisitor-10-105-162-105,QQ,10018,,FA||Url||taskID[2019353519] dealloc,e49d1682
+Jul,4,23:50:59,calvisitor-10-105-162-105,quicklookd,35391,,objc[35391]: Class TSUAtomicLRUCache is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.,5f6d7f98
+Jul,4,23:50:59,calvisitor-10-105-162-105,garcon,35461,,Invalidating watch set.,681abeff
+Jul,4,23:50:59,calvisitor-10-105-162-105,QuickLookSatellite,35448,,objc[35448]: Class TSUCustomFormatData is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.,b1e764c1
+Jul,5,00:02:22,calvisitor-10-105-162-105,WeChat,24144,,jemmytest,b55176d9
+Jul,5,00:03:06,calvisitor-10-105-162-105,sharingd,30299,,00:03:06.178 : Started generating hashes,270ce03a
+Jul,5,00:09:34,calvisitor-10-105-162-105,WeChat,24144,,jemmytest,b55176d9
+Jul,5,00:17:50,authorMacBook-Pro,corecaptured,35613,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,5,00:18:04,authorMacBook-Pro,QQ,10018,,button report: 0x80039B7,45b10d54
+Jul,5,00:18:07,authorMacBook-Pro,QQ,10018,,button report: 0X80076ED,ee007fa5
+Jul,5,00:21:07,authorMacBook-Pro,Google Chrome,35628,,-_continuousScroll is deprecated for NSScrollWheel. Please use -hasPreciseScrollingDeltas.,2267459e
+Jul,5,00:21:07,authorMacBook-Pro,Google Chrome,35628,,-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.,3d88db85
+Jul,5,00:28:42,authorMacBook-Pro,com.apple.WebKit.WebContent,35671,,[00:28:42.167] (Fig) signalled err=-12871,36c79d70
+Jul,5,00:29:04,authorMacBook-Pro,com.apple.WebKit.WebContent,35671,,[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1),5fed01c8
+Jul,5,00:58:26,calvisitor-10-105-163-10,wirelessproxd,75,,Failed to stop a scan - central is not powered on: 4,db8fe793
+Jul,5,00:58:27,calvisitor-10-105-163-10,WindowServer,184,,"device_generate_desktop_screenshot: authw 0x7fa82407ea00(2000), shield 0x7fa82435f400(2001)",b212c983
+Jul,5,02:54:51,calvisitor-10-105-163-10,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,5,03:58:47,calvisitor-10-105-163-10,kernel,0,,Wake reason: EC.SleepTimer (SleepTimer),e218fc50
+Jul,5,04:12:21,calvisitor-10-105-163-10,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,5,04:12:22,calvisitor-10-105-163-10,kernel,0,,**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x6000 ****,814e9471
+Jul,5,10:31:18,calvisitor-10-105-163-10,kernel,0,,"hibernate_newruntime_map time: 0 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 0",de7860f0
+Jul,5,10:31:18,calvisitor-10-105-163-10,kernel,0,,"hibernate_machine_init pagesDone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 Mb/s, comp bytes: 40017920 time: 27 ms 1412 Mb/s, crypt bytes: 160550912 time: 39 ms 3904 Mb/s",2f2aac06
+Jul,5,10:31:18,calvisitor-10-105-163-10,kernel,0,,vm_compressor_fastwake_warmup (581519 - 591525) - starting,58631be9
+Jul,5,10:31:18,calvisitor-10-105-163-10,kernel,0,,BuildActDeviceEntry exit,d960bc67
+Jul,5,10:31:19,calvisitor-10-105-163-10,identityservicesd,272,,"<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>: Updating enabled: YES   (Topics: ( ""com.apple.private.alloy.icloudpairing"", ""com.apple.private.alloy.continuity.encryption"", ""com.apple.private.alloy.continuity.activity"", ""com.apple.ess"", ""com.apple.private.ids"", ""com.apple.private.alloy.phonecontinuity"", ""com.apple.madrid"", ""com.apple.private.ac"", ""com.apple.private.alloy.phone.auth"", ""com.apple.private.alloy.keychainsync"", ""com.apple.private.alloy.fmf"", ""com.apple.private.alloy.sms"", ""com.apple.private.alloy.screensharing"", ""com.apple.private.alloy.maps"", ""com.apple.private.alloy.thumper.keys"", ""com.apple.private.alloy.continuity.tethering"" ))",765594b4
+Jul,5,10:31:23,calvisitor-10-105-163-10,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,5,10:41:38,calvisitor-10-105-160-179,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,5,10:43:32,calvisitor-10-105-160-179,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,5,10:44:16,calvisitor-10-105-160-179,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,5,10:52:15,calvisitor-10-105-160-179,GoogleSoftwareUpdateAgent,35861,,"2017-07-05 10:52:15.982 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: ""https://tools.google.com/service/update2?cup2hreq=d297a7e5b56d6bd4faa75860fff6e485c301bf4e943a561afff6c8b3707ce948&cup2key=7:2988503627""",b450ce8d
+Jul,5,10:52:16,calvisitor-10-105-160-179,ksfetch,35863,,2017-07-05 10:52:16.779 ksfetch[35863/0x7fff79824000] [lvl=2] main() Fetcher received a request: <NSMutableURLRequest: 0x100501610> { URL: https://tools.google.com/service/update2?cup2hreq=a7873a51b1cb55518e420d20dff47d463781ed3f7aa83c3153129eefb148070b&cup2key=7:2501762722 },1fd2bf0f
+Jul,5,10:52:16,calvisitor-10-105-160-179,GoogleSoftwareUpdateAgent,35861,,2017-07-05 10:52:16.977 GoogleSoftwareUpdateAgent[35861/0x700000323000] [lvl=2] -[KSPrefetchAction performAction] KSPrefetchAction no updates to prefetch.,82b9999e
+Jul,5,10:56:49,calvisitor-10-105-160-179,Safari,9852,,KeychainGetICDPStatus: status: off,7a123c93
+Jul,5,10:58:44,calvisitor-10-105-160-179,imagent,355,,<IMMacNotificationCenterManager: 0x7fdcc9d16380>: notification observer: com.apple.FaceTime   notification: __CFNotification 0x7fdcc9d19110 {name = _NSDoNotDisturbEnabledNotification},2e9edc3a
+Jul,5,11:01:10,authorMacBook-Pro,corecaptured,35877,,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,2fe4ad5c
+Jul,5,11:01:55,calvisitor-10-105-160-179,corecaptured,35877,,Received Capture Event,3f143fab
+Jul,5,11:39:38,authorMacBook-Pro,corecaptured,35877,,CCProfileMonitor::freeResources done,5722d0e3
+Jul,5,11:39:39,authorMacBook-Pro,corecaptured,35889,,"CCFile::copyFile fileName is [2017-07-05_11,39,39.743225]-CCIOReporter-001.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-05_11,39,39.743225]-CCIOReporter-001.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-05_11,39,38.739976]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-05_11,39,39.743225]-CCIOReporter-001.xml",c12eb2d5
+Jul,5,11:42:53,calvisitor-10-105-160-226,identityservicesd,272,,<IMMacNotificationCenterManager: 0x7ff1b2d17980>:    NC Disabled: NO,484f6a8a
+Jul,5,11:42:53,calvisitor-10-105-160-226,identityservicesd,272,,<IMMacNotificationCenterManager: 0x7ff1b2d17980>:   DND Enabled: NO,40121dfc
+Jul,5,12:01:10,calvisitor-10-105-160-226,QQ,10018,,button report: 0x8002bdf,54b60a13
+Jul,5,13:44:18,calvisitor-10-105-160-226,com.apple.AddressBook.InternetAccountsBridge,646,,Daemon connection invalidated!,98709a6a
+Jul,5,14:04:16,authorMacBook-Pro,corecaptured,36034,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,5,14:04:19,authorMacBook-Pro,corecaptured,36034,,"CCFile::copyFile fileName is [2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt, source path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-05_14,04,19.222771]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt",4e3a18a8
+Jul,5,14:04:19,authorMacBook-Pro,corecaptured,36034,,CCFile::captureLog,4a019d20
+Jul,5,14:04:25,authorMacBook-Pro,corecaptured,36034,,"CCFile::copyFile fileName is [2017-07-05_14,04,25.705173]-CCIOReporter-044.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-05_14,04,25.705173]-CCIOReporter-044.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-05_14,04,25.777317]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-05_14,04,25.705173]-CCIOReporter-044.xml",e005e149
+Jul,5,14:04:32,authorMacBook-Pro,corecaptured,36034,,"CCFile::copyFile fileName is [2017-07-05_14,04,32.840703]-io80211Family-056.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-05_14,04,32.840703]-io80211Family-056.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-05_14,04,32.969558]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-05_14,04,32.840703]-io80211Family-056.pcapng",91df3620
+Jul,5,14:04:33,authorMacBook-Pro,corecaptured,36034,,Received Capture Event,3f143fab
+Jul,5,14:04:33,authorMacBook-Pro,corecaptured,36034,,"CCFile::copyFile fileName is [2017-07-05_14,04,33.660387]-io80211Family-063.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-05_14,04,33.660387]-io80211Family-063.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-05_14,04,33.736169]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-05_14,04,33.660387]-io80211Family-063.pcapng",48d03a8b
+Jul,5,14:04:35,authorMacBook-Pro,corecaptured,36034,,CCFile::captureLog,4a019d20
+Jul,5,14:56:09,authorMacBook-Pro,kernel,0,,"ARPT: 724869.297011: IOPMPowerSource Information: onWake,  SleepType: Normal Sleep,  'ExternalConnected': No, 'TimeRemaining': 4551,",92895114
+Jul,5,15:26:36,calvisitor-10-105-162-98,kernel,0,,IOHibernatePollerOpen(0),e194959f
+Jul,5,15:26:36,calvisitor-10-105-162-98,kernel,0,,"hibernate_machine_init: state 2, image pages 446175, sum was d4e6c0b2, imageSize 0x2aea6000, image1Size 0x215a4000, conflictCount 5848, nextFree 5887",9e81b724
+Jul,5,15:55:35,calvisitor-10-105-162-98,kernel,0,,hibernate_rebuild completed - took 10042450943433 msecs,cc394499
+Jul,5,15:55:35,calvisitor-10-105-162-98,kernel,0,,AppleActuatorDevice::stop Entered,743ea632
+Jul,5,15:55:35,calvisitor-10-105-162-98,kernel,0,,AppleActuatorDevice::start Entered,fce92548
+Jul,5,16:04:10,calvisitor-10-105-162-107,kernel,0,,"bitmap_size 0x7f0fc, previewSize 0x4028, writing 488299 pages @ 0x97144",a6bd52ec
+Jul,5,16:04:15,authorMacBook-Pro,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,5,16:04:43,calvisitor-10-105-162-107,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,5,16:12:56,authorMacBook-Pro,kernel,0,,en0: manual intervention required!,e5d5eae1
+Jul,5,16:13:17,calvisitor-10-105-162-107,QQ,10018,,"DB Error: 1 ""no such table: tb_c2cMsg_2658655094""",ae5de759
+Jul,5,16:18:06,calvisitor-10-105-162-107,GoogleSoftwareUpdateAgent,36128,,"2017-07-05 16:18:06.450 GoogleSoftwareUpdateAgent[36128/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher fetching from URL: ""https://tools.google.com/service/update2?cup2hreq=ac844e04cbb398fcef4cf81b4ffc44a3ebc863e89d19c0b5d39d02d78d26675b&cup2key=7:677488741""",34c0c1f6
+Jul,5,16:24:44,airbears2-10-142-108-38,QQ,10018,,button report: 0x8002bdf,54b60a13
+Jul,5,16:37:58,airbears2-10-142-108-38,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,5,16:47:16,airbears2-10-142-108-38,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,5,16:47:16,airbears2-10-142-108-38,Safari,9852,,KeychainGetICDPStatus: status: off,7a123c93
+Jul,5,16:58:24,airbears2-10-142-108-38,imagent,355,,<IMMacNotificationCenterManager: 0x7fdcc9d16380>: Updating enabled: NO   (Topics: ( )),49f127a0
+Jul,5,16:58:25,airbears2-10-142-108-38,WindowServer,184,,"device_generate_lock_screen_screenshot: authw 0x7fa82502bc00(2000)[0, 0, 0, 0] shield 0x7fa823930c00(2001), dev [1440,900]",a4c391c2
+Jul,5,17:03:07,airbears2-10-142-108-38,corecaptured,36224,,CCFile::captureLog,4a019d20
+Jul,5,18:19:59,authorMacBook-Pro,configd,53,,"arp_client_transmit(en0) failed, Network is down (50)",824571a9
+Jul,5,18:19:59,authorMacBook-Pro,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,5,18:20:06,authorMacBook-Pro,networkd,195,,-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! QQ.10018 tc23407 119.81.102.227:80,5a018b10
+Jul,5,19:00:42,authorMacBook-Pro,corecaptured,36291,,CCFile::captureLog,4a019d20
+Jul,5,20:16:55,calvisitor-10-105-160-210,kernel,0,,could discard act 242131 inact 107014 purgeable 254830 spec 128285 cleaned 0,9ac7bbe1
+Jul,5,20:16:55,calvisitor-10-105-160-210,kernel,0,,"booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms",f4da48e8
+Jul,5,20:16:56,calvisitor-10-105-160-210,blued,85,,"hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( ""84-41-67-32-db-e1"" )",d9fb4ec2
+Jul,5,21:08:40,calvisitor-10-105-162-81,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,5,21:48:33,calvisitor-10-105-162-81,blued,85,,[BluetoothHIDDeviceController] EventServiceConnectedCallback,23320c25
+Jul,5,22:29:03,calvisitor-10-105-161-231,kernel,0,,could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0,99df43f7
+Jul,5,22:29:35,calvisitor-10-105-160-22,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,5,23:09:36,calvisitor-10-105-160-22,kernel,0,,**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****,8e2f2a06
+Jul,5,23:09:53,calvisitor-10-105-160-22,QQ,10018,,FA||Url||taskID[2019353593] dealloc,68e42f4b
+Jul,5,23:50:09,calvisitor-10-105-160-22,kernel,0,,AppleActuatorHIDEventDriver: stop,a041eae4
+Jul,5,23:50:09,calvisitor-10-105-160-22,kernel,0,,**** [IOBluetoothHostControllerUSBTransport][start] -- completed -- result = TRUE -- 0xb000 ****,9464abfc
+Jul,5,23:50:09,authorMacBook-Pro,kernel,0,,AppleActuatorDeviceUserClient::start Entered,7725026e
+Jul,6,00:30:35,calvisitor-10-105-162-211,kernel,0,,IOHibernatePollerOpen(0),e194959f
+Jul,6,00:30:37,authorMacBook-Pro,ksfetch,36439,,2017-07-06 00:30:37.064 ksfetch[36439/0x7fff79824000] [lvl=2] main() Fetcher is exiting.,94b92341
+Jul,6,01:11:09,authorMacBook-Pro,kernel,0,,"Google Chrome He[36456] triggered unnest of range 0x7fff93c00000->0x7fff93e00000 of DYLD shared region in VM map 0x77c9114550458e7b. While not abnormal for debuggers, this increases system memory footprint until the target exits.",45bea0ba
+Jul,6,01:11:38,calvisitor-10-105-162-138,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,6,02:32:06,calvisitor-10-105-163-28,kernel,0,,BuildActDeviceEntry enter,773e06a3
+Jul,6,03:12:38,calvisitor-10-105-160-37,kernel,0,,"hibernate_alloc_pages act 107794, inact 10088, anon 460, throt 0, spec 58021, wire 572831, wireinit 39927",5f2ed233
+Jul,6,03:53:08,calvisitor-10-105-160-37,kernel,0,,hibernate_page_list_setall(preflight 1) start,493b9254
+Jul,6,03:53:08,calvisitor-10-105-160-37,kernel,0,,hibernate_page_list_setall time: 603 ms,bda6f598
+Jul,6,03:53:08,calvisitor-10-105-160-37,kernel,0,,IOPolledFilePollersOpen(0) 6 ms,ce18263c
+Jul,6,04:33:35,calvisitor-10-105-160-37,kernel,0,,hibernate_teardown completed - discarded 93932,8e3606c3
+Jul,6,04:33:35,calvisitor-10-105-160-37,kernel,0,,AppleActuatorDeviceUserClient::stop Entered,d7810eb2
+Jul,6,05:04:00,calvisitor-10-105-163-168,kernel,0,,"pages 1418325, wire 548641, act 438090, inact 2, cleaned 0 spec 12, zf 30, throt 0, compr 254881, xpmapped 40000",ef25fa86
+Jul,6,05:04:00,calvisitor-10-105-163-168,kernel,0,,"Opened file /var/vm/sleepimage, size 1073741824, extents 3, maxio 2000000 ssd 1",04f2c3ab
+Jul,6,05:04:00,calvisitor-10-105-163-168,kernel,0,,[IOBluetoothHostController::setConfigState] calling registerService,da7ac207
+Jul,6,08:32:37,authorMacBook-Pro,kernel,0,,AppleActuatorHIDEventDriver: stop,a041eae4
+Jul,6,08:32:37,authorMacBook-Pro,kernel,0,,[HID] [MT] AppleMultitouchDevice::start entered,5ba1fe73
+Jul,6,08:32:40,authorMacBook-Pro,AddressBookSourceSync,36544,,"[CardDAVPlugin-ERROR] -getPrincipalInfo:[_controller supportsRequestCompressionAtURL:https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/] Error Domain=NSURLErrorDomain Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSUnderlyingError=0x7f8de0c0dc70 {Error Domain=kCFErrorDomainCFNetwork Code=-1009 ""The Internet connection appears to be offline."" UserInfo={NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorCodeKey=8, _kCFStreamErrorDomainKey=12, NSLocalizedDescription=The Internet connection appears to be offline.}}, NSErrorFailingURLStringKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, NSErrorFailingURLKey=https://13957525385%40163.com@p28-contacts.icloud.com/874161398/principal/, _kCFStreamErrorDomainKey=12, _kCFStreamErrorCodeKey=8, NSLocalizedDescription=The Internet connection appears to be offline.}",fbb61ab3
+Jul,6,08:32:45,authorMacBook-Pro,netbiosd,36551,,Unable to start NetBIOS name service:,f6b506b5
+Jul,6,08:33:53,calvisitor-10-105-163-253,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,6,08:35:08,calvisitor-10-105-163-253,corecaptured,36565,,Got an XPC error: Connection invalid,71b9734e
+Jul,6,09:08:22,calvisitor-10-105-163-253,loginwindow,94,,-[SFLListManager(ServiceReplyProtocol) notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier com.apple.LSSharedFileList.RecentApplications,477f5228
+Jul,6,09:14:27,calvisitor-10-105-163-253,QQ,10018,,FA||Url||taskID[2019353614] dealloc,0401486e
+Jul,6,09:24:14,calvisitor-10-105-163-253,ksfetch,36728,,2017-07-06 09:24:14.417 ksfetch[36728/0x7fff79824000] [lvl=2] main() ksfetch fetching URL (<NSMutableURLRequest: 0x100602220> { URL: https://tools.google.com/service/update2?cup2hreq=f5e83ec64ff3fc5533a3c206134a6517e274f9e1cb53df857e15049b6e4c9f8e&cup2key=7:1721929288 }) to folder:/tmp/KSOutOfProcessFetcher.aPWod5QMh1/download,a3227cf5
+Jul,6,09:24:14,calvisitor-10-105-163-253,GoogleSoftwareUpdateAgent,36726,,2017-07-06 09:24:14.733 GoogleSoftwareUpdateAgent[36726/0x7000002a0000] [lvl=2] -[KSMultiUpdateAction performAction] KSPromptAction had no updates to apply.,e38c8417
+Jul,6,09:31:18,calvisitor-10-105-163-253,WindowServer,184,,no sleep images for WillPowerOffWithImages,5ede7912
+Jul,6,09:32:24,calvisitor-10-105-163-253,QQ,10018,,button report: 0x8002be0,c5fb0953
+Jul,6,10:12:58,calvisitor-10-105-163-253,ChromeExistion,36773,,ChromeExistion main isUndetectWithCommand = 1,96f4868d
+Jul,6,10:13:12,calvisitor-10-105-163-253,ChromeExistion,36775,,after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8,f79959b4
+Jul,6,10:17:44,calvisitor-10-105-163-253,ChromeExistion,36801,,"ChromeExistion main strSendMsg = {""websitekey"":false,""commandkey"":true,""browserkey"":true}",2408d977
+Jul,6,10:52:50,calvisitor-10-105-163-253,ChromeExistion,36852,,url host = www.baidu.com,b1d02dee
+Jul,6,10:53:30,calvisitor-10-105-163-253,ChromeExistion,36855,,the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin,0afb80df
+Jul,6,12:00:53,authorMacBook-Pro,CalendarAgent,279,,[com.apple.calendar.store.log.caldav.queue] [Adding [<CalDAVAccountRefreshQueueableOperation: 0x7fa11d67f3b0; Sequence: 0>] to failed operations.],795a719d
+Jul,6,12:00:53,authorMacBook-Pro,corecaptured,36918,,Received Capture Event,3f143fab
+Jul,6,12:01:10,authorMacBook-Pro,kernel,0,,ARPT: 739157.867474: wlc_dump_aggfifo:,c6e30026
+Jul,6,12:01:16,authorMacBook-Pro,corecaptured,36918,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,6,12:01:17,authorMacBook-Pro,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,6,12:02:58,authorMacBook-Pro,corecaptured,36918,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,6,12:03:00,authorMacBook-Pro,corecaptured,36918,,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,2fe4ad5c
+Jul,6,12:03:12,authorMacBook-Pro,kernel,0,,ARPT: 739253.582611: wlc_dump_aggfifo:,5ea94f50
+Jul,6,14:08:48,authorMacBook-Pro,kernel,0,,hibernate_rebuild started,f356f9c1
+Jul,6,14:09:31,authorMacBook-Pro,corecaptured,37027,,Received Capture Event,3f143fab
+Jul,6,14:09:32,authorMacBook-Pro,corecaptured,37027,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,6,14:15:59,authorMacBook-Pro,corecaptured,37027,,Received Capture Event,3f143fab
+Jul,6,14:17:00,calvisitor-10-105-162-178,com.apple.xpc.launchd,1,com.apple.xpc.launchd.domain.user.501,"Service ""com.apple.xpc.launchd.unmanaged.loginwindow.94"" tried to hijack endpoint ""com.apple.tsm.uiserver"" from owner: com.apple.SystemUIServer.agent",a3ed931c
+Jul,6,14:56:48,calvisitor-10-105-162-178,kernel,0,,"RTC: Maintenance 2017/7/6 21:56:47, sleep 2017/7/6 21:44:10",c6954816
+Jul,6,14:57:16,calvisitor-10-105-162-178,ksfetch,37061,,2017-07-06 14:57:16.261 ksfetch[37061/0x7fff79824000] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1999 bytes from stdin.,169c71dc
+Jul,6,14:57:16,calvisitor-10-105-162-178,GoogleSoftwareUpdateAgent,37059,,"2017-07-06 14:57:16.661 GoogleSoftwareUpdateAgent[37059/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher(PrivateMethods) helperDidTerminate:] KSOutOfProcessFetcher fetch ended for URL: ""https://tools.google.com/service/update2?cup2hreq=37fbcb7ab6829be04567976e3212d7a67627aef11546f8b7013d4cffaf51f739&cup2key=7:4200177539""",0a6d6548
+Jul,6,14:57:16,calvisitor-10-105-162-178,GoogleSoftwareUpdateAgent,37059,,2017-07-06 14:57:16.667 GoogleSoftwareUpdateAgent[37059/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0,e94c49ec
+Jul,6,16:12:20,calvisitor-10-105-162-178,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,6,16:17:36,authorMacBook-Pro,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,6,16:29:42,authorMacBook-Pro,corecaptured,37102,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,6,16:29:43,authorMacBook-Pro,corecaptured,37102,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,6,17:34:52,calvisitor-10-105-162-178,QQ,10018,,FA||Url||taskID[2019353659] dealloc,c4d6ff57
+Jul,6,18:09:02,calvisitor-10-105-162-178,kernel,0,,Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts,1063f8d7
+Jul,6,18:09:43,calvisitor-10-105-162-178,QQ,10018,,FA||Url||taskID[2019353666] dealloc,3c36506b
+Jul,6,18:22:57,calvisitor-10-105-162-178,AirPlayUIAgent,415,,2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification,540ddad4
+Jul,6,18:37:20,calvisitor-10-105-162-178,kernel,0,,full wake request (reason 2) 30914 ms,739ff9d6
+Jul,6,18:37:37,calvisitor-10-105-162-178,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,6,18:51:42,calvisitor-10-105-162-178,kernel,0,,kern_open_file_for_direct_io(0),8f7d765f
+Jul,6,19:04:07,calvisitor-10-105-162-178,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,6,19:58:57,calvisitor-10-105-162-178,kernel,0,,"PM response took 129 ms (10018, QQ)",7b985a7d
+Jul,6,20:03:05,calvisitor-10-105-162-178,QQ,10018,,button report: 0x80039B7,45b10d54
+Jul,6,20:05:04,calvisitor-10-105-162-178,WeChat,24144,,jemmytest,b55176d9
+Jul,6,20:05:07,calvisitor-10-105-162-178,Safari,9852,,KeychainGetICDPStatus: status: off,7a123c93
+Jul,6,20:14:33,calvisitor-10-105-162-178,QQ,10018,,FA||Url||taskID[2019353677] dealloc,2f201f0e
+Jul,6,20:35:33,calvisitor-10-105-162-178,WeChat,24144,,jemmytest,b55176d9
+Jul,6,20:46:03,calvisitor-10-105-162-178,GoogleSoftwareUpdateAgent,37316,,"2017-07-06 20:46:03.869 GoogleSoftwareUpdateAgent[37316/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: ""https://tools.google.com/service/update2?cup2hreq=5e15fbe422c816bef7c133cfffdb516e16923579b9be2dfae4d7d8d211b25017&cup2key=7:780377214""",9ff2c699
+Jul,6,21:08:02,calvisitor-10-105-162-178,Preview,11512,,"Page bounds {{0, 0}, {400, 400}}",75040252
+Jul,6,21:22:31,calvisitor-10-105-162-178,WeChat,24144,,Failed to connect (titleField) outlet from (MMSessionPickerChoosenRowView) to (NSTextField): missing setter or instance variable,b2490040
+Jul,6,22:05:30,calvisitor-10-105-162-178,CalendarAgent,279,,[com.apple.calendar.store.log.caldav.queue] [Account xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>],05ec6822
+Jul,6,22:33:18,calvisitor-10-105-162-178,CalendarAgent,279,,"[com.apple.calendar.store.log.caldav.queue] [Account refresh failed with error: Error Domain=CoreDAVHTTPStatusErrorDomain Code=502 ""(null)"" UserInfo={AccountName=163, CalDAVErrFromRefresh=YES, CoreDAVHTTPHeaders=<CFBasicHash 0x7fa11fe7a810 [0x7fff7abc1440]>{type = immutable dict, count = 5, entries => 0 : Connection = <CFString 0x7fff7ab1aea0 [0x7fff7abc1440]>{contents = ""keep-alive""} 3 : Content-Type = text/html 4 : Content-Length = 166 5 : Server = nginx 6 : Date = <CFString 0x7fa11ac2ab80 [0x7fff7abc1440]>{contents = ""Fri, 07 Jul 2017 05:32:43 GMT""} } }]",48645cf1
+Jul,6,23:00:45,calvisitor-10-105-162-178,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,7,00:01:59,calvisitor-10-105-162-178,kernel,0,,Sandbox: SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:,61b6e6aa
+Jul,7,00:09:34,calvisitor-10-105-162-178,QQ,10018,,FA||Url||taskID[2019353724] dealloc,09137032
+Jul,7,00:10:01,calvisitor-10-105-162-178,taskgated,273,,"no application identifier provided, can't use provisioning profiles [pid=37563]",b44aa1a7
+Jul,7,00:12:09,calvisitor-10-105-162-178,SpotlightNetHelper,352,,tcp_connection_destination_handle_tls_close_notify 111 closing socket due to TLS CLOSE_NOTIFY alert,c12475a9
+Jul,7,00:24:41,calvisitor-10-105-162-178,com.apple.WebKit.Networking,9854,,CFNetwork SSLHandshake failed (-9802),24e0fa9d
+Jul,7,00:26:36,calvisitor-10-105-162-178,Preview,11512,,"Unable to simultaneously satisfy constraints: ( ""<NSLayoutConstraint:0x7f8efa7db140 H:[NSImageView:0x7f8efa7db900(38)]>"", ""<NSLayoutConstraint:0x7f8efa7cbe00 H:|-(14)-[NSImageView:0x7f8efa7db900]   (Names: PageItemCell:0x7f8efa7cb450, '|':PageItemCell:0x7f8efa7cb450 )>"", ""<NSLayoutConstraint:0x7f8f17556f20 'NSView-Encapsulated-Layout-Width' H:[PageItemCell(73)]   (Names: PageItemCell:0x7f8efa7cb450 )>"", ""<NSLayoutConstraint:0x7f8efa7dc1c0 H:[NSImageView:0x7f8efa7db900]-(10)-[NSTextField:0x7f8efa7da9a0]>"", ""<NSLayoutConstraint:0x7f8efa7cbf70 H:[NSTextField:0x7f8f02f1da90]-(14)-|   (Names: PageItemCell:0x7f8efa7cb450, '|':PageItemCell:0x7f8efa7cb450 )>"", ""<NSLayoutConstraint:0x7f8efa7dc350 H:[NSTextField:0x7f8efa7da9a0]-(>=NSSpace(8))-[NSTextField:0x7f8f02f1da90]>"" )  Will attempt to recover by breaking constraint <NSLayoutConstraint:0x7f8efa7db140 H:[NSImageView:0x7f8efa7db900(38)]>  Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have -[NSWindow visualizeConstraints:] automatically called when this happens.  And/or, break on objc_exception_throw to catch this in the debugger.",82304b69
+Jul,7,00:30:06,calvisitor-10-105-162-178,syslogd,44,,"Configuration Notice: ASL Module ""com.apple.authkit.osx.asl"" sharing output destination ""/var/log/Accounts"" with ASL Module ""com.apple.Accounts"". Output parameters from ASL Module ""com.apple.Accounts"" override any specified in ASL Module ""com.apple.authkit.osx.asl"".",7e0b55ef
+Jul,7,00:52:55,authorMacBook-Pro,corecaptured,37602,,"CCFile::copyFile fileName is [2017-07-07_00,52,55.450817]-CCIOReporter-001.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-07_00,52,55.450817]-CCIOReporter-001.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-07_00,52,54.449889]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-07_00,52,55.450817]-CCIOReporter-001.xml",b675a04b
+Jul,7,00:53:09,calvisitor-10-105-162-178,mds,63,,(DiskStore.Normal:2382) 20cb04f 1.000086,1006c11b
+Jul,7,01:47:40,calvisitor-10-105-162-178,GoogleSoftwareUpdateAgent,37644,,"2017-07-07 01:47:40.090 GoogleSoftwareUpdateAgent[37644/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: ""https://tools.google.com/service/update2?cup2hreq=c30943ccd5e0a03e93b6be3e2b7e2127989f08f1bde99263ffee091de8b8bc39&cup2key=7:1039900771""",0fb8908d
+Jul,7,03:36:32,calvisitor-10-105-162-178,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,7,04:17:24,calvisitor-10-105-162-178,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,7,05:11:52,calvisitor-10-105-162-178,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,7,06:48:46,authorMacBook-Pro,corecaptured,37783,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,7,07:16:48,calvisitor-10-105-162-178,corecaptured,37799,,"CCDataTap::profileRemoved, Owner: com.apple.driver.AirPort.Brcm4360.0, Name: StateSnapshots",8a5eff29
+Jul,7,10:31:22,calvisitor-10-105-162-178,kernel,0,,"RTC: Maintenance 2017/7/7 17:31:21, sleep 2017/7/7 17:18:49",39637cc2
+Jul,7,10:37:43,calvisitor-10-105-162-178,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,7,10:38:06,calvisitor-10-105-162-178,Mail,11203,,Unrecognized XSSimpleTypeDefinition: OneOff,87c0c275
+Jul,7,10:38:10,calvisitor-10-105-162-178,QQ,10018,,DB Path: /Users/xpc/Library/Containers/com.tencent.qq/Data/Documents/contents/916639562/QQ.db,feb55f06
+Jul,7,10:38:23,calvisitor-10-105-162-178,UserEventAgent,258,,Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data,3ec86991
+Jul,7,10:54:41,calvisitor-10-105-162-178,GoogleSoftwareUpdateAgent,37924,,2017-07-07 10:54:41.875 GoogleSoftwareUpdateAgent[37924/0x7000002a0000] [lvl=2] -[KSUpdateCheckAction performAction] KSUpdateCheckAction starting update check for ticket(s): {( <KSTicket:0x100365950 productID=com.google.Chrome version=59.0.3071.115 xc=<KSPathExistenceChecker:0x10036e950 path=/Applications/Google Chrome.app> serverType=Omaha url=https://tools.google.com/service/update2 creationDate=2017-02-18 15:41:18 tagPath=/Applications/Google Chrome.app/Contents/Info.plist tagKey=KSChannelID brandPath=/Users/xpc/Library/Google/Google Chrome Brand.plist brandKey=KSBrandID versionPath=/Applications/Google Chrome.app/Contents/Info.plist versionKey=KSVersion cohort=1:1y5: cohortName=Stable ticketVersion=1 > )} Using server: <KSOmahaServer:0x100243f20 engine=<KSUpdateEngine:0x1007161b0> >,295975f9
+Jul,7,11:28:11,calvisitor-10-105-162-178,com.apple.ncplugin.weather,37956,,Error in CoreDragRemoveTrackingHandler: -1856,63464d45
+Jul,7,12:14:38,calvisitor-10-105-162-178,com.apple.SecurityServer,80,,Session 101800 destroyed,ffe84640
+Jul,7,12:20:25,calvisitor-10-105-162-178,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,7,12:24:25,authorMacBook-Pro,corecaptured,38064,,Received Capture Event,3f143fab
+Jul,7,12:24:29,authorMacBook-Pro,corecaptured,38064,,"CCFile::copyFile fileName is [2017-07-07_12,24,25.108710]-io80211Family-007.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-07_12,24,25.108710]-io80211Family-007.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-07_12,24,29.298901]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-07_12,24,25.108710]-io80211Family-007.pcapng",12f6645c
+Jul,7,12:24:31,authorMacBook-Pro,corecaptured,38064,,CCFile::captureLog,4a019d20
+Jul,7,12:24:31,authorMacBook-Pro,corecaptured,38064,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,7,12:24:31,authorMacBook-Pro,corecaptured,38064,,CCFile::captureLog,4a019d20
+Jul,7,12:30:14,calvisitor-10-105-162-178,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,7,12:30:29,calvisitor-10-105-162-178,kernel,0,,IO80211AWDLPeerManager::setAwdlAutoMode Resuming AWDL,92121a91
+Jul,7,13:38:22,authorMacBook-Pro,corecaptured,38124,,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,2fe4ad5c
+Jul,7,13:38:23,authorMacBook-Pro,corecaptured,38124,,CCIOReporterFormatter::addRegistryChildToChannelDictionary streams 7,2fe4ad5c
+Jul,7,13:40:35,authorMacBook-Pro,corecaptured,38124,,CCFile::captureLog,4a019d20
+Jul,7,13:40:35,authorMacBook-Pro,corecaptured,38124,,Received Capture Event,3f143fab
+Jul,7,13:40:35,authorMacBook-Pro,corecaptured,38124,,CCFile::captureLog,4a019d20
+Jul,7,13:40:37,authorMacBook-Pro,corecaptured,38124,,"CCFile::copyFile fileName is [2017-07-07_13,40,37.052249]-io80211Family-031.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-07_13,40,37.052249]-io80211Family-031.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-07_13,40,37.192896]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-07_13,40,37.052249]-io80211Family-031.pcapng",172a8b45
+Jul,7,13:40:52,calvisitor-10-105-160-205,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,7,13:42:34,authorMacBook-Pro,corecaptured,38124,,CCFile::captureLog,4a019d20
+Jul,7,13:42:46,authorMacBook-Pro,kernel,0,,ARPT: 770802.879782: wlc_dump_aggfifo:,dcc716ee
+Jul,7,13:42:46,authorMacBook-Pro,corecaptured,38124,,Received Capture Event,3f143fab
+Jul,7,13:42:48,authorMacBook-Pro,corecaptured,38124,,CCFile::captureLog,4a019d20
+Jul,7,14:03:30,calvisitor-10-105-160-205,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,7,14:19:56,calvisitor-10-105-160-205,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,7,14:33:34,calvisitor-10-105-160-205,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,7,15:28:00,calvisitor-10-105-160-205,syslogd,44,,ASL Sender Statistics,b5dd3697
+Jul,7,16:04:15,calvisitor-10-105-160-205,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae
+Jul,7,16:05:42,calvisitor-10-105-161-77,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,7,16:24:11,authorMacBook-Pro,corecaptured,38241,,"CCFile::copyFile fileName is [2017-07-07_16,24,11.442212]-AirPortBrcm4360_Logs-001.txt, source path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-07_16,24,11.442212]-AirPortBrcm4360_Logs-001.txt, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-07_16,24,11.124183]=AssocFail:sts:2_rsn:0/DriverLogs//[2017-07-07_16,24,11.442212]-AirPortBrcm4360_Logs-001.txt",7a2584cd
+Jul,7,16:24:18,authorMacBook-Pro,corecaptured,38241,,Received Capture Event,3f143fab
+Jul,7,16:24:43,authorMacBook-Pro,QQ,10018,,############################## _getSysMsgList,42e9195d
+Jul,7,16:53:53,calvisitor-10-105-160-85,com.apple.SecurityServer,80,,Session 102106 destroyed,3af4bb40
+Jul,7,16:59:44,calvisitor-10-105-160-85,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,7,17:30:00,calvisitor-10-105-160-85,kernel,0,,Sandbox: QuickLookSatelli(38418) deny(1) mach-lookup com.apple.networkd,ea97c760
+Jul,7,17:30:00,calvisitor-10-105-160-85,QuickLookSatellite,38418,,"nw_path_evaluator_start_helper_connection net_helper_path_evaluation_start failed, dumping backtrace: [x86_64] libnetcore-583.50.1 0   libsystem_network.dylib             0x00007fff92fabde9 __nw_create_backtrace_string + 123 1   libsystem_network.dylib             0x00007fff92fc289f nw_path_evaluator_start_helper_connection + 196 2   libdispatch.dylib                   0x00007fff980fa93d _dispatch_call_block_and_release + 12 3   libdispatch.dylib                   0x00007fff980ef40b _dispatch_client_callout + 8 4   libdispatch.dylib                   0x00007fff980f403b _dispatch_queue_drain + 754 5   libdispatch.dylib                   0x00007fff980fa707 _dispatch_queue_invoke + 549 6   libdispatch.dylib                   0x00007fff980f2d53 _dispatch_root_queue_drain + 538 7   libdispatch.dylib                   0x00007fff980f2b00 _dispatch_worker_thread3 + 91 8   libsystem_pthread.dylib             0x00007fff8ebc44de _pthread_wqthread + 1129 9   libsystem_pthread.dylib             0x00007fff8ebc2341 start_wqthread + 13",7209f520
+Jul,7,17:34:51,calvisitor-10-105-160-85,Safari,9852,,KeychainGetICDPStatus: status: off,7a123c93
+Jul,7,17:45:26,calvisitor-10-105-160-85,loginwindow,94,,"CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces.",a9d25eb5
+Jul,7,18:09:46,authorMacBook-Pro,corecaptured,38453,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,7,18:10:14,calvisitor-10-105-160-85,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,7,19:07:53,authorMacBook-Pro,kernel,0,,AppleCamIn::handleWakeEvent_gated,5d3b8c8e
+Jul,7,19:43:07,calvisitor-10-105-160-85,kernel,0,,full wake promotion (reason 1) 374 ms,a0304b7e
+Jul,7,20:39:28,calvisitor-10-105-160-85,com.apple.WebKit.Networking,9854,,"NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)",adf6af98
+Jul,7,20:43:37,calvisitor-10-105-160-85,QuickLookSatellite,38624,,"[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail",aa72a07c
+Jul,7,20:44:13,calvisitor-10-105-160-85,GPUToolsAgent,38749,,"schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>",6b8dcc2e
+Jul,7,20:51:27,calvisitor-10-105-160-85,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,7,20:57:37,calvisitor-10-105-160-85,Safari,9852,,KeychainGetICDPStatus: status: off,7a123c93
+Jul,7,21:08:26,calvisitor-10-105-160-85,WeChat,24144,,jemmytest,b55176d9
+Jul,7,21:12:46,calvisitor-10-105-160-85,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,7,21:22:43,calvisitor-10-105-160-85,com.apple.WebKit.WebContent,38826,,[21:22:43.147] mv_LowLevelCheckIfVideoPlayableUsingDecoder signalled err=-12956 (kFigMediaValidatorError_VideoCodecNotSupported) (video codec 1) at  line 1921,a7db0127
+Jul,7,21:23:10,calvisitor-10-105-160-85,com.apple.WebKit.WebContent,38826,,<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1,fef4db13
+Jul,7,21:23:11,calvisitor-10-105-160-85,com.apple.WebKit.WebContent,38826,,<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.,b1ad7755
+Jul,7,21:24:19,calvisitor-10-105-160-85,WindowServer,184,,CoreAnimation: timed out fence 5fe83,0b27452f
+Jul,7,21:26:38,calvisitor-10-105-160-85,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,7,21:30:12,calvisitor-10-105-160-85,Safari,9852,,KeychainGetICDPStatus: keychain: -25300,7562e40d
+Jul,7,21:58:33,calvisitor-10-105-160-85,NeteaseMusic,17988,,21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0,2bc0e2ba
+Jul,7,22:11:54,calvisitor-10-105-160-85,QQ,10018,,button report: 0x8002be0,c5fb0953
+Jul,7,22:46:29,calvisitor-10-105-160-85,QQ,10018,,button report: 0x8002be0,c5fb0953
+Jul,7,23:38:32,authorMacBook-Pro,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,8,00:58:14,calvisitor-10-105-160-47,kernel,0,,efi pagecount 72,c35492ee
+Jul,8,01:52:19,calvisitor-10-105-163-147,kernel,0,,ARPT: 784486.498066: wlc_dump_aggfifo:,ffe2b390
+Jul,8,01:52:19,calvisitor-10-105-163-147,corecaptured,38984,,CCFile::captureLogRun() Exiting CCFile::captureLogRun,2d0d617f
+Jul,8,02:32:47,calvisitor-10-105-162-175,corecaptured,38992,,"CCFile::copyFile fileName is [2017-07-08_02,32,47.528554]-CCIOReporter-003.xml, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-08_02,32,47.528554]-CCIOReporter-003.xml, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-08_02,32,46.517498]=AssocFail:sts:2_rsn:0/OneStats//[2017-07-08_02,32,47.528554]-CCIOReporter-003.xml",4f3a1341
+Jul,8,03:12:46,calvisitor-10-105-162-175,kernel,0,,did discard act 12083 inact 17640 purgeable 20264 spec 28635 cleaned 0,65e50fe9
+Jul,8,03:12:50,authorMacBook-Pro,kernel,0,,en0::IO80211Interface::postMessage bssid changed,b7a2d271
+Jul,8,04:13:32,calvisitor-10-105-162-228,blued,85,,Host controller terminated,f81e9894
+Jul,8,04:13:32,calvisitor-10-105-162-228,kernel,0,,[HID] [MT] AppleActuatorHIDEventDriver::start entered,aca1b330
+Jul,8,04:16:21,calvisitor-10-105-161-176,QQ,10018,,button report: 0x8002bdf,54b60a13
+Jul,8,04:16:21,calvisitor-10-105-161-176,QQ,10018,,FA||Url||taskID[2019353853] dealloc,41ca1f3b
+Jul,8,04:18:45,calvisitor-10-105-161-176,blued,85,,[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object,62a029a2
+Jul,8,05:34:31,calvisitor-10-105-160-181,kernel,0,,hibernate_machine_init reading,164db6d5
+Jul,8,05:51:55,calvisitor-10-105-162-124,kernel,0,,efi pagecount 72,c35492ee
+Jul,8,05:52:04,authorMacBook-Pro,Mail,11203,,Unrecognized XSSimpleTypeDefinition: OneOff,87c0c275
+Jul,8,05:52:07,calvisitor-10-105-162-124,kernel,0,,vm_compressor_fastwake_warmup completed - took 12461 msecs,88439c38
+Jul,8,05:56:40,authorMacBook-Pro,corecaptured,39090,,"CCFile::copyFile fileName is [2017-07-08_05,55,23.694116]-io80211Family-002.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-08_05,55,23.694116]-io80211Family-002.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-08_05,56,40.163377]=AssocFail:sts:2_rsn:0/IO80211AWDLPeerManager//[2017-07-08_05,55,23.694116]-io80211Family-002.pcapng",82fb3eae
+Jul,8,05:56:53,calvisitor-10-105-162-124,WeChat,24144,,jemmytest,b55176d9
+Jul,8,06:22:47,calvisitor-10-105-162-124,WeChat,24144,,"Unable to simultaneously satisfy constraints: ( ""<NSAutoresizingMaskLayoutConstraint:0x7f9d574e5370 h=-&- v=-&- V:[NSScrollView:0x7f9d64abe480]-(11)-|   (Names: '|':NSView:0x7f9d6a9cc340 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d7561a270 h=-&- v=-&- V:|-(45)-[NSScrollView:0x7f9d64abe480]   (Names: '|':NSView:0x7f9d6a9cc340 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d6aa2cf10 h=-&- v=--& V:[NSView:0x7f9d53160e30(0)]>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d75652870 h=-&- v=-&- V:|-(0)-[NSView:0x7f9d6a9cc340]   (Names: '|':NSView:0x7f9d53160e30 )>"", ""<NSAutoresizingMaskLayoutConstraint:0x7f9d77ef8f50 h=-&- v=-&- V:[NSView:0x7f9d6a9cc340]-(0)-|   (Names: '|':NSView:0x7f9d53160e30 )>"" )  Will attempt to recover by breaking constraint <NSAutoresizingMaskLayoutConstraint:0x7f9d7561a270 h=-&- v=-&- V:|-(45)-[NSScrollView:0x7f9d64abe480]   (Names: '|':NSView:0x7f9d6a9cc340 )>  Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have -[NSWindow visualizeConstraints:] automatically called when this happens.  And/or, break on objc_exception_throw to catch this in the debugger.",cf35782f
+Jul,8,06:26:32,calvisitor-10-105-162-124,GoogleSoftwareUpdateAgent,39159,,2017-07-08 06:26:32.364 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneDelegate) updateEngineFinishedWithErrors:] Keystone finished: errors=0,81437d63
+Jul,8,06:26:32,calvisitor-10-105-162-124,GoogleSoftwareUpdateAgent,39159,,2017-07-08 06:26:32.365 GoogleSoftwareUpdateAgent[39159/0x7000002a0000] [lvl=2] -[KSAgentApp(KeystoneThread) runKeystonesInThreadWithArg:] About to run checks for any other apps.,571f2aee
+Jul,8,06:46:42,calvisitor-10-105-162-124,WeChat,24144,,"Arranged view frame: {{0, 0}, {260, 877}}",d936b6d4
+Jul,8,07:12:45,calvisitor-10-105-162-124,corecaptured,39203,,CCProfileMonitor::setStreamEventHandler,baac63ed
+Jul,8,07:27:17,calvisitor-10-105-162-124,CommCenter,263,,Telling CSI to go low power.,2bc6deed
+Jul,8,08:10:46,calvisitor-10-105-162-124,kernel,0,,AppleCamIn::wakeEventHandlerThread,016decae

@@ -1,106 +1,106 @@
 EventId,EventTemplate
-0,ciod: Error creating node map from file <*> No child processes
-1,data store interrupt caused by <*>
-2,critical input interrupt <*>
-3,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected over <*> seconds
-4,machine state register: <*>
-5,Machine State Register: <*>
-6,suppressing further interrupts of same type
-7,ciod: Received signal <*>
-8,<*> floating point alignment exceptions
-9,data TLB error interrupt
-10,data cache search parity error detected. attempting to correct
-11,PrepareForService shutting down Node <*> mType(4)) as part of Service Action <*>
-12,"critical input interrupt <*> warning for torus z+ wire, suppressing further interrupts of same type"
-13,auxiliary <*>
-14,disable store <*>
-15,Node card is not fully functional
-16,ciod: Error loading <*> program image too <*> > <*>
-17,Lustre mount FAILED : <*> : block_id : location
-18,program interrupt
-19,iar <*> dear <*>
-20,exception syndrome register: <*>
-21,rts internal error
-22,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
-23,Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.
-24,"rts: kernel terminated for reason <*> bad message header: invalid cpu, <*>"
-25,critical input interrupt <*> warning for torus y+ wire
-26,problem state <*>
-27,generating <*>
-28,Ido chip status changed: <*> status=M Fri Jul <*> PDT <*>
-29,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>
-30,<*> double-hummer alignment exceptions
-31,rts panic! - stopping execution
-32,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
-33,PrepareForService shutting down <*> mType(4)) as part of Service Action <*>
-34,data address <*>
-35,debug interrupt <*>
-36,force load/store <*>
-37,<*>
-38,rts: bad message header: expecting type <*> instead of type <*>
-39,ciod: generated <*> core files for program <*>
-40,program interrupt: illegal <*>
-41,ciod: In packet from node <*> message code <*> is not <*> or <*>
+0,"critical input interrupt <*> warning for torus z+ wire, suppressing further interrupts of same type"
+1,problem state <*>
+2,iar <*> dear <*>
+3,fraction <*>
+4,program interrupt
+5,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected
+6,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>
+7,data address <*>
+8,program interrupt: fp cr <*>
+9,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.
+10,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer
+11,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+12,Lustre mount FAILED : <*> : point <*>
+13,ciod: generated <*> core files for program <*>
+14,Machine State Register: <*>
+15,MACHINE CHECK DCR read timeout <*> iar <*> lr <*>
+16,ciod: pollControlDescriptors: Detected the debugger died.
+17,"<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+18,<*> ddr errors(s) detected and corrected on rank <*> symbol <*> bit <*>
+19,<*>
+20,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
+21,machine check: <*>
+22,instruction address: <*>
+23,<*> torus sender z- retransmission error(s) (dcr <*> detected and corrected over <*> seconds
+24,Can not get assembly information for node card
+25,Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.
+26,Node card is not fully functional
+27,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>
+28,ciod: Message code <*> is not <*> or <*>
+29,total of <*> ddr error(s) detected and corrected
+30,data TLB error interrupt
+31,machine check <*>
+32,"rts: kernel terminated for reason <*> bad message header: invalid cpu, <*>"
+33,suppressing further interrupts of same type
+34,PrepareForService shutting down Node <*> mType(4)) as part of Service Action <*>
+35,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+36,program interrupt: fp cr field <*>
+37,store <*>
+38,instruction address <*>
+39,ciod: Received signal <*>
+40,auxiliary <*>
+41,Ido chip status changed: <*> status=M Thu Aug <*> PDT <*>
 42,ciod: LOGIN <*> failed: No such file or directory
-43,total of <*> ddr error(s) detected and corrected
-44,machine check <*>
-45,store <*>
-46,<*> ddr error(s) detected and corrected on rank <*> symbol <*> over <*> seconds
-47,floating pt ex mode <*>
-48,<*> EDRAM error(s) (dcr <*> detected and corrected over <*> seconds
-49,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.
-50,<*> ddr errors(s) detected and corrected on rank <*> symbol <*> bit <*>
-51,wait state <*>
-52,"NFS Mount failed on <*> slept <*> seconds, retrying <*>"
-53,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer
-54,floating point instr. <*>
-55,size of scratchpad portion of <*>
-56,total of <*> ddr error(s) detected and corrected over <*> seconds
-57,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
-58,ciod: pollControlDescriptors: Detected the debugger died.
-59,Lustre mount FAILED : <*> : point <*>
+43,rts panic! - stopping execution
+44,<*> EDRAM error(s) (dcr <*> detected and corrected
+45,minus normalized <*>
+46,<*> ffffffff ffffffff ffffffff
+47,rts: kernel terminated for reason <*>
+48,ciod: In packet from node <*> message code <*> is not <*> or <*>
+49,force load/store <*>
+50,"NFS Mount failed on <*> slept <*> seconds, retrying <*>"
+51,NodeCard is not fully functional
+52,floating pt ex mode <*>
+53,floating point instr. <*>
+54,exception syndrome register: <*>
+55,data store interrupt caused by <*>
+56,ciod: Error loading <*> program image too <*> > <*>
+57,special purpose registers:
+58,data cache search parity error detected. attempting to correct
+59,ciod: Error creating node map from file <*> No child processes
 60,ciod: Error creating node map from file <*> Permission denied
-61,ciod: LOGIN <*> failed: Input/output error
-62,data address: <*>
-63,program interrupt: fp cr field <*>
-64,New ido chip inserted into the database: <*>
-65,CE sym <*> at <*> mask <*>
-66,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
-67,"Error receiving packet on tree network, expecting type <*> instead of type <*>"
-68,<*> EDRAM error(s) (dcr <*> detected and corrected
-69,guaranteed instruction cache block <*>
-70,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>
-71,MACHINE CHECK DCR read timeout <*> iar <*> lr <*>
-72,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>
-73,Can not get assembly information for node card
-74,machine check: <*>
-75,rts: kernel terminated for reason <*>
-76,byte ordering <*>
-77,ciod: failed to read message prefix on control stream (CioStream socket to <*>
-78,ciod: Message code <*> is not <*> or <*>
-79,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>
-80,icache prefetch <*>
-81,fraction <*>
-82,<*> torus receiver z+ input pipe error(s) (dcr <*> detected and corrected
-83,minus normalized <*>
-84,Ido chip status changed: <*> status=M Thu Aug <*> PDT <*>
-85,<*> torus sender z- retransmission error(s) (dcr <*> detected and corrected over <*> seconds
-86,special purpose registers:
-87,instruction address <*>
-88,NodeCard is not fully functional
-89,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected
-90,"ciod: Error loading <*> invalid or missing program image, Exec format error"
-91,ciod: Missing or invalid fields on line <*> of node map file <*>
-92,"ciod: Error loading <*> invalid or missing program image, Permission denied"
-93,debug wait <*>
-94,data storage interrupt
-95,"<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
-96,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
-97,instruction address: <*>
-98,shutdown complete
-99,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
-100,<*> ffffffff ffffffff ffffffff
-101,instruction cache parity error corrected
-102,"idoproxydb hit ASSERT condition: ASSERT <*> Source file=idotransportmgr.cpp Source <*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
-103,core configuration register: <*>
-104,program interrupt: fp cr <*>
+61,<*> double-hummer alignment exceptions
+62,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+63,disable store <*>
+64,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+65,"Error receiving packet on tree network, expecting type <*> instead of type <*>"
+66,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+67,core configuration register: <*>
+68,<*> floating point alignment exceptions
+69,ciod: Missing or invalid fields on line <*> of node map file <*>
+70,guaranteed instruction cache block <*>
+71,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
+72,size of scratchpad portion of <*>
+73,<*> ddr error(s) detected and corrected on rank <*> symbol <*> over <*> seconds
+74,<*> torus receiver z+ input pipe error(s) (dcr <*> detected and corrected
+75,data address: <*>
+76,machine state register: <*>
+77,debug wait <*>
+78,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+79,"idoproxydb hit ASSERT condition: ASSERT <*> Source file=idotransportmgr.cpp Source <*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+80,shutdown complete
+81,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>
+82,rts: bad message header: expecting type <*> instead of type <*>
+83,instruction cache parity error corrected
+84,critical input interrupt <*> warning for torus y+ wire
+85,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected over <*> seconds
+86,critical input interrupt <*>
+87,icache prefetch <*>
+88,generating <*>
+89,Lustre mount FAILED : <*> : block_id : location
+90,ciod: LOGIN <*> failed: Input/output error
+91,rts internal error
+92,<*> EDRAM error(s) (dcr <*> detected and corrected over <*> seconds
+93,wait state <*>
+94,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>
+95,PrepareForService shutting down <*> mType(4)) as part of Service Action <*>
+96,ciod: failed to read message prefix on control stream (CioStream socket to <*>
+97,byte ordering <*>
+98,Ido chip status changed: <*> status=M Fri Jul <*> PDT <*>
+99,New ido chip inserted into the database: <*>
+100,CE sym <*> at <*> mask <*>
+101,program interrupt: illegal <*>
+102,data storage interrupt
+103,debug interrupt <*>
+104,total of <*> ddr error(s) detected and corrected over <*> seconds

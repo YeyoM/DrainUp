@@ -1,7 +1,7 @@
 EventId,EventTemplate
-0,[client <*> Directory index forbidden by rule: <*>
-1,jk2_init() Can't find child <*> in scoreboard
-2,jk2_init() Found child <*> in scoreboard slot <*>
-3,workerEnv.init() ok <*>
-4,mod_jk child workerEnv in error state <*>
-5,mod_jk child init <*>
+0,mod_jk child init <*>
+1,workerEnv.init() ok <*>
+2,mod_jk child workerEnv in error state <*>
+3,jk2_init() Found child <*> in scoreboard slot <*>
+4,jk2_init() Can't find child <*> in scoreboard
+5,[client <*> Directory index forbidden by rule: <*>

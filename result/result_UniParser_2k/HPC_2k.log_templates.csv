@@ -1,44 +1,44 @@
 EventId,EventTemplate
-0,wait  (command <*>
-1,halt  (command <*>
-2,normal
-3,bootGenvmunix  (command <*>
-4,Targeting <*> and <*>
-5,closing
-6,clusterAddMember  (command <*>
-7,Fan speeds ( <*> **** <*> )
-8,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>
-9,risBoot (command <*> Error: Timed out while waiting for SRM prompt: <ABORT code completed>
-10,psu failure\ <*>
-11,Link in reset
-12,boot (command <*> Error: HALT asserted\  cannot continue
-13,<*>
-14,running
-15,inconsistent nodesets <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok>
-16,configured out
-17,ServerFileSystem: ServerFileSystem domain <*> is full
-18,power/control problem
-19,NIFF: node <*> detected a failed network connection on network <*> via interface alt0
-20,critical
-21,risBoot  (command <*>
-22,inconsistent nodesets <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok>
+0,boot  (command <*>
+1,clusterAddMember  (command <*>
+2,NIFF: node <*> detected a failed network connection on network <*> via interface alt0
+3,Fan speeds ( <*> **** <*> )
+4,risBoot  (command <*>
+5,Linkerror event interval expired
+6,<*>
+7,blocked
+8,Link error on broadcast tree <*>
+9,NIFF: node <*> has detected an available network connection on network <*> via interface ee0
+10,inconsistent nodesets <*> <ok> <*> <ok> <*> <ok> <*> <ok>
+11,Component State Change: Component <*> is in the unavailable state <*>
+12,halt  (command <*>
+13,power/control problem
+14,warning
+15,bootGenvmunix  (command <*>
+16,not responding
+17,not-responding
+18,closing
+19,boot (command <*> Error: HALT asserted\  cannot continue
+20,Targeting <*> and <*> child of command <*>
+21,Link in reset
+22,risBoot (command <*> Error: Timed out while waiting for SRM prompt: <ABORT code completed>
 23,Command has completed successfully
-24,NIFF: node <*> has detected an available network connection on network <*> via interface ee0
-25,Failed subcommands <*>
-26,link errors remain current
-27,inconsistent nodesets <*> <ok> <*> <ok> <*> <ok> <*> <ok>
-28,Linkerror event interval expired
-29,boot  (command <*>
-30,Targeting <*> and <*> child of command <*>
-31,not responding
-32,active
-33,Link error on broadcast tree <*>
-34,not-responding
-35,ServerFileSystem: An ServerFileSystem domain panic has occurred on <*>
-36,blocked
-37,starting
-38,Temperature <*> exceeds warning threshold
-39,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
-40,Component State Change: Component <*> is in the unavailable state <*>
-41,warning
-42,Link error
+24,configured out
+25,link errors remain current
+26,Link error
+27,Temperature <*> exceeds warning threshold
+28,Failed subcommands <*>
+29,critical
+30,starting
+31,ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>
+32,running
+33,normal
+34,wait  (command <*>
+35,ServerFileSystem: ServerFileSystem domain <*> is full
+36,Targeting <*> and <*>
+37,active
+38,psu failure\ <*>
+39,ServerFileSystem: An ServerFileSystem domain panic has occurred on <*>
+40,ClusterFileSystem: There is no server for ServerFileSystem domain <*>
+41,inconsistent nodesets <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok>
+42,inconsistent nodesets <*> <ok> <*> <ok> <*> <ok> <*> <ok> <*> <ok>

@@ -1,0 +1,147 @@
+EventId,EventTemplate,Occurrences
+ce8d323b,connection from <*> <*> at <*> <*> <*> <*> 2005,821
+4c379b7b,authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= <*> <*>,371
+27624832,session closed for user <*>,123
+09789b2b,session opened for user <*> by <*>,123
+b780997e,check pass; user unknown,117
+d8976837,authentication failure; logname= uid=0 euid=0 <*> ruser= <*>,117
+a757c0c2,ALERT exited abnormally with [1],42
+acbfe003,connection from <*> (host8.topspot.net) at Sun Jul <*>,28
+dea5ca56,Kerberos authentication failed,23
+a82d5ea6,notify question section contains no SOA,16
+d9f1af4c,Authentication failed from <*> (<*>): Software caused connection abort,14
+d5077f59,connection from <*> at Sun Jul <*>,9
+a344f63f,connection from <*> at Sat Jul  <*>,8
+6f97e9d4,restart.,7
+f6e13a4d,Authentication failed from <*> (<*>): Permission denied in replay cache code,7
+e05fcc23,cupsd shutdown succeeded,6
+adc372d2,cupsd startup succeeded,6
+b9fb5f01,connection from <*> at Fri Jul <*>,5
+213394cc,connection from <*> () at Thu Jul  7 <*>,4
+e0dd8927,connection from <*> (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul <*>,4
+d067d507,connection from <*> at Mon Jul <*>,4
+ee259d46,getpeername (ftpd): Transport endpoint is not connected,4
+455b1aee,connection from <*> (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul <*>,3
+8b4b5ce5,connection from <*> (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul <*>,3
+3d002f62,removing device node <*>,3
+3010ee21,connection from <*> at <*> Jul <*>,3
+961489c4,creating device node <*>,3
+33f00fa7,connection from <*> at Sat Jul <*>,2
+aae79ab5,connection from <*> (dsl-082-083-227-067.arcor-ip.net) at Sun Jul <*>,2
+3341794d,connection from <*> at Tue Jul <*>,2
+9d565cd5,connection from <*> (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul <*>,2
+0f5f997d,BIOS-e820: <*> - <*> (reserved),2
+78fd03f6,connection from <*> at <*> Jul  <*>,2
+c3b81172,connection from <*> () at Tue Jul  5 <*>,2
+bb1c03d0,usbcore: registered <*> driver usbfs,1
+60696e47,POSIX conformance testing by UNIFIX,1
+5315a7c8,Starting pcmcia:  succeeded,1
+73904f45,Linux Plug and Play Support <*> (c) Adam Belay,1
+cf383357,ACPI: Interpreter disabled.,1
+1ee2f7d8,ACPI: Subsystem revision <*>,1
+e17c0a25,mtrr: <*>,1
+e0661b3c,"There is already a security framework initialized, register_security failed.",1
+0f556ff9,PCI: Using configuration type <*>,1
+02be0e02,"PCI: PCI BIOS revision <*> entry at 0xfc0ce, last <*>",1
+a31006da,Failure registering capabilities with the kernel,1
+4b75bf96,selinux_register_security:  Registering secondary module capability,1
+4af88f8f,NET: Registered protocol family <*>,1
+00c09a87,rpc.idmapd startup succeeded,1
+48a493b0,Capability LSM initialized,1
+1d8fe60a,Enabling fast FPU save and restore... done.,1
+b54f3664,Initializing random number generator:  succeeded,1
+ec04e27e,Dentry cache hash table entries: <*> (order: <*> bytes),1
+a3498f8a,Inode-cache hash table entries: <*> (order: <*> bytes),1
+95fbebcc,Mount-cache hash table entries: <*> (order: <*> bytes),1
+6a1f008b,CPU: <*> I cache: <*> D cache: <*>,1
+24b81ade,CPU: L2 cache: <*>,1
+53650236,Intel machine check architecture supported.,1
+0dfe904f,Checking 'hlt' instruction... OK.,1
+82fa90e1,Intel machine check reporting enabled on <*>,1
+b47e70f3,CPU: Intel Pentium III (Coppermine) stepping <*>,1
+5de744ee,Enabling unmasked SIMD FPU exception support... done.,1
+900d1a03,authentication failure; logname= <*> tty=NODEVssh ruser= <*>,1
+f1205e3c,usbcore: registered new driver <*>,1
+cafc1bbd,ACPI: ACPI tables contain no PCI IRQ routing entries,1
+bb8d8276,Real Time Clock Driver <*>,1
+2e3d6c0c,isapnp: No Plug & Play device found,1
+2bf1954b,isapnp: Scanning for PnP cards...,1
+66c5c678,pci_hotplug: PCI Hot Plug PCI Core version: <*>,1
+2b566107,Initializing Cryptographic API,1
+aa644c07,SELinux:  Registering netfilter hooks,1
+e9247df3,Dquot-cache hash table entries: <*> (order <*> bytes),1
+bd5b4ee3,VFS: Disk quotas <*>,1
+f518230d,Bringing up loopback interface:  succeeded,1
+0906cb48,"Total HugeTLB memory allocated, <*>",1
+372d0a03,sdpd <*> started,1
+3307aa8a,sdpd startup succeeded,1
+7035af19,Setting network parameters:  succeeded,1
+5661f4eb,audit(1122475266.4294965305:0): initialized,1
+dbae5392,hcid startup succeeded,1
+42e39163,HCI daemon ver <*> started,1
+8d44ea73,kernel.core_uses_pid = <*>,1
+7c9bb995,SELinux:  Initializing.,1
+4b7e6959,audit: initializing netlink socket (disabled),1
+4fc5c90b,apm: BIOS version <*> Flags <*> (Driver version <*>,1
+88b2336a,PCI: Using IRQ router PIIX/ICH <*> at <*>,1
+967c9534,Transparent bridge - <*>,1
+70451792,PCI: Probing PCI hardware <*>,1
+1f72ed8d,PCI: Probing PCI hardware,1
+ea8a8d97,PCI: Invalid ACPI-PCI IRQ routing table,1
+8480cb7e,SELinux:  Starting in permissive mode,1
+d70e3b66,ACPI disabled because your bios is from <*> and too <*>,1
+6a50d1ca,Security Scaffold <*> initialized,1
+bf6ddc60,imps2: Auto-detected intellimouse <*>,1
+d6e9e0a8,Linux version <*> (bhcompile@bugs.build.redhat.com) (gcc version <*> (Red Hat Linux 3.3.3-7)) <*> Sat May 8 <*> EDT <*>,1
+5784bea8,klogd <*> log source = /proc/kmsg started.,1
+91fea51a,syslogd startup succeeded,1
+9998416d,warning: can't get client address: Connection reset by peer,1
+1190af53,warning: can't <*> client address: Connection reset by peer,1
+cedf9d0b,"ANONYMOUS FTP LOGIN FROM <*>, (anonymous)",1
+d7c20c0d,ANONYMOUS FTP LOGIN FROM <*>  (anonymous),1
+03649f38,Couldn't authenticate user,1
+585088cb,creating device node '/udev/vcs2',1
+6adaa5ce,removing device node '/udev/vcsa2',1
+496e5f6d,ROOT LOGIN ON <*>,1
+1d16b745,*** info [mice.c(1766)]:,1
+6dc36b09,BIOS-e820: <*> - <*> (usable),1
+50e64f26,connection from <*> (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  <*>,1
+aaa25dfe,connection from <*> (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 <*>,1
+de29b51d,connection from <*> (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 <*>,1
+0231a562,connection from <*> at Fri Jul  <*>,1
+f7256729,Authentication failed from <*> Software caused connection abort,1
+360b37d2,Authentication failed from <*> Permission denied in replay cache code,1
+4f67b71e,Received SNMP packet(s) from <*>,1
+ee2c93d2,User unknown timed out after <*> seconds at Sat Jun <*>,1
+ee4e0b33,connection from <*> (24-54-76-216.bflony.adelphia.net) at Fri Jun <*>,1
+3608c980,ALERT exited abnormally with <*>,1
+bcae80c5,authentication failure; logname= <*> tty=NODEVssh ruser= <*>  user=root,1
+8c537990,BIOS-provided physical RAM map:,1
+0cbf3922,BIOS-e820: <*> - 0000000007eae000 (usable),1
+4e8c467f,Calibrating delay loop... <*> BogoMIPS,1
+2ec79755,Kernel command line: ro root=LABEL=/ rhgb quiet,1
+ec5498fa,"Memory: 125312k/129720k available <*> kernel code, <*> reserved, 599k data, 144k init, <*> highmem)",1
+4b3abecc,Console: colour VGA+ <*>,1
+25830347,rpc.statd startup succeeded,1
+85959353,Using tsc for high-res timesource,1
+268e6e9a,Version <*> Starting,1
+3ce72a26,Detected <*> processor.,1
+72771377,PID hash table entries: <*> (order <*> bytes),1
+7d73b4c5,portmap startup succeeded,1
+2f8af731,"CPU <*> irqstacks, <*>",1
+1cf019dc,Initializing <*>,1
+92999375,mapped 4G/4G trampoline to <*>,1
+4d847ed1,Built <*> zonelists,1
+d103acd1,BIOS-e820: 0000000007eae000 - <*> (reserved),1
+29249ae3,You can enable it with acpi=force,1
+5f45a05e,DMI <*> present.,1
+ef67126f,"HighMem zone: <*> pages, LIFO <*>",1
+d7763055,irqbalance startup succeeded,1
+4a201951,"Normal zone: <*> pages, LIFO <*>",1
+19255349,"DMA zone: <*> pages, LIFO <*>",1
+a7228435,On node <*> totalpages: <*>,1
+abd14c95,klogd startup succeeded,1
+42e1da55,zapping low mappings.,1
+31ab1d0f,<*> LOWMEM available.,1
+d4075114,<*> HIGHMEM available.,1
+635ba324,Linux agpgart interface <*> (c) Dave Jones,1

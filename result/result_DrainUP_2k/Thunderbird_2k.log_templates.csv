@@ -1,0 +1,193 @@
+EventId,EventTemplate,Occurrences
+6391d957,data_thread() got not answer from any <*> datasource,819
+ef226888,synchronized to <*> stratum <*>,568
+9db750e6,[ib_sm_sweep.c:1482]: No configuration change required,61
+eb0cfa2a,[ib_sm_sweep.c:1455]: No topology change,61
+1cfe3a76,[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************,61
+3be46d32,session closed for user root,24
+a0d61889,Warning: we failed to resolve data source name <*>,22
+5947eee3,(root) CMD <*> <*>,18
+095f4872,session opened for user root by (uid=0),18
+f4ef1422,Reading included configuration file: <*> <*> <*>,16
+49f6bba5,removing <*>,15
+c2ff3b1b,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases,14
+eb02d8a9,"PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>",11
+f3156356,PCI Interrupt Routing Table <*>,10
+fadd4d28,unable to qualify my own domain name <*> -- using short name,10
+f64bd41d,RRD_update <*> <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step),9
+33823f8f,"<*> to=root, ctladdr=root (0/0), <*> xdelay=00:00:00, mailer=relay, <*> relay=[<*>] [<*>], dsn=4.0.0, stat=Deferred: Connection refused by [<*>]",9
+23929b89,"<*> from=root, <*> class=0, nrcpts=1, <*> relay=#7#@localhost",9
+3bd3ed69,DHCPREQUEST for <*> (<*>) from 00:11:43:e3:ba:c3 via eth1: unknown lease <*>.,8
+708630cc,Wait for ready failed before probe !,6
+c47c3599,Registered protocol family <*>,5
+ee83b678,Physical Processor ID: <*>,5
+182a3d2f,My unqualified host name <*> unknown; sleeping for retry,5
+b35e89c2,DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1,4
+712fbe4d,Processor <*> (supports C1),4
+9ee8ca01,L2 cache: 2048K,4
+7c7ba3fe,"PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) *0, disabled.",4
+c5862456,"Trace cache: 12K uops, L1 D cache: 16K",4
+e0625398,DHCPOFFER on <*> to 00:11:43:e3:ba:c3 via eth1,4
+e34e5330,<*> DELL PE BKC <*> MSFT <*> @ <*>,4
+f2f7a33e,connection lost: 'Connection closed.',3
+a4430800,registered new driver <*>,3
+460b8859,LAPIC <*> <*> enabled),3
+092e01dc,IOAPIC <*>,3
+2bd14d50,LAPIC_NMI <*> high edge lint[0x1]),3
+a56daf2e,(C) 2000-2002 Netfilter core team,3
+880f1546,Local disconnected: Connection closed.,3
+ff52c40c,<*>,3
+9b1751bd,succeeded,2
+a0162353,mounted filesystem with ordered data mode.,2
+61157a08,DHCPACK on <*> to 00:11:43:e3:ba:c3 via eth1,2
+81d6fba7,"apic_id <*> version 32, address <*> GSI <*>",2
+953a8d97,Autodetecting RAID arrays.,2
+5172d697,PCI Interrupt Link <*> (IRQs <*>,2
+b3dc57c4,allocating divert_blk for <*>,2
+6c002bda,RRD_update <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step),2
+4cf08297,DHCPREQUEST for <*> (<*>) from 00:11:43:e3:ba:c3 via eth1,2
+848d9c3a,<*> used by override.,2
+b4c74054,<*> sda2 <*>,1
+eabf7ffa,"i8042 <*> port at 0x60,0x64 irq <*>",1
+30c0ff51,Registering secondary module capability,1
+a4a1188a,<*> AUX port at <*> irq <*>,1
+67669ebc,(C) <*> Netfilter core team,1
+bfcd95ed,Installing public key data,1
+e7db57c4,syslog-ng startup succeeded,1
+df8b1145,syslog-ng version <*> starting,1
+f0f5009d,Unknown cmd <*> on <*>,1
+481e7ae7,Detected <*> MHz processor.,1
+4d12f6fa,assuming drive cache: write through,1
+a358220c,scanning scsi channel <*> [Phy <*> for non-raid devices,1
+b427519b,<*> autorun <*>,1
+6a604788,asking for cache data failed,1
+7e463e0d,autorun <*>,1
+7ce70afa,autorun ...,1
+bbdd0c99,md driver <*>,1
+cbff18ff,<*> (Release Date: Fri Dec <*> EST <*>,1
+cd2a6bd5,... autorun DONE.,1
+a2c69681,<*> (Release Date: Mon Sep <*>,1
+d8796726,fw <*> bios <*>,1
+15c4f951,probe new device <*> bus 2:slot <*>,1
+021d54e8,<*> mouse device common for all mice,1
+25830347,rpc.statd startup succeeded,1
+7d73b4c5,portmap startup succeeded,1
+2d44d780,Starting ts_fixup: succeeded,1
+268e6e9a,Version <*> Starting,1
+7f146802,LSI Logic MegaRAID driver,1
+35d90304,scanning scsi channel <*> for logical drives,1
+3e8343bb,Using <*> MHz <*> timer.,1
+25a072d1,Warning: we failed to resolve data source name an14 an15 an16 an17 an18 an19 an20 an21 an22 an23 an24 an25 an26 an27 an28 an29 an30 an31 an32 an33 an34 an35 an36 an37 an38 an39 an40 an41 an42 an43 an44 an45 an46 an47 an48 an49 an50 an51 an52 an53 an54 an55 an56 an57 an58 an59 an60 an61 an62 an63 an64 an65 an66 an67 an68 an69 an70 an71 an72 an73 an74 an75 an76 an77 an78 an79 an80 an81 an82 an83 an84 an85 an86 an87 an88 an89 an90 an91 an92 an93 an94 an95 an96 an97 an98 an99 an100 an101 an102 an103 an104 an105 an106 an107 an108 an109 an110 an111 an112 an113 an114 an115 an116 an117 an118 an119 an120 an121 an122 an123 an124 an125 an126 an127 an128,1
+4c064dde,Using <*> based timekeeping.,1
+8c313df6,Creating Topspin <*> entries:,1
+33fa68bb,Warning: we failed to resolve data source name <*> dn188 <*>,1
+cf0af5cd,Warning: we failed to resolve data source name <*> dn788 <*> dn818 <*> dn878 <*> dn881 <*> dn888 <*>,1
+d02611cb,Warning: we failed to resolve trusted host name <*>,1
+264d5edd,gmetad startup succeeded,1
+b42be2bb,Now running on #29#'s privileges.,1
+8a9afe3f,"User #29#, coming from #30#, authenticated.",1
+cafdce56,not allocating divert_blk for non-ethernet device <*>,1
+204e5d52,Server listening on :: port <*>,1
+f81119f8,error: Bind to port <*> on <*> failed: Address already in <*>,1
+c47f9d2a,Cannot open file <*> for writing (No such file or directory),1
+a74214e1,Changing permissions on special file <*>,1
+09f718ce,xinetd startup succeeded,1
+d94f7d24,Reading included configuration file: <*>,1
+de5a07e2,xinetd Version <*> started with libwrap loadavg options compiled <*>,1
+194dd7c1,Started working: <*> available service,1
+d74d9df9,Warning: we failed to resolve data source name <*> dn18 <*> dn78 <*> dn81 <*> dn87 dn88 <*>,1
+cce89a13,Warning: we failed to resolve data source name <*> cn788 <*> cn818 <*> cn878 <*> cn881 <*> cn888 <*>,1
+347ceed6,Warning: we failed to resolve data source name <*> cn188 <*>,1
+144d91a4,Mounting <*> filesystems: <*>,1
+c1e7e610,registered new driver hiddev,1
+e2a20d6b,probe of <*> failed with error <*>,1
+9d05aa60,connection from <*>,1
+f5f1f1b7,User <*> coming from <*> authenticated.,1
+871b9eb5,Now running on <*>,1
+42c646d7,Mounting NFS filesystems: succeeded,1
+19e42446,Warning: we failed to resolve data source name <*> an18 <*> an78 <*> an81 <*> an87 an88 <*>,1
+02dbebe2,Warning: we failed to resolve data source name <*> cn18 <*> cn78 <*> cn81 <*> cn88 <*>,1
+260dcbc4,removing chargen,1
+b920cc84,Warning: we failed to resolve data source name <*> an188 <*>,1
+003dedc7,Warning: we failed to resolve data source name <*> an788 <*> an818 <*> an878 <*> an881 <*> an887 an888 <*>,1
+90a376d5,Warning: we failed to resolve data source name <*> bn81 <*> bn88 <*>,1
+3735007d,"connection from ""#28#""",1
+c15733cf,Warning: we failed to resolve data source name <*> bn818 <*> bn888 <*>,1
+01063e8c,Assuming <*> system bus speed for PIO modes; override with <*>,1
+25ea518d,Starting in permissive mode,1
+1d7c8312,RNG not detected,1
+d8b6bf9c,MCFG <*> DELL PE BKC <*> MSFT <*> @ <*>,1
+d46824a8,<*> (bus <*> bus_irq <*> global_irq <*> dfl dfl),1
+6101631b,INT_SRC_OVR (bus 0 bus_irq <*> global_irq <*> <*> <*>,1
+01635e5f,<*> used by <*>,1
+2188fc64,Interpreter enabled,1
+974f1a92,LAPIC <*> enabled),1
+3322c87b,LAPIC_NMI <*> high edge <*>,1
+7f47bdfa,Local APIC address <*>,1
+0d5ddf5d,PCI Interrupt Link <*> (IRQs 3 4 5 6 7 10 11 12) <*>,1
+16483862,no floppy controllers found,1
+28e2d00d,PCI Interrupt Link <*> (IRQs <*> disabled.,1
+779a8441,PCI Root Bridge <*>,1
+8669b0cb,Power Button (FF) <*>,1
+826feb9e,RSDP <*> DELL ) @ <*>,1
+7c6c843d,RSDT <*> DELL PE BKC <*> MSFT <*> @ <*>,1
+6259212f,SPCR <*> DELL PE BKC <*> MSFT <*> @ <*>,1
+54e256e6,Subsystem revision <*>,1
+eac6f33d,<*> id: <*> base: <*>,1
+7ad307b8,(supports <*>,1
+573f89d2,<*> (Kernel Module GPG key),1
+99132f5d,kernel time sync <*> <*>,1
+b6651574,(root) CMD (run-parts <*>,1
+5023a406,<*> ********************** NEW SWEEP ********************,1
+ff9fdbf1,<*> No topology change,1
+75ed5cbb,<*> No configuration change required,1
+39106dcc,<*> Connection refused by <*>,1
+d0052946,DHCPDISCOVER from <*> via eth1,1
+3b327ac5,DHCPOFFER on <*> to <*> via eth1,1
+774f4b45,DHCPDISCOVER from <*> via eth1: network A_net: no free leases,1
+8956864c,DHCPACK on <*> to <*> via eth1,1
+1cd93f55,DHCPREQUEST for <*> from <*> via eth1,1
+379a19e2,<*> tftp <*>,1
+92aca68c,DHCPREQUEST for <*> from <*> via eth1: unknown lease <*>,1
+97e54efd,kernel time sync disabled <*>,1
+ad3dfbf4,time reset <*> s,1
+4f67b71e,Received SNMP packet(s) from <*>,1
+5925103d,Using IOAPIC for interrupt routing,1
+f3722c6c,Intel(R) <*> CPU <*> stepping <*>,1
+c90aaf56,<*> cache: <*>,1
+2adbb5c6,session opened for user root by <*>,1
+18cdff90,Hash tables configured (established <*> bind <*>,1
+7409c064,Direct-Access ANSI SCSI revision: <*>,1
+c0eb874d,Processor ANSI SCSI revision: <*>,1
+5a8f4cd8,Disk quotas <*>,1
+cae85618,Mounted root <*> filesystem).,1
+4073917b,MegaRAID Model: LD <*> Rev: <*>,1
+b12a7b89,<*> Model: <*> SCSI BP Rev: <*>,1
+84d10a1e,initialized,1
+8bd4b5f8,initializing netlink socket (disabled),1
+8a6d25fc,<*> initialised: <*>,1
+f6df922d,not allocating divert_blk for non-ethernet device lo,1
+1ae9b872,<*> HID core driver,1
+4bd91633,<*> Intel(R) <*> Network Connection,1
+fbd7586a,<*> NIC Link is Up <*> Mbps Full Duplex,1
+565e71b1,<*> e1000_probe: Intel(R) PRO/1000 Network Connection,1
+e3539859,Unregistering netfilter hooks,1
+4e48601f,Registering netfilter hooks,1
+f1f93e69,"Trace cache: <*> uops, L1 D cache: <*>",1
+7f533fb9,Initializing.,1
+8aa8bcf0,colour VGA+ <*>,1
+454cc4cd,mounted filesystem with ordered data <*>,1
+30c90054,<*> ak Exp $,1
+ffa152d9,apic_id <*> version <*> address <*> GSI <*>,1
+179ee787,"routing cache hash table of <*> buckets, <*>",1
+fdb217dd,PCI Hot Plug PCI Core version: <*>,1
+cc2f383d,<*> fastboot <*>,1
+ae6ecbb2,Using software bounce buffering for IO <*>,1
+11f104b9,Probing PCI hardware (bus <*>,1
+967c9534,Transparent bridge - <*>,1
+ff635931,Using <*> for <*> routing,1
+49054f89,Using MMCONFIG at <*>,1
+415e7cee,Using configuration type <*>,1
+4211e0af,Compressed image found at block <*>,1
+b79ffc59,Disabled at runtime.,1
+75cdbabe,Device: <*> Temperature changed <*> Celsius to <*> Celsius since last report,1

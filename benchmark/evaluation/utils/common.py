@@ -97,7 +97,7 @@ def common_args():
     parser.add_argument('-uniparser', '--uniparser_only',
                         help="Set this if you want to evaluate UniParser results only",
                         default=False, action='store_true')
-    parser.add_argument('-hybrid', '--hybird_only',
+    parser.add_argument('-hybrid', '--hybrid_only',
                         help="Set this if you want to evaluate Hybrid results only",
                         default=False, action='store_true')
     parser.add_argument('--complex', type=int,

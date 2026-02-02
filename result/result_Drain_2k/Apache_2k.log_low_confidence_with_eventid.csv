@@ -1,0 +1,7 @@
+Time,Level,Content,EventId
+Sun Dec 04 04:47:44 2005,notice,workerEnv.init() ok /etc/httpd/conf/workers2.properties,e3dc5d82
+Sun Dec 04 04:47:44 2005,error,mod_jk child workerEnv in error state 6,a54f5ca4
+Sun Dec 04 04:51:08 2005,notice,jk2_init() Found child 6725 in scoreboard slot 10,b00729be
+Sun Dec 04 05:15:09 2005,error,[client 222.166.160.184] Directory index forbidden by rule: /var/www/html/,dc4edb17
+Sun Dec 04 17:43:08 2005,error,jk2_init() Can't find child 1566 in scoreboard,d550524b
+Sun Dec 04 17:43:12 2005,error,mod_jk child init 1 -2,a5bd6947

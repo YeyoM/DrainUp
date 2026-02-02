@@ -1,0 +1,91 @@
+EventId,EventTemplate,Occurrences
+ff52c40c,<*>,451
+93067dc4,onStandStepChanged <*>,260
+e0a83abb,getTodayTotalDetailSteps = <*>,241
+9300ea38,calculateCaloriesWithCache <*>,241
+cbcd504a,calculateAltitudeWithCache <*>,241
+b0190ab5,processHandleBroadcastAction <*>,160
+5cdf7db4,REPORT : <*> <*> <*> <*>,134
+3e662616,<*> <*> 0 <*>,66
+252628f5,onReceive action: <*>,33
+b8f897f8,flush sensor data,17
+d941da54,"new date =20171223, <*>",16
+5fed72bf,getBinderPackageName packageName = com.huawei.health,8
+d67137ee,getTodaySportData mStepsRecordManager=com.huawei.health.g.c@8a2a501,5
+8764d489,sendSyncFailedBroadcast,5
+3f9b4da2,ifCanSync not! no cloud version,5
+1d4b8a6f,initUserPrivacy the userPrivacy is true,5
+f257f214,"initUserPrivacy the userPrivacy switch is open, start push user data!",5
+38085a58,initDataPrivacy the dataPrivacy is true,5
+e4156b58,"initDataPrivacy the dataPrivacy switch is open, start push health data!",5
+3996af7c,upLoadOneMinuteDataToEngine <*>,5
+6e805a4c,needAutoSync autoSyncSwitch is open,5
+5c7637ce,timeStamp <*>,5
+b26107b2,"startSync hiSyncOption = <*> syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1",4
+042e0769,"saveStatData() type <*> = 1513958400000,statClient = 2,who is 1",3
+3ba40b70,startTimer start autoSync,3
+c0df8ce6,checkInsertStatus <*> or <*> is enough,3
+f7985a60,REPORT : <*>,2
+1809a7f0,bulkSaveDetailHiHealthData() size = <*> = <*>,2
+9b0d93a6,stepSyncOrNot appSynTimes is 0,2
+034409f5,insertHiHealthData() end totalTime = <*>,2
+824b3d7b,"getAppContext() isAppValid health or wear, packageName = com.huawei.health",2
+417f71bd, getStepCounterStatus= true,1
+f034e86a,"startInsertSportSync first 500 steps sync,do all sync",1
+7c62ae10,"stepSyncOrNot appSynTimes is 0, statsyncTimes is 0",1
+03c259bc,"startInsertSportSync start auto sync,app is 1",1
+b9adbd56,next <*>,1
+00dbbc8e,reload : <*> restar <*>,1
+8e523808,closeNotification...,1
+aa1d16b4,getDiffTotalSteps= <*>,1
+40f31420,getTodayBasicStandardSteps= <*>,1
+aec5333c,setBasicStandardSteps <*>,1
+540df4b1,"checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0",1
+c5a628cf,deleteHealthNotification(),1
+982424bb, getDiffTotalSteps= <*>,1
+86bcfaea,reStartStepCounter,1
+00d03c97,tryToRecordAsBasicStepData bWrite true,1
+7bb2182c, getTodayBasicStandardSteps= <*>,1
+71d384b3,stepSyncOrNot appSynTimes is <*>,1
+f52d2395,getTodaySportData <*>,1
+3616b800,clear(),1
+c1f5e07f,registersensorsuccess: true,1
+042d7a7a,setWriteDBLastDataMinute success,1
+057ae03f,theDayChanged <*>,1
+0d02a5eb,setGoalNotifiShownRecord <*> false,1
+e788f919,initEnviroument,1
+3244bf49,getStepCounterStatus,1
+b3d6ad7f,flush2DB result success,1
+46c87663,"insertHiHealthData() size = <*> = 1,One Data Type = <*> = com.huawei.health,writeStatType = 0",1
+4f4bf980,InsertEvent success <*>,1
+11cfedb4,InsertCallBack() onSuccess  type = <*> data=true,1
+b080c338,onReceive action: android.intent.action.SCREEN_ON,1
+dd5e8a75,processHandleBroadcastAction action:android.intent.action.SCREEN_ON,1
+d29a8681, getTodayTotalDetailSteps = <*>,1
+03a21551,isScreenOn true,1
+ffb006b5,"screen status unknown,think screen on",1
+0635a938,flushTempCacheToDB by stand,1
+27801432,Alarm uploadStaticsToDB <*>,1
+3b251b90,writeDataToDB size <*>,1
+ff0f59de,insertHiHealthData() checkAppType  <*> appID = <*>,1
+cf86c39d,"insertHiHealthData() size = 4,app = <*> Data Type = <*> = com.huawei.health,writeStatType = <*>",1
+310d7738,saveHealthDetailData() deviceID = <*>,1
+9617fb87,saveStatData() type <*> = <*> = <*> is <*>,1
+4de926b9,new date <*>,1
+0ec8d9ad,saveHealthDetailData() saveOneDetailData fail hiHealthData = <*> = <*>,1
+9ef024f5,"saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = <*>",1
+c14566b1,startListenerChange subscribeList = <*>,1
+514abfb6,"insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT",1
+8f940607,uploadStaticsToDB() onResult  type = <*> obj=true,1
+161ba043,uploadStaticsToDB failed message=true,1
+71835e93,checkInsertStatus stepSum or calorieSum is enough,1
+2b2b801d,stepSyncOrNot appSynTimes is <*> statsyncTimes is <*>,1
+9b2e9261,"startInsertSportSync start auto sync,app is <*>",1
+dbdd9143,"checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>",1
+cdb47d81,"startInsertSportSync first <*> steps sync,do all sync",1
+47cf4f8f,startSync hiSyncOption = <*> = <*> who = <*>,1
+c6841826,insertHiHealthData() checkAppType 0 appID = 1,1
+dc24d800,"saveHealthDetailData() deviceID = 2,clientID=1,id=1",1
+6bc3bd21,saveRealTimeHealthDatasStat() size = <*> = <*>,1
+960958ed,startListenerChange subscribeList = [1],1
+60f8b5ac,"checkCurrentDay a new day comes , reset basicSyncCondition, currentDay is <*> oldDay is <*>",1

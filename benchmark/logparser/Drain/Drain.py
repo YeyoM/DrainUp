@@ -294,26 +294,32 @@ class LogParser:
         # Add confidence scores to dataframe
         self.df_log['Confidence'] = confidence_scores
 
-        # Output low-confidence logs to separate file
-        self.output_low_confidence_logs()
-
-        # Output regular results (backward compatible)
+        # Output regular results (backward compatible) - this adds EventId column
         self.outputResult(logCluL)
+
+        # Output low-confidence logs to separate file (must be after outputResult)
+        self.output_low_confidence_logs()
 
         print('Parsing done. [Time taken: {!s}]'.format(datetime.now() - start_time))
 
     def output_low_confidence_logs(self):
         """
-        Output log lines with confidence below threshold to a separate file.
-        This file has the same format as the input file for UniParser compatibility.
-        File is always replaced if it exists to ensure clean output with current threshold.
+        Output log lines with confidence below threshold to two separate files:
+        1. _low_confidence.csv: Original format for UniParser compatibility
+        2. _low_confidence_with_eventid.csv: Same as above plus EventId for merging
+        Files are always replaced if they exist to ensure clean output with current threshold.
         """
         output_file = os.path.join(self.savePath, self.logName + '_low_confidence.csv')
+        output_file_with_eventid = os.path.join(self.savePath, self.logName + '_low_confidence_with_eventid.csv')
         
-        # Remove existing file if it exists to ensure clean replacement
+        # Remove existing files if they exist to ensure clean replacement
         if os.path.exists(output_file):
             os.remove(output_file)
             print(f"Removed existing low-confidence file: {output_file}")
+        
+        if os.path.exists(output_file_with_eventid):
+            os.remove(output_file_with_eventid)
+            print(f"Removed existing low-confidence with EventId file: {output_file_with_eventid}")
         
         # Filter logs below confidence threshold
         low_conf_df = self.df_log[self.df_log['Confidence'] < self.confidence_threshold].copy()
@@ -322,10 +328,15 @@ class LogParser:
             # Get original column headers (exclude LineId and Confidence)
             headers = [col for col in self.df_log.columns if col not in ['LineId', 'Confidence', 'EventId', 'EventTemplate', 'ParameterList']]
             
-            # Output only original columns for UniParser compatibility
+            # Output 1: Only original columns for UniParser compatibility
             low_conf_df[headers].to_csv(output_file, index=False)
             
+            # Output 2: Original columns plus EventId for merging with UniParser results
+            headers_with_eventid = headers + ['EventId']
+            low_conf_df[headers_with_eventid].to_csv(output_file_with_eventid, index=False)
+            
             print(f"Output {len(low_conf_df)} low-confidence logs (< {self.confidence_threshold}) to {output_file}")
+            print(f"Output {len(low_conf_df)} low-confidence logs with EventId to {output_file_with_eventid}")
             print(f"Confidence distribution: min={low_conf_df['Confidence'].min():.3f}, "
                   f"max={low_conf_df['Confidence'].max():.3f}, "
                   f"mean={low_conf_df['Confidence'].mean():.3f}")

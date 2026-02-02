@@ -1,0 +1,54 @@
+EventId,EventTemplate,Occurrences
+45a3ec5d,Interrupted while waiting for message on queue,314
+9879a9ab,Received connection request <*>,299
+036ce310,Connection broken for id <*> my id = <*> error =,291
+273e53f2,Interrupting SendWorker,266
+7a2ec7d0,Send worker leaving thread,262
+1e7a3631,Cannot open channel to <*> at election address <*>,86
+37ce0325,Established session <*> with negotiated timeout <*> for client <*>,50
+abe76bf8,Accepted socket connection from <*>,48
+61a003ea,Processed session termination for sessionid: <*>,47
+20d23992,Closed socket connection for client <*> which had sessionid <*>,44
+c2a27ab9,Client attempting to <*> <*> <*> at <*>,43
+f8c6d06b,Expiring session <*> timeout of <*> exceeded,40
+1bc7bc65,Connection request from old client <*>; will be dropped if server is in r-o mode,38
+286299e2,Notification time out: <*>,37
+ecefe136,caught end of stream exception,37
+f311a57e,******* GOODBYE <*> ********,19
+0cf47064,Unexpected exception causing shutdown while sock still open,12
+cd9a2201,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), <*> (n.state), <*> (n.sid), <*> (n.peerEPoch), <*> (my state)",11
+8dc08652,Server <*>,7
+00078e14,LOOKING,4
+bed3680d,Closed socket connection for client <*> (no session established for client),4
+1caefedb,Revalidating client: <*>,3
+d961f4e8,Server environment:java.vendor=Oracle Corporation,2
+dfd8b545,Snapshotting: <*> to <*>,2
+ecf6827a,Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,2
+4c5926a1,Getting a snapshot from leader,2
+3204f3ff,autopurge.purgeInterval set to 0,2
+a1237171,FOLLOWING - LEADER ELECTION TOOK - <*>,2
+c172d526,FOLLOWING,2
+e43b00c9,autopurge.snapRetainCount set to <*>,1
+e50f5cdf,Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1
+08b832eb,minSessionTimeout set to <*>,1
+b369174c,Client attempting to renew session <*> at <*>,1
+9d86801d,Sending DIFF,1
+cec2484c,Reading snapshot <*>,1
+22ee3efb,First is <*>,1
+63d9783e,Unexpected Exception:,1
+c7ef5ae9,shutdown of request processor complete,1
+4d52daa2,Have quorum of supporters; starting up and setting last processed zxid: <*>,1
+a9085761,maxSessionTimeout set to <*>,1
+37c0838e,Connection request from old client <*> will be dropped if server is in r-o mode,1
+bde42fae,autopurge.purgeInterval set to <*>,1
+007635ca,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)",1
+eeb38d12,Server environment:user.dir=/,1
+d459c04c,Starting quorum peer,1
+448b8b98,Got user-level KeeperException when processing <*> type:create cxid:0x55b8bb0f <*> txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,1
+fcea708e,My election bind port: <*>,1
+5ccf7096,tickTime set to <*>,1
+efc63809,"Have smaller server identifier, so dropping the connection: <*>",1
+4bdd6150,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running,1
+c3023a3c,"Server environment:zookeeper.version=3.4.5--1, built on <*> GMT",1
+79c0cb0d,New election. My id =  <*> proposed <*>,1
+5bd1f197,minSessionTimeout set to -1,1

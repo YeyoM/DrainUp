@@ -1,0 +1,220 @@
+EventId,EventTemplate,Occurrences
+bd2f529c,"<*> ""GET <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",930
+7bc5d64e,Active base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,81
+d7d096ad,"image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>in use: on this node <*> local, <*> on other nodes sharing this instance storage",81
+8970be39,image <*>dd<*>-<*>c<*>-<*>fbb-<*>c<*>-<*>fbe<*>b<*> at (<*>checking,81
+e7c5c93a,"<*> ""POST <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",63
+a7a4ff84,Unknown base file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,29
+6a30fe6e,Removable base files: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,29
+6206c58c,[instance: <*> Took <*> seconds to build instance.,22
+944eaae0,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,22
+11014179,[instance: <*> Instance spawned successfully.,22
+16f9f039,Creating event <*> for instance <*>,22
+a44f2c0c,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,22
+17cee22d,[instance: <*> VM Started (Lifecycle Event),22
+66acd71e,HTTP exception thrown: No instances found for any event,21
+b07a374b,"<*> ""DELETE <*>HTTP<*>status: <*> len: <*> time: <*>.<*>",21
+a18e4187,"[instance: <*> Total memory: <*> MB, used: <*> MB",21
+7c13f9ad,"[instance: <*> Total disk: <*> GB, used: <*> GB",21
+9981588e,[instance: <*> Took <*> seconds to deallocate network for instance.,21
+61ff7648,[instance: <*> Deletion of <*> complete,21
+b81be278,[instance: <*> Deleting instance files <*>,21
+60c42758,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",21
+8b0cbaf4,"[instance: <*> disk limit not specified, defaulting to unlimited",21
+2ab23ae3,[instance: <*> Claim successful,21
+f5f5f70f,Removing base or swap file: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,20
+304a219c,Auditing locally available compute resources for node cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,14
+f436579e,"Total usable vcpus: <*>, total allocated vcpus: <*>",14
+5935193a,Final resource view: name=cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us phys_ram=<*>MB used_ram=<*>MB phys_disk=<*>GB used_disk=<*>GB total_vcpus=<*> used_vcpus=<*> pci_stats=[],14
+9d6775a4,Compute_service record updated for cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us:cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us,14
+13866240,Base or swap file too young to remove: /var/lib/nova/instances/_base/a<*>c<*>f<*>c<*>da<*>b<*>c<*>bb<*>ac<*>e<*>,8
+a8257450,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] VM <*> (Lifecycle Event),4
+74bc92a4,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] VM <*> (Lifecycle Event),4
+d21fe1db,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] VM <*> (Lifecycle Event),4
+7708177a,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] VM <*> (Lifecycle Event),4
+dcbf6918,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] VM <*> (Lifecycle Event),4
+6c8466b8,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] VM <*> (Lifecycle Event),4
+4a70bfeb,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] VM <*> (Lifecycle Event),4
+d96e2e5f,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] VM <*> (Lifecycle Event),4
+0e612b16,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] VM <*> (Lifecycle Event),4
+36a1d805,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] VM <*> (Lifecycle Event),4
+bc181d7d,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] VM <*> (Lifecycle Event),4
+49928322,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] VM <*> (Lifecycle Event),4
+8068b26f,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] VM <*> (Lifecycle Event),4
+08afac01,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] VM <*> (Lifecycle Event),4
+41c623ba,The instance sync for host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us' did not match. Re-created its InstanceList.,4
+8580d622,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] VM <*> (Lifecycle Event),4
+4b299fb4,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] VM <*> (Lifecycle Event),4
+16341214,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] VM <*> (Lifecycle Event),4
+d83a429a,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] VM <*> (Lifecycle Event),4
+969d3364,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] VM <*> (Lifecycle Event),4
+42d95fbd,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] VM <*> (Lifecycle Event),4
+36ef4b8d,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] VM <*> (Lifecycle Event),4
+37ad94f4,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] VM <*> (Lifecycle Event),3
+06b10101,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] <*> <*>,2
+202c278a,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] <*> <*>,2
+f11cab63,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] <*> <*>,2
+56aac259,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] <*> <*>,2
+4fe0a741,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] <*> <*>,2
+075c5795,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] During sync_power_state the instance has a pending task (spawning). Skip.,2
+419716e4,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] <*> <*>,2
+52fcab40,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] <*> <*>,2
+abefa637,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] <*> <*>,2
+ce30162b,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] <*> <*>,2
+0764a0e7,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] <*> <*>,2
+22dde80f,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] <*> <*>,2
+bbdb4846,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] <*> <*>,2
+26ee0d4a,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] <*> <*>,2
+a9e920f2,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] <*> <*>,2
+6e2633da,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] <*> <*>,2
+c45d1f8d,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] <*> <*>,2
+591c14f9,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] <*> <*>,2
+29f4b5af,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] <*> <*>,2
+e2f085e6,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] <*> <*>,2
+fcb8af18,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] <*> <*>,2
+005b9f41,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] <*> <*>,2
+bb936264,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+26a2596b,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Instance <*> successfully.,1
+31b2c3e2,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+c493e2bf,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+7b76ff9e,"[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] <*> <*> <*> MB, <*> <*>.<*> MB",1
+e4919f9d,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Total <*> <*> <*> used: <*>.<*> <*>,1
+e4964c70,"[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] <*> <*> <*> MB, <*> <*>.<*> MB",1
+00fc4719,"[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] <*> limit not specified, defaulting to unlimited",1
+f20818cf,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Total <*> <*> <*> used: <*>.<*> <*>,1
+fa780844,"[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] <*> limit not specified, defaulting to unlimited",1
+35df0b1d,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] Total <*> <*> <*> used: <*>.<*> <*>,1
+3450d980,"[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] <*> <*> <*> MB, <*> <*>.<*> MB",1
+69e0d275,[instance: <*>c<*>b-c<*>b-<*>c<*>-b<*>-<*>afe<*>f<*>ff<*>] During sync_power_state the instance has a pending task (spawning). Skip.,1
+64fa83fa,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] During sync_power_state the instance has a pending task (spawning). Skip.,1
+57aab9aa,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Instance <*> successfully.,1
+0d3a2a81,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Instance <*> successfully.,1
+d1f3b2b9,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Instance <*> successfully.,1
+2dcd4dee,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] During sync_power_state the instance has a pending task (spawning). Skip.,1
+a902efb4,[instance: c<*>f<*>f<*>-<*>c-<*>ea<*>-b<*>e<*>-<*>edfcfbf] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+015d8bd2,"[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] <*> <*> <*> MB, <*> <*>.<*> MB",1
+3048ae86,"[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] <*> limit not specified, defaulting to unlimited",1
+d443b95d,[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] Total <*> <*> <*> used: <*>.<*> <*>,1
+465590e6,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Total <*> <*> <*> used: <*>.<*> <*>,1
+e87257ec,"[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] <*> limit not specified, defaulting to unlimited",1
+c41c4317,"[instance: <*>ea<*>-cbf<*>-<*>f<*>e-<*>fe-<*>fd<*>f<*>] <*> <*> <*> MB, <*> <*>.<*> MB",1
+d2d8f9f3,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+ac28547f,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Instance <*> successfully.,1
+75ae4961,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] During sync_power_state the instance has a pending task (spawning). Skip.,1
+73baf3be,"[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] <*> limit not specified, defaulting to unlimited",1
+1d6fb1c7,"[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] <*> limit not specified, defaulting to unlimited",1
+182cb440,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] During sync_power_state the instance has a pending task (spawning). Skip.,1
+2270220b,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+ad21183a,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Instance <*> successfully.,1
+2cfb0248,"[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] <*> limit not specified, defaulting to unlimited",1
+8f11dd8f,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Total <*> <*> <*> used: <*>.<*> <*>,1
+ea49bece,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+6b63977f,"[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] <*> <*> <*> MB, <*> <*>.<*> MB",1
+2632c6ef,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+ef7dfb13,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Instance <*> successfully.,1
+0be3de9c,"[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] <*> <*> <*> MB, <*> <*>.<*> MB",1
+2e8cb2dd,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Total <*> <*> <*> used: <*>.<*> <*>,1
+15f93e2f,"[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] <*> limit not specified, defaulting to unlimited",1
+1ca2beca,"[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] <*> limit not specified, defaulting to unlimited",1
+9d10b4cf,[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] Total <*> <*> <*> used: <*>.<*> <*>,1
+ee9d3ed2,"[instance: a<*>cf<*>-<*>bb-<*>-a<*>d-<*>c<*>ac<*>a<*>d] <*> <*> <*> MB, <*> <*>.<*> MB",1
+c95a92cf,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Instance <*> successfully.,1
+367744d1,[instance: d<*>a<*>b-<*>-<*>-bdcc-<*>b<*>d<*>d] During sync_power_state the instance has a pending task (spawning). Skip.,1
+03152cab,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] During sync_power_state the instance has a pending task (spawning). Skip.,1
+6328e663,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] During sync_power_state the instance has a pending task (spawning). Skip.,1
+ec0a74da,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Instance <*> successfully.,1
+1e9f0bac,[instance: d<*>b<*>bd<*>-<*>-<*>-<*>-fffdd<*>ea<*>e] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+5ba8e464,"[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] <*> limit not specified, defaulting to unlimited",1
+5bcc22eb,[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] Total <*> <*> <*> used: <*>.<*> <*>,1
+aa6a0dfc,"[instance: be<*>e<*>-<*>cc<*>-<*>f<*>-<*>-<*>c<*>a<*>a<*>bc] <*> <*> <*> MB, <*> <*>.<*> MB",1
+250f1190,"[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] <*> <*> <*> MB, <*> <*>.<*> MB",1
+24d7e1db,[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] Total <*> <*> <*> used: <*>.<*> <*>,1
+4b2fa4d9,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+96835e1e,[instance: bf<*>c<*>d-f<*>-<*>-a<*>e-e<*>da<*>e] Instance <*> successfully.,1
+45620dd8,"[instance: <*>e<*>a-<*>fe<*>-<*>-<*>b<*>-<*>ac<*>e<*>] <*> limit not specified, defaulting to unlimited",1
+7d8b6b51,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1
+7f7b9fcc,10.11.10.1 <*> status: <*> len: <*> time: <*>,1
+226ee9a4,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Total <*> <*> <*> used: <*>.<*> <*>,1
+e5c22a3d,[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] Total <*> <*> <*> used: <*>.<*> <*>,1
+80ff1ab5,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] During sync_power_state the instance has a pending task (spawning). Skip.,1
+d016213e,Running instance usage audit for host <*> from <*> to <*> instances.,1
+0e9094e0,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Instance <*> successfully.,1
+c161423c,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+256e1127,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] <*> <*> <*> MB, <*> <*>.<*> MB",1
+80f68b2b,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Total <*> <*> <*> used: <*>.<*> <*>,1
+b8a88bd6,"[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] <*> limit not specified, defaulting to unlimited",1
+65d180af,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] During sync_power_state the instance has a pending task (spawning). Skip.,1
+786a91de,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Instance <*> successfully.,1
+a56eae48,[instance: b<*>ef<*>-ba<*>d-<*>ae-bf<*>a-<*>cba<*>a<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+b7d6364d,Base or swap file too young to remove: <*>,1
+5c7850e2,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] <*> <*> <*> MB, <*> <*>.<*> MB",1
+649e86f7,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Total <*> <*> <*> used: <*>.<*> <*>,1
+5df477ea,"[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] <*> limit not specified, defaulting to unlimited",1
+35dde0d1,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] During sync_power_state the instance has a pending task (spawning). Skip.,1
+6ce9a7c1,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Instance <*> successfully.,1
+2605f93b,[instance: <*>dc<*>-<*>-<*>cc-<*>e-<*>b<*>c<*>dcf] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+ef553333,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] <*> <*> <*> MB, <*> <*>.<*> MB",1
+97b9db26,Successfully synced instances from host <*>,1
+a6adbd82,"[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] <*> limit not specified, defaulting to unlimited",1
+5c7643a5,"[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] <*> limit not specified, defaulting to unlimited",1
+de4e8cbf,[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] Total <*> <*> <*> used: <*>.<*> <*>,1
+6df083c1,image <*> at <*> checking,1
+5c02c445,"image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage",1
+b36febb0,Active base files: <*>,1
+5cb01401,"<*> ""POST <*> status: <*> len: <*> time: <*>",1
+3afc63a5,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] During sync_power_state the instance has a pending task (spawning). Skip.,1
+61a90d8b,Auditing locally available compute resources for node <*>,1
+346c93fc,Total usable vcpus: <*> total allocated vcpus: <*>,1
+548bfad6,Final resource view: <*> pci_stats=[],1
+7d500875,Compute_service record updated for <*>,1
+8649288c,"<*> ""DELETE <*> status: <*> len: <*> time: <*>",1
+fcc9fd98,[instance: <*> Terminating instance,1
+71bd50f3,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Instance <*> successfully.,1
+5cc17dae,[instance: b<*>-fe<*>a-<*>b-b<*>cc-<*>e<*>b<*>cd<*>d] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+51387d9b,Unknown base file: <*>,1
+3964d785,Removable base files: <*>,1
+8087023c,Removing base or swap file: <*>,1
+c16e0b8a,"[instance: <*>abccce-<*>d<*>f-<*>e<*>-b<*>d<*>-<*>b<*>ab<*>e<*>b<*>] <*> <*> <*> MB, <*> <*>.<*> MB",1
+ed76bf1b,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Total <*> <*> <*> used: <*>.<*> <*>,1
+79d153de,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] During sync_power_state the instance has a pending task (spawning). Skip.,1
+e5772cc6,"[instance: d<*>b<*>eb-<*>d<*>a-<*>aa<*>-ba<*>b-<*>d<*>f<*>f<*>c] <*> <*> <*> MB, <*> <*>.<*> MB",1
+421a018c,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Instance <*> successfully.,1
+d2d5dc89,"[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] <*> <*> <*> MB, <*> <*>.<*> MB",1
+07ca3863,"[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] <*> limit not specified, defaulting to unlimited",1
+5662b44f,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] During sync_power_state the instance has a pending task (spawning). Skip.,1
+01a37b01,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Instance <*> successfully.,1
+9bb168c4,[instance: <*>-<*>f<*>-<*>da<*>-b<*>ee-<*>d<*>cc<*>e<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+c72f54c7,"[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] <*> <*> <*> MB, <*> <*>.<*> MB",1
+25b9a526,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Total <*> <*> <*> used: <*>.<*> <*>,1
+b7c3b5e3,"[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] <*> limit not specified, defaulting to unlimited",1
+6dfd4d59,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] During sync_power_state the instance has a pending task (spawning). Skip.,1
+42c1cc30,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Instance <*> successfully.,1
+1f08014a,[instance: fecdd<*>a<*>-<*>ca<*>-<*>c<*>-<*>-<*>b<*>f<*>e] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+1f2f504f,"[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] <*> <*> <*> MB, <*> <*>.<*> MB",1
+b0cd53db,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Total <*> <*> <*> used: <*>.<*> <*>,1
+0c664b55,"[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] <*> limit not specified, defaulting to unlimited",1
+08c04d36,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] During sync_power_state the instance has a pending task (spawning). Skip.,1
+83a48ea5,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Instance <*> successfully.,1
+229902ae,[instance: <*>a<*>d<*>-<*>b<*>-<*>c<*>-b<*>-<*>a<*>cadf] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+e17abb44,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+7e1123f4,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] During sync_power_state the instance has a pending task (spawning). Skip.,1
+732653ea,Successfully synced instances from host 'cp-<*>.slowvm<*>.tcloud-pg<*>.utah.cloudlab.us'.,1
+220e55da,The instance sync for host <*> did not match. Re-created its InstanceList.,1
+f3a905f0,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Instance <*> successfully.,1
+1441b454,[instance: <*>-<*>b-<*>f<*>-<*>-<*>fc<*>b<*>a<*>c] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+8bf9e8e0,"[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] <*> <*> <*> MB, <*> <*>.<*> MB",1
+3e7493a4,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Total <*> <*> <*> used: <*>.<*> <*>,1
+312a2157,"[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] <*> limit not specified, defaulting to unlimited",1
+af3d2ec8,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] During sync_power_state the instance has a pending task (spawning). Skip.,1
+f0b190b5,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Instance <*> successfully.,1
+d34a1812,[instance: <*>e<*>cc<*>f-<*>cb<*>-<*>d<*>-<*>c-f<*>a<*>d<*>f<*>c<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+11fb6a5b,"[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] <*> <*> <*> MB, <*> <*>.<*> MB",1
+7b7a4ed6,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Total <*> <*> <*> used: <*>.<*> <*>,1
+733790f8,"[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] <*> limit not specified, defaulting to unlimited",1
+a2720818,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] During sync_power_state the instance has a pending task (spawning). Skip.,1
+7b12cfa1,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Instance <*> successfully.,1
+6e92053b,[instance: af<*>f<*>-f<*>d<*>-<*>-b<*>-c<*>c<*>aa<*>] Took <*>.<*> seconds to <*> the instance on the hypervisor.,1
+398732e9,"[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] <*> <*> <*> MB, <*> <*>.<*> MB",1
+f2645eab,[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] Total <*> <*> <*> used: <*>.<*> <*>,1
+8c5e76ba,"[instance: ae<*>a<*>b<*>d-eec<*>-<*>bb-b<*>a-c<*>d<*>b<*>f] <*> limit not specified, defaulting to unlimited",1
+ea229957,[instance: faf<*>ea-cba<*>-<*>e<*>b-<*>f<*>-<*>a<*>bc<*>f] Instance <*> successfully.,1
