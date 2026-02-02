@@ -1,0 +1,25 @@
+low_row_index,mapped_drain_index,drain_eventid,uni_row_index,uni_eventid_original,uni_eventtemplate,drain_LineId
+0,0,f7fe7f88,0,9,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com <*> failed - POSSIBLE BREAK-IN ATTEMPT!,1
+1,1,9302fad4,1,16,Invalid user <*> from <*>,2
+2,2,6b674ff1,2,5,input_userauth_request: invalid user webmaster [preauth],3
+3,3,0849a7d0,3,10,pam_unix(sshd:auth): check pass; user unknown,4
+4,4,e2315f39,4,22,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>,5
+5,5,21bb6d0e,5,11,Failed password for invalid user <*> from <*> port <*> ssh2,6
+6,6,2491ca3e,6,2,Connection closed by <*> [preauth],7
+7,13,2817a946,7,19,Received disconnect from <*> Bye Bye [preauth],14
+8,27,066b4d3e,8,8,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>  user=root,28
+9,28,f831cb6d,9,12,Failed password for <*> from <*> port <*> ssh2,29
+10,29,4fbf66db,10,20,message repeated <*> times: [ Failed password for <*> from <*> port <*> ssh2],30
+11,30,509a487f,11,14,Disconnecting: Too many authentication failures for <*> [preauth],31
+12,31,216ab66c,12,17,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,32
+13,32,00a684b8,13,7,PAM service(sshd) ignoring max retries; <*> > <*>,33
+14,138,c926c7d9,14,13,Did not receive identification string from <*>,139
+15,157,3a7285d3,15,15,error: Received disconnect from <*> com.jcraft.jsch.JSchException: Auth fail [preauth],158
+16,175,e2e22af4,16,23,Received disconnect from <*> Closed due to user request. [preauth],176
+17,192,2702de18,17,6,Failed none for invalid user <*> from <*> port <*> ssh2,193
+18,221,6ff8b88b,18,3,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= <*>,222
+19,346,d7242a1b,19,0,error: Received disconnect from <*> No more user authentication methods available. [preauth],347
+20,955,bb75510d,20,21,Accepted password for <*> from <*> port <*> ssh2,956
+21,956,4ca88b08,21,1,pam_unix(sshd:session): session opened for user fztu by <*>,957
+22,964,cfe22f2e,22,4,pam_unix(sshd:session): session closed for user fztu,965
+23,1868,f32f0642,23,18,fatal: Write failed: Connection reset by peer [preauth],1869

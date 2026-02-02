@@ -1,0 +1,25 @@
+EventId,EventTemplate
+0,error: Received disconnect from <*> No more user authentication methods available. [preauth]
+1,pam_unix(sshd:session): session opened for user fztu by <*>
+2,Connection closed by <*> [preauth]
+3,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= <*>
+4,pam_unix(sshd:session): session closed for user fztu
+5,input_userauth_request: invalid user webmaster [preauth]
+6,Failed none for invalid user <*> from <*> port <*> ssh2
+7,PAM service(sshd) ignoring max retries; <*> > <*>
+8,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>  user=root
+9,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com <*> failed - POSSIBLE BREAK-IN ATTEMPT!
+10,pam_unix(sshd:auth): check pass; user unknown
+11,Failed password for invalid user <*> from <*> port <*> ssh2
+12,Failed password for <*> from <*> port <*> ssh2
+13,Did not receive identification string from <*>
+14,Disconnecting: Too many authentication failures for <*> [preauth]
+15,error: Received disconnect from <*> com.jcraft.jsch.JSchException: Auth fail [preauth]
+16,Invalid user <*> from <*>
+17,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root
+18,fatal: Write failed: Connection reset by peer [preauth]
+19,Received disconnect from <*> Bye Bye [preauth]
+20,message repeated <*> times: [ Failed password for <*> from <*> port <*> ssh2]
+21,Accepted password for <*> from <*> port <*> ssh2
+22,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>
+23,Received disconnect from <*> Closed due to user request. [preauth]

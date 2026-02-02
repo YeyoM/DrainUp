@@ -1,0 +1,7 @@
+low_row_index,mapped_drain_index,drain_eventid,uni_row_index,uni_eventid_original,uni_eventtemplate,drain_LineId
+0,0,e3dc5d82,0,1,workerEnv.init() ok <*>,1
+1,1,a54f5ca4,1,2,mod_jk child workerEnv in error state <*>,2
+2,2,b00729be,2,3,jk2_init() Found child <*> in scoreboard slot <*>,3
+3,131,dc4edb17,3,5,[client <*> Directory index forbidden by rule: <*>,132
+4,784,d550524b,4,4,jk2_init() Can't find child <*> in scoreboard,785
+5,795,a5bd6947,5,0,mod_jk child init <*>,796

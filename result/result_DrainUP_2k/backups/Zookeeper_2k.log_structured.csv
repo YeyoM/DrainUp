@@ -1,0 +1,51 @@
+﻿Content,EventId,EventTemplate
+Notification time out: 3200,19,Notification time out: <*>
+Received connection request /10.10.34.11:45307,26,Received connection request <*>
+Send worker leaving thread,16,Send worker leaving thread
+Interrupted while waiting for message on queue,14,Interrupted while waiting for message on queue
+"Connection broken for id 188978561024, my id = 1, error =",29,Connection broken for id <*> my id = <*> error =
+Interrupting SendWorker,44,Interrupting SendWorker
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,1,Closed socket connection for client <*> which had sessionid <*>
+caught end of stream exception,23,caught end of stream exception
+Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115,45,Client attempting to renew session <*> at <*>
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,21,Established session <*> with negotiated timeout <*> for client <*>
+Accepted socket connection from /10.10.34.13:37196,32,Accepted socket connection from <*>
+Unexpected Exception:,5,Unexpected Exception:
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,37,Connection request from old client <*> will be dropped if server is in r-o mode
+Server environment:user.dir=/,6,Server environment:user.dir=/
+Cannot open channel to 2 at election address /10.10.34.12:3888,2,Cannot open channel to <*> at election address <*>
+Processed session termination for sessionid: 0x14ede63a5a70002,30,Processed session termination for sessionid: <*>
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",41,Expiring session <*> timeout of <*> exceeded
+******* GOODBYE /10.10.34.12:35276 ********,15,******* GOODBYE <*> ********
+LOOKING,22,LOOKING
+My election bind port: 0.0.0.0/0.0.0.0:3888,17,My election bind port: <*>
+"Have smaller server identifier, so dropping the connection: (2, 1)",33,"Have smaller server identifier, so dropping the connection: <*>"
+FOLLOWING,0,FOLLOWING
+LOOKING,22,LOOKING
+"New election. My id =  1, proposed zxid=0x700000000",31,New election. My id =  <*> proposed <*>
+FOLLOWING - LEADER ELECTION TOOK - 49,38,FOLLOWING - LEADER ELECTION TOOK - <*>
+"Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)",13,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
+autopurge.snapRetainCount set to 3,11,autopurge.snapRetainCount set to <*>
+Server environment:java.vendor=Oracle Corporation,27,Server environment:java.vendor=Oracle Corporation
+Revalidating client: 0x14f05578bd80018,4,Revalidating client: <*>
+"Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT",43,"Server environment:zookeeper.version=3.4.5--1, built on <*> GMT"
+Closed socket connection for client /10.10.34.11:56471 (no session established for client),3,Closed socket connection for client <*> (no session established for client)
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,10,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running
+tickTime set to 2000,7,tickTime set to <*>
+Unexpected exception causing shutdown while sock still open,12,Unexpected exception causing shutdown while sock still open
+Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,24,Got user-level KeeperException when processing <*> type:create cxid:0x55b8bb0f <*> txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper
+Starting quorum peer,18,Starting quorum peer
+Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,36,Snapshotting: <*> to <*>
+autopurge.purgeInterval set to 0,34,autopurge.purgeInterval set to <*>
+Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,20,Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4
+maxSessionTimeout set to -1,35,maxSessionTimeout set to <*>
+FOLLOWING,0,FOLLOWING
+Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000,39,Have quorum of supporters; starting up and setting last processed zxid: <*>
+shutdown of request processor complete,42,shutdown of request processor complete
+First is 0x0,9,First is <*>
+Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,40,Reading snapshot <*>
+Sending DIFF,8,Sending DIFF
+LOOKING,22,LOOKING
+Getting a snapshot from leader,25,Getting a snapshot from leader
+LOOKING,22,LOOKING
+minSessionTimeout set to -1,28,minSessionTimeout set to <*>

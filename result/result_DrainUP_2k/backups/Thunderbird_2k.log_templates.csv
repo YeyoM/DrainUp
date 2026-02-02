@@ -1,0 +1,153 @@
+EventId,EventTemplate
+0,Started working: <*> available service
+1,Using software bounce buffering for IO <*>
+2,Hash tables configured (established <*> bind <*>
+3,<*> AUX port at <*> irq <*>
+4,Subsystem revision <*>
+5,mounted filesystem with ordered data <*>
+6,DHCPOFFER on <*> to <*> via eth1
+7,RNG not detected
+8,<*> Connection refused by <*>
+9,xinetd startup succeeded
+10,syslog-ng startup succeeded
+11,Creating Topspin <*> entries:
+12,kernel time sync disabled <*>
+13,xinetd Version <*> started with libwrap loadavg options compiled <*>
+14,<*> (Release Date: Fri Dec <*> EST <*>
+15,<*> ********************** NEW SWEEP ********************
+16,Warning: we failed to resolve data source name <*> bn81 <*> bn88 <*>
+17,Device: <*> Temperature changed <*> Celsius to <*> Celsius since last report
+18,LAPIC_NMI <*> high edge <*>
+19,Local APIC address <*>
+20,succeeded
+21,PCI Interrupt Routing Table <*>
+22,SPCR <*> DELL PE BKC <*> MSFT <*> @ <*>
+23,not allocating divert_blk for non-ethernet device lo
+24,<*> NIC Link is Up <*> Mbps Full Duplex
+25,DHCPREQUEST for <*> from <*> via eth1
+26,syslog-ng version <*> starting
+27,PCI Hot Plug PCI Core version: <*>
+28,assuming drive cache: write through
+29,<*> No configuration change required
+30,apic_id <*> version <*> address <*> GSI <*>
+31,session opened for user root by <*>
+32,(C) <*> Netfilter core team
+33,Using <*> based timekeeping.
+34,gmetad startup succeeded
+35,Interpreter enabled
+36,Warning: we failed to resolve trusted host name <*>
+37,Now running on <*>
+38,Initializing.
+39,<*> sda2 <*>
+40,DHCPDISCOVER from <*> via eth1: network A_net: no free leases
+41,MegaRAID Model: LD <*> Rev: <*>
+42,Received SNMP packet(s) from <*>
+43,<*> used by <*>
+44,initialized
+45,PCI Root Bridge <*>
+46,<*>
+47,initializing netlink socket (disabled)
+48,asking for cache data failed
+49,removing chargen
+50,Unregistering netfilter hooks
+51,time reset <*> s
+52,Mounted root <*> filesystem).
+53,DHCPREQUEST for <*> from <*> via eth1: unknown lease <*>
+54,<*> ak Exp $
+55,scanning scsi channel <*> for logical drives
+56,Assuming <*> system bus speed for PIO modes; override with <*>
+57,connection lost: 'Connection closed.'
+58,(root) CMD (run-parts <*>
+59,Warning: we failed to resolve data source name <*> dn788 <*> dn818 <*> dn878 <*> dn881 <*> dn888 <*>
+60,data_thread() got not answer from any <*> datasource
+61,scanning scsi channel <*> [Phy <*> for non-raid devices
+62,Processor <*> (supports C1)
+63,synchronized to <*> stratum <*>
+64,User <*> coming from <*> authenticated.
+65,<*> autorun <*>
+66,Warning: we failed to resolve data source name <*> dn188 <*>
+67,Warning: we failed to resolve data source name <*> cn788 <*> cn818 <*> cn878 <*> cn881 <*> cn888 <*>
+68,rpc.statd startup succeeded
+69,Warning: we failed to resolve data source name <*> cn18 <*> cn78 <*> cn81 <*> cn88 <*>
+70,<*> cache: <*>
+71,Unknown cmd <*> on <*>
+72,Mounting NFS filesystems: succeeded
+73,RSDP <*> DELL ) @ <*>
+74,Physical Processor ID: <*>
+75,Autodetecting RAID arrays.
+76,Changing permissions on special file <*>
+77,<*> (bus <*> bus_irq <*> global_irq <*> dfl dfl)
+78,colour VGA+ <*>
+79,DHCPACK on <*> to <*> via eth1
+80,<*> mouse device common for all mice
+81,Warning: we failed to resolve data source name <*> an188 <*>
+82,<*> DELL PE BKC <*> MSFT <*> @ <*>
+83,unable to qualify my own domain name <*> -- using short name
+84,RRD_update <*> illegal attempt to update using time <*> when last update time is <*> (minimum one second step)
+85,Disabled at runtime.
+86,Intel(R) <*> CPU <*> stepping <*>
+87,Disk quotas <*>
+88,Local disconnected: Connection closed.
+89,IOAPIC <*>
+90,Version <*> Starting
+91,probe of <*> failed with error <*>
+92,LSI Logic MegaRAID driver
+93,<*> HID core driver
+94,Installing public key data
+95,session closed for user root
+96,<*> No topology change
+97,RSDT <*> DELL PE BKC <*> MSFT <*> @ <*>
+98,fw <*> bios <*>
+99,Compressed image found at block <*>
+100,Using <*> MHz <*> timer.
+101,<*> fastboot <*>
+102,Starting in permissive mode
+103,"routing cache hash table of <*> buckets, <*>"
+104,Transparent bridge - <*>
+105,Warning: we failed to resolve data source name <*> an788 <*> an818 <*> an878 <*> an881 <*> an887 an888 <*>
+106,md driver <*>
+107,autorun <*>
+108,My unqualified host name <*> unknown; sleeping for retry
+109,PCI Interrupt Link <*> (IRQs <*>
+110,Using configuration type <*>
+111,Registering netfilter hooks
+112,Reading included configuration file: <*>
+113,portmap startup succeeded
+114,Server listening on :: port <*>
+115,DHCPDISCOVER from <*> via eth1
+116,Direct-Access ANSI SCSI revision: <*>
+117,<*> tftp <*>
+118,Warning: we failed to resolve data source name <*> dn18 <*> dn78 <*> dn81 <*> dn87 dn88 <*>
+119,Warning: we failed to resolve data source name <*> an18 <*> an78 <*> an81 <*> an87 an88 <*>
+120,<*> initialised: <*>
+121,allocating divert_blk for <*>
+122,Starting ts_fixup: succeeded
+123,probe new device <*> bus 2:slot <*>
+124,no floppy controllers found
+125,Registering secondary module capability
+126,"PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>"
+127,Warning: we failed to resolve data source name <*>
+128,<*> id: <*> base: <*>
+129,(supports <*>
+130,"Trace cache: <*> uops, L1 D cache: <*>"
+131,<*> (Release Date: Mon Sep <*>
+132,Probing PCI hardware (bus <*>
+133,error: Bind to port <*> on <*> failed: Address already in <*>
+134,Power Button (FF) <*>
+135,Detected <*> MHz processor.
+136,Cannot open file <*> for writing (No such file or directory)
+137,Warning: we failed to resolve data source name <*> bn818 <*> bn888 <*>
+138,Warning: we failed to resolve data source name <*> cn188 <*>
+139,Registered protocol family <*>
+140,<*> Model: <*> SCSI BP Rev: <*>
+141,<*> Intel(R) <*> Network Connection
+142,connection from <*>
+143,Using IOAPIC for interrupt routing
+144,registered new driver hiddev
+145,Wait for ready failed before probe !
+146,<*> (Kernel Module GPG key)
+147,Processor ANSI SCSI revision: <*>
+148,PCI Interrupt Link <*> (IRQs <*> disabled.
+149,LAPIC <*> enabled)
+150,Using MMCONFIG at <*>
+151,MCFG <*> DELL PE BKC <*> MSFT <*> @ <*>

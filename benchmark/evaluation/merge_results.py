@@ -1,7 +1,9 @@
 import sys
 import os
+import shutil
 import pandas as pd
-import hashlib
+from collections import defaultdict, deque, Counter
+
 sys.path.append('../')
 from utils.common import common_args
 
@@ -39,168 +41,267 @@ datasets_full = [
     "HDFS",
 ]
 
-def merge_results(dataset, data_type, input_drain_dir, input_uniparser_dir, output_dir):
+def _safe_read_csv(path, **kwargs):
+    if not os.path.exists(path):
+        raise FileNotFoundError(f"File not found: {path}")
+    return pd.read_csv(path, **kwargs)
+
+def merge_results(dataset,
+                  input_drain_dir,
+                  input_uniparser_dir,
+                  output_dir,
+                  data_type="2k",
+                  make_backups: bool = True):
     """
-    Merge Drain and UniParser results:
-    - Keep high-confidence Drain results
-    - Replace low-confidence results with UniParser results
-    - Recalculate template occurrences
+    Merge Drain + UniParser results for a single dataset.
+
+    Changes:
+    - File paths use pattern: {dataset}_{data_type}.log_*.csv
+    - For each Drain EventId that UniParser produced templates for (via mapping),
+      replace EventTemplate for ALL structured rows with that EventId by the
+      most-common UniParser template mapped to that EventId.
+    - Recompute template occurrences after replacement.
     """
-    print(f'\n=== Merging results for {dataset} ===')
-    
-    # File paths
-    base_name = f"{dataset}_{data_type}.log"
-    drain_structured = os.path.join(input_drain_dir, f"{base_name}_structured.csv")
-    drain_low_conf_with_id = os.path.join(input_drain_dir, f"{base_name}_low_confidence_with_eventid.csv")
-    
-    # UniParser outputs using the base log name (strips _low_confidence)
-    uniparser_structured = os.path.join(input_uniparser_dir, f"{base_name}_structured.csv")
-    
-    output_structured = os.path.join(output_dir, f"{base_name}_structured.csv")
-    output_templates = os.path.join(output_dir, f"{base_name}_templates.csv")
-    
-    # Check if files exist
-    if not os.path.exists(drain_structured):
-        print(f"ERROR: Drain structured file not found: {drain_structured}")
+    print(f"\n--- Merging dataset: {dataset} ---")
+
+    # Input file paths (updated to requested pattern)
+    drain_struct_path = os.path.join(input_drain_dir, f"{dataset}_{data_type}.log_structured.csv")
+    drain_low_with_eid_path = os.path.join(input_drain_dir, f"{dataset}_{data_type}.log_low_confidence_with_eventid.csv")
+    uni_struct_path = os.path.join(input_uniparser_dir, f"{dataset}_{data_type}.log_structured.csv")
+    uni_templates_path = os.path.join(input_uniparser_dir, f"{dataset}_{data_type}.log_templates.csv")
+
+    # Output file paths
+    out_struct_path = os.path.join(output_dir, f"{dataset}_{data_type}.log_structured.csv")
+    out_templates_path = os.path.join(output_dir, f"{dataset}_{data_type}.log_templates.csv")
+    mapping_path = os.path.join(output_dir, f"{dataset}_{data_type}.uni_to_drain_mapping.csv")
+    backups_dir = os.path.join(output_dir, "backups")
+
+    # Read inputs
+    try:
+        drain_struct = _safe_read_csv(drain_struct_path, encoding='utf-8-sig', dtype=str)
+        drain_low = _safe_read_csv(drain_low_with_eid_path, encoding='utf-8-sig', dtype=str)
+        uni_struct = _safe_read_csv(uni_struct_path, encoding='utf-8-sig', dtype=str)
+    except FileNotFoundError as e:
+        print(f"[ERROR] {e}")
         return
-    
-    if not os.path.exists(drain_low_conf_with_id):
-        print(f"WARNING: No low-confidence file found. Copying Drain results as-is.")
-        # Just copy Drain results
-        df_drain = pd.read_csv(drain_structured)
-        df_drain.to_csv(output_structured, index=False)
-        # Copy templates too
-        drain_templates = os.path.join(input_drain_dir, f"{base_name}_templates.csv")
-        if os.path.exists(drain_templates):
-            df_templates = pd.read_csv(drain_templates)
-            df_templates.to_csv(output_templates, index=False)
-        return
-    
-    if not os.path.exists(uniparser_structured):
-        print(f"ERROR: UniParser structured file not found: {uniparser_structured}")
-        return
-    
-    # Load data
-    print("Loading Drain structured file...")
-    df_drain = pd.read_csv(drain_structured)
-    
-    print("Loading low-confidence mapping file...")
-    df_low_conf = pd.read_csv(drain_low_conf_with_id)
-    
-    print("Loading UniParser results...")
-    df_uniparser = pd.read_csv(uniparser_structured)
-    
-    # Verify row counts match
-    if len(df_low_conf) != len(df_uniparser):
-        print(f"ERROR: Row count mismatch!")
-        print(f"  Low-confidence file: {len(df_low_conf)} rows")
-        print(f"  UniParser file: {len(df_uniparser)} rows")
-        return
-    
-    print(f"Processing {len(df_low_conf)} low-confidence logs...")
-    
-    # Create a merged dataframe starting with Drain results
-    df_merged = df_drain.copy()
-    
-    # For each low-confidence log, find it in the merged dataframe and update it
-    replaced_count = 0
-    for idx in range(len(df_low_conf)):
-        low_conf_row = df_low_conf.iloc[idx]
-        uniparser_row = df_uniparser.iloc[idx]
-        
-        # Find matching row in merged dataframe by Content
-        # We use Content as the primary key since it's unique enough
-        content = low_conf_row['Content']
-        
-        # Find all rows with matching content
-        matches = df_merged[df_merged['Content'] == content]
-        
-        if len(matches) == 0:
-            print(f"WARNING: Could not find match for: {content[:50]}...")
+
+    # Backups of UniParser inputs (safe-guard)
+    if make_backups:
+        os.makedirs(backups_dir, exist_ok=True)
+        try:
+            shutil.copy2(uni_struct_path, os.path.join(backups_dir, os.path.basename(uni_struct_path)))
+            if os.path.exists(uni_templates_path):
+                shutil.copy2(uni_templates_path, os.path.join(backups_dir, os.path.basename(uni_templates_path)))
+            print(f"[INFO] Backed up UniParser input files to {backups_dir}")
+        except Exception as e:
+            print(f"[WARN] Could not create backups: {e}")
+
+    # Validate presence of Content column (required)
+    if 'Content' not in drain_struct.columns:
+        raise KeyError("Drain structured missing required column: 'Content'")
+    if 'Content' not in drain_low.columns:
+        raise KeyError("Drain low_confidence missing required column: 'Content'")
+    if 'Content' not in uni_struct.columns:
+        raise KeyError("UniParser structured must have a 'Content' column")
+
+    # Decide matching keys (Level optional)
+    possible = []
+    if 'Time' in drain_struct.columns and 'Time' in drain_low.columns:
+        possible.append('Time')
+    if 'Level' in drain_struct.columns and 'Level' in drain_low.columns:
+        possible.append('Level')
+    # Content is always present
+    if 'Time' in possible and 'Level' in possible:
+        match_keys = ['Time', 'Level', 'Content']
+    elif 'Time' in possible:
+        match_keys = ['Time', 'Content']
+    elif 'Level' in possible:
+        match_keys = ['Level', 'Content']
+    else:
+        match_keys = ['Content']
+
+    print(f"[INFO] Using match keys: {match_keys}")
+
+    # Normalization helper
+    def _norm(x):
+        if pd.isna(x):
+            return ""
+        return str(x).strip()
+
+    # Build candidate_map using chosen match_keys
+    candidate_map = defaultdict(deque)
+    drain_positions = list(drain_struct.index)
+    for pos in drain_positions:
+        key = tuple(_norm(drain_struct.at[pos, k]) if k in drain_struct.columns else "" for k in match_keys)
+        candidate_map[key].append(pos)
+
+    # Map each drain_low row in order to the next unused drain_struct position
+    used_idx = set()
+    mappings = []
+    for low_idx in range(len(drain_low)):
+        low_row = drain_low.iloc[low_idx]
+        key = tuple(_norm(low_row[k]) if k in drain_low.columns else "" for k in match_keys)
+        mapped_pos = None
+        if candidate_map.get(key):
+            while candidate_map[key]:
+                pos = candidate_map[key].popleft()
+                if pos not in used_idx:
+                    mapped_pos = pos
+                    break
+        if mapped_pos is None:
+            # Fallback: match by Content only (search next unused)
+            content_key = _norm(low_row.get('Content', ""))
+            found = False
+            for pos in drain_positions:
+                if pos in used_idx:
+                    continue
+                if _norm(drain_struct.at[pos, 'Content']) == content_key:
+                    mapped_pos = pos
+                    found = True
+                    break
+            if not found:
+                print(f"[WARN] Could not find matching Drain structured row for drain_low row {low_idx} using keys {match_keys}. "
+                      "This low-confidence row will be skipped.")
+                mappings.append({
+                    'low_row_index': low_idx,
+                    'mapped_drain_index': None,
+                    'drain_eventid': _norm(low_row.get('EventId', "")),
+                    'uni_row_index': None,
+                    'uni_eventid_original': None,
+                    'uni_eventtemplate': None,
+                    'drain_LineId': None,
+                })
+                continue
+
+        used_idx.add(mapped_pos)
+        mappings.append({
+            'low_row_index': low_idx,
+            'mapped_drain_index': mapped_pos,
+            'drain_eventid': _norm(low_row.get('EventId', "")),
+            'uni_row_index': None,
+            'uni_eventid_original': None,
+            'uni_eventtemplate': None,
+            'drain_LineId': drain_struct.at[mapped_pos, 'LineId'] if 'LineId' in drain_struct.columns else None,
+        })
+
+    # Assign UniParser rows (in order) to mappings (in order)
+    uni_len = len(uni_struct)
+    m_idx = 0
+    assigned_mappings = []  # will hold mappings that actually got uni rows assigned
+    for uni_idx in range(uni_len):
+        # find next mapping with a mapped_drain_index not None
+        while m_idx < len(mappings) and mappings[m_idx]['mapped_drain_index'] is None:
+            m_idx += 1
+        if m_idx >= len(mappings):
+            print(f"[WARN] More UniParser rows ({uni_len}) than mappings ({len(mappings)}). Extra UniParser rows will be ignored.")
+            break
+        mapping = mappings[m_idx]
+        mapping['uni_row_index'] = uni_idx
+        uni_row = uni_struct.iloc[uni_idx]
+        mapping['uni_eventid_original'] = _norm(uni_row.get('EventId', ""))
+        mapping['uni_eventtemplate'] = _norm(uni_row.get('EventTemplate', ""))
+        assigned_mappings.append(mapping)
+        m_idx += 1
+
+    # Build DrainEventId -> Counter(uni_templates) from assigned_mappings
+    drainid_to_uni_templates = defaultdict(Counter)
+    for mp in assigned_mappings:
+        if mp['mapped_drain_index'] is None:
             continue
-        
-        # If multiple matches, use additional fields to narrow down
-        if len(matches) > 1:
-            # Try to match using Time and Level if available
-            if 'Time' in low_conf_row and 'Level' in low_conf_row:
-                matches = matches[
-                    (matches['Time'] == low_conf_row['Time']) & 
-                    (matches['Level'] == low_conf_row['Level'])
-                ]
-        
-        # Get the first match (should be unique now)
-        if len(matches) > 0:
-            match_idx = matches.index[0]
-            
-            # Get UniParser's EventTemplate
-            uniparser_template = uniparser_row['EventTemplate']
-            
-            # Generate MD5 hash for EventId (to match Drain's format)
-            event_id = hashlib.md5(uniparser_template.encode('utf-8')).hexdigest()[0:8]
-            
-            # Replace EventId and EventTemplate with UniParser's values
-            df_merged.at[match_idx, 'EventId'] = event_id
-            df_merged.at[match_idx, 'EventTemplate'] = uniparser_template
-            replaced_count += 1
-    
-    print(f"Replaced {replaced_count} low-confidence results with UniParser results")
-    
-    # Remove the Confidence column before saving (not needed in final output)
-    if 'Confidence' in df_merged.columns:
-        df_merged = df_merged.drop(columns=['Confidence'])
-    
-    # Save merged structured file
-    print(f"Saving merged structured file to {output_structured}")
-    df_merged.to_csv(output_structured, index=False)
-    
-    # Recalculate templates from merged structured file
-    print("Recalculating template occurrences...")
-    template_counts = df_merged['EventTemplate'].value_counts().to_dict()
-    
-    # Create templates dataframe
-    unique_templates = df_merged['EventTemplate'].unique()
-    df_templates = pd.DataFrame({
-        'EventTemplate': unique_templates,
-        'EventId': [hashlib.md5(t.encode('utf-8')).hexdigest()[0:8] for t in unique_templates],
-        'Occurrences': [template_counts[t] for t in unique_templates]
-    })
-    
-    # Sort by occurrences (descending)
-    df_templates = df_templates.sort_values('Occurrences', ascending=False)
-    
-    # Save templates file
-    print(f"Saving merged templates file to {output_templates}")
-    df_templates.to_csv(output_templates, index=False, columns=['EventId', 'EventTemplate', 'Occurrences'])
-    
-    print(f"Merge complete!")
-    print(f"  Total logs: {len(df_merged)}")
-    print(f"  Unique templates: {len(df_templates)}")
-    print(f"  Low-confidence replaced: {replaced_count}")
+        did = mp['drain_eventid']
+        tmpl = mp['uni_eventtemplate']
+        if tmpl:
+            drainid_to_uni_templates[did][tmpl] += 1
+
+    # For each drain_eventid that UniParser provided templates for,
+    # pick most common uni template and apply it to ALL drain_struct rows with that EventId.
+    templates_replaced = 0
+    for drain_eid, counter in drainid_to_uni_templates.items():
+        if not counter:
+            continue
+        chosen_template, count = counter.most_common(1)[0]
+        # replace all structured rows that have EventId == drain_eid
+        mask = drain_struct['EventId'].astype(str) == str(drain_eid)
+        affected = mask.sum()
+        if affected == 0:
+            # If no rows currently have that EventId, still continue (shouldn't happen often)
+            print(f"[WARN] No structured rows found with EventId {drain_eid} while trying to apply UniParser template.")
+            continue
+        # Ensure column exists
+        if 'EventTemplate' not in drain_struct.columns:
+            drain_struct['EventTemplate'] = ""
+        drain_struct.loc[mask, 'EventTemplate'] = chosen_template
+        templates_replaced += affected
+
+    print(f"[INFO] Applied UniParser templates to {len(drainid_to_uni_templates)} Drain EventIds, affecting {templates_replaced} structured rows total.")
+
+    # Final sanity & recompute templates
+    total_struct_rows = len(drain_struct)
+    drain_struct['EventId'] = drain_struct['EventId'].astype(str)
+    drain_struct['EventTemplate'] = drain_struct['EventTemplate'].astype(str)
+
+    merged_templates = (
+        drain_struct
+        .groupby(['EventId', 'EventTemplate'], dropna=False)
+        .size()
+        .reset_index(name='Occurrences')
+        .sort_values(by=['Occurrences'], ascending=False)
+    )
+
+    # Write outputs
+    os.makedirs(output_dir, exist_ok=True)
+    try:
+        drain_struct.to_csv(out_struct_path, index=False, encoding='utf-8')
+        print(f"[INFO] Wrote merged structured file to: {out_struct_path}")
+    except Exception as e:
+        print(f"[ERROR] Could not write merged structured file: {e}")
+
+    try:
+        merged_templates.to_csv(out_templates_path, index=False, encoding='utf-8')
+        print(f"[INFO] Wrote merged templates file to: {out_templates_path}")
+    except Exception as e:
+        print(f"[ERROR] Could not write merged templates file: {e}")
+
+    # Write mapping for traceability (include assigned_mappings so you see which uni rows were used)
+    mapping_df = pd.DataFrame(mappings)
+    try:
+        mapping_df.to_csv(mapping_path, index=False, encoding='utf-8')
+        print(f"[INFO] Wrote mapping file to: {mapping_path}")
+    except Exception as e:
+        print(f"[WARN] Could not write mapping file: {e}")
+
+    # Final checks
+    occurrences_sum = merged_templates['Occurrences'].sum()
+    if occurrences_sum != total_struct_rows:
+        print(f"[WARN] Sum of template occurrences ({occurrences_sum}) != number of structured rows ({total_struct_rows}). "
+              "Double-check merged output.")
+    else:
+        print(f"[OK] Template occurrences sum matches structured rows ({total_struct_rows}).")
+
+    print(f"[DONE] Dataset {dataset}: structured_rows={total_struct_rows}, templates={len(merged_templates)}\n")
 
 
-if __name__ == "__main__":
+def merge_results_wrapper():
     args = common_args()
     data_type = "full" if args.full_data else "2k"
-    
+
     input_drain_dir = f"../../result/result_Drain_{data_type}"
     input_uniparser_dir = f"../../result/result_UniParser_{data_type}"
     output_dir = f"../../result/result_DrainUP_{data_type}"
-    
+
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-    
-    if args.full_data:
-        datasets = datasets_full
-    else:
-        datasets = datasets_2k
-    
+
+    datasets = datasets_full if args.full_data else datasets_2k
+
     for dataset in datasets:
-        merge_results(
-            dataset=dataset,
-            data_type=data_type,
-            input_drain_dir=input_drain_dir,
-            input_uniparser_dir=input_uniparser_dir,
-            output_dir=output_dir
-        )
-    
+        try:
+            merge_results(dataset, input_drain_dir, input_uniparser_dir, output_dir, data_type=data_type, make_backups=True)
+        except Exception as e:
+            print(f"[ERROR] Failed merging dataset {dataset}: {e}")
+
+
+if __name__ == "__main__":
+    merge_results_wrapper()
     print('\n=== All merges complete! ===')
+

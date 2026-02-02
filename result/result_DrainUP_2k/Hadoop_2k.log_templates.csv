@@ -1,128 +1,104 @@
 EventId,EventTemplate,Occurrences
 c8ced535,Address change detected. Old: <*> New: <*>,476
-56587bea,Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for <*> seconds. Will retry shortly ...,325
+56587bea,Failed to renew lease for <*> for <*> seconds.  Will retry shortly ...,326
 3670935b,Progress of TaskAttempt <*> is : <*>,289
 b4ff2357,ERROR IN CONTACTING RM.,147
-ca099a77,"Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)",145
-bae0e03b,"Recalculating schedule, <*> <*>",130
-773f4a2b,Reduce slow start threshold not met. completedMapsForReduceSlowstart 1,129
-6659e8b0,Resolved <*> to /default-rack,38
-63fbbb87,<*> TaskAttempt Transitioned from <*> to <*>,27
-d39a94e7,<*> <*> Transitioned from NEW to <*>,24
+ca099a77,Retrying connect to server: <*> Already tried <*> time(s); retry policy is <*> MILLISECONDS),146
+bae0e03b,"Recalculating schedule, <*>",131
+773f4a2b,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>,130
+6659e8b0,Resolved <*> to <*>,39
+63fbbb87,<*> TaskAttempt Transitioned from UNASSIGNED to ASSIGNED,28
+d39a94e7,<*> Task Transitioned from NEW to SCHEDULED,25
+9f1747b1,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container <*> taskAttempt <*>,13
 fc9ef42a,Opening proxy : <*>,13
-9f1747b1,Processing the event EventType: <*> for container <*> taskAttempt <*>,12
-3be0b589,<*> Task Transitioned from <*> to <*>,10
-60675cee,JVM with ID : <*> asked for a task,10
-e215e532,ATTEMPT_START <*>,10
-2a1c144a,JVM with ID: <*> given task: <*>,10
+3be0b589,<*> Task Transitioned from SCHEDULED to RUNNING,11
 5e5f5ff9,Assigned container <*> to <*>,10
+60675cee,JVM with ID : <*> asked for a task,10
+6e3a6141,Auth successful for <*> (auth:SIMPLE),10
+ffb8e2a9,After Scheduling: <*> ScheduledMaps:9 <*>,10
+a337d65e,getResources() for <*> release= <*>,10
+2a1c144a,JVM with ID: <*> given task: <*>,10
 c1fd6443,TaskAttempt: <*> using containerId: <*> on NM: <*>,10
 0f71bb1f,Got allocated containers <*>,10
 df347da1,Launching <*>,10
-a337d65e,getResources() for application_1445144423722_0020: ask=4 release= 0 <*> finishedContainers=0 <*> <*> knownNMs=4,9
-6e3a6141,Auth successful for job_1445144423722_0020 (auth:SIMPLE),9
-4f591581,Shuffle port returned by ContainerManager for <*> : 13562,9
-ffb8e2a9,After Scheduling: PendingReds:1 <*> ScheduledReds:0 <*> AssignedReds:0 CompletedMaps:0 CompletedReds:0 <*> <*> <*> <*>,9
-3a2b3aef,Registering class <*> for class <*>,8
-811a1e12,Diagnostics report from <*> Error: java.net.NoRouteToHostException: No Route to Host from MININT-FNANLI5/<*> to msra-sa-41:9000 failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: http://wiki.apache.org/hadoop/NoRouteToHost,3
+e215e532,ATTEMPT_START <*>,10
+4f591581,Shuffle port returned by ContainerManager for <*> : <*>,10
+3a2b3aef,Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler,9
+811a1e12,Diagnostics report from <*> Error: java.net.NoRouteToHostException: No Route to Host from  <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost,4
+54c1158e,Before Scheduling: <*>,4
+7ced323b,Default file system <*>,3
+6e67aefd,<*> Transitioned from NEW to INITED,3
 da04743d,KILLING <*>,3
-54c1158e,Before Scheduling: <*> <*> <*> <*> AssignedReds:0 CompletedMaps:1 CompletedReds:0 ContAlloc:11 ContRel:1 HostLocal:7 RackLocal:3,3
+8825a75c,Processing the event EventType: JOB_SETUP,3
+4b92c03b,After Scheduling: <*>,2
 916d4a74,Using callQueue class java.util.concurrent.LinkedBlockingQueue,2
-ba0e1b89,Received completed container <*>,2
-8825a75c,Processing the event EventType: <*>,2
-7ced323b,Default file system [hdfs://msra-sa-41:9000],2
-11eeb16d,Before Scheduling: <*>,2
-f9530a77,getResources() for <*> release= <*>,2
-ff52c40c,<*>,2
-6e67aefd,job_1445144423722_0020Job Transitioned from <*> to <*>,2
+fdd0db5a,<*>,2
 fb4ab5cb,Task cleanup failed for attempt <*>,2
-c9ebd122,The <*> file on the remote FS is <*>,2
-410c36f9,Added <*> to list of failed maps,2
+e617839d,getResources() for <*> release= <*>,2
 0c5b0a59,IPC Server listener on <*> starting,2
 ccc17099,IPC Server Responder: starting,2
-a66db97c,<*> Task Transitioned from SCHEDULED to RUNNING,1
-16ffd5a6,Error writing History Event: <*>,1
-584a76a0,"Thread Thread[eventHandlingThread,5,main] threw an Exception.",1
-0e4be9d6,<*> failures on node <*>,1
-f4ac93f2,Shuffle port returned by ContainerManager for <*> : <*>,1
-44c82a06,Task: <*> - exited : java.net.NoRouteToHostException: No Route to Host from MININT-FNANLI5/<*> to msra-sa-41:9000 failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see: http://wiki.apache.org/hadoop/NoRouteToHost,1
-3753c5a1,Diagnostics report from <*> Error: java.net.NoRouteToHostException: No Route to Host from  <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost,1
-71c7c3bf,Auth successful for <*> (auth:SIMPLE),1
-2ef07439,DataStreamer Exception,1
-0f994d7e,Task: <*> exited : java.net.NoRouteToHostException: No Route to Host from  <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost,1
-e6606029,DefaultSpeculator.addSpeculativeAttempt <*> we are speculating <*>,1
-e847f3b2,DFSOutputStream ResponseProcessor exception  for block <*>,1
-cd0b54dd,Failed to renew lease for <*> for <*> seconds.  Will retry shortly ...,1
-9039707e,Error Recovery for block <*> in pipeline <*> bad datanode <*>,1
-b0f66195,Diagnostics report from <*> Container killed by the ApplicationMaster.,1
-4b92c03b,After Scheduling: PendingReds:0 <*> ScheduledReds:1 <*> AssignedReds:0 CompletedMaps:1 CompletedReds:0 ContAlloc:11 ContRel:1 HostLocal:7 RackLocal:3,1
-e617839d,getResources() for application_1445144423722_0020: <*> release= <*> newContainers=0 finishedContainers=1 <*> <*> knownNMs=4,1
-1a8c09a8,Scheduling a redundant attempt for task <*>,1
-814bc8b9,We launched <*> speculations.  Sleeping <*> milliseconds.,1
-6a5eae01,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container <*> taskAttempt <*>,1
-40d1a4eb,Retrying connect to server: <*> Already tried <*> time(s); retry policy is <*> MILLISECONDS),1
-0a4e9af5,All maps assigned. Ramping up all remaining <*>,1
-ec6b84b4,Reduce slow start threshold reached. Scheduling reduces.,1
-3a2741bf,Num completed Tasks: <*>,1
-007ded00,Task succeeded with attempt <*>,1
-31cf9f34,Done acknowledgement from <*>,1
-85b23688,Container complete event for unknown container id <*>,1
-f7dcbca6,"Cannot assign container Container: [ContainerId: <*> NodeId: <*> NodeHttpAddress: <*> Resource: <*> Priority: <*> Token: Token { kind: ContainerToken, service: <*> }, ] for a map as either  container memory less than required <*> or no pending map tasks <*>",1
-71efe668,Slow ReadProcessor read fields took <*> ack: seqno: <*> status: SUCCESS status: ERROR downstreamAckTimeNanos: <*> targets: <*>,1
-254d0fab,After Scheduling: <*>,1
-aa171447,Created MRAppMaster for application <*>,1
-e03f95cb,<*> TaskAttempt Transitioned from UNASSIGNED to ASSIGNED,1
-655c64ba,Input size for job <*> = <*> Number of splits = <*>,1
-ae2086c0,Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context <*>,1
-ba9c7275,Added filter AM_PROXY_FILTER <*> to context mapreduce,1
-050803d6,Added global filter 'safety' <*>,1
-0859dbfb,Http request log for http.requests.mapreduce is not defined,1
-572d3206,Logging to <*> via <*>,1
-81b07bff,Instantiated MRClientService at <*>,1
-0b0a461e,Adding protocol <*> to the server,1
-e5777033,Starting Socket Reader <*> for port <*>,1
-f86289e6,"MRAppMaster launching normal, <*> job <*>",1
-f3599c77,<*> Transitioned from NEW to INITED,1
-70d3f175,Number of reduces for job <*> = <*>,1
-ce54fccc,Not uberizing <*> because: not enabled; too many maps; too much input;,1
-c5e95c21,adding path spec: <*>,1
-9c396752,Adding job token for <*> to jobTokenSecretManager,1
-fc657c96,MRAppMaster metrics system started,1
-4dc89700,Scheduled snapshot period at <*> second(s).,1
-dff97897,loaded properties from <*>,1
-3a03968c,Emitting job history data to the timeline server is not enabled,1
-50151bef,Default file system <*>,1
-2ee5396c,Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler,1
-d79644a2,OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter,1
-c0c8618d,OutputCommitter set in config null,1
-0594ecc2,Using mapred newApiCommitter.,1
-c849bc2c,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>",1
-23287a46,adding path spec: /mapreduce/*,1
-8aa20788,Jetty bound to port <*>,1
-944f8887,Putting shuffle token in serviceData,1
-52caee6e,<*> : <*>,1
-e497a05e,Size of containertokens_dob is <*>,1
-7c188553,Adding <*> tokens and <*> secret keys for NM use for launching container,1
-cea61e1f,After Scheduling: <*> ScheduledMaps:9 <*>,1
+c9ebd122,The <*> file on the remote FS is <*>,2
+192d0e3e,Starting Socket Reader <*> for port <*>,2
+c5e95c21,adding path spec: /mapreduce/*,2
+ba0e1b89,Received completed container <*>,2
+2b7f7e1e,<*> failures on node <*>,2
+ae2086c0,Added filter AM_PROXY_FILTER <*> to context mapreduce,2
+44c82a06,Task: <*> exited : java.net.NoRouteToHostException: No Route to Host from  <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost,2
+410c36f9,Added <*> to list of failed maps,2
+38c14f3b,Not uberizing <*> because: not enabled; too many maps; too much input;,1
+0a1bddef,Done acknowledgement from <*>,1
 3c5bb15c,Executing with tokens:,1
-1fbfd66f,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>,1
-fa6e41e1,"Recalculating schedule, <*>",1
-fdd0db5a,<*> vCores:1>,1
-0d2504bd,Event Writer setup for JobId: <*> File: <*>,1
-af0da6f2,<*> Task Transitioned from NEW to SCHEDULED,1
-e999b905,Resolved <*> to <*>,1
-33c8c04a,Processing the event EventType: JOB_SETUP,1
-293bdc87,Upper limit on the thread pool size is <*>,1
-64caa0ad,Extract <*> to <*>,1
 62365dbe,queue: default,1
-a1c2da12,maxContainerCapability: <*>,1
-4de40bfa,Connecting to ResourceManager at <*>,1
-192d0e3e,Starting Socket Reader #1 for port <*>,1
-168a0869,blacklistDisablePercent is <*>,1
-07a75a5d,maxTaskFailuresPerNode is <*>,1
-8b1732f5,nodeBlacklistingEnabled:true,1
-6af6b73e,JOB_CREATE <*>,1
+17dc3b51,maxTaskFailuresPerNode is <*>,1
+ca7d7941,loaded properties from <*>,1
+60d079c6,Adding <*> tokens and <*> secret keys for NM use for launching container,1
+d0cf8682,maxContainerCapability: <*>,1
+d3121b5d,Adding job token for <*> to jobTokenSecretManager,1
+10357c40,JOB_CREATE <*>,1
+d4ff27f3,Diagnostics report from <*> Container killed by the ApplicationMaster.,1
+d79644a2,OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter,1
+dcd06e1a,Jetty bound to port <*>,1
+e051b4cf,DefaultSpeculator.addSpeculativeAttempt <*> we are speculating <*>,1
+65f1e337,Slow ReadProcessor read fields took <*> ack: seqno: <*> status: SUCCESS status: ERROR downstreamAckTimeNanos: <*> targets: <*>,1
+09f888b9,"MRAppMaster launching normal, <*> job <*>",1
+e8090e05,Instantiated MRClientService at <*>,1
+ec6b84b4,Reduce slow start threshold reached. Scheduling reduces.,1
+efe991f2,"Cannot assign container Container: [ContainerId: <*> NodeId: <*> NodeHttpAddress: <*> Resource: <*> Priority: <*> Token: Token { kind: ContainerToken, service: <*> }, ] for a map as either  container memory less than required <*> or no pending map tasks <*>",1
+f15bb7b8,Event Writer setup for JobId: <*> File: <*>,1
 5ba9445a,Registered webapp guice modules,1
-01425cf2,Web app /mapreduce started at <*>,1
-00ac854a,Started <*>,1
-2b7f7e1e,<*> failures on node MININT-FNANLI5.fareast.corp.microsoft.com,1
+fb51feed,Input size for job <*> = <*> Number of splits = <*>,1
+fc38bf1a,Extract <*> to <*>,1
+fc657c96,MRAppMaster metrics system started,1
+0859dbfb,Http request log for http.requests.mapreduce is not defined,1
+58cb7afe,Number of reduces for job <*> = <*>,1
+c7f3ffdf,Connecting to ResourceManager at <*>,1
+2712fdae,Container complete event for unknown container id <*>,1
+361211a0,Upper limit on the thread pool size is <*>,1
+9e8ad6ab,Scheduled snapshot period at <*> second(s).,1
+32df8be6,Started <*>,1
+31bfc913,Web app /mapreduce started at <*>,1
+2ef07439,DataStreamer Exception,1
+82ea09ae,Created MRAppMaster for application <*>,1
+83dc9e4a,DFSOutputStream ResponseProcessor exception  for block <*>,1
+0594ecc2,Using mapred newApiCommitter.,1
+8b1732f5,nodeBlacklistingEnabled:true,1
+8c4d0a72,Adding protocol <*> to the server,1
+6e264523,We launched <*> speculations.  Sleeping <*> milliseconds.,1
+92acadf7,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>",1
+93a481e4,blacklistDisablePercent is <*>,1
+944f8887,Putting shuffle token in serviceData,1
+2dc833aa,Error writing History Event: <*>,1
+c0c8618d,OutputCommitter set in config null,1
+6b77fa65,<*>,1
+a5763810,Scheduling a redundant attempt for task <*>,1
+a79a1702,Logging to <*> via <*>,1
+a81458ea,Num completed Tasks: <*>,1
+a83c59ee,Size of containertokens_dob is <*>,1
+a8927e0e,Added global filter 'safety' <*>,1
+a9986fb2,Error Recovery for block <*> in pipeline <*> bad datanode <*>,1
+584a76a0,"Thread Thread[eventHandlingThread,5,main] threw an Exception.",1
+2b3d75c5,<*> : <*>,1
+3a03968c,Emitting job history data to the timeline server is not enabled,1
+28e777aa,All maps assigned. Ramping up all remaining <*>,1
+bdc2ec2a,Before Scheduling: <*>,1
+04500f53,Task succeeded with attempt <*>,1
