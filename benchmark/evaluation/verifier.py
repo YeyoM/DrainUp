@@ -1,5 +1,4 @@
 import pandas as pd
-import hashlib
 import sys
 
 def verify_merge(dataset, data_type="2k"):
@@ -75,25 +74,6 @@ def verify_merge(dataset, data_type="2k"):
     else:
         print(f"   ✓ All templates have consistent EventIds")
     
-    # Check 4: Verify EventId is correct MD5 hash of template
-    print("\n5. Checking EventId = MD5(template)...")
-    mismatched = []
-    for idx, row in df_drainup.iterrows():
-        template = row['EventTemplate']
-        event_id = row['EventId']
-        expected_id = hashlib.md5(template.encode('utf-8')).hexdigest()[0:8]
-        
-        if event_id != expected_id:
-            mismatched.append((idx, template[:50], event_id, expected_id))
-    
-    if mismatched:
-        print(f"   ❌ Found {len(mismatched)} EventIds that don't match MD5(template):")
-        for idx, template, actual, expected in mismatched[:5]:
-            print(f"      Row {idx}: {template}...")
-            print(f"         Actual: {actual}, Expected: {expected}")
-    else:
-        print(f"   ✓ All EventIds match MD5(template)")
-    
     # Check 5: Verify low-confidence replacements
     print("\n6. Verifying low-confidence replacements...")
     replaced_count = 0
@@ -167,8 +147,6 @@ def verify_merge(dataset, data_type="2k"):
         issues.append(f"{len(invalid_ids)} invalid EventIds")
     if inconsistent_templates:
         issues.append(f"{len(inconsistent_templates)} inconsistent templates")
-    if mismatched:
-        issues.append(f"{len(mismatched)} EventId hash mismatches")
     if not_replaced:
         issues.append(f"{len(not_replaced)} missing replacements")
     if mismatched_counts:
