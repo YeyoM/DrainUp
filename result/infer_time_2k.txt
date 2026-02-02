@@ -1,0 +1,14 @@
+UniParser: Apache 2.094436
+UniParser: BGL 2.359654
+UniParser: HDFS 2.897599
+UniParser: HPC 1.096798
+UniParser: Hadoop 3.194243
+UniParser: HealthApp 1.719534
+UniParser: Linux 2.368001
+UniParser: Mac 4.655735
+UniParser: OpenSSH 2.881572
+UniParser: OpenStack 3.603719
+UniParser: Proxifier 3.151303
+UniParser: Spark 3.168098
+UniParser: Thunderbird 2.778274
+UniParser: Zookeeper 2.666604
