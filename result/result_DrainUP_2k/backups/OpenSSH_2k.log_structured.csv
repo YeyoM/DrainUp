@@ -1,25 +1,25 @@
 ﻿Content,EventId,EventTemplate
-reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!,9,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com <*> failed - POSSIBLE BREAK-IN ATTEMPT!
-Invalid user webmaster from 173.234.31.186,16,Invalid user <*> from <*>
-input_userauth_request: invalid user webmaster [preauth],5,input_userauth_request: invalid user webmaster [preauth]
-pam_unix(sshd:auth): check pass; user unknown,10,pam_unix(sshd:auth): check pass; user unknown
-pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186,22,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>
-Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2,11,Failed password for invalid user <*> from <*> port <*> ssh2
-Connection closed by 173.234.31.186 [preauth],2,Connection closed by <*> [preauth]
-Received disconnect from 52.80.34.196: 11: Bye Bye [preauth],19,Received disconnect from <*> Bye Bye [preauth]
-pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,8,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>  user=root
-Failed password for root from 5.36.59.76 port 42393 ssh2,12,Failed password for <*> from <*> port <*> ssh2
+reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!,13,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com <*> failed - POSSIBLE BREAK-IN ATTEMPT!
+Invalid user webmaster from 173.234.31.186,10,Invalid user <*> from <*>
+input_userauth_request: invalid user webmaster [preauth],4,input_userauth_request: invalid user webmaster [preauth]
+pam_unix(sshd:auth): check pass; user unknown,22,pam_unix(sshd:auth): check pass; user unknown
+pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=173.234.31.186,1,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>
+Failed password for invalid user webmaster from 173.234.31.186 port 38926 ssh2,9,Failed password for invalid user <*> from <*> port <*> ssh2
+Connection closed by 173.234.31.186 [preauth],14,Connection closed by <*> [preauth]
+Received disconnect from 52.80.34.196: 11: Bye Bye [preauth],6,Received disconnect from <*> Bye Bye [preauth]
+pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,23,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>  user=root
+Failed password for root from 5.36.59.76 port 42393 ssh2,19,Failed password for <*> from <*> port <*> ssh2
 message repeated 5 times: [ Failed password for root from 5.36.59.76 port 42393 ssh2],20,message repeated <*> times: [ Failed password for <*> from <*> port <*> ssh2]
-Disconnecting: Too many authentication failures for root [preauth],14,Disconnecting: Too many authentication failures for <*> [preauth]
-PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,17,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root
-PAM service(sshd) ignoring max retries; 6 > 3,7,PAM service(sshd) ignoring max retries; <*> > <*>
-Did not receive identification string from 123.235.32.19,13,Did not receive identification string from <*>
-error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth],15,error: Received disconnect from <*> com.jcraft.jsch.JSchException: Auth fail [preauth]
-Received disconnect from 103.207.39.165: 11: Closed due to user request. [preauth],23,Received disconnect from <*> Closed due to user request. [preauth]
-Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2,6,Failed none for invalid user <*> from <*> port <*> ssh2
-PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.188.10.180,3,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= <*>
-error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],0,error: Received disconnect from <*> No more user authentication methods available. [preauth]
-Accepted password for fztu from 119.137.62.142 port 49116 ssh2,21,Accepted password for <*> from <*> port <*> ssh2
-pam_unix(sshd:session): session opened for user fztu by (uid=0),1,pam_unix(sshd:session): session opened for user fztu by <*>
-pam_unix(sshd:session): session closed for user fztu,4,pam_unix(sshd:session): session closed for user fztu
+Disconnecting: Too many authentication failures for root [preauth],17,Disconnecting: Too many authentication failures for <*> [preauth]
+PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root,21,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root
+PAM service(sshd) ignoring max retries; 6 > 3,8,PAM service(sshd) ignoring max retries; <*> > <*>
+Did not receive identification string from 123.235.32.19,12,Did not receive identification string from <*>
+error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth],5,error: Received disconnect from <*> com.jcraft.jsch.JSchException: Auth fail [preauth]
+Received disconnect from 103.207.39.165: 11: Closed due to user request. [preauth],7,Received disconnect from <*> Closed due to user request. [preauth]
+Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2,11,Failed none for invalid user <*> from <*> port <*> ssh2
+PAM 4 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.188.10.180,16,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= <*>
+error: Received disconnect from 103.99.0.122: 14: No more user authentication methods available. [preauth],3,error: Received disconnect from <*> No more user authentication methods available. [preauth]
+Accepted password for fztu from 119.137.62.142 port 49116 ssh2,2,Accepted password for <*> from <*> port <*> ssh2
+pam_unix(sshd:session): session opened for user fztu by (uid=0),15,pam_unix(sshd:session): session opened for user fztu by <*>
+pam_unix(sshd:session): session closed for user fztu,0,pam_unix(sshd:session): session closed for user fztu
 fatal: Write failed: Connection reset by peer [preauth],18,fatal: Write failed: Connection reset by peer [preauth]

@@ -1,47 +1,47 @@
 EventId,EventTemplate
-0,FOLLOWING
-1,Closed socket connection for client <*> which had sessionid <*>
-2,Cannot open channel to <*> at election address <*>
-3,Closed socket connection for client <*> (no session established for client)
-4,Revalidating client: <*>
-5,Unexpected Exception:
-6,Server environment:user.dir=/
-7,tickTime set to <*>
-8,Sending DIFF
-9,First is <*>
-10,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running
-11,autopurge.snapRetainCount set to <*>
-12,Unexpected exception causing shutdown while sock still open
-13,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
-14,Interrupted while waiting for message on queue
-15,******* GOODBYE <*> ********
-16,Send worker leaving thread
-17,My election bind port: <*>
-18,Starting quorum peer
-19,Notification time out: <*>
+0,Unexpected exception causing shutdown while sock still open
+1,"Server environment:zookeeper.version=3.4.5--1, built on <*> GMT"
+2,Interrupting SendWorker
+3,autopurge.snapRetainCount set to <*>
+4,maxSessionTimeout set to <*>
+5,shutdown of request processor complete
+6,Send worker leaving thread
+7,FOLLOWING - LEADER ELECTION TOOK - <*>
+8,******* GOODBYE <*> ********
+9,Got user-level KeeperException when processing <*> type:create cxid:0x55b8bb0f <*> txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper
+10,My election bind port: <*>
+11,Established session <*> with negotiated timeout <*> for client <*>
+12,Received connection request <*>
+13,Accepted socket connection from <*>
+14,Processed session termination for sessionid: <*>
+15,Snapshotting: <*> to <*>
+16,Cannot open channel to <*> at election address <*>
+17,Revalidating client: <*>
+18,caught end of stream exception
+19,Client attempting to renew session <*> at <*>
 20,Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4
-21,Established session <*> with negotiated timeout <*> for client <*>
+21,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)"
 22,LOOKING
-23,caught end of stream exception
-24,Got user-level KeeperException when processing <*> type:create cxid:0x55b8bb0f <*> txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper
-25,Getting a snapshot from leader
-26,Received connection request <*>
-27,Server environment:java.vendor=Oracle Corporation
-28,minSessionTimeout set to <*>
-29,Connection broken for id <*> my id = <*> error =
-30,Processed session termination for sessionid: <*>
-31,New election. My id =  <*> proposed <*>
-32,Accepted socket connection from <*>
-33,"Have smaller server identifier, so dropping the connection: <*>"
+23,FOLLOWING
+24,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running
+25,Starting quorum peer
+26,tickTime set to <*>
+27,New election. My id =  <*> proposed <*>
+28,Unexpected Exception:
+29,Server environment:user.dir=/
+30,Notification time out: <*>
+31,Server environment:java.vendor=Oracle Corporation
+32,Reading snapshot <*>
+33,Sending DIFF
 34,autopurge.purgeInterval set to <*>
-35,maxSessionTimeout set to <*>
-36,Snapshotting: <*> to <*>
-37,Connection request from old client <*> will be dropped if server is in r-o mode
-38,FOLLOWING - LEADER ELECTION TOOK - <*>
-39,Have quorum of supporters; starting up and setting last processed zxid: <*>
-40,Reading snapshot <*>
-41,Expiring session <*> timeout of <*> exceeded
-42,shutdown of request processor complete
-43,"Server environment:zookeeper.version=3.4.5--1, built on <*> GMT"
-44,Interrupting SendWorker
-45,Client attempting to renew session <*> at <*>
+35,Have quorum of supporters; starting up and setting last processed zxid: <*>
+36,First is <*>
+37,Interrupted while waiting for message on queue
+38,Expiring session <*> timeout of <*> exceeded
+39,Getting a snapshot from leader
+40,minSessionTimeout set to <*>
+41,Closed socket connection for client <*> (no session established for client)
+42,"Have smaller server identifier, so dropping the connection: <*>"
+43,Connection broken for id <*> my id = <*> error =
+44,Closed socket connection for client <*> which had sessionid <*>
+45,Connection request from old client <*> will be dropped if server is in r-o mode

@@ -1,35 +1,35 @@
 EventId,EventTemplate
-0,[instance: <*> Claim successful
-1,[instance: <*> Took <*> seconds to build instance.
-2,HTTP exception thrown: No instances found for any event
-3,"[instance: <*> Total memory: <*> MB, used: <*> MB"
-4,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
-5,Unknown base file: <*>
-6,[instance: <*> Terminating instance
-7,Running instance usage audit for host <*> from <*> to <*> instances.
-8,Removable base files: <*>
-9,Removing base or swap file: <*>
-10,10.11.10.1 <*> status: <*> len: <*> time: <*>
-11,"image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage"
-12,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.
-13,[instance: <*> Deletion of <*> complete
-14,Active base files: <*>
-15,The instance sync for host <*> did not match. Re-created its InstanceList.
-16,"[instance: <*> Total disk: <*> GB, used: <*> GB"
-17,[instance: <*> Instance spawned successfully.
-18,[instance: <*> Deleting instance files <*>
-19,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor."
-20,Final resource view: <*> pci_stats=[]
-21,Total usable vcpus: <*> total allocated vcpus: <*>
-22,Auditing locally available compute resources for node <*>
-23,[instance: <*> Took <*> seconds to deallocate network for instance.
-24,image <*> at <*> checking
-25,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
-26,"[instance: <*> disk limit not specified, defaulting to unlimited"
-27,Compute_service record updated for <*>
-28,[instance: <*> VM Started (Lifecycle Event)
-29,Successfully synced instances from host <*>
-30,Base or swap file too young to remove: <*>
-31,"<*> ""DELETE <*> status: <*> len: <*> time: <*>"
-32,Creating event <*> for instance <*>
-33,"<*> ""POST <*> status: <*> len: <*> time: <*>"
+0,"image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage"
+1,Total usable vcpus: <*> total allocated vcpus: <*>
+2,Successfully synced instances from host <*>
+3,Removing base or swap file: <*>
+4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU"
+5,[instance: <*> Terminating instance
+6,[instance: <*> Deletion of <*> complete
+7,"[instance: <*> disk limit not specified, defaulting to unlimited"
+8,"[instance: <*> Total memory: <*> MB, used: <*> MB"
+9,Base or swap file too young to remove: <*>
+10,Running instance usage audit for host <*> from <*> to <*> instances.
+11,[instance: <*> VM Started (Lifecycle Event)
+12,[instance: <*> Claim successful
+13,"[instance: <*> Total disk: <*> GB, used: <*> GB"
+14,10.11.10.1 <*> status: <*> len: <*> time: <*>
+15,[instance: <*> Deleting instance files <*>
+16,image <*> at <*> checking
+17,[instance: <*> Took <*> seconds to build instance.
+18,The instance sync for host <*> did not match. Re-created its InstanceList.
+19,"<*> ""DELETE <*> status: <*> len: <*> time: <*>"
+20,Compute_service record updated for <*>
+21,Unknown base file: <*>
+22,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor."
+23,[instance: <*> Instance spawned successfully.
+24,Creating event <*> for instance <*>
+25,Final resource view: <*> pci_stats=[]
+26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.
+27,HTTP exception thrown: No instances found for any event
+28,Active base files: <*>
+29,Auditing locally available compute resources for node <*>
+30,"<*> ""POST <*> status: <*> len: <*> time: <*>"
+31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.
+32,[instance: <*> Took <*> seconds to deallocate network for instance.
+33,Removable base files: <*>

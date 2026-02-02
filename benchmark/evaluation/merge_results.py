@@ -2,6 +2,11 @@ import sys
 import os
 import shutil
 import pandas as pd
+import json
+from decimal import Decimal, InvalidOperation
+from pathlib import Path
+from collections import defaultdict
+
 from collections import defaultdict, deque, Counter
 
 sys.path.append('../')
@@ -280,6 +285,34 @@ def merge_results(dataset,
 
     print(f"[DONE] Dataset {dataset}: structured_rows={total_struct_rows}, templates={len(merged_templates)}\n")
 
+def load_json(path):
+    return json.loads(Path(path).read_text())
+
+def merge_sum_files(file_a, file_b, out_file=None):
+    a = load_json(file_a)
+    b = load_json(file_b)
+
+    sums = defaultdict(Decimal)
+    for d in (a, b):
+        for k, v in d.items():
+            try:
+                val = Decimal(str(v))
+            except (InvalidOperation, ValueError):
+                raise ValueError(f"Value for key {k!r} is not numeric: {v!r}")
+            val = abs(val)
+            sums[k] += val
+
+    result = {}
+    for k, dec in sums.items():
+        if dec == dec.to_integral_value():
+            result[k] = int(dec)
+        else:
+            result[k] = float(dec)
+
+    if out_file:
+        Path(out_file).write_text(json.dumps(result, indent=2))
+    return result
+
 
 def merge_results_wrapper():
     args = common_args()
@@ -299,6 +332,11 @@ def merge_results_wrapper():
             merge_results(dataset, input_drain_dir, input_uniparser_dir, output_dir, data_type=data_type, make_backups=True)
         except Exception as e:
             print(f"[ERROR] Failed merging dataset {dataset}: {e}")
+
+    # Merge parsing times
+    print("Merging Parsing Times...")
+    merged = merge_sum_files(f"{input_drain_dir}/parsing_times.json", f"{input_uniparser_dir}/parsing_times.json", out_file=f"{output_dir}/parsing_times.json")
+    print(merged)
 
 
 if __name__ == "__main__":

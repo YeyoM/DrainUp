@@ -1,109 +1,109 @@
 low_row_index,mapped_drain_index,drain_eventid,uni_row_index,uni_eventid_original,uni_eventtemplate,drain_LineId
-0,0,3aa50e45,0,83,instruction cache parity error corrected,1
-1,4,6265c739,1,61,<*> double-hummer alignment exceptions,5
-2,7,cb2160e4,2,100,CE sym <*> at <*> mask <*>,8
-3,8,150b1306,3,96,ciod: failed to read message prefix on control stream (CioStream socket to <*>,9
-4,11,070de4aa,4,88,generating <*>,12
-5,31,9f7cd7e7,5,49,force load/store <*>,32
-6,68,a553aad2,6,94,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>,69
-7,84,4983ff07,7,42,ciod: LOGIN <*> failed: No such file or directory,85
-8,88,d3e73bc3,8,18,<*> ddr errors(s) detected and corrected on rank <*> symbol <*> bit <*>,89
-9,103,38a7307d,9,30,data TLB error interrupt,104
-10,164,473b1afe,10,28,ciod: Message code <*> is not <*> or <*>,165
-11,165,d2c9db9b,11,102,data storage interrupt,166
-12,173,a31b789f,12,22,instruction address: <*>,174
-13,204,ac8a6999,13,75,data address: <*>,205
-14,206,74814646,14,21,machine check: <*>,207
-15,208,cc8ff6de,15,101,program interrupt: illegal <*>,209
-16,231,cce08081,16,54,exception syndrome register: <*>,232
-17,240,9851467f,17,55,data store interrupt caused by <*>,241
-18,249,40c9c002,18,37,store <*>,250
-19,251,4f884f50,19,76,machine state register: <*>,252
-20,253,6a308701,20,1,problem state <*>,254
-21,256,4a855bbd,21,53,floating point instr. <*>,257
-22,259,f28dcd0f,22,40,auxiliary <*>,260
-23,260,511c1d0d,23,31,machine check <*>,261
-24,262,23b2adc8,24,52,floating pt ex mode <*>,263
-25,264,2ec4bdb1,25,103,debug interrupt <*>,265
-26,266,3971a417,26,97,byte ordering <*>,267
-27,268,ae9a7a4f,27,7,data address <*>,269
-28,271,e19f7ea0,28,67,core configuration register: <*>,272
-29,273,39f84cff,29,8,program interrupt: fp cr <*>,274
-30,274,55addd29,30,70,guaranteed instruction cache block <*>,275
-31,276,df88d884,31,36,program interrupt: fp cr field <*>,277
-32,282,3777cdd1,32,87,icache prefetch <*>,283
-33,288,198c56f7,33,93,wait state <*>,289
-34,289,1c2a9320,34,86,critical input interrupt <*>,290
-35,293,f7c382bd,35,57,special purpose registers:,294
-36,294,d7cb53a5,36,19,<*>,295
-37,295,af999985,37,91,rts internal error,296
-38,298,fe410cc8,38,77,debug wait <*>,299
-39,300,940724cb,39,38,instruction address <*>,301
-40,310,228fcad4,40,63,disable store <*>,311
-41,314,147cfcff,41,29,total of <*> ddr error(s) detected and corrected,315
-42,361,57138c88,42,62,"ciod: Error loading <*> invalid or missing program image, No such file or directory",362
-43,362,4496b375,43,59,ciod: Error creating node map from file <*> No child processes,363
-44,432,0d02c0e2,44,4,program interrupt,433
-45,457,a2335b6b,45,26,Node card is not fully functional,458
-46,521,34832905,46,98,Ido chip status changed: <*> status=M Fri Jul <*> PDT <*>,522
-47,522,9d5d6232,47,24,Can not get assembly information for node card,523
-48,596,46c02138,48,69,ciod: Missing or invalid fields on line <*> of node map file <*>,597
-49,597,d6e5f01c,49,74,<*> torus receiver z+ input pipe error(s) (dcr <*> detected and corrected,598
-50,621,088bafb1,50,6,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>,622
-51,822,220716fc,51,43,rts panic! - stopping execution,823
-52,945,97976721,52,60,ciod: Error creating node map from file <*> Permission denied,946
-53,946,dd143159,53,81,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>,947
-54,1029,2fbf058f,54,32,"rts: kernel terminated for reason <*> bad message header: invalid cpu, <*>",1030
-55,1032,1ae4a1e2,55,68,<*> floating point alignment exceptions,1033
-56,1199,cec4c1e9,56,99,New ido chip inserted into the database: <*>,1200
-57,1201,12c46e92,57,51,NodeCard is not fully functional,1202
-58,1202,86a5b6eb,58,25,Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.,1203
-59,1203,19083ffd,59,35,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>,1204
-60,1207,e3703b8d,60,79,"idoproxydb hit ASSERT condition: ASSERT <*> Source file=idotransportmgr.cpp Source <*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",1208
-61,1216,5ceb0a30,61,9,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.,1217
-62,1221,d9ec2e41,62,41,Ido chip status changed: <*> status=M Thu Aug <*> PDT <*>,1222
-63,1223,f1a5d851,63,95,PrepareForService shutting down <*> mType(4)) as part of Service Action <*>,1224
-64,1231,c42200c4,64,20,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,1232
-65,1233,afd081b3,65,5,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected,1234
-66,1238,c65da9e1,66,78,"ciod: Error loading <*> invalid or missing program image, Exec format error",1239
-67,1256,f9d6f989,67,66,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed,1257
-68,1258,130bb340,68,47,rts: kernel terminated for reason <*>,1259
-69,1263,11b69b8b,69,13,ciod: generated <*> core files for program <*>,1264
-70,1282,1b700d02,70,2,iar <*> dear <*>,1283
-71,1370,07342848,71,50,"NFS Mount failed on <*> slept <*> seconds, retrying <*>",1371
-72,1376,f80a5ed5,72,12,Lustre mount FAILED : <*> : point <*>,1377
-73,1392,2355b700,73,16,ciod: pollControlDescriptors: Detected the debugger died.,1393
-74,1393,2eb8058c,74,48,ciod: In packet from node <*> message code <*> is not <*> or <*>,1394
-75,1399,ea3efa0b,75,33,suppressing further interrupts of same type,1400
-76,1447,67d49f9f,76,82,rts: bad message header: expecting type <*> instead of type <*>,1448
-77,1468,2ba1baf7,77,84,critical input interrupt <*> warning for torus y+ wire,1469
-78,1473,7c363edf,78,64,"ciod: Error loading <*> invalid or missing program image, Permission denied",1474
-79,1502,f3eed4bf,79,58,data cache search parity error detected. attempting to correct,1503
-80,1510,a828f891,80,80,shutdown complete,1511
-81,1520,ed0daeee,81,65,"Error receiving packet on tree network, expecting type <*> instead of type <*>",1521
-82,1734,e8a1ed5d,82,44,<*> EDRAM error(s) (dcr <*> detected and corrected,1735
-83,1750,825e06cc,83,0,"critical input interrupt <*> warning for torus z+ wire, suppressing further interrupts of same type",1751
-84,1759,bbb20c30,84,23,<*> torus sender z- retransmission error(s) (dcr <*> detected and corrected over <*> seconds,1760
-85,1761,b0de29a2,85,39,ciod: Received signal <*>,1762
-86,1767,4f1ef491,86,89,Lustre mount FAILED : <*> : block_id : location,1768
-87,1769,5a695884,87,15,MACHINE CHECK DCR read timeout <*> iar <*> lr <*>,1770
-88,1777,600efdda,88,71,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out,1778
-89,1778,ad69fd32,89,10,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer,1779
-90,1786,8a5c46f9,90,19,<*>,1787
-91,1795,77b17bd0,91,19,<*>,1796
-92,1798,ad3f3991,92,85,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected over <*> seconds,1799
-93,1806,92420707,93,11,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.,1807
-94,1809,125fee2b,94,17,"<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.",1810
-95,1932,71fcff11,95,73,<*> ddr error(s) detected and corrected on rank <*> symbol <*> over <*> seconds,1933
-96,1933,7d6bd641,96,34,PrepareForService shutting down Node <*> mType(4)) as part of Service Action <*>,1934
-97,1934,d9735fda,97,27,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>,1935
-98,1944,8df7ac9e,98,104,total of <*> ddr error(s) detected and corrected over <*> seconds,1945
-99,1945,64d56eed,99,45,minus normalized <*>,1946
-100,1947,c56cf501,100,3,fraction <*>,1948
-101,1950,f848d6c7,101,72,size of scratchpad portion of <*>,1951
-102,1951,9d143d9b,102,27,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>,1952
-103,1972,a77244af,103,90,ciod: LOGIN <*> failed: Input/output error,1973
-104,1984,58b7753b,104,92,<*> EDRAM error(s) (dcr <*> detected and corrected over <*> seconds,1985
-105,1988,1239cef9,105,56,ciod: Error loading <*> program image too <*> > <*>,1989
-106,1989,1a068bbf,106,46,<*> ffffffff ffffffff ffffffff,1990
-107,1990,6e12673f,107,14,Machine State Register: <*>,1991
+0,0,3aa50e45,0,45,instruction cache parity error corrected,1
+1,4,6265c739,1,22,<*> double-hummer alignment exceptions,5
+2,7,cb2160e4,2,64,CE sym <*> at <*> mask <*>,8
+3,8,150b1306,3,50,ciod: failed to read message prefix on control stream (CioStream socket to <*>,9
+4,11,070de4aa,4,27,generating <*>,12
+5,31,9f7cd7e7,5,54,force load/store <*>,32
+6,68,a553aad2,6,76,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>,69
+7,84,4983ff07,7,41,ciod: LOGIN <*> failed: No such file or directory,85
+8,88,d3e73bc3,8,79,<*> ddr errors(s) detected and corrected on rank <*> symbol <*> bit <*>,89
+9,103,38a7307d,9,89,data TLB error interrupt,104
+10,164,473b1afe,10,2,ciod: Message code <*> is not <*> or <*>,165
+11,165,d2c9db9b,11,11,data storage interrupt,166
+12,173,a31b789f,12,48,instruction address: <*>,174
+13,204,ac8a6999,13,63,data address: <*>,205
+14,206,74814646,14,32,machine check: <*>,207
+15,208,cc8ff6de,15,0,program interrupt: illegal <*>,209
+16,231,cce08081,16,99,exception syndrome register: <*>,232
+17,240,9851467f,17,8,data store interrupt caused by <*>,241
+18,249,40c9c002,18,42,store <*>,250
+19,251,4f884f50,19,100,machine state register: <*>,252
+20,253,6a308701,20,20,problem state <*>,254
+21,256,4a855bbd,21,92,floating point instr. <*>,257
+22,259,f28dcd0f,22,35,auxiliary <*>,260
+23,260,511c1d0d,23,47,machine check <*>,261
+24,262,23b2adc8,24,4,floating pt ex mode <*>,263
+25,264,2ec4bdb1,25,80,debug interrupt <*>,265
+26,266,3971a417,26,10,byte ordering <*>,267
+27,268,ae9a7a4f,27,14,data address <*>,269
+28,271,e19f7ea0,28,1,core configuration register: <*>,272
+29,273,39f84cff,29,75,program interrupt: fp cr <*>,274
+30,274,55addd29,30,91,guaranteed instruction cache block <*>,275
+31,276,df88d884,31,85,program interrupt: fp cr field <*>,277
+32,282,3777cdd1,32,58,icache prefetch <*>,283
+33,288,198c56f7,33,98,wait state <*>,289
+34,289,1c2a9320,34,12,critical input interrupt <*>,290
+35,293,f7c382bd,35,78,special purpose registers:,294
+36,294,d7cb53a5,36,66,<*>,295
+37,295,af999985,37,25,rts internal error,296
+38,298,fe410cc8,38,7,debug wait <*>,299
+39,300,940724cb,39,59,instruction address <*>,301
+40,310,228fcad4,40,70,disable store <*>,311
+41,314,147cfcff,41,95,total of <*> ddr error(s) detected and corrected,315
+42,361,57138c88,42,74,"ciod: Error loading <*> invalid or missing program image, No such file or directory",362
+43,362,4496b375,43,46,ciod: Error creating node map from file <*> No child processes,363
+44,432,0d02c0e2,44,26,program interrupt,433
+45,457,a2335b6b,45,72,Node card is not fully functional,458
+46,521,34832905,46,60,Ido chip status changed: <*> status=M Fri Jul <*> PDT <*>,522
+47,522,9d5d6232,47,90,Can not get assembly information for node card,523
+48,596,46c02138,48,104,ciod: Missing or invalid fields on line <*> of node map file <*>,597
+49,597,d6e5f01c,49,16,<*> torus receiver z+ input pipe error(s) (dcr <*> detected and corrected,598
+50,621,088bafb1,50,37,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>,622
+51,822,220716fc,51,88,rts panic! - stopping execution,823
+52,945,97976721,52,77,ciod: Error creating node map from file <*> Permission denied,946
+53,946,dd143159,53,44,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>,947
+54,1029,2fbf058f,54,56,"rts: kernel terminated for reason <*> bad message header: invalid cpu, <*>",1030
+55,1032,1ae4a1e2,55,13,<*> floating point alignment exceptions,1033
+56,1199,cec4c1e9,56,82,New ido chip inserted into the database: <*>,1200
+57,1201,12c46e92,57,55,NodeCard is not fully functional,1202
+58,1202,86a5b6eb,58,38,Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.,1203
+59,1203,19083ffd,59,62,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>,1204
+60,1207,e3703b8d,60,39,"idoproxydb hit ASSERT condition: ASSERT <*> Source file=idotransportmgr.cpp Source <*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",1208
+61,1216,5ceb0a30,61,102,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.,1217
+62,1221,d9ec2e41,62,103,Ido chip status changed: <*> status=M Thu Aug <*> PDT <*>,1222
+63,1223,f1a5d851,63,81,PrepareForService shutting down <*> mType(4)) as part of Service Action <*>,1224
+64,1231,c42200c4,64,24,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,1232
+65,1233,afd081b3,65,97,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected,1234
+66,1238,c65da9e1,66,40,"ciod: Error loading <*> invalid or missing program image, Exec format error",1239
+67,1256,f9d6f989,67,15,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed,1257
+68,1258,130bb340,68,73,rts: kernel terminated for reason <*>,1259
+69,1263,11b69b8b,69,6,ciod: generated <*> core files for program <*>,1264
+70,1282,1b700d02,70,53,iar <*> dear <*>,1283
+71,1370,07342848,71,96,"NFS Mount failed on <*> slept <*> seconds, retrying <*>",1371
+72,1376,f80a5ed5,72,3,Lustre mount FAILED : <*> : point <*>,1377
+73,1392,2355b700,73,84,ciod: pollControlDescriptors: Detected the debugger died.,1393
+74,1393,2eb8058c,74,87,ciod: In packet from node <*> message code <*> is not <*> or <*>,1394
+75,1399,ea3efa0b,75,83,suppressing further interrupts of same type,1400
+76,1447,67d49f9f,76,93,rts: bad message header: expecting type <*> instead of type <*>,1448
+77,1468,2ba1baf7,77,94,critical input interrupt <*> warning for torus y+ wire,1469
+78,1473,7c363edf,78,49,"ciod: Error loading <*> invalid or missing program image, Permission denied",1474
+79,1502,f3eed4bf,79,18,data cache search parity error detected. attempting to correct,1503
+80,1510,a828f891,80,68,shutdown complete,1511
+81,1520,ed0daeee,81,52,"Error receiving packet on tree network, expecting type <*> instead of type <*>",1521
+82,1734,e8a1ed5d,82,28,<*> EDRAM error(s) (dcr <*> detected and corrected,1735
+83,1750,825e06cc,83,61,"critical input interrupt <*> warning for torus z+ wire, suppressing further interrupts of same type",1751
+84,1759,bbb20c30,84,9,<*> torus sender z- retransmission error(s) (dcr <*> detected and corrected over <*> seconds,1760
+85,1761,b0de29a2,85,34,ciod: Received signal <*>,1762
+86,1767,4f1ef491,86,19,Lustre mount FAILED : <*> : block_id : location,1768
+87,1769,5a695884,87,86,MACHINE CHECK DCR read timeout <*> iar <*> lr <*>,1770
+88,1777,600efdda,88,69,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out,1778
+89,1778,ad69fd32,89,23,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer,1779
+90,1786,8a5c46f9,90,66,<*>,1787
+91,1795,77b17bd0,91,66,<*>,1796
+92,1798,ad3f3991,92,5,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected over <*> seconds,1799
+93,1806,92420707,93,36,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.,1807
+94,1809,125fee2b,94,67,"<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.",1810
+95,1932,71fcff11,95,57,<*> ddr error(s) detected and corrected on rank <*> symbol <*> over <*> seconds,1933
+96,1933,7d6bd641,96,29,PrepareForService shutting down Node <*> mType(4)) as part of Service Action <*>,1934
+97,1934,d9735fda,97,21,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>,1935
+98,1944,8df7ac9e,98,33,total of <*> ddr error(s) detected and corrected over <*> seconds,1945
+99,1945,64d56eed,99,65,minus normalized <*>,1946
+100,1947,c56cf501,100,101,fraction <*>,1948
+101,1950,f848d6c7,101,51,size of scratchpad portion of <*>,1951
+102,1951,9d143d9b,102,21,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>,1952
+103,1972,a77244af,103,43,ciod: LOGIN <*> failed: Input/output error,1973
+104,1984,58b7753b,104,30,<*> EDRAM error(s) (dcr <*> detected and corrected over <*> seconds,1985
+105,1988,1239cef9,105,71,ciod: Error loading <*> program image too <*> > <*>,1989
+106,1989,1a068bbf,106,31,<*> ffffffff ffffffff ffffffff,1990
+107,1990,6e12673f,107,17,Machine State Register: <*>,1991

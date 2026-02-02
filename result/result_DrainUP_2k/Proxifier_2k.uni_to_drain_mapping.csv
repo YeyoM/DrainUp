@@ -1,19 +1,19 @@
 low_row_index,mapped_drain_index,drain_eventid,uni_row_index,uni_eventid_original,uni_eventtemplate,drain_LineId
-0,0,56ab45ba,0,10,<*> open through proxy <*> HTTPS,1
-1,3,dff2fdce,1,5,"<*> close, 0 bytes sent, 0 bytes received, lifetime <*>",4
-2,10,562370b9,2,8,"<*> close, <*> bytes sent, 18846 bytes <*> KB) received, lifetime <1 sec",11
-3,13,0dc9f004,3,0,"<*> close, <*> bytes <*> KB) sent, 1671 bytes <*> KB) received, lifetime <*>",14
+0,0,56ab45ba,0,2,<*> open through proxy <*> HTTPS,1
+1,3,dff2fdce,1,0,"<*> close, 0 bytes sent, 0 bytes received, lifetime <*>",4
+2,10,562370b9,2,14,"<*> close, <*> bytes sent, 18846 bytes <*> KB) received, lifetime <1 sec",11
+3,13,0dc9f004,3,3,"<*> close, <*> bytes <*> KB) sent, 1671 bytes <*> KB) received, lifetime <*>",14
 4,18,3ced113c,4,4,"<*> close, <*> bytes <*> KB) sent, 815 bytes received, lifetime <1 sec",19
-5,224,b1fe74a1,5,2,<*> open through proxy <*> SOCKS5,225
-6,252,cb4cfc43,6,11,<*> error : A connection request was canceled before the completion.,253
-7,253,bd37133d,7,15,<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.,254
-8,404,68218296,8,7,"<*> close, 466 bytes sent, 125682 bytes (122 KB) received, lifetime <1 sec",405
-9,441,2b71c77d,9,12,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",442
-10,482,b701120f,10,16,"<*> close, 983 bytes sent, <*> bytes <*> KB) received, lifetime <*>",483
-11,506,6ae39528,11,6,"<*> close, 326 bytes sent, <*> bytes <*> KB) received, lifetime <*>",507
-12,764,783c3385,12,17,"<*> close, 588 bytes sent, 215882 bytes <*> KB) received, lifetime <*>",765
-13,1098,a40bb140,13,3,"<*> close, <*> bytes <*> KB) sent, <*> bytes <*> KB) received, lifetime <*>",1099
-14,1311,e365f1af,14,1,"<*> close, <*> bytes sent, <*> bytes <*> KB) received, lifetime <*>",1312
-15,1367,089371af,15,14,"<*> close, <*> bytes (151 KB) sent, <*> bytes <*> KB) received, lifetime <*>",1368
-16,1476,00188feb,16,13,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1477
-17,1799,89c754fa,17,9,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,1800
+5,224,b1fe74a1,5,5,<*> open through proxy <*> SOCKS5,225
+6,252,cb4cfc43,6,8,<*> error : A connection request was canceled before the completion.,253
+7,253,bd37133d,7,12,<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.,254
+8,404,68218296,8,17,"<*> close, 466 bytes sent, 125682 bytes (122 KB) received, lifetime <1 sec",405
+9,441,2b71c77d,9,9,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>",442
+10,482,b701120f,10,13,"<*> close, 983 bytes sent, <*> bytes <*> KB) received, lifetime <*>",483
+11,506,6ae39528,11,16,"<*> close, 326 bytes sent, <*> bytes <*> KB) received, lifetime <*>",507
+12,764,783c3385,12,10,"<*> close, 588 bytes sent, 215882 bytes <*> KB) received, lifetime <*>",765
+13,1098,a40bb140,13,15,"<*> close, <*> bytes <*> KB) sent, <*> bytes <*> KB) received, lifetime <*>",1099
+14,1311,e365f1af,14,6,"<*> close, <*> bytes sent, <*> bytes <*> KB) received, lifetime <*>",1312
+15,1367,089371af,15,11,"<*> close, <*> bytes (151 KB) sent, <*> bytes <*> KB) received, lifetime <*>",1368
+16,1476,00188feb,16,7,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>,1477
+17,1799,89c754fa,17,1,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>,1800

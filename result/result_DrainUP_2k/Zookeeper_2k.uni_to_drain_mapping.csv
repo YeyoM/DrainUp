@@ -1,51 +1,51 @@
 low_row_index,mapped_drain_index,drain_eventid,uni_row_index,uni_eventid_original,uni_eventtemplate,drain_LineId
-0,0,286299e2,0,19,Notification time out: <*>,1
-1,1,9879a9ab,1,26,Received connection request <*>,2
-2,2,7a2ec7d0,2,16,Send worker leaving thread,3
-3,3,45a3ec5d,3,14,Interrupted while waiting for message on queue,4
-4,5,036ce310,4,29,Connection broken for id <*> my id = <*> error =,6
-5,15,273e53f2,5,44,Interrupting SendWorker,16
-6,494,20d23992,6,1,Closed socket connection for client <*> which had sessionid <*>,495
-7,495,ecefe136,7,23,caught end of stream exception,496
-8,497,c2a27ab9,8,45,Client attempting to renew session <*> at <*>,498
-9,500,37ce0325,9,21,Established session <*> with negotiated timeout <*> for client <*>,501
-10,502,abe76bf8,10,32,Accepted socket connection from <*>,503
-11,505,63d9783e,11,5,Unexpected Exception:,506
-12,522,1bc7bc65,12,37,Connection request from old client <*> will be dropped if server is in r-o mode,523
-13,539,8dc08652,13,6,Server environment:user.dir=/,540
-14,541,1e7a3631,14,2,Cannot open channel to <*> at election address <*>,542
-15,543,61a003ea,15,30,Processed session termination for sessionid: <*>,544
-16,549,f8c6d06b,16,41,Expiring session <*> timeout of <*> exceeded,550
-17,564,f311a57e,17,15,******* GOODBYE <*> ********,565
+0,0,286299e2,0,30,Notification time out: <*>,1
+1,1,9879a9ab,1,12,Received connection request <*>,2
+2,2,7a2ec7d0,2,6,Send worker leaving thread,3
+3,3,45a3ec5d,3,37,Interrupted while waiting for message on queue,4
+4,5,036ce310,4,43,Connection broken for id <*> my id = <*> error =,6
+5,15,273e53f2,5,2,Interrupting SendWorker,16
+6,494,20d23992,6,44,Closed socket connection for client <*> which had sessionid <*>,495
+7,495,ecefe136,7,18,caught end of stream exception,496
+8,497,c2a27ab9,8,19,Client attempting to renew session <*> at <*>,498
+9,500,37ce0325,9,11,Established session <*> with negotiated timeout <*> for client <*>,501
+10,502,abe76bf8,10,13,Accepted socket connection from <*>,503
+11,505,63d9783e,11,28,Unexpected Exception:,506
+12,522,1bc7bc65,12,45,Connection request from old client <*> will be dropped if server is in r-o mode,523
+13,539,8dc08652,13,29,Server environment:user.dir=/,540
+14,541,1e7a3631,14,16,Cannot open channel to <*> at election address <*>,542
+15,543,61a003ea,15,14,Processed session termination for sessionid: <*>,544
+16,549,f8c6d06b,16,38,Expiring session <*> timeout of <*> exceeded,550
+17,564,f311a57e,17,8,******* GOODBYE <*> ********,565
 18,565,00078e14,18,22,LOOKING,566
-19,580,4cbab665,19,17,My election bind port: <*>,581
-20,581,ed297523,20,33,"Have smaller server identifier, so dropping the connection: <*>",582
-21,582,c172d526,21,0,FOLLOWING,583
+19,580,4cbab665,19,10,My election bind port: <*>,581
+20,581,ed297523,20,42,"Have smaller server identifier, so dropping the connection: <*>",582
+21,582,c172d526,21,23,FOLLOWING,583
 22,584,00078e14,22,22,LOOKING,585
-23,585,e1caa208,23,31,New election. My id =  <*> proposed <*>,586
-24,587,a1237171,24,38,FOLLOWING - LEADER ELECTION TOOK - <*>,588
-25,597,cd9a2201,25,13,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)",598
-26,607,8c716832,26,11,autopurge.snapRetainCount set to <*>,608
-27,608,d961f4e8,27,27,Server environment:java.vendor=Oracle Corporation,609
-28,609,1caefedb,28,4,Revalidating client: <*>,610
-29,613,ae80a1f9,29,43,"Server environment:zookeeper.version=3.4.5--1, built on <*> GMT",614
-30,622,bed3680d,30,3,Closed socket connection for client <*> (no session established for client),623
-31,623,ecf6827a,31,10,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running,624
-32,637,da7d60d2,32,7,tickTime set to <*>,638
-33,754,0cf47064,33,12,Unexpected exception causing shutdown while sock still open,755
-34,1257,2a7add7e,34,24,Got user-level KeeperException when processing <*> type:create cxid:0x55b8bb0f <*> txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,1258
-35,1348,d459c04c,35,18,Starting quorum peer,1349
-36,1349,dfd8b545,36,36,Snapshotting: <*> to <*>,1350
+23,585,e1caa208,23,27,New election. My id =  <*> proposed <*>,586
+24,587,a1237171,24,7,FOLLOWING - LEADER ELECTION TOOK - <*>,588
+25,597,cd9a2201,25,21,"Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)",598
+26,607,8c716832,26,3,autopurge.snapRetainCount set to <*>,608
+27,608,d961f4e8,27,31,Server environment:java.vendor=Oracle Corporation,609
+28,609,1caefedb,28,17,Revalidating client: <*>,610
+29,613,ae80a1f9,29,1,"Server environment:zookeeper.version=3.4.5--1, built on <*> GMT",614
+30,622,bed3680d,30,41,Closed socket connection for client <*> (no session established for client),623
+31,623,ecf6827a,31,24,Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running,624
+32,637,da7d60d2,32,26,tickTime set to <*>,638
+33,754,0cf47064,33,0,Unexpected exception causing shutdown while sock still open,755
+34,1257,2a7add7e,34,9,Got user-level KeeperException when processing <*> type:create cxid:0x55b8bb0f <*> txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,1258
+35,1348,d459c04c,35,25,Starting quorum peer,1349
+36,1349,dfd8b545,36,15,Snapshotting: <*> to <*>,1350
 37,1376,3204f3ff,37,34,autopurge.purgeInterval set to <*>,1377
 38,1379,5e51912e,38,20,Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,1380
-39,1407,689b0f5e,39,35,maxSessionTimeout set to <*>,1408
-40,1409,c172d526,40,0,FOLLOWING,1410
-41,1418,a3e8a36b,41,39,Have quorum of supporters; starting up and setting last processed zxid: <*>,1419
-42,1427,c7ef5ae9,42,42,shutdown of request processor complete,1428
-43,1432,9cb3def4,43,9,First is <*>,1433
-44,1454,a9459b27,44,40,Reading snapshot <*>,1455
-45,1455,9d86801d,45,8,Sending DIFF,1456
+39,1407,689b0f5e,39,4,maxSessionTimeout set to <*>,1408
+40,1409,c172d526,40,23,FOLLOWING,1410
+41,1418,a3e8a36b,41,35,Have quorum of supporters; starting up and setting last processed zxid: <*>,1419
+42,1427,c7ef5ae9,42,5,shutdown of request processor complete,1428
+43,1432,9cb3def4,43,36,First is <*>,1433
+44,1454,a9459b27,44,32,Reading snapshot <*>,1455
+45,1455,9d86801d,45,33,Sending DIFF,1456
 46,1459,00078e14,46,22,LOOKING,1460
-47,1460,4c5926a1,47,25,Getting a snapshot from leader,1461
+47,1460,4c5926a1,47,39,Getting a snapshot from leader,1461
 48,1957,00078e14,48,22,LOOKING,1958
-49,1974,5bd1f197,49,28,minSessionTimeout set to <*>,1975
+49,1974,5bd1f197,49,40,minSessionTimeout set to <*>,1975
