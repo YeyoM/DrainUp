@@ -14,11 +14,13 @@ exec > >(tee -a "$LOGFILE") 2>&1
 export PYTHONUNBUFFERED=1
 
 # Cleanup
-echo "Deleting Previous Results (~/tesina/DrainUP/result/)"
-ls -la ~/tesina/DrainUP/result
-rm -rf ~/tesina/DrainUP/result
+# echo "Deleting Previous Results (~/tesina/DrainUP/result/)"
+# ls -la ~/tesina/DrainUP/result
+# rm -rf ~/tesina/DrainUP/result
 
-echo "Cleanup completed, starting the parsing..."
+# echo "Cleanup completed, starting the parsing..."
+
+echo "Skipping cleaning..."
 
 # 1. Drain ===================================================================
 echo "CDing into directory"

@@ -216,6 +216,14 @@ def is_file_empty(file_path):
         return len(content) == 0
 
 
+def save_parsing_times(output_dir, parsing_times):
+    """Save parsing times to JSON file immediately"""
+    parsing_times_path = os.path.join(output_dir, "parsing_times.json")
+    with open(parsing_times_path, "w") as f:
+        json.dump(parsing_times, f, indent=2)
+    print(f"Progress saved to {parsing_times_path}")
+
+
 def runner(
         dataset,
         output_dir,
@@ -229,7 +237,7 @@ def runner(
 
     if LogParser is None:
         print('\nSkipping parsing for %s (Parser = None)' % dataset)
-        return 
+        return None
 
     log_file_basename = os.path.basename(log_file)
 
@@ -247,7 +255,7 @@ def runner(
         p.terminate()
         with open(parsedresult, 'w') as fw:
             pass
-        return
+        return None
     parse_time = time.time() - start_time  
     print("Parsing Finished!")
     print("Parsing Time (s): ", parse_time)
@@ -273,6 +281,13 @@ if __name__ == "__main__":
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
 
+    # Load existing parsing times if file exists
+    parsing_times_path = os.path.join(output_dir, "parsing_times.json")
+    if os.path.exists(parsing_times_path):
+        with open(parsing_times_path, "r") as f:
+            parsing_times = json.load(f)
+        print(f"Loaded existing parsing times from {parsing_times_path}")
+
     for dataset in datasets:
         print('\n=== Parsing %s ===' % dataset)
         setting = benchmark_settings[dataset]
@@ -297,11 +312,14 @@ if __name__ == "__main__":
                 'depth': setting['depth'], 'st': setting['st']
             },
         )  
-        parsing_times[dataset] = parse_time
+        
+        # Save parsing time immediately after completion
+        if parse_time is not None:
+            parsing_times[dataset] = parse_time
+            save_parsing_times(output_dir, parsing_times)
+        else:
+            parsing_times[dataset] = "TIMEOUT or SKIPPED"
+            save_parsing_times(output_dir, parsing_times)
 
-    parsing_times_path = os.path.join(output_dir, "parsing_times.json")
-    with open(parsing_times_path, "w") as f:
-        json.dump(parsing_times, f, indent=2)
-    print(f"\n\nParsing times saved to {parsing_times_path}")
+    print(f"\n\nAll parsing times saved to {parsing_times_path}")
     print("\n")
-

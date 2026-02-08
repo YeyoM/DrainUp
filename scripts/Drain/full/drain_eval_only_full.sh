@@ -2,7 +2,7 @@
 
 # GO TO EVAL DIR
 echo "CDing into directory"
-cd ../benchmark/evaluation
+cd ../../../benchmark/evaluation
 pwd
 
 # ACTIVATE THE PYTHON ENV
