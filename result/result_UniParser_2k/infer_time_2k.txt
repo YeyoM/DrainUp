@@ -10,5 +10,4 @@ UniParser: OpenSSH 2.881572
 UniParser: OpenStack 3.603719
 UniParser: Proxifier 3.151303
 UniParser: Spark 3.168098
-UniParser: Thunderbird 2.778274
 UniParser: Zookeeper 2.666604

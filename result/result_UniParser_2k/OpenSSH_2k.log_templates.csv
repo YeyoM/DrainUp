@@ -1,25 +1,25 @@
 EventId,EventTemplate
-0,pam_unix(sshd:session): session closed for user fztu
-1,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>
-2,Accepted password for <*> from <*> port <*> ssh2
-3,error: Received disconnect from <*> No more user authentication methods available. [preauth]
-4,input_userauth_request: invalid user webmaster [preauth]
-5,error: Received disconnect from <*> com.jcraft.jsch.JSchException: Auth fail [preauth]
-6,Received disconnect from <*> Bye Bye [preauth]
-7,Received disconnect from <*> Closed due to user request. [preauth]
-8,PAM service(sshd) ignoring max retries; <*> > <*>
-9,Failed password for invalid user <*> from <*> port <*> ssh2
+0,error: Received disconnect from <*> com.jcraft.jsch.JSchException: Auth fail [preauth]
+1,PAM service(sshd) ignoring max retries; <*> > <*>
+2,error: Received disconnect from <*> No more user authentication methods available. [preauth]
+3,Failed password for invalid user <*> from <*> port <*> ssh2
+4,Connection closed by <*> [preauth]
+5,Accepted password for <*> from <*> port <*> ssh2
+6,fatal: Write failed: Connection reset by peer [preauth]
+7,Received disconnect from <*> Bye Bye [preauth]
+8,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>  user=root
+9,message repeated <*> times: [ Failed password for <*> from <*> port <*> ssh2]
 10,Invalid user <*> from <*>
-11,Failed none for invalid user <*> from <*> port <*> ssh2
-12,Did not receive identification string from <*>
-13,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com <*> failed - POSSIBLE BREAK-IN ATTEMPT!
-14,Connection closed by <*> [preauth]
-15,pam_unix(sshd:session): session opened for user fztu by <*>
-16,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= <*>
-17,Disconnecting: Too many authentication failures for <*> [preauth]
-18,fatal: Write failed: Connection reset by peer [preauth]
-19,Failed password for <*> from <*> port <*> ssh2
-20,message repeated <*> times: [ Failed password for <*> from <*> port <*> ssh2]
-21,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root
+11,Disconnecting: Too many authentication failures for <*> [preauth]
+12,Received disconnect from <*> Closed due to user request. [preauth]
+13,input_userauth_request: invalid user webmaster [preauth]
+14,reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com <*> failed - POSSIBLE BREAK-IN ATTEMPT!
+15,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= <*>
+16,Failed password for <*> from <*> port <*> ssh2
+17,pam_unix(sshd:session): session closed for user fztu
+18,pam_unix(sshd:session): session opened for user fztu by <*>
+19,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>
+20,PAM <*> more authentication failures; logname= <*> tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root
+21,Failed none for invalid user <*> from <*> port <*> ssh2
 22,pam_unix(sshd:auth): check pass; user unknown
-23,pam_unix(sshd:auth): authentication failure; logname= <*> tty=ssh ruser= <*>  user=root
+23,Did not receive identification string from <*>

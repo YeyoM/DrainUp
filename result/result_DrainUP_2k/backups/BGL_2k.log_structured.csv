@@ -1,109 +1,109 @@
 ﻿Content,EventId,EventTemplate
-instruction cache parity error corrected,45,instruction cache parity error corrected
-63543 double-hummer alignment exceptions,22,<*> double-hummer alignment exceptions
-"CE sym 2, at 0x0b85eee0, mask 0x05",64,CE sym <*> at <*> mask <*>
-ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569,50,ciod: failed to read message prefix on control stream (CioStream socket to <*>
-generating core.2275,27,generating <*>
-force load/store alignment...............0,54,force load/store <*>
-ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff,76,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>
-ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory,41,ciod: LOGIN <*> failed: No such file or directory
-"1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1",79,<*> ddr errors(s) detected and corrected on rank <*> symbol <*> bit <*>
-data TLB error interrupt,89,data TLB error interrupt
-ciod: Message code 0 is not 51 or 4294967295,2,ciod: Message code <*> is not <*> or <*>
-data storage interrupt,11,data storage interrupt
-instruction address: 0x00004ed8,48,instruction address: <*>
-data address: 0x00000002,63,data address: <*>
-machine check: i-fetch......................0,32,machine check: <*>
-program interrupt: illegal instruction......0,0,program interrupt: illegal <*>
-exception syndrome register: 0x00800000,99,exception syndrome register: <*>
-data store interrupt caused by dcbf.........0,8,data store interrupt caused by <*>
-store operation.............................1,42,store <*>
-machine state register: 0x00002000,100,machine state register: <*>
-"problem state (0=sup,1=usr).......0",20,problem state <*>
-floating point instr. enabled.....1,92,floating point instr. <*>
-auxiliary processor.........................0,35,auxiliary <*>
-machine check enable..............0,47,machine check <*>
-floating pt ex mode 0 enable......0,4,floating pt ex mode <*>
-debug interrupt enable............0,80,debug interrupt <*>
-byte ordering exception.....................0,10,byte ordering <*>
-data address space................0,14,data address <*>
+instruction cache parity error corrected,101,instruction cache parity error corrected
+63543 double-hummer alignment exceptions,4,<*> double-hummer alignment exceptions
+"CE sym 2, at 0x0b85eee0, mask 0x05",43,CE sym <*> at <*> mask <*>
+ciod: failed to read message prefix on control stream (CioStream socket to 172.16.96.116:33569,40,ciod: failed to read message prefix on control stream (CioStream socket to <*>
+generating core.2275,47,generating <*>
+force load/store alignment...............0,52,force load/store <*>
+ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff,55,ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>
+ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory,81,ciod: LOGIN <*> failed: No such file or directory
+"1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1",29,<*> ddr errors(s) detected and corrected on rank <*> symbol <*> bit <*>
+data TLB error interrupt,91,data TLB error interrupt
+ciod: Message code 0 is not 51 or 4294967295,12,ciod: Message code <*> is not <*> or <*>
+data storage interrupt,58,data storage interrupt
+instruction address: 0x00004ed8,14,instruction address: <*>
+data address: 0x00000002,54,data address: <*>
+machine check: i-fetch......................0,36,machine check: <*>
+program interrupt: illegal instruction......0,11,program interrupt: illegal <*>
+exception syndrome register: 0x00800000,6,exception syndrome register: <*>
+data store interrupt caused by dcbf.........0,35,data store interrupt caused by <*>
+store operation.............................1,90,store <*>
+machine state register: 0x00002000,51,machine state register: <*>
+"problem state (0=sup,1=usr).......0",34,problem state <*>
+floating point instr. enabled.....1,77,floating point instr. <*>
+auxiliary processor.........................0,26,auxiliary <*>
+machine check enable..............0,87,machine check <*>
+floating pt ex mode 0 enable......0,48,floating pt ex mode <*>
+debug interrupt enable............0,82,debug interrupt <*>
+byte ordering exception.....................0,9,byte ordering <*>
+data address space................0,97,data address <*>
 core configuration register: 0x00002000,1,core configuration register: <*>
-program interrupt: fp cr update.............0,75,program interrupt: fp cr <*>
-guaranteed instruction cache block touch.0,91,guaranteed instruction cache block <*>
-program interrupt: fp cr field .............0,85,program interrupt: fp cr field <*>
-icache prefetch depth....................0,58,icache prefetch <*>
-wait state enable.................0,98,wait state <*>
-critical input interrupt enable...0,12,critical input interrupt <*>
-special purpose registers:,78,special purpose registers:
-lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000,66,<*>
-rts internal error,25,rts internal error
-debug wait enable.................0,7,debug wait <*>
-instruction address space.........0,59,instruction address <*>
-disable store gathering..................0,70,disable store <*>
-total of 1 ddr error(s) detected and corrected,95,total of <*> ddr error(s) detected and corrected
-"ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory",74,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
-ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes,46,ciod: Error creating node map from file <*> No child processes
-program interrupt,26,program interrupt
-Node card is not fully functional,72,Node card is not fully functional
-Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005,60,Ido chip status changed: <*> status=M Fri Jul <*> PDT <*>
-Can not get assembly information for node card,90,Can not get assembly information for node card
-ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile,104,ciod: Missing or invalid fields on line <*> of node map file <*>
-1 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected,16,<*> torus receiver z+ input pipe error(s) (dcr <*> detected and corrected
-ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map,37,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>
-rts panic! - stopping execution,88,rts panic! - stopping execution
-ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied,77,ciod: Error creating node map from file <*> Permission denied
-ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map,44,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>
-"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015",56,"rts: kernel terminated for reason <*> bad message header: invalid cpu, <*>"
-8 floating point alignment exceptions,13,<*> floating point alignment exceptions
-New ido chip inserted into the database: FF:F2:9F:15:1F:72:00:0D:60:EA:E0:8D ip=10.7.0.13 v=9 t=2,82,New ido chip inserted into the database: <*>
-NodeCard is not fully functional,55,NodeCard is not fully functional
-"Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",38,Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.
-"Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid 04DF80A7942FFFFF0C081AE08CD2, found 0000000000000000000000000000",62,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
-"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",39,"idoproxydb hit ASSERT condition: ASSERT <*> Source file=idotransportmgr.cpp Source <*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
-Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,102,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.
-Ido chip status changed: FF:F2:9F:15:7E:6E:00:0D:60:EA:81:91 ip=10.0.1.155 v=13 t=1 status=M Thu Aug 04 15:31:25 PDT 2005,103,Ido chip status changed: <*> status=M Thu Aug <*> PDT <*>
-"PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310",81,PrepareForService shutting down <*> mType(4)) as part of Service Action <*>
-rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,24,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
-1 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,97,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected
-"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",40,"ciod: Error loading <*> invalid or missing program image, Exec format error"
-ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:42213: Link has been severed,15,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
-rts: kernel terminated for reason 1003,73,rts: kernel terminated for reason <*>
-ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm,6,ciod: generated <*> core files for program <*>
-iar 003a90fc dear 00b360e8,53,iar <*> dear <*>
-"NFS Mount failed on bglio716, slept 15 seconds, retrying (1)",96,"NFS Mount failed on <*> slept <*> seconds, retrying <*>"
-Lustre mount FAILED : bglio559 : point /p/gb1,3,Lustre mount FAILED : <*> : point <*>
-ciod: pollControlDescriptors: Detected the debugger died.,84,ciod: pollControlDescriptors: Detected the debugger died.
-"ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)",87,ciod: In packet from node <*> message code <*> is not <*> or <*>
-suppressing further interrupts of same type,83,suppressing further interrupts of same type
-rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007,93,rts: bad message header: expecting type <*> instead of type <*>
-critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire,94,critical input interrupt <*> warning for torus y+ wire
-"ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/Gunnels/VNM64/vnm.rts: invalid or missing program image, Permission denied",49,"ciod: Error loading <*> invalid or missing program image, Permission denied"
-data cache search parity error detected. attempting to correct,18,data cache search parity error detected. attempting to correct
-shutdown complete,68,shutdown complete
-"Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007",52,"Error receiving packet on tree network, expecting type <*> instead of type <*>"
-3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,28,<*> EDRAM error(s) (dcr <*> detected and corrected
-"critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type",61,"critical input interrupt <*> warning for torus z+ wire, suppressing further interrupts of same type"
-18507114 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 seconds,9,<*> torus sender z- retransmission error(s) (dcr <*> detected and corrected over <*> seconds
-"ciod: Received signal 15, code=0, errno=0, address=0x000001b0",34,ciod: Received signal <*>
-Lustre mount FAILED : bglio78 : block_id : location,19,Lustre mount FAILED : <*> : block_id : location
-MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),86,MACHINE CHECK DCR read timeout <*> iar <*> lr <*>
-"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41554, Connection timed out",69,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
-"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52839, Connection reset by peer",23,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer
-dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,66,<*>
-r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,66,<*>
-13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4562 seconds,5,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected over <*> seconds
-0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,36,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
-"10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",67,"<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
-"1 ddr error(s) detected and corrected on rank 0, symbol 24 over 335 seconds",57,<*> ddr error(s) detected and corrected on rank <*> symbol <*> over <*> seconds
-"PrepareForService shutting down Node card(mLctn(R10-M1-N2), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648",29,PrepareForService shutting down Node <*> mType(4)) as part of Service Action <*>
-"Kernel detected 35591540 integer alignment exceptions (35591533) iar 0x0023f108, dear 0x1feaa260 (35591534) iar 0x00265564, dear 0x1feaa1c0 (35591535) iar 0x00265574, dear 0x1feaa1e0 (35591536) iar 0x00265578, dear 0x1feaa200 (35591537) iar 0x00265588, dear 0x1feaa220 (35591538) iar 0x0026558c, dear 0x1feaa240 (35591539) iar 0x00265594, dear 0x1feaa260 (35591540) iar 0x00265598, dear 0x1feaa280",21,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>
-total of 1 ddr error(s) detected and corrected over 2487 seconds,33,total of <*> ddr error(s) detected and corrected over <*> seconds
-minus normalized number..................0,65,minus normalized <*>
-fraction rounded.........................0,101,fraction <*>
-size of scratchpad portion of L3.........0 (0M),51,size of scratchpad portion of <*>
-"Kernel detected 3830884 integer alignment exceptions (3830877) iar 0x00544ea8, dear 0x01fc1ba0 (3830878) iar 0x00544eb8, dear 0x01fc1bc0 (3830879) iar 0x00544ea8, dear 0x01fc1be0 (3830880) iar 0x00544eb8, dear 0x01fc1c00 (3830881) iar 0x00544ee0, dear 0x01fc1c20 (3830882) iar 0x00544ef0, dear 0x01fc1c40 (3830883) iar 0x00544ee0, dear 0x01fc1c60 (3830884) iar 0x00544ef0, dear 0x01fc1c80",21,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>
-ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,43,ciod: LOGIN <*> failed: Input/output error
-2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,30,<*> EDRAM error(s) (dcr <*> detected and corrected over <*> seconds
-"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160",71,ciod: Error loading <*> program image too <*> > <*>
-fpr29=0xffffffff ffffffff ffffffff ffffffff,31,<*> ffffffff ffffffff ffffffff
-Machine State Register: 0x0002f900,17,Machine State Register: <*>
+program interrupt: fp cr update.............0,24,program interrupt: fp cr <*>
+guaranteed instruction cache block touch.0,18,guaranteed instruction cache block <*>
+program interrupt: fp cr field .............0,30,program interrupt: fp cr field <*>
+icache prefetch depth....................0,61,icache prefetch <*>
+wait state enable.................0,42,wait state <*>
+critical input interrupt enable...0,69,critical input interrupt <*>
+special purpose registers:,8,special purpose registers:
+lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000,89,<*>
+rts internal error,39,rts internal error
+debug wait enable.................0,15,debug wait <*>
+instruction address space.........0,16,instruction address <*>
+disable store gathering..................0,80,disable store <*>
+total of 1 ddr error(s) detected and corrected,86,total of <*> ddr error(s) detected and corrected
+"ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory",83,"ciod: Error loading <*> invalid or missing program image, No such file or directory"
+ciod: Error creating node map from file /p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map: No child processes,73,ciod: Error creating node map from file <*> No child processes
+program interrupt,37,program interrupt
+Node card is not fully functional,13,Node card is not fully functional
+Ido chip status changed: FF:F2:9F:16:E2:23:00:0D:60:E9:1D:DC ip=10.0.0.151 v=9 t=4 status=M Fri Jul 01 08:16:53 PDT 2005,5,Ido chip status changed: <*> status=M Fri Jul <*> PDT <*>
+Can not get assembly information for node card,70,Can not get assembly information for node card
+ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/64mps.sequential.mapfile,44,ciod: Missing or invalid fields on line <*> of node map file <*>
+1 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected,95,<*> torus receiver z+ input pipe error(s) (dcr <*> detected and corrected
+ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map,28,ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>
+rts panic! - stopping execution,85,rts panic! - stopping execution
+ciod: Error creating node map from file /home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map: Permission denied,56,ciod: Error creating node map from file <*> Permission denied
+ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map,96,ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>
+"rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015",41,"rts: kernel terminated for reason <*> bad message header: invalid cpu, <*>"
+8 floating point alignment exceptions,19,<*> floating point alignment exceptions
+New ido chip inserted into the database: FF:F2:9F:15:1F:72:00:0D:60:EA:E0:8D ip=10.7.0.13 v=9 t=2,31,New ido chip inserted into the database: <*>
+NodeCard is not fully functional,74,NodeCard is not fully functional
+"Node card status: ALERT 0, ALERT 1, ALERT 2, ALERT 3 is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The 2.5 volt rail is OK. The 1.5 volt rail is OK.",63,Node card status: ALERT <*> ALERT <*> ALERT <*> ALERT <*> is (are) active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is not asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD is asserted. PGOOD error latch is clear. MPGOOD is OK. MPGOOD error latch is clear. The <*> volt rail is OK. The <*> volt rail is OK.
+"Node card VPD check: U11 node in processor card slot J16 do not match. VPD ecid 04DF80A7942FFFFF0C081AE08CD2, found 0000000000000000000000000000",22,Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*> found <*>
+"idoproxydb hit ASSERT condition: ASSERT expression=0 Source file=idotransportmgr.cpp Source line=1043 Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)",75,"idoproxydb hit ASSERT condition: ASSERT <*> Source file=idotransportmgr.cpp Source <*> Function=int IdoTransportMgr::SendPacket(IdoUdpMgr*, BglCtlPavTrace*)"
+Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The 2.5 volt rail is OK. The 1.5 volt rail is OK.,66,Node card status: no ALERTs are active. Clock Mode is Low. Clock Select is Midplane. Phy JTAG Reset is asserted. ASIC JTAG Reset is asserted. Temperature Mask is not active. No temperature error. Temperature Limit Error Latch is clear. PGOOD IS NOT ASSERTED. PGOOD ERROR LATCH IS ACTIVE. MPGOOD IS NOT OK. MPGOOD ERROR LATCH IS ACTIVE. The <*> volt rail is OK. The <*> volt rail is OK.
+Ido chip status changed: FF:F2:9F:15:7E:6E:00:0D:60:EA:81:91 ip=10.0.1.155 v=13 t=1 status=M Thu Aug 04 15:31:25 PDT 2005,67,Ido chip status changed: <*> status=M Thu Aug <*> PDT <*>
+"PrepareForService shutting down NodeCard(mLctn(R25-M1-N2), mCardSernum(203231503833343000000000594c31304b34333431303158), mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0), mIp(10.2.2.80), mType(4)) as part of Service Action 310",49,PrepareForService shutting down <*> mType(4)) as part of Service Action <*>
+rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-,93,rts tree/torus link training failed: wanted: B C X+ X- Y+ Y- Z+ Z- got: B C X- Y- Z+ Z-
+1 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected,100,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected
+"ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error",20,"ciod: Error loading <*> invalid or missing program image, Exec format error"
+ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to 172.16.96.116:42213: Link has been severed,92,ciod: Error reading message prefix after LOAD_MESSAGE on CioStream socket to <*> Link has been severed
+rts: kernel terminated for reason 1003,10,rts: kernel terminated for reason <*>
+ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm,71,ciod: generated <*> core files for program <*>
+iar 003a90fc dear 00b360e8,104,iar <*> dear <*>
+"NFS Mount failed on bglio716, slept 15 seconds, retrying (1)",53,"NFS Mount failed on <*> slept <*> seconds, retrying <*>"
+Lustre mount FAILED : bglio559 : point /p/gb1,79,Lustre mount FAILED : <*> : point <*>
+ciod: pollControlDescriptors: Detected the debugger died.,102,ciod: pollControlDescriptors: Detected the debugger died.
+"ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)",84,ciod: In packet from node <*> message code <*> is not <*> or <*>
+suppressing further interrupts of same type,68,suppressing further interrupts of same type
+rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007,7,rts: bad message header: expecting type <*> instead of type <*>
+critical input interrupt (unit=0x0b bit=0x06): warning for torus y+ wire,103,critical input interrupt <*> warning for torus y+ wire
+"ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/Gunnels/VNM64/vnm.rts: invalid or missing program image, Permission denied",98,"ciod: Error loading <*> invalid or missing program image, Permission denied"
+data cache search parity error detected. attempting to correct,25,data cache search parity error detected. attempting to correct
+shutdown complete,72,shutdown complete
+"Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=0064588e 8aff0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007",0,"Error receiving packet on tree network, expecting type <*> instead of type <*>"
+3 L3 EDRAM error(s) (dcr 0x0157) detected and corrected,45,<*> EDRAM error(s) (dcr <*> detected and corrected
+"critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type",59,"critical input interrupt <*> warning for torus z+ wire, suppressing further interrupts of same type"
+18507114 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 198 seconds,65,<*> torus sender z- retransmission error(s) (dcr <*> detected and corrected over <*> seconds
+"ciod: Received signal 15, code=0, errno=0, address=0x000001b0",33,ciod: Received signal <*>
+Lustre mount FAILED : bglio78 : block_id : location,57,Lustre mount FAILED : <*> : block_id : location
+MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4),38,MACHINE CHECK DCR read timeout <*> iar <*> lr <*>
+"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:41554, Connection timed out",76,ciod: Error reading message prefix on CioStream socket to <*> Connection timed out
+"ciod: Error reading message prefix on CioStream socket to 172.16.96.116:52839, Connection reset by peer",99,ciod: Error reading message prefix on CioStream socket to <*> Connection reset by peer
+dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000,89,<*>
+r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000,89,<*>
+13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4562 seconds,46,<*> tree receiver <*> in re-synch state event(s) (dcr <*> detected over <*> seconds
+0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.,94,<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.
+"10722 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.",60,"<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt."
+"1 ddr error(s) detected and corrected on rank 0, symbol 24 over 335 seconds",23,<*> ddr error(s) detected and corrected on rank <*> symbol <*> over <*> seconds
+"PrepareForService shutting down Node card(mLctn(R10-M1-N2), mCardSernum(203231503833343000000000594c31304b34323934303257), mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25), mIp(10.1.1.164), mType(4)) as part of Service Action 648",64,PrepareForService shutting down Node <*> mType(4)) as part of Service Action <*>
+"Kernel detected 35591540 integer alignment exceptions (35591533) iar 0x0023f108, dear 0x1feaa260 (35591534) iar 0x00265564, dear 0x1feaa1c0 (35591535) iar 0x00265574, dear 0x1feaa1e0 (35591536) iar 0x00265578, dear 0x1feaa200 (35591537) iar 0x00265588, dear 0x1feaa220 (35591538) iar 0x0026558c, dear 0x1feaa240 (35591539) iar 0x00265594, dear 0x1feaa260 (35591540) iar 0x00265598, dear 0x1feaa280",62,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>
+total of 1 ddr error(s) detected and corrected over 2487 seconds,32,total of <*> ddr error(s) detected and corrected over <*> seconds
+minus normalized number..................0,50,minus normalized <*>
+fraction rounded.........................0,27,fraction <*>
+size of scratchpad portion of L3.........0 (0M),78,size of scratchpad portion of <*>
+"Kernel detected 3830884 integer alignment exceptions (3830877) iar 0x00544ea8, dear 0x01fc1ba0 (3830878) iar 0x00544eb8, dear 0x01fc1bc0 (3830879) iar 0x00544ea8, dear 0x01fc1be0 (3830880) iar 0x00544eb8, dear 0x01fc1c00 (3830881) iar 0x00544ee0, dear 0x01fc1c20 (3830882) iar 0x00544ef0, dear 0x01fc1c40 (3830883) iar 0x00544ee0, dear 0x01fc1c60 (3830884) iar 0x00544ef0, dear 0x01fc1c80",62,Kernel detected <*> integer alignment exceptions <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*> iar <*> dear <*>
+ciod: LOGIN chdir(/p/gb1/stella/RAPTOR/2183) failed: Input/output error,88,ciod: LOGIN <*> failed: Input/output error
+2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds,21,<*> EDRAM error(s) (dcr <*> detected and corrected over <*> seconds
+"ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160",17,ciod: Error loading <*> program image too <*> > <*>
+fpr29=0xffffffff ffffffff ffffffff ffffffff,2,<*> ffffffff ffffffff ffffffff
+Machine State Register: 0x0002f900,3,Machine State Register: <*>

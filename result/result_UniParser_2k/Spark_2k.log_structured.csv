@@ -1,34 +1,34 @@
 ﻿Content,EventId,EventTemplate
-"Registered signal handlers for [TERM, HUP, INT]",5,Registered signal handlers for <*> INT]
-"Changing view acls to: yarn,curi",23,"Changing view acls to: yarn,curi"
-"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",25,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)"
-Slf4jLogger started,30,Slf4jLogger started
-Starting remoting,16,Starting remoting
-Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],19,Remoting started; listening on addresses <*>
-Successfully started service 'sparkExecutorActorSystem' on port 55904.,20,Successfully started service 'sparkExecutorActorSystem' on port <*>
-Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,18,Created local directory at <*>
-MemoryStore started with capacity 17.7 GB,11,MemoryStore started with capacity <*> GB
-Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069,17,Connecting to driver: <*>
-Successfully registered with driver,26,Successfully registered with driver
-Starting executor ID 5 on host mesos-slave-07,15,Starting executor ID <*> on host <*>
-Server created on 40984,29,Server created on <*>
-Trying to register BlockManager,4,Trying to register BlockManager
-Registered BlockManager,12,Registered BlockManager
-Got assigned task 0,28,Got assigned task <*>
-Running task 0.0 in stage 0.0 (TID 0),32,Running task <*> in stage <*> (TID <*>
+"Registered signal handlers for [TERM, HUP, INT]",25,Registered signal handlers for <*> INT]
+"Changing view acls to: yarn,curi",30,"Changing view acls to: yarn,curi"
+"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)",32,"SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)"
+Slf4jLogger started,8,Slf4jLogger started
+Starting remoting,24,Starting remoting
+Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904],7,Remoting started; listening on addresses <*>
+Successfully started service 'sparkExecutorActorSystem' on port 55904.,16,Successfully started service 'sparkExecutorActorSystem' on port <*>
+Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4,12,Created local directory at <*>
+MemoryStore started with capacity 17.7 GB,20,MemoryStore started with capacity <*> GB
+Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069,5,Connecting to driver: <*>
+Successfully registered with driver,21,Successfully registered with driver
+Starting executor ID 5 on host mesos-slave-07,3,Starting executor ID <*> on host <*>
+Server created on 40984,15,Server created on <*>
+Trying to register BlockManager,19,Trying to register BlockManager
+Registered BlockManager,31,Registered BlockManager
+Got assigned task 0,22,Got assigned task <*>
+Running task 0.0 in stage 0.0 (TID 0),10,Running task <*> in stage <*> (TID <*>
 Started reading broadcast variable 9,9,Started reading broadcast variable <*>
-"Block broadcast_9_piece0 stored as bytes in memory (estimated size 5.2 KB, free 5.2 KB)",2,Block <*> stored as bytes in memory (estimated size <*> free <*> KB)
-Reading broadcast variable 9 took 160 ms,1,Reading broadcast variable <*> took <*> ms
-"Partition rdd_2_1 not found, computing it",13,"Partition <*> not found, computing it"
-Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292,24,Input split: <*>
-"mapred.tip.id is deprecated. Instead, use mapreduce.task.id",21,"mapred.tip.id is deprecated. Instead, use mapreduce.task.id"
-"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id",3,"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id"
-"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap",6,"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap"
-"mapred.job.id is deprecated. Instead, use mapreduce.job.id",7,"mapred.job.id is deprecated. Instead, use mapreduce.job.id"
-"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition",31,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
-"Times: total = 1072, boot = 856, init = 210, finish = 6",0,Times: total = <*> boot = <*> init = <*> finish = <*>
-Finished task 3.0 in stage 0.0 (TID 3). 2703 bytes result sent to driver,14,Finished task <*> in stage <*> (TID <*> bytes result sent to driver
-Found block rdd_2_0 locally,27,Found block <*> locally
-File Output Committer Algorithm version is 1,22,File Output Committer Algorithm version is <*>
-Saved output of task 'attempt_201706092018_0024_m_000003_1012' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003,10,Saved output of task <*> to <*>
-attempt_201706092018_0024_m_000004_1026: Committed,8,<*> Committed
+"Block broadcast_9_piece0 stored as bytes in memory (estimated size 5.2 KB, free 5.2 KB)",27,Block <*> stored as bytes in memory (estimated size <*> free <*> KB)
+Reading broadcast variable 9 took 160 ms,29,Reading broadcast variable <*> took <*> ms
+"Partition rdd_2_1 not found, computing it",26,"Partition <*> not found, computing it"
+Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292,14,Input split: <*>
+"mapred.tip.id is deprecated. Instead, use mapreduce.task.id",17,"mapred.tip.id is deprecated. Instead, use mapreduce.task.id"
+"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id",6,"mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id"
+"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap",13,"mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap"
+"mapred.job.id is deprecated. Instead, use mapreduce.job.id",1,"mapred.job.id is deprecated. Instead, use mapreduce.job.id"
+"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition",2,"mapred.task.partition is deprecated. Instead, use mapreduce.task.partition"
+"Times: total = 1072, boot = 856, init = 210, finish = 6",18,Times: total = <*> boot = <*> init = <*> finish = <*>
+Finished task 3.0 in stage 0.0 (TID 3). 2703 bytes result sent to driver,28,Finished task <*> in stage <*> (TID <*> bytes result sent to driver
+Found block rdd_2_0 locally,11,Found block <*> locally
+File Output Committer Algorithm version is 1,4,File Output Committer Algorithm version is <*>
+Saved output of task 'attempt_201706092018_0024_m_000003_1012' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003,0,Saved output of task <*> to <*>
+attempt_201706092018_0024_m_000004_1026: Committed,23,<*> Committed

@@ -1,300 +1,300 @@
 low_row_index,mapped_drain_index,drain_eventid,uni_row_index,uni_eventid_original,uni_eventtemplate,drain_LineId
-0,0,bd2f529c,0,14,10.11.10.1 <*> status: <*> len: <*> time: <*>,1
-1,6,8068b26f,1,11,[instance: <*> VM Started (Lifecycle Event),7
-2,8,3afc63a5,2,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,9
-3,11,8970be39,3,16,image <*> at <*> checking,12
-4,12,d7d096ad,4,0,"image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage",13
-5,13,7bc5d64e,5,28,Active base files: <*>,14
-6,20,16f9f039,6,24,Creating event <*> for instance <*>,21
-7,21,e7c5c93a,7,30,"<*> ""POST <*> status: <*> len: <*> time: <*>",22
-8,23,71bd50f3,8,23,[instance: <*> Instance spawned successfully.,24
-9,24,5cc17dae,9,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,25
-10,29,f98bbe57,10,17,[instance: <*> Took <*> seconds to build instance.,30
-11,33,304a219c,11,29,Auditing locally available compute resources for node <*>,34
-12,34,f436579e,12,1,Total usable vcpus: <*> total allocated vcpus: <*>,35
-13,35,5935193a,13,25,Final resource view: <*> pci_stats=[],36
-14,36,9d6775a4,14,20,Compute_service record updated for <*>,37
-15,44,b07a374b,15,19,"<*> ""DELETE <*> status: <*> len: <*> time: <*>",45
-16,46,f805aa5e,16,5,[instance: <*> Terminating instance,47
-17,50,8abec95e,17,15,[instance: <*> Deleting instance files <*>,51
-18,51,000f9337,18,6,[instance: <*> Deletion of <*> complete,52
-19,54,70efa87f,19,32,[instance: <*> Took <*> seconds to deallocate network for instance.,55
-20,56,a7a4ff84,20,21,Unknown base file: <*>,57
-21,57,6a30fe6e,21,33,Removable base files: <*>,58
-22,58,f5f5f70f,22,3,Removing base or swap file: <*>,59
-23,59,66acd71e,23,27,HTTP exception thrown: No instances found for any event,60
-24,63,aa780d87,24,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",64
-25,64,c16e0b8a,25,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",65
+0,0,bd2f529c,0,5,10.11.10.1 <*> status: <*> len: <*> time: <*>,1
+1,6,8068b26f,1,30,[instance: <*> VM Started (Lifecycle Event),7
+2,8,3afc63a5,2,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,9
+3,11,8970be39,3,9,image <*> at <*> checking,12
+4,12,d7d096ad,4,12,"image <*> at <*> in use: on this node <*> local, <*> on other nodes sharing this instance storage",13
+5,13,7bc5d64e,5,7,Active base files: <*>,14
+6,20,16f9f039,6,29,Creating event <*> for instance <*>,21
+7,21,e7c5c93a,7,28,"<*> ""POST <*> status: <*> len: <*> time: <*>",22
+8,23,71bd50f3,8,31,[instance: <*> Instance spawned successfully.,24
+9,24,5cc17dae,9,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,25
+10,29,f98bbe57,10,22,[instance: <*> Took <*> seconds to build instance.,30
+11,33,304a219c,11,10,Auditing locally available compute resources for node <*>,34
+12,34,f436579e,12,23,Total usable vcpus: <*> total allocated vcpus: <*>,35
+13,35,5935193a,13,6,Final resource view: <*> pci_stats=[],36
+14,36,9d6775a4,14,18,Compute_service record updated for <*>,37
+15,44,b07a374b,15,1,"<*> ""DELETE <*> status: <*> len: <*> time: <*>",45
+16,46,f805aa5e,16,14,[instance: <*> Terminating instance,47
+17,50,8abec95e,17,32,[instance: <*> Deleting instance files <*>,51
+18,51,000f9337,18,0,[instance: <*> Deletion of <*> complete,52
+19,54,70efa87f,19,11,[instance: <*> Took <*> seconds to deallocate network for instance.,55
+20,56,a7a4ff84,20,26,Unknown base file: <*>,57
+21,57,6a30fe6e,21,16,Removable base files: <*>,58
+22,58,f5f5f70f,22,20,Removing base or swap file: <*>,59
+23,59,66acd71e,23,21,HTTP exception thrown: No instances found for any event,60
+24,63,aa780d87,24,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",64
+25,64,c16e0b8a,25,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",65
 26,66,de4e8cbf,26,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",67
-27,67,a6adbd82,27,7,"[instance: <*> disk limit not specified, defaulting to unlimited",68
-28,70,005b9f41,28,12,[instance: <*> Claim successful,71
-29,91,6c8466b8,29,11,[instance: <*> VM Started (Lifecycle Event),92
-30,93,80ff1ab5,30,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,94
-31,113,0e9094e0,31,23,[instance: <*> Instance spawned successfully.,114
-32,114,c161423c,32,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,115
-33,117,01b41746,33,17,[instance: <*> Took <*> seconds to build instance.,118
-34,123,732653ea,34,2,Successfully synced instances from host <*>,124
-35,139,535d418b,35,10,Running instance usage audit for host <*> from <*> to <*> instances.,140
-36,141,4ffcf4e8,36,15,[instance: <*> Deleting instance files <*>,142
-37,142,5f08293e,37,6,[instance: <*> Deletion of <*> complete,143
-38,145,cccbe73b,38,32,[instance: <*> Took <*> seconds to deallocate network for instance.,146
-39,154,bd00e0e9,39,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",155
-40,155,256e1127,40,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",156
+27,67,a6adbd82,27,17,"[instance: <*> disk limit not specified, defaulting to unlimited",68
+28,70,005b9f41,28,3,[instance: <*> Claim successful,71
+29,91,6c8466b8,29,30,[instance: <*> VM Started (Lifecycle Event),92
+30,93,80ff1ab5,30,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,94
+31,113,0e9094e0,31,31,[instance: <*> Instance spawned successfully.,114
+32,114,c161423c,32,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,115
+33,117,01b41746,33,22,[instance: <*> Took <*> seconds to build instance.,118
+34,123,732653ea,34,33,Successfully synced instances from host <*>,124
+35,139,535d418b,35,19,Running instance usage audit for host <*> from <*> to <*> instances.,140
+36,141,4ffcf4e8,36,32,[instance: <*> Deleting instance files <*>,142
+37,142,5f08293e,37,0,[instance: <*> Deletion of <*> complete,143
+38,145,cccbe73b,38,11,[instance: <*> Took <*> seconds to deallocate network for instance.,146
+39,154,bd00e0e9,39,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",155
+40,155,256e1127,40,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",156
 41,157,80f68b2b,41,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",158
-42,158,b8a88bd6,42,7,"[instance: <*> disk limit not specified, defaulting to unlimited",159
-43,161,e2f085e6,43,12,[instance: <*> Claim successful,162
-44,189,7708177a,44,11,[instance: <*> VM Started (Lifecycle Event),190
-45,191,65d180af,45,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,192
-46,206,786a91de,46,23,[instance: <*> Instance spawned successfully.,207
-47,207,a56eae48,47,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,208
-48,210,c64e9a6f,48,17,[instance: <*> Took <*> seconds to build instance.,211
-49,229,f14c5abf,49,15,[instance: <*> Deleting instance files <*>,230
-50,230,6f56d452,50,6,[instance: <*> Deletion of <*> complete,231
-51,233,e9d0784d,51,32,[instance: <*> Took <*> seconds to deallocate network for instance.,234
-52,239,13866240,52,9,Base or swap file too young to remove: <*>,240
-53,245,7590ec79,53,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",246
-54,246,5c7850e2,54,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",247
+42,158,b8a88bd6,42,17,"[instance: <*> disk limit not specified, defaulting to unlimited",159
+43,161,e2f085e6,43,3,[instance: <*> Claim successful,162
+44,189,7708177a,44,30,[instance: <*> VM Started (Lifecycle Event),190
+45,191,65d180af,45,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,192
+46,206,786a91de,46,31,[instance: <*> Instance spawned successfully.,207
+47,207,a56eae48,47,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,208
+48,210,c64e9a6f,48,22,[instance: <*> Took <*> seconds to build instance.,211
+49,229,f14c5abf,49,32,[instance: <*> Deleting instance files <*>,230
+50,230,6f56d452,50,0,[instance: <*> Deletion of <*> complete,231
+51,233,e9d0784d,51,11,[instance: <*> Took <*> seconds to deallocate network for instance.,234
+52,239,13866240,52,8,Base or swap file too young to remove: <*>,240
+53,245,7590ec79,53,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",246
+54,246,5c7850e2,54,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",247
 55,248,649e86f7,55,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",249
-56,249,5df477ea,56,7,"[instance: <*> disk limit not specified, defaulting to unlimited",250
-57,252,4fe0a741,57,12,[instance: <*> Claim successful,253
-58,277,969d3364,58,11,[instance: <*> VM Started (Lifecycle Event),278
-59,280,35dde0d1,59,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,281
-60,296,6ce9a7c1,60,23,[instance: <*> Instance spawned successfully.,297
-61,297,2605f93b,61,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,298
-62,300,eda188bf,62,17,[instance: <*> Took <*> seconds to build instance.,301
-63,320,bbcd9e5a,63,15,[instance: <*> Deleting instance files <*>,321
-64,321,e08a3401,64,6,[instance: <*> Deletion of <*> complete,322
-65,324,e57c7fa8,65,32,[instance: <*> Took <*> seconds to deallocate network for instance.,325
-66,336,eadb12e0,66,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",337
-67,337,ef553333,67,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",338
+56,249,5df477ea,56,17,"[instance: <*> disk limit not specified, defaulting to unlimited",250
+57,252,4fe0a741,57,3,[instance: <*> Claim successful,253
+58,277,969d3364,58,30,[instance: <*> VM Started (Lifecycle Event),278
+59,280,35dde0d1,59,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,281
+60,296,6ce9a7c1,60,31,[instance: <*> Instance spawned successfully.,297
+61,297,2605f93b,61,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,298
+62,300,eda188bf,62,22,[instance: <*> Took <*> seconds to build instance.,301
+63,320,bbcd9e5a,63,32,[instance: <*> Deleting instance files <*>,321
+64,321,e08a3401,64,0,[instance: <*> Deletion of <*> complete,322
+65,324,e57c7fa8,65,11,[instance: <*> Took <*> seconds to deallocate network for instance.,325
+66,336,eadb12e0,66,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",337
+67,337,ef553333,67,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",338
 68,339,ed76bf1b,68,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",340
-69,340,5c7643a5,69,7,"[instance: <*> disk limit not specified, defaulting to unlimited",341
-70,343,56aac259,70,12,[instance: <*> Claim successful,344
-71,364,4a70bfeb,71,11,[instance: <*> VM Started (Lifecycle Event),365
-72,367,79d153de,72,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,368
-73,384,f3a905f0,73,23,[instance: <*> Instance spawned successfully.,385
-74,385,1441b454,74,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,386
-75,390,55451064,75,17,[instance: <*> Took <*> seconds to build instance.,391
-76,413,7cf51959,76,15,[instance: <*> Deleting instance files <*>,414
-77,414,ae14661e,77,6,[instance: <*> Deletion of <*> complete,415
-78,417,565b21c4,78,32,[instance: <*> Took <*> seconds to deallocate network for instance.,418
-79,433,f8d97fcb,79,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",434
-80,434,8bf9e8e0,80,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",435
+69,340,5c7643a5,69,17,"[instance: <*> disk limit not specified, defaulting to unlimited",341
+70,343,56aac259,70,3,[instance: <*> Claim successful,344
+71,364,4a70bfeb,71,30,[instance: <*> VM Started (Lifecycle Event),365
+72,367,79d153de,72,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,368
+73,384,f3a905f0,73,31,[instance: <*> Instance spawned successfully.,385
+74,385,1441b454,74,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,386
+75,390,55451064,75,22,[instance: <*> Took <*> seconds to build instance.,391
+76,413,7cf51959,76,32,[instance: <*> Deleting instance files <*>,414
+77,414,ae14661e,77,0,[instance: <*> Deletion of <*> complete,415
+78,417,565b21c4,78,11,[instance: <*> Took <*> seconds to deallocate network for instance.,418
+79,433,f8d97fcb,79,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",434
+80,434,8bf9e8e0,80,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",435
 81,436,3e7493a4,81,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",437
-82,437,312a2157,82,7,"[instance: <*> disk limit not specified, defaulting to unlimited",438
-83,440,0764a0e7,83,12,[instance: <*> Claim successful,441
-84,464,a8257450,84,11,[instance: <*> VM Started (Lifecycle Event),465
-85,467,af3d2ec8,85,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,468
-86,481,f0b190b5,86,23,[instance: <*> Instance spawned successfully.,482
-87,482,d34a1812,87,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,483
-88,485,d81308f4,88,17,[instance: <*> Took <*> seconds to build instance.,486
-89,499,184964e0,89,15,[instance: <*> Deleting instance files <*>,500
-90,500,cfbf2f9a,90,6,[instance: <*> Deletion of <*> complete,501
-91,505,6fad0bd4,91,32,[instance: <*> Took <*> seconds to deallocate network for instance.,506
-92,515,36c8168a,92,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",516
-93,516,11fb6a5b,93,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",517
+82,437,312a2157,82,17,"[instance: <*> disk limit not specified, defaulting to unlimited",438
+83,440,0764a0e7,83,3,[instance: <*> Claim successful,441
+84,464,a8257450,84,30,[instance: <*> VM Started (Lifecycle Event),465
+85,467,af3d2ec8,85,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,468
+86,481,f0b190b5,86,31,[instance: <*> Instance spawned successfully.,482
+87,482,d34a1812,87,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,483
+88,485,d81308f4,88,22,[instance: <*> Took <*> seconds to build instance.,486
+89,499,184964e0,89,32,[instance: <*> Deleting instance files <*>,500
+90,500,cfbf2f9a,90,0,[instance: <*> Deletion of <*> complete,501
+91,505,6fad0bd4,91,11,[instance: <*> Took <*> seconds to deallocate network for instance.,506
+92,515,36c8168a,92,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",516
+93,516,11fb6a5b,93,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",517
 94,518,7b7a4ed6,94,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",519
-95,519,733790f8,95,7,"[instance: <*> disk limit not specified, defaulting to unlimited",520
-96,522,22dde80f,96,12,[instance: <*> Claim successful,523
-97,546,d21fe1db,97,11,[instance: <*> VM Started (Lifecycle Event),547
-98,549,a2720818,98,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,550
-99,569,7b12cfa1,99,23,[instance: <*> Instance spawned successfully.,570
-100,570,6e92053b,100,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,571
-101,573,9b70c7ef,101,17,[instance: <*> Took <*> seconds to build instance.,574
-102,592,1ec3df98,102,15,[instance: <*> Deleting instance files <*>,593
-103,593,ee751829,103,6,[instance: <*> Deletion of <*> complete,594
-104,596,c585bb16,104,32,[instance: <*> Took <*> seconds to deallocate network for instance.,597
-105,608,619872ee,105,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",609
-106,609,398732e9,106,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",610
+95,519,733790f8,95,17,"[instance: <*> disk limit not specified, defaulting to unlimited",520
+96,522,22dde80f,96,3,[instance: <*> Claim successful,523
+97,546,d21fe1db,97,30,[instance: <*> VM Started (Lifecycle Event),547
+98,549,a2720818,98,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,550
+99,569,7b12cfa1,99,31,[instance: <*> Instance spawned successfully.,570
+100,570,6e92053b,100,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,571
+101,573,9b70c7ef,101,22,[instance: <*> Took <*> seconds to build instance.,574
+102,592,1ec3df98,102,32,[instance: <*> Deleting instance files <*>,593
+103,593,ee751829,103,0,[instance: <*> Deletion of <*> complete,594
+104,596,c585bb16,104,11,[instance: <*> Took <*> seconds to deallocate network for instance.,597
+105,608,619872ee,105,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",609
+106,609,398732e9,106,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",610
 107,611,f2645eab,107,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",612
-108,612,8c5e76ba,108,7,"[instance: <*> disk limit not specified, defaulting to unlimited",613
-109,615,f11cab63,109,12,[instance: <*> Claim successful,616
-110,639,36ef4b8d,110,11,[instance: <*> VM Started (Lifecycle Event),640
-111,641,7e1123f4,111,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,642
-112,654,41c623ba,112,18,The instance sync for host <*> did not match. Re-created its InstanceList.,655
-113,660,421a018c,113,23,[instance: <*> Instance spawned successfully.,661
-114,661,e17abb44,114,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,662
-115,666,a5e85223,115,17,[instance: <*> Took <*> seconds to build instance.,667
-116,688,21901094,116,15,[instance: <*> Deleting instance files <*>,689
-117,689,4be45bb0,117,6,[instance: <*> Deletion of <*> complete,690
-118,692,3a4bd817,118,32,[instance: <*> Took <*> seconds to deallocate network for instance.,693
-119,708,f05bde5c,119,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",709
-120,709,d2d5dc89,120,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",710
+108,612,8c5e76ba,108,17,"[instance: <*> disk limit not specified, defaulting to unlimited",613
+109,615,f11cab63,109,3,[instance: <*> Claim successful,616
+110,639,36ef4b8d,110,30,[instance: <*> VM Started (Lifecycle Event),640
+111,641,7e1123f4,111,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,642
+112,654,41c623ba,112,4,The instance sync for host <*> did not match. Re-created its InstanceList.,655
+113,660,421a018c,113,31,[instance: <*> Instance spawned successfully.,661
+114,661,e17abb44,114,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,662
+115,666,a5e85223,115,22,[instance: <*> Took <*> seconds to build instance.,667
+116,688,21901094,116,32,[instance: <*> Deleting instance files <*>,689
+117,689,4be45bb0,117,0,[instance: <*> Deletion of <*> complete,690
+118,692,3a4bd817,118,11,[instance: <*> Took <*> seconds to deallocate network for instance.,693
+119,708,f05bde5c,119,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",709
+120,709,d2d5dc89,120,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",710
 121,711,226ee9a4,121,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",712
-122,712,07ca3863,122,7,"[instance: <*> disk limit not specified, defaulting to unlimited",713
-123,715,ce30162b,123,12,[instance: <*> Claim successful,716
-124,736,42d95fbd,124,11,[instance: <*> VM Started (Lifecycle Event),737
-125,738,5662b44f,125,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,739
-126,756,01a37b01,126,23,[instance: <*> Instance spawned successfully.,757
-127,757,9bb168c4,127,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,758
-128,760,0bbdf7a7,128,17,[instance: <*> Took <*> seconds to build instance.,761
-129,777,b64db88b,129,15,[instance: <*> Deleting instance files <*>,778
-130,778,efc42737,130,6,[instance: <*> Deletion of <*> complete,779
-131,781,24c75b0a,131,32,[instance: <*> Took <*> seconds to deallocate network for instance.,782
-132,793,7201e1ad,132,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",794
-133,794,c72f54c7,133,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",795
+122,712,07ca3863,122,17,"[instance: <*> disk limit not specified, defaulting to unlimited",713
+123,715,ce30162b,123,3,[instance: <*> Claim successful,716
+124,736,42d95fbd,124,30,[instance: <*> VM Started (Lifecycle Event),737
+125,738,5662b44f,125,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,739
+126,756,01a37b01,126,31,[instance: <*> Instance spawned successfully.,757
+127,757,9bb168c4,127,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,758
+128,760,0bbdf7a7,128,22,[instance: <*> Took <*> seconds to build instance.,761
+129,777,b64db88b,129,32,[instance: <*> Deleting instance files <*>,778
+130,778,efc42737,130,0,[instance: <*> Deletion of <*> complete,779
+131,781,24c75b0a,131,11,[instance: <*> Took <*> seconds to deallocate network for instance.,782
+132,793,7201e1ad,132,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",794
+133,794,c72f54c7,133,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",795
 134,796,25b9a526,134,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",797
-135,797,b7c3b5e3,135,7,"[instance: <*> disk limit not specified, defaulting to unlimited",798
-136,800,bbdb4846,136,12,[instance: <*> Claim successful,801
-137,826,bc181d7d,137,11,[instance: <*> VM Started (Lifecycle Event),827
-138,828,6dfd4d59,138,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,829
-139,847,42c1cc30,139,23,[instance: <*> Instance spawned successfully.,848
-140,848,1f08014a,140,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,849
-141,851,b200501d,141,17,[instance: <*> Took <*> seconds to build instance.,852
-142,871,5692fbe8,142,15,[instance: <*> Deleting instance files <*>,872
-143,872,dd696d1b,143,6,[instance: <*> Deletion of <*> complete,873
-144,875,a8b3fe2d,144,32,[instance: <*> Took <*> seconds to deallocate network for instance.,876
-145,884,4675db06,145,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",885
-146,885,1f2f504f,146,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",886
+135,797,b7c3b5e3,135,17,"[instance: <*> disk limit not specified, defaulting to unlimited",798
+136,800,bbdb4846,136,3,[instance: <*> Claim successful,801
+137,826,bc181d7d,137,30,[instance: <*> VM Started (Lifecycle Event),827
+138,828,6dfd4d59,138,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,829
+139,847,42c1cc30,139,31,[instance: <*> Instance spawned successfully.,848
+140,848,1f08014a,140,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,849
+141,851,b200501d,141,22,[instance: <*> Took <*> seconds to build instance.,852
+142,871,5692fbe8,142,32,[instance: <*> Deleting instance files <*>,872
+143,872,dd696d1b,143,0,[instance: <*> Deletion of <*> complete,873
+144,875,a8b3fe2d,144,11,[instance: <*> Took <*> seconds to deallocate network for instance.,876
+145,884,4675db06,145,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",885
+146,885,1f2f504f,146,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",886
 147,887,b0cd53db,147,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",888
-148,888,0c664b55,148,7,"[instance: <*> disk limit not specified, defaulting to unlimited",889
-149,891,52fcab40,149,12,[instance: <*> Claim successful,892
-150,915,8580d622,150,11,[instance: <*> VM Started (Lifecycle Event),916
-151,917,08c04d36,151,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,918
-152,935,83a48ea5,152,23,[instance: <*> Instance spawned successfully.,936
-153,936,229902ae,153,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,937
-154,939,f4e4f912,154,17,[instance: <*> Took <*> seconds to build instance.,940
-155,973,a5838d31,155,15,[instance: <*> Deleting instance files <*>,974
-156,974,94e89347,156,6,[instance: <*> Deletion of <*> complete,975
-157,977,c5eae306,157,32,[instance: <*> Took <*> seconds to deallocate network for instance.,978
-158,991,16fecdd0,158,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",992
-159,992,e5772cc6,159,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",993
+148,888,0c664b55,148,17,"[instance: <*> disk limit not specified, defaulting to unlimited",889
+149,891,52fcab40,149,3,[instance: <*> Claim successful,892
+150,915,8580d622,150,30,[instance: <*> VM Started (Lifecycle Event),916
+151,917,08c04d36,151,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,918
+152,935,83a48ea5,152,31,[instance: <*> Instance spawned successfully.,936
+153,936,229902ae,153,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,937
+154,939,f4e4f912,154,22,[instance: <*> Took <*> seconds to build instance.,940
+155,973,a5838d31,155,32,[instance: <*> Deleting instance files <*>,974
+156,974,94e89347,156,0,[instance: <*> Deletion of <*> complete,975
+157,977,c5eae306,157,11,[instance: <*> Took <*> seconds to deallocate network for instance.,978
+158,991,16fecdd0,158,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",992
+159,992,e5772cc6,159,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",993
 160,994,e5c22a3d,160,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",995
-161,995,1d6fb1c7,161,7,"[instance: <*> disk limit not specified, defaulting to unlimited",996
-162,998,6e2633da,162,12,[instance: <*> Claim successful,999
-163,1020,08afac01,163,11,[instance: <*> VM Started (Lifecycle Event),1021
-164,1022,db157dc6,164,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1023
-165,1035,ac28547f,165,23,[instance: <*> Instance spawned successfully.,1036
-166,1036,d2d8f9f3,166,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1037
-167,1041,44741857,167,17,[instance: <*> Took <*> seconds to build instance.,1042
-168,1063,ebddd24e,168,15,[instance: <*> Deleting instance files <*>,1064
-169,1064,afec7f91,169,6,[instance: <*> Deletion of <*> complete,1065
-170,1067,bd2c7cf1,170,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1068
-171,1076,0006e727,171,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1077
-172,1077,c41c4317,172,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1078
+161,995,1d6fb1c7,161,17,"[instance: <*> disk limit not specified, defaulting to unlimited",996
+162,998,6e2633da,162,3,[instance: <*> Claim successful,999
+163,1020,08afac01,163,30,[instance: <*> VM Started (Lifecycle Event),1021
+164,1022,db157dc6,164,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1023
+165,1035,ac28547f,165,31,[instance: <*> Instance spawned successfully.,1036
+166,1036,d2d8f9f3,166,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1037
+167,1041,44741857,167,22,[instance: <*> Took <*> seconds to build instance.,1042
+168,1063,ebddd24e,168,32,[instance: <*> Deleting instance files <*>,1064
+169,1064,afec7f91,169,0,[instance: <*> Deletion of <*> complete,1065
+170,1067,bd2c7cf1,170,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1068
+171,1076,0006e727,171,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1077
+172,1077,c41c4317,172,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1078
 173,1079,d443b95d,173,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1080
-174,1080,3048ae86,174,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1081
-175,1083,abefa637,175,12,[instance: <*> Claim successful,1084
-176,1110,4b299fb4,176,11,[instance: <*> VM Started (Lifecycle Event),1111
-177,1113,2dcd4dee,177,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1114
-178,1128,d1f3b2b9,178,23,[instance: <*> Instance spawned successfully.,1129
-179,1129,c493e2bf,179,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1130
-180,1132,b80d8e3e,180,17,[instance: <*> Took <*> seconds to build instance.,1133
-181,1147,d62f463e,181,15,[instance: <*> Deleting instance files <*>,1148
-182,1148,671cfc57,182,6,[instance: <*> Deletion of <*> complete,1149
-183,1154,434bb3e0,183,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1155
-184,1163,2fa1a466,184,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1164
-185,1164,3450d980,185,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1165
+174,1080,3048ae86,174,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1081
+175,1083,abefa637,175,3,[instance: <*> Claim successful,1084
+176,1110,4b299fb4,176,30,[instance: <*> VM Started (Lifecycle Event),1111
+177,1113,2dcd4dee,177,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1114
+178,1128,d1f3b2b9,178,31,[instance: <*> Instance spawned successfully.,1129
+179,1129,c493e2bf,179,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1130
+180,1132,b80d8e3e,180,22,[instance: <*> Took <*> seconds to build instance.,1133
+181,1147,d62f463e,181,32,[instance: <*> Deleting instance files <*>,1148
+182,1148,671cfc57,182,0,[instance: <*> Deletion of <*> complete,1149
+183,1154,434bb3e0,183,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1155
+184,1163,2fa1a466,184,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1164
+185,1164,3450d980,185,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1165
 186,1166,35df0b1d,186,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1167
-187,1167,fa780844,187,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1168
-188,1170,06b10101,188,12,[instance: <*> Claim successful,1171
-189,1194,49928322,189,11,[instance: <*> VM Started (Lifecycle Event),1195
-190,1196,69e0d275,190,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1197
-191,1214,26a2596b,191,23,[instance: <*> Instance spawned successfully.,1215
-192,1215,bb936264,192,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1216
-193,1218,f18a7643,193,17,[instance: <*> Took <*> seconds to build instance.,1219
-194,1246,e788dac3,194,15,[instance: <*> Deleting instance files <*>,1247
-195,1247,32bb3099,195,6,[instance: <*> Deletion of <*> complete,1248
-196,1250,cfe87090,196,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1251
-197,1266,4e521c8a,197,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1267
-198,1267,e4964c70,198,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1268
+187,1167,fa780844,187,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1168
+188,1170,06b10101,188,3,[instance: <*> Claim successful,1171
+189,1194,49928322,189,30,[instance: <*> VM Started (Lifecycle Event),1195
+190,1196,69e0d275,190,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1197
+191,1214,26a2596b,191,31,[instance: <*> Instance spawned successfully.,1215
+192,1215,bb936264,192,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1216
+193,1218,f18a7643,193,22,[instance: <*> Took <*> seconds to build instance.,1219
+194,1246,e788dac3,194,32,[instance: <*> Deleting instance files <*>,1247
+195,1247,32bb3099,195,0,[instance: <*> Deletion of <*> complete,1248
+196,1250,cfe87090,196,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1251
+197,1266,4e521c8a,197,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1267
+198,1267,e4964c70,198,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1268
 199,1269,f20818cf,199,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1270
-200,1270,73baf3be,200,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1271
-201,1273,a9e920f2,201,12,[instance: <*> Claim successful,1274
-202,1296,7d8b6b51,202,22,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1297
-203,1298,d96e2e5f,203,11,[instance: <*> VM Started (Lifecycle Event),1299
-204,1301,075c5795,204,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1302
-205,1315,96835e1e,205,23,[instance: <*> Instance spawned successfully.,1316
-206,1316,4b2fa4d9,206,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1317
-207,1319,495bff78,207,17,[instance: <*> Took <*> seconds to build instance.,1320
-208,1348,37db9f81,208,15,[instance: <*> Deleting instance files <*>,1349
-209,1349,b042d253,209,6,[instance: <*> Deletion of <*> complete,1350
-210,1352,8e826889,210,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1353
-211,1361,0345bfba,211,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1362
-212,1362,aa6a0dfc,212,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1363
+200,1270,73baf3be,200,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1271
+201,1273,a9e920f2,201,3,[instance: <*> Claim successful,1274
+202,1296,7d8b6b51,202,25,"While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.",1297
+203,1298,d96e2e5f,203,30,[instance: <*> VM Started (Lifecycle Event),1299
+204,1301,075c5795,204,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1302
+205,1315,96835e1e,205,31,[instance: <*> Instance spawned successfully.,1316
+206,1316,4b2fa4d9,206,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1317
+207,1319,495bff78,207,22,[instance: <*> Took <*> seconds to build instance.,1320
+208,1348,37db9f81,208,32,[instance: <*> Deleting instance files <*>,1349
+209,1349,b042d253,209,0,[instance: <*> Deletion of <*> complete,1350
+210,1352,8e826889,210,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1353
+211,1361,0345bfba,211,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1362
+212,1362,aa6a0dfc,212,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1363
 213,1364,5bcc22eb,213,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1365
-214,1365,5ba8e464,214,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1366
-215,1368,26ee0d4a,215,12,[instance: <*> Claim successful,1369
-216,1393,74bc92a4,216,11,[instance: <*> VM Started (Lifecycle Event),1394
-217,1395,6328e663,217,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1396
-218,1413,c95a92cf,218,23,[instance: <*> Instance spawned successfully.,1414
-219,1414,2270220b,219,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1415
-220,1417,342be423,220,17,[instance: <*> Took <*> seconds to build instance.,1418
-221,1435,676b4301,221,15,[instance: <*> Deleting instance files <*>,1436
-222,1436,f2a0815f,222,6,[instance: <*> Deletion of <*> complete,1437
-223,1439,99089cfd,223,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1440
-224,1448,1f67b845,224,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1449
-225,1449,ee9d3ed2,225,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1450
+214,1365,5ba8e464,214,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1366
+215,1368,26ee0d4a,215,3,[instance: <*> Claim successful,1369
+216,1393,74bc92a4,216,30,[instance: <*> VM Started (Lifecycle Event),1394
+217,1395,6328e663,217,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1396
+218,1413,c95a92cf,218,31,[instance: <*> Instance spawned successfully.,1414
+219,1414,2270220b,219,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1415
+220,1417,342be423,220,22,[instance: <*> Took <*> seconds to build instance.,1418
+221,1435,676b4301,221,32,[instance: <*> Deleting instance files <*>,1436
+222,1436,f2a0815f,222,0,[instance: <*> Deletion of <*> complete,1437
+223,1439,99089cfd,223,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1440
+224,1448,1f67b845,224,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1449
+225,1449,ee9d3ed2,225,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1450
 226,1451,9d10b4cf,226,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1452
-227,1452,1ca2beca,227,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1453
-228,1455,419716e4,228,12,[instance: <*> Claim successful,1456
-229,1476,dcbf6918,229,11,[instance: <*> VM Started (Lifecycle Event),1477
-230,1478,7c5e56de,230,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1479
-231,1499,ef7dfb13,231,23,[instance: <*> Instance spawned successfully.,1500
-232,1500,2632c6ef,232,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1501
-233,1501,9a833d61,233,17,[instance: <*> Took <*> seconds to build instance.,1502
-234,1519,7819da45,234,15,[instance: <*> Deleting instance files <*>,1520
-235,1520,34ec249b,235,6,[instance: <*> Deletion of <*> complete,1521
-236,1526,09d29721,236,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1527
-237,1542,779aa3e0,237,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1543
-238,1543,6b63977f,238,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1544
+227,1452,1ca2beca,227,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1453
+228,1455,419716e4,228,3,[instance: <*> Claim successful,1456
+229,1476,dcbf6918,229,30,[instance: <*> VM Started (Lifecycle Event),1477
+230,1478,7c5e56de,230,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1479
+231,1499,ef7dfb13,231,31,[instance: <*> Instance spawned successfully.,1500
+232,1500,2632c6ef,232,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1501
+233,1501,9a833d61,233,22,[instance: <*> Took <*> seconds to build instance.,1502
+234,1519,7819da45,234,32,[instance: <*> Deleting instance files <*>,1520
+235,1520,34ec249b,235,0,[instance: <*> Deletion of <*> complete,1521
+236,1526,09d29721,236,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1527
+237,1542,779aa3e0,237,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1543
+238,1543,6b63977f,238,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1544
 239,1545,8f11dd8f,239,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1546
-240,1546,2cfb0248,240,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1547
-241,1549,202c278a,241,12,[instance: <*> Claim successful,1550
-242,1573,36a1d805,242,11,[instance: <*> VM Started (Lifecycle Event),1574
-243,1575,367744d1,243,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1576
-244,1591,ad21183a,244,23,[instance: <*> Instance spawned successfully.,1592
-245,1592,ea49bece,245,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1593
-246,1595,f3ccc3f3,246,17,[instance: <*> Took <*> seconds to build instance.,1596
-247,1627,611b5eae,247,15,[instance: <*> Deleting instance files <*>,1628
-248,1628,93c28803,248,6,[instance: <*> Deletion of <*> complete,1629
-249,1631,80769c60,249,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1632
-250,1643,79e3ed6c,250,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1644
-251,1644,0be3de9c,251,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1645
+240,1546,2cfb0248,240,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1547
+241,1549,202c278a,241,3,[instance: <*> Claim successful,1550
+242,1573,36a1d805,242,30,[instance: <*> VM Started (Lifecycle Event),1574
+243,1575,367744d1,243,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1576
+244,1591,ad21183a,244,31,[instance: <*> Instance spawned successfully.,1592
+245,1592,ea49bece,245,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1593
+246,1595,f3ccc3f3,246,22,[instance: <*> Took <*> seconds to build instance.,1596
+247,1627,611b5eae,247,32,[instance: <*> Deleting instance files <*>,1628
+248,1628,93c28803,248,0,[instance: <*> Deletion of <*> complete,1629
+249,1631,80769c60,249,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1632
+250,1643,79e3ed6c,250,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1644
+251,1644,0be3de9c,251,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1645
 252,1646,2e8cb2dd,252,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1647
-253,1647,15f93e2f,253,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1648
-254,1650,fcb8af18,254,12,[instance: <*> Claim successful,1651
-255,1678,0e612b16,255,11,[instance: <*> VM Started (Lifecycle Event),1679
-256,1680,03152cab,256,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1681
-257,1695,ec0a74da,257,23,[instance: <*> Instance spawned successfully.,1696
-258,1696,1e9f0bac,258,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1697
-259,1699,099c3860,259,17,[instance: <*> Took <*> seconds to build instance.,1700
-260,1719,84790082,260,15,[instance: <*> Deleting instance files <*>,1720
-261,1720,cbb316a8,261,6,[instance: <*> Deletion of <*> complete,1721
-262,1722,fe269be5,262,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1723
-263,1732,554fcb62,263,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1733
-264,1733,250f1190,264,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1734
+253,1647,15f93e2f,253,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1648
+254,1650,fcb8af18,254,3,[instance: <*> Claim successful,1651
+255,1678,0e612b16,255,30,[instance: <*> VM Started (Lifecycle Event),1679
+256,1680,03152cab,256,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1681
+257,1695,ec0a74da,257,31,[instance: <*> Instance spawned successfully.,1696
+258,1696,1e9f0bac,258,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1697
+259,1699,099c3860,259,22,[instance: <*> Took <*> seconds to build instance.,1700
+260,1719,84790082,260,32,[instance: <*> Deleting instance files <*>,1720
+261,1720,cbb316a8,261,0,[instance: <*> Deletion of <*> complete,1721
+262,1722,fe269be5,262,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1723
+263,1732,554fcb62,263,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1733
+264,1733,250f1190,264,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1734
 265,1735,24d7e1db,265,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1736
-266,1736,45620dd8,266,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1737
-267,1739,c45d1f8d,267,12,[instance: <*> Claim successful,1740
-268,1760,16341214,268,11,[instance: <*> VM Started (Lifecycle Event),1761
-269,1764,182cb440,269,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1765
-270,1783,57aab9aa,270,23,[instance: <*> Instance spawned successfully.,1784
-271,1784,31b2c3e2,271,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1785
-272,1787,0840efff,272,17,[instance: <*> Took <*> seconds to build instance.,1788
-273,1806,cf69895d,273,15,[instance: <*> Deleting instance files <*>,1807
-274,1807,ffaabe8d,274,6,[instance: <*> Deletion of <*> complete,1808
-275,1811,eaa82bd5,275,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1812
-276,1826,bffdd175,276,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1827
-277,1827,7b76ff9e,277,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1828
+266,1736,45620dd8,266,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1737
+267,1739,c45d1f8d,267,3,[instance: <*> Claim successful,1740
+268,1760,16341214,268,30,[instance: <*> VM Started (Lifecycle Event),1761
+269,1764,182cb440,269,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1765
+270,1783,57aab9aa,270,31,[instance: <*> Instance spawned successfully.,1784
+271,1784,31b2c3e2,271,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1785
+272,1787,0840efff,272,22,[instance: <*> Took <*> seconds to build instance.,1788
+273,1806,cf69895d,273,32,[instance: <*> Deleting instance files <*>,1807
+274,1807,ffaabe8d,274,0,[instance: <*> Deletion of <*> complete,1808
+275,1811,eaa82bd5,275,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1812
+276,1826,bffdd175,276,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1827
+277,1827,7b76ff9e,277,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1828
 278,1829,e4919f9d,278,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1830
-279,1830,00fc4719,279,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1831
-280,1833,29f4b5af,280,12,[instance: <*> Claim successful,1834
-281,1857,d83a429a,281,11,[instance: <*> VM Started (Lifecycle Event),1858
-282,1859,64fa83fa,282,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1860
-283,1876,0d3a2a81,283,23,[instance: <*> Instance spawned successfully.,1877
-284,1877,a902efb4,284,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1878
-285,1880,e304fae0,285,17,[instance: <*> Took <*> seconds to build instance.,1881
-286,1901,427e1ca3,286,15,[instance: <*> Deleting instance files <*>,1902
-287,1902,a7ac79f8,287,6,[instance: <*> Deletion of <*> complete,1903
-288,1905,40a1e6b6,288,32,[instance: <*> Took <*> seconds to deallocate network for instance.,1906
-289,1917,84421cf8,289,4,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1918
-290,1918,015d8bd2,290,8,"[instance: <*> Total memory: <*> MB, used: <*> MB",1919
+279,1830,00fc4719,279,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1831
+280,1833,29f4b5af,280,3,[instance: <*> Claim successful,1834
+281,1857,d83a429a,281,30,[instance: <*> VM Started (Lifecycle Event),1858
+282,1859,64fa83fa,282,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1860
+283,1876,0d3a2a81,283,31,[instance: <*> Instance spawned successfully.,1877
+284,1877,a902efb4,284,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1878
+285,1880,e304fae0,285,22,[instance: <*> Took <*> seconds to build instance.,1881
+286,1901,427e1ca3,286,32,[instance: <*> Deleting instance files <*>,1902
+287,1902,a7ac79f8,287,0,[instance: <*> Deletion of <*> complete,1903
+288,1905,40a1e6b6,288,11,[instance: <*> Took <*> seconds to deallocate network for instance.,1906
+289,1917,84421cf8,289,2,"[instance: <*> Attempting claim: memory <*> MB, disk <*> GB, vcpus <*> CPU",1918
+290,1918,015d8bd2,290,15,"[instance: <*> Total memory: <*> MB, used: <*> MB",1919
 291,1920,465590e6,291,13,"[instance: <*> Total disk: <*> GB, used: <*> GB",1921
-292,1921,e87257ec,292,7,"[instance: <*> disk limit not specified, defaulting to unlimited",1922
-293,1924,591c14f9,293,12,[instance: <*> Claim successful,1925
-294,1953,37ad94f4,294,11,[instance: <*> VM Started (Lifecycle Event),1954
-295,1956,75ae4961,295,26,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1957
-296,1969,ea229957,296,23,[instance: <*> Instance spawned successfully.,1970
-297,1970,7b9f9ff2,297,31,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1971
-298,1973,c6dcb74c,298,17,[instance: <*> Took <*> seconds to build instance.,1974
+292,1921,e87257ec,292,17,"[instance: <*> disk limit not specified, defaulting to unlimited",1922
+293,1924,591c14f9,293,3,[instance: <*> Claim successful,1925
+294,1953,37ad94f4,294,30,[instance: <*> VM Started (Lifecycle Event),1954
+295,1956,75ae4961,295,27,[instance: <*> During sync_power_state the instance has a pending task (spawning). Skip.,1957
+296,1969,ea229957,296,31,[instance: <*> Instance spawned successfully.,1970
+297,1970,7b9f9ff2,297,24,[instance: <*> Took <*> seconds to spawn the instance on the hypervisor.,1971
+298,1973,c6dcb74c,298,22,[instance: <*> Took <*> seconds to build instance.,1974

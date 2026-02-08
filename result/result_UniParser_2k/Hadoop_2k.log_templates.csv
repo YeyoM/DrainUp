@@ -1,101 +1,101 @@
 EventId,EventTemplate
-0,Instantiated MRClientService at <*>
-1,The <*> file on the remote FS is <*>
-2,Size of containertokens_dob is <*>
-3,Using mapred newApiCommitter.
-4,Emitting job history data to the timeline server is not enabled
-5,<*> Task Transitioned from NEW to SCHEDULED
-6,MRAppMaster metrics system started
-7,Error writing History Event: <*>
-8,Retrying connect to server: <*> Already tried <*> time(s); retry policy is <*> MILLISECONDS)
-9,"MRAppMaster launching normal, <*> job <*>"
-10,DFSOutputStream ResponseProcessor exception  for block <*>
-11,DefaultSpeculator.addSpeculativeAttempt <*> we are speculating <*>
-12,Started <*>
-13,Adding job token for <*> to jobTokenSecretManager
-14,Diagnostics report from <*> Container killed by the ApplicationMaster.
-15,Using callQueue class java.util.concurrent.LinkedBlockingQueue
-16,Received completed container <*>
-17,Num completed Tasks: <*>
-18,KILLING <*>
-19,Created MRAppMaster for application <*>
-20,Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler
-21,Progress of TaskAttempt <*> is : <*>
-22,blacklistDisablePercent is <*>
-23,Task: <*> exited : java.net.NoRouteToHostException: No Route to Host from  <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost
-24,Executing with tokens:
-25,ERROR IN CONTACTING RM.
-26,nodeBlacklistingEnabled:true
-27,Error Recovery for block <*> in pipeline <*> bad datanode <*>
-28,Default file system <*>
-29,We launched <*> speculations.  Sleeping <*> milliseconds.
-30,Upper limit on the thread pool size is <*>
-31,getResources() for <*> release= <*>
-32,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
-33,<*> Task Transitioned from SCHEDULED to RUNNING
-34,Reduce slow start threshold reached. Scheduling reduces.
-35,<*> : <*>
-36,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container <*> taskAttempt <*>
-37,JOB_CREATE <*>
-38,Logging to <*> via <*>
-39,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>"
-40,Task cleanup failed for attempt <*>
-41,Container complete event for unknown container id <*>
-42,"Recalculating schedule, <*>"
-43,Auth successful for <*> (auth:SIMPLE)
-44,Adding protocol <*> to the server
-45,OutputCommitter set in config null
-46,TaskAttempt: <*> using containerId: <*> on NM: <*>
-47,<*> TaskAttempt Transitioned from UNASSIGNED to ASSIGNED
-48,Before Scheduling: <*>
+0,Assigned container <*> to <*>
+1,Progress of TaskAttempt <*> is : <*>
+2,Opening proxy : <*>
+3,<*> : <*>
+4,maxTaskFailuresPerNode is <*>
+5,nodeBlacklistingEnabled:true
+6,<*> TaskAttempt Transitioned from UNASSIGNED to ASSIGNED
+7,Not uberizing <*> because: not enabled; too many maps; too much input;
+8,loaded properties from <*>
+9,Address change detected. Old: <*> New: <*>
+10,Adding <*> tokens and <*> secret keys for NM use for launching container
+11,blacklistDisablePercent is <*>
+12,<*> Task Transitioned from SCHEDULED to RUNNING
+13,Http request log for http.requests.mapreduce is not defined
+14,Scheduled snapshot period at <*> second(s).
+15,JVM with ID : <*> asked for a task
+16,All maps assigned. Ramping up all remaining <*>
+17,Default file system <*>
+18,"Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>"
+19,Putting shuffle token in serviceData
+20,Task succeeded with attempt <*>
+21,The <*> file on the remote FS is <*>
+22,Upper limit on the thread pool size is <*>
+23,"Thread Thread[eventHandlingThread,5,main] threw an Exception."
+24,Before Scheduling: <*>
+25,We launched <*> speculations.  Sleeping <*> milliseconds.
+26,Created MRAppMaster for application <*>
+27,<*> Transitioned from NEW to INITED
+28,"MRAppMaster launching normal, <*> job <*>"
+29,Processing the event EventType: JOB_SETUP
+30,Retrying connect to server: <*> Already tried <*> time(s); retry policy is <*> MILLISECONDS)
+31,JVM with ID: <*> given task: <*>
+32,DataStreamer Exception
+33,OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
+34,Added filter AM_PROXY_FILTER <*> to context mapreduce
+35,"Recalculating schedule, <*>"
+36,queue: default
+37,Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container <*> taskAttempt <*>
+38,Size of containertokens_dob is <*>
+39,Diagnostics report from <*> Error: java.net.NoRouteToHostException: No Route to Host from  <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost
+40,TaskAttempt: <*> using containerId: <*> on NM: <*>
+41,Input size for job <*> = <*> Number of splits = <*>
+42,Using mapred newApiCommitter.
+43,KILLING <*>
+44,Done acknowledgement from <*>
+45,Started <*>
+46,Error writing History Event: <*>
+47,Using callQueue class java.util.concurrent.LinkedBlockingQueue
+48,Task: <*> exited : java.net.NoRouteToHostException: No Route to Host from  <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost
 49,Added <*> to list of failed maps
-50,Event Writer setup for JobId: <*> File: <*>
-51,<*> Transitioned from NEW to INITED
-52,Done acknowledgement from <*>
-53,ATTEMPT_START <*>
-54,IPC Server listener on <*> starting
-55,All maps assigned. Ramping up all remaining <*>
-56,Added filter AM_PROXY_FILTER <*> to context mapreduce
-57,adding path spec: /mapreduce/*
-58,queue: default
-59,Diagnostics report from <*> Error: java.net.NoRouteToHostException: No Route to Host from  <*> to <*> failed on socket timeout exception: java.net.NoRouteToHostException: No route to host: no further information; For more details see:  http://wiki.apache.org/hadoop/NoRouteToHost
-60,Web app /mapreduce started at <*>
-61,Scheduled snapshot period at <*> second(s).
-62,Processing the event EventType: JOB_SETUP
-63,After Scheduling: <*> ScheduledMaps:9 <*>
-64,Address change detected. Old: <*> New: <*>
-65,Task succeeded with attempt <*>
-66,<*>
-67,DataStreamer Exception
-68,Registered webapp guice modules
-69,Adding <*> tokens and <*> secret keys for NM use for launching container
-70,Number of reduces for job <*> = <*>
-71,Shuffle port returned by ContainerManager for <*> : <*>
-72,JVM with ID : <*> asked for a task
-73,Failed to renew lease for <*> for <*> seconds.  Will retry shortly ...
-74,Putting shuffle token in serviceData
-75,maxTaskFailuresPerNode is <*>
-76,Resolved <*> to <*>
-77,Connecting to ResourceManager at <*>
-78,Not uberizing <*> because: not enabled; too many maps; too much input;
-79,Http request log for http.requests.mapreduce is not defined
-80,<*> failures on node <*>
-81,Jetty bound to port <*>
-82,maxContainerCapability: <*>
-83,JVM with ID: <*> given task: <*>
-84,"Cannot assign container Container: [ContainerId: <*> NodeId: <*> NodeHttpAddress: <*> Resource: <*> Priority: <*> Token: Token { kind: ContainerToken, service: <*> }, ] for a map as either  container memory less than required <*> or no pending map tasks <*>"
-85,OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter
-86,IPC Server Responder: starting
-87,Launching <*>
-88,Slow ReadProcessor read fields took <*> ack: seqno: <*> status: SUCCESS status: ERROR downstreamAckTimeNanos: <*> targets: <*>
-89,"Thread Thread[eventHandlingThread,5,main] threw an Exception."
-90,loaded properties from <*>
-91,Scheduling a redundant attempt for task <*>
-92,Input size for job <*> = <*> Number of splits = <*>
-93,Extract <*> to <*>
-94,Got allocated containers <*>
-95,Opening proxy : <*>
-96,Starting Socket Reader <*> for port <*>
-97,Assigned container <*> to <*>
-98,After Scheduling: <*>
-99,Added global filter 'safety' <*>
+50,IPC Server listener on <*> starting
+51,Failed to renew lease for <*> for <*> seconds.  Will retry shortly ...
+52,Task cleanup failed for attempt <*>
+53,Adding protocol <*> to the server
+54,Launching <*>
+55,ERROR IN CONTACTING RM.
+56,Added global filter 'safety' <*>
+57,IPC Server Responder: starting
+58,Reduce slow start threshold not met. completedMapsForReduceSlowstart <*>
+59,<*> Task Transitioned from NEW to SCHEDULED
+60,Starting Socket Reader <*> for port <*>
+61,Web app /mapreduce started at <*>
+62,JOB_CREATE <*>
+63,adding path spec: /mapreduce/*
+64,maxContainerCapability: <*>
+65,OutputCommitter set in config null
+66,Got allocated containers <*>
+67,Shuffle port returned by ContainerManager for <*> : <*>
+68,Diagnostics report from <*> Container killed by the ApplicationMaster.
+69,getResources() for <*> release= <*>
+70,Logging to <*> via <*>
+71,MRAppMaster metrics system started
+72,<*> failures on node <*>
+73,Adding job token for <*> to jobTokenSecretManager
+74,DefaultSpeculator.addSpeculativeAttempt <*> we are speculating <*>
+75,Event Writer setup for JobId: <*> File: <*>
+76,DFSOutputStream ResponseProcessor exception  for block <*>
+77,Extract <*> to <*>
+78,Jetty bound to port <*>
+79,Slow ReadProcessor read fields took <*> ack: seqno: <*> status: SUCCESS status: ERROR downstreamAckTimeNanos: <*> targets: <*>
+80,Executing with tokens:
+81,Instantiated MRClientService at <*>
+82,<*>
+83,Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler
+84,Number of reduces for job <*> = <*>
+85,Registered webapp guice modules
+86,Received completed container <*>
+87,ATTEMPT_START <*>
+88,Error Recovery for block <*> in pipeline <*> bad datanode <*>
+89,After Scheduling: <*> ScheduledMaps:9 <*>
+90,Num completed Tasks: <*>
+91,Auth successful for <*> (auth:SIMPLE)
+92,Reduce slow start threshold reached. Scheduling reduces.
+93,Scheduling a redundant attempt for task <*>
+94,After Scheduling: <*>
+95,"Cannot assign container Container: [ContainerId: <*> NodeId: <*> NodeHttpAddress: <*> Resource: <*> Priority: <*> Token: Token { kind: ContainerToken, service: <*> }, ] for a map as either  container memory less than required <*> or no pending map tasks <*>"
+96,Emitting job history data to the timeline server is not enabled
+97,Resolved <*> to <*>
+98,Connecting to ResourceManager at <*>
+99,Container complete event for unknown container id <*>

@@ -1,19 +1,19 @@
 ﻿Content,EventId,EventTemplate
-proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,2,<*> open through proxy <*> HTTPS
-"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01",0,"<*> close, 0 bytes sent, 0 bytes received, lifetime <*>"
-"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 18846 bytes (18.4 KB) received, lifetime <1 sec",14,"<*> close, <*> bytes sent, 18846 bytes <*> KB) received, lifetime <1 sec"
-"proxy.cse.cuhk.edu.hk:5070 close, 1190 bytes (1.16 KB) sent, 1671 bytes (1.63 KB) received, lifetime 00:02",3,"<*> close, <*> bytes <*> KB) sent, 1671 bytes <*> KB) received, lifetime <*>"
-"proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 KB) sent, 815 bytes received, lifetime <1 sec",4,"<*> close, <*> bytes <*> KB) sent, 815 bytes received, lifetime <1 sec"
-183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 SOCKS5,5,<*> open through proxy <*> SOCKS5
-tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.,8,<*> error : A connection request was canceled before the completion.
-tcpconn4.tencent.com:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.,12,<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.
+proxy.cse.cuhk.edu.hk:5070 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS,15,<*> open through proxy <*> HTTPS
+"proxy.cse.cuhk.edu.hk:5070 close, 0 bytes sent, 0 bytes received, lifetime 00:01",14,"<*> close, 0 bytes sent, 0 bytes received, lifetime <*>"
+"proxy.cse.cuhk.edu.hk:5070 close, 451 bytes sent, 18846 bytes (18.4 KB) received, lifetime <1 sec",6,"<*> close, <*> bytes sent, 18846 bytes <*> KB) received, lifetime <1 sec"
+"proxy.cse.cuhk.edu.hk:5070 close, 1190 bytes (1.16 KB) sent, 1671 bytes (1.63 KB) received, lifetime 00:02",1,"<*> close, <*> bytes <*> KB) sent, 1671 bytes <*> KB) received, lifetime <*>"
+"proxy.cse.cuhk.edu.hk:5070 close, 1165 bytes (1.13 KB) sent, 815 bytes received, lifetime <1 sec",9,"<*> close, <*> bytes <*> KB) sent, 815 bytes received, lifetime <1 sec"
+183.62.156.108:22 open through proxy socks.cse.cuhk.edu.hk:5070 SOCKS5,11,<*> open through proxy <*> SOCKS5
+tcpconn6.tencent.com:443 error : A connection request was canceled before the completion.,3,<*> error : A connection request was canceled before the completion.
+tcpconn4.tencent.com:80 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.,4,<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.
 "2052.flash2-http.qq.com:80 close, 466 bytes sent, 125682 bytes (122 KB) received, lifetime <1 sec",17,"<*> close, 466 bytes sent, 125682 bytes (122 KB) received, lifetime <1 sec"
-"formi.baidu.com:843 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403",9,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>"
-"proxy.cse.cuhk.edu.hk:5070 close, 983 bytes sent, 308385 bytes (301 KB) received, lifetime 01:57",13,"<*> close, 983 bytes sent, <*> bytes <*> KB) received, lifetime <*>"
-"proxy.cse.cuhk.edu.hk:5070 close, 326 bytes sent, 103039 bytes (100 KB) received, lifetime 00:01",16,"<*> close, 326 bytes sent, <*> bytes <*> KB) received, lifetime <*>"
-"proxy.cse.cuhk.edu.hk:5070 close, 588 bytes sent, 215882 bytes (210 KB) received, lifetime 00:03",10,"<*> close, 588 bytes sent, 215882 bytes <*> KB) received, lifetime <*>"
-"block-edge.dropbox.com:443 close, 861480 bytes (841 KB) sent, 5464 bytes (5.33 KB) received, lifetime 01:45",15,"<*> close, <*> bytes <*> KB) sent, <*> bytes <*> KB) received, lifetime <*>"
-"dslb.cdn.krcom.cn:80 close, 446 bytes sent, 195160 bytes (190 KB) received, lifetime 00:59",6,"<*> close, <*> bytes sent, <*> bytes <*> KB) received, lifetime <*>"
-"clients2.google.com:443 close, 154863 bytes (151 KB) sent, 321609 bytes (314 KB) received, lifetime 01:00:12",11,"<*> close, <*> bytes (151 KB) sent, <*> bytes <*> KB) received, lifetime <*>"
-223.167.104.147:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,7,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>
-qa.sockets.stackexchange.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,1,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>
+"formi.baidu.com:843 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy server cannot establish a connection with the target, status code 403",8,"<*> error : Could not connect through proxy <*> - Proxy server cannot establish a connection with the target, status code <*>"
+"proxy.cse.cuhk.edu.hk:5070 close, 983 bytes sent, 308385 bytes (301 KB) received, lifetime 01:57",2,"<*> close, 983 bytes sent, <*> bytes <*> KB) received, lifetime <*>"
+"proxy.cse.cuhk.edu.hk:5070 close, 326 bytes sent, 103039 bytes (100 KB) received, lifetime 00:01",10,"<*> close, 326 bytes sent, <*> bytes <*> KB) received, lifetime <*>"
+"proxy.cse.cuhk.edu.hk:5070 close, 588 bytes sent, 215882 bytes (210 KB) received, lifetime 00:03",7,"<*> close, 588 bytes sent, 215882 bytes <*> KB) received, lifetime <*>"
+"block-edge.dropbox.com:443 close, 861480 bytes (841 KB) sent, 5464 bytes (5.33 KB) received, lifetime 01:45",0,"<*> close, <*> bytes <*> KB) sent, <*> bytes <*> KB) received, lifetime <*>"
+"dslb.cdn.krcom.cn:80 close, 446 bytes sent, 195160 bytes (190 KB) received, lifetime 00:59",16,"<*> close, <*> bytes sent, <*> bytes <*> KB) received, lifetime <*>"
+"clients2.google.com:443 close, 154863 bytes (151 KB) sent, 321609 bytes (314 KB) received, lifetime 01:00:12",5,"<*> close, <*> bytes (151 KB) sent, <*> bytes <*> KB) received, lifetime <*>"
+223.167.104.147:80 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - Could not resolve proxy.cse.cuhk.edu.hk error 11001,13,<*> error : Could not connect to proxy <*> - Could not resolve <*> error <*>
+qa.sockets.stackexchange.com:443 error : Could not connect to proxy proxy.cse.cuhk.edu.hk:5070 - connection attempt failed with error 10061,12,<*> error : Could not connect to proxy <*> - connection attempt failed with error <*>
