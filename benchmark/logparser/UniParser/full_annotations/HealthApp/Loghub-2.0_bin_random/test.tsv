@@ -1,0 +1,3995 @@
+onReceive	O
+action:	O
+android.intent.action.SCREEN_ON	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+onStandStepChanged	O
+3579	B
+
+calculateCaloriesWithCache	O
+totalCalories=126775	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3579	B
+
+onStandStepChanged	O
+3580	B
+
+setTodayTotalDetailSteps=1514038440000##7008##548365##8661##12456##27174269	B
+
+onStandStepChanged	O
+3581	B
+
+onExtend:1514038531000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7008##548365##8661##12456##27174269	B
+
+calculateCaloriesWithCache	O
+totalCalories=126818	B
+
+onStandStepChanged	O
+3583	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7009##548365##8661##12551##27174951	B
+
+setTodayTotalDetailSteps=1514038440000##7011##548365##8661##12646##27175461	B
+
+calculateCaloriesWithCache	O
+totalCalories=126861	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038532000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7011##548365##8661##12646##27175461	B
+
+setTodayTotalDetailSteps=1514038440000##7012##548365##8661##12741##27176464	B
+
+calculateCaloriesWithCache	O
+totalCalories=126882	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3585	B
+
+onExtend:1514038533000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7012##548365##8661##12741##27176464	B
+
+calculateCaloriesWithCache	O
+totalCalories=126904	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3586	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7013##548365##8661##12836##27176966	B
+
+setTodayTotalDetailSteps=1514038440000##7014##548365##8661##12931##27177463	B
+
+calculateCaloriesWithCache	O
+totalCalories=126925	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+calculateCaloriesWithCache	O
+totalCalories=126947	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038535000	B
+1	B
+0	B
+4	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+onStandStepChanged	O
+3589	B
+
+onExtend:1514038535000	B
+1	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038440000##7017##548365##8661##13121##27179330	B
+
+isScreenOn	O
+true	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7017##548365##8661##13121##27179330	B
+
+calculateCaloriesWithCache	O
+totalCalories=126989	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038536000	B
+0	B
+0	B
+4	B
+
+onStandStepChanged	O
+3590	B
+
+onExtend:1514038536000	B
+1	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038440000##7018##548365##8661##13311##27179732	B
+
+calculateCaloriesWithCache	O
+totalCalories=127011	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3591	B
+
+onExtend:1514038536000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7018##548365##8661##13311##27179732	B
+
+setTodayTotalDetailSteps=1514038440000##7019##548365##8661##13406##27180468	B
+
+calculateCaloriesWithCache	O
+totalCalories=127032	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7019##548365##8661##13406##27180468	B
+
+setTodayTotalDetailSteps=1514038440000##7020##548365##8661##13501##27180976	B
+
+calculateCaloriesWithCache	O
+totalCalories=127054	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+calculateCaloriesWithCache	O
+totalCalories=127075	B
+
+onExtend:1514038538000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7021##548365##8661##13596##27181971	B
+
+onStandStepChanged	O
+3595	B
+
+onExtend:1514038539000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7022##548365##8661##13691##27182468	B
+
+setTodayTotalDetailSteps=1514038440000##7023##548365##8661##13786##27182973	B
+
+onStandStepChanged	O
+3596	B
+
+onExtend:1514038539000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7023##548365##8661##13786##27182973	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+calculateCaloriesWithCache	O
+totalCalories=127161	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3598	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7025##548365##8661##13976##27183974	B
+
+setTodayTotalDetailSteps=1514038440000##7026##548365##8661##14071##27184972	B
+
+calculateCaloriesWithCache	O
+totalCalories=127182	B
+
+onStandStepChanged	O
+3599	B
+
+calculateCaloriesWithCache	O
+totalCalories=127204	B
+
+onExtend:1514038542000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7027##548365##8661##14166##27185467	B
+
+calculateCaloriesWithCache	O
+totalCalories=127225	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7028##548365##8661##14261##27185977	B
+
+setTodayTotalDetailSteps=1514038440000##7029##548365##8661##14356##27186469	B
+
+onStandStepChanged	O
+3602	B
+
+onExtend:1514038543000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7029##548365##8661##14356##27186469	B
+
+calculateCaloriesWithCache	O
+totalCalories=127268	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3603	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7030##548365##8661##14451##27187468	B
+
+setTodayTotalDetailSteps=1514038440000##7031##548365##8661##14546##27187968	B
+
+calculateCaloriesWithCache	O
+totalCalories=127289	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3604	B
+
+onExtend:1514038544000	B
+1	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038440000##7032##548365##8661##14641##27188471	B
+
+onStandStepChanged	O
+3605	B
+
+onExtend:1514038545000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7032##548365##8661##14641##27188471	B
+
+calculateCaloriesWithCache	O
+totalCalories=127332	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3606	B
+
+onExtend:1514038546000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7033##548365##8661##14736##27189469	B
+
+setTodayTotalDetailSteps=1514038440000##7034##548365##8661##14831##27189969	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+setTodayTotalDetailSteps=1514038440000##7035##548365##8661##14926##27190469	B
+
+onStandStepChanged	O
+3608	B
+
+onExtend:1514038547000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7035##548365##8661##14926##27190469	B
+
+calculateCaloriesWithCache	O
+totalCalories=127396	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3610	B
+
+onExtend:1514038548000	B
+1	B
+0	B
+4	B
+
+calculateCaloriesWithCache	O
+totalCalories=127439	B
+
+onExtend:1514038549000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7038##548365##8661##15211##27192478	B
+
+calculateCaloriesWithCache	O
+totalCalories=127461	B
+
+onStandStepChanged	O
+3612	B
+
+onExtend:1514038550000	B
+1	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038440000##7040##548365##8661##15401##27193971	B
+
+calculateCaloriesWithCache	O
+totalCalories=127482	B
+
+onExtend:1514038550000	B
+1	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038440000##7041##548365##8661##15496##27194480	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3614	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7041##548365##8661##15496##27194480	B
+
+onStandStepChanged	O
+3616	B
+
+onExtend:1514038552000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7042##548365##8661##15591##27195470	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3617	B
+
+onExtend:1514038553000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7044##548365##8661##15686##27196480	B
+
+calculateCaloriesWithCache	O
+totalCalories=127589	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3619	B
+
+onExtend:1514038554000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7045##548365##8661##15781##27196970	B
+
+setTodayTotalDetailSteps=1514038440000##7047##548365##8661##15876##27197972	B
+
+calculateCaloriesWithCache	O
+totalCalories=127632	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038555000	B
+1	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038440000##7048##548365##8661##15971##27198970	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3622	B
+
+onExtend:1514038556000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7048##548365##8661##15971##27198970	B
+
+setTodayTotalDetailSteps=1514038440000##7050##548365##8661##16066##27199969	B
+
+calculateCaloriesWithCache	O
+totalCalories=127696	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038556000	B
+2	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038440000##7052##548365##8661##16161##27200470	B
+
+calculateCaloriesWithCache	O
+totalCalories=127739	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038440000##7052##548365##8661##16161##27200470	B
+
+setTodayTotalDetailSteps=1514038440000##7053##548365##8661##16256##27202475	B
+
+calculateCaloriesWithCache	O
+totalCalories=127761	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3626	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+calculateCaloriesWithCache	O
+totalCalories=127782	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3626	B
+
+onExtend:1514038561000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038500000##7054##548458##8661##16256##27204469	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038639000	B
+0	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038560000##7054##548552##8661##16256##27283470	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038641000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7054##548552##8661##16256##27283470	B
+
+setTodayTotalDetailSteps=1514038560000##7056##548553##8661##16256##27284971	B
+
+onStandStepChanged	O
+3630	B
+
+onExtend:1514038641000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7056##548553##8661##16256##27284971	B
+
+setTodayTotalDetailSteps=1514038560000##7058##548554##8661##16256##27285475	B
+
+calculateCaloriesWithCache	O
+totalCalories=127867	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038642000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7058##548554##8661##16256##27285475	B
+
+setTodayTotalDetailSteps=1514038560000##7060##548555##8661##16256##27285968	B
+
+calculateCaloriesWithCache	O
+totalCalories=127910	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3634	B
+
+onExtend:1514038642000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7060##548555##8661##16256##27285968	B
+
+calculateCaloriesWithCache	O
+totalCalories=127953	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038643000	B
+2	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038560000##7064##548557##8661##16256##27286970	B
+
+calculateCaloriesWithCache	O
+totalCalories=127996	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7064##548557##8661##16256##27286970	B
+
+setTodayTotalDetailSteps=1514038560000##7066##548558##8661##16256##27287469	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038644000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7066##548558##8661##16256##27287469	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+setTodayTotalDetailSteps=1514038560000##7070##548560##8661##16256##27288471	B
+
+onStandStepChanged	O
+3643	B
+
+onExtend:1514038645000	B
+1	B
+0	B
+4	B
+
+calculateCaloriesWithCache	O
+totalCalories=128146	B
+
+onStandStepChanged	O
+3646	B
+
+setTodayTotalDetailSteps=1514038560000##7074##548562##8661##16256##27289470	B
+
+calculateCaloriesWithCache	O
+totalCalories=128210	B
+
+onStandStepChanged	O
+3646	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7074##548562##8661##16256##27289470	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038665000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7074##548563##8661##16256##27292475	B
+
+setTodayTotalDetailSteps=1514038560000##7075##548564##8661##16256##27309470	B
+
+calculateCaloriesWithCache	O
+totalCalories=128231	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038666000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7075##548564##8661##16256##27309470	B
+
+setTodayTotalDetailSteps=1514038560000##7077##548565##8661##16256##27309969	B
+
+calculateCaloriesWithCache	O
+totalCalories=128274	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038666000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7077##548565##8661##16256##27309969	B
+
+setTodayTotalDetailSteps=1514038560000##7079##548566##8661##16256##27310473	B
+
+calculateCaloriesWithCache	O
+totalCalories=128317	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3653	B
+
+onExtend:1514038667000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7079##548566##8661##16256##27310473	B
+
+setTodayTotalDetailSteps=1514038560000##7081##548567##8661##16256##27310970	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3655	B
+
+onExtend:1514038667000	B
+2	B
+0	B
+4	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038668000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7083##548568##8661##16256##27311472	B
+
+calculateCaloriesWithCache	O
+totalCalories=128424	B
+
+onExtend:1514038668000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7084##548569##8661##16256##27311970	B
+
+onStandStepChanged	O
+3660	B
+
+onExtend:1514038669000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7086##548570##8661##16256##27312467	B
+
+calculateCaloriesWithCache	O
+totalCalories=128510	B
+
+onStandStepChanged	O
+3662	B
+
+onExtend:1514038669000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7088##548571##8661##16256##27312967	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+setTodayTotalDetailSteps=1514038560000##7092##548573##8661##16256##27313974	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3666	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7092##548573##8661##16256##27313974	B
+
+calculateCaloriesWithCache	O
+totalCalories=128638	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3667	B
+
+onExtend:1514038671000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7094##548574##8661##16256##27314468	B
+
+calculateCaloriesWithCache	O
+totalCalories=128660	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3669	B
+
+onExtend:1514038671000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7095##548575##8661##16256##27314968	B
+
+setTodayTotalDetailSteps=1514038560000##7097##548576##8661##16256##27315469	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3671	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7099##548577##8661##16256##27315983	B
+
+calculateCaloriesWithCache	O
+totalCalories=128788	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3674	B
+
+onExtend:1514038673000	B
+1	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038560000##7102##548579##8661##16256##27317468	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+setTodayTotalDetailSteps=1514038560000##7103##548580##8661##16256##27318472	B
+
+calculateCaloriesWithCache	O
+totalCalories=128831	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038675000	B
+1	B
+0	B
+4	B
+
+calculateCaloriesWithCache	O
+totalCalories=128853	B
+
+onStandStepChanged	O
+3677	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7104##548581##8661##16256##27319473	B
+
+calculateCaloriesWithCache	O
+totalCalories=128874	B
+
+onStandStepChanged	O
+3678	B
+
+setTodayTotalDetailSteps=1514038560000##7106##548583##8661##16256##27320969	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038678000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7106##548583##8661##16256##27320969	B
+
+calculateCaloriesWithCache	O
+totalCalories=128917	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3681	B
+
+onExtend:1514038678000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7107##548584##8661##16256##27321969	B
+
+calculateCaloriesWithCache	O
+totalCalories=128960	B
+
+onStandStepChanged	O
+3683	B
+
+onExtend:1514038680000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038560000##7109##548585##8661##16256##27322469	B
+
+setTodayTotalDetailSteps=1514038620000##7111##548640##8661##16256##27324478	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3684	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038620000##7111##548640##8661##16256##27324478	B
+
+calculateCaloriesWithCache	O
+totalCalories=129024	B
+
+onStandStepChanged	O
+3685	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038620000##7112##548695##8661##16256##27325968	B
+
+calculateCaloriesWithCache	O
+totalCalories=129045	B
+
+onStandStepChanged	O
+3686	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038620000##7113##548750##8661##16256##27326969	B
+
+onStandStepChanged	O
+3686	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038620000##7114##548805##8661##16256##27329972	B
+
+setTodayTotalDetailSteps=1514038620000##7114##548860##8661##16256##27330470	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3689	B
+
+onExtend:1514038748000	B
+3	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038620000##7114##548860##8661##16256##27330470	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3694	B
+
+onExtend:1514038749000	B
+5	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7117##548865##8661##16256##27392475	B
+
+setTodayTotalDetailSteps=1514038680000##7122##548870##8661##16256##27392978	B
+
+calculateCaloriesWithCache	O
+totalCalories=129238	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038749000	B
+2	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038680000##7124##548875##8661##16256##27393470	B
+
+calculateCaloriesWithCache	O
+totalCalories=129281	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3698	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7124##548875##8661##16256##27393470	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+setTodayTotalDetailSteps=1514038680000##7128##548885##8661##16256##27394469	B
+
+calculateCaloriesWithCache	O
+totalCalories=129366	B
+
+onStandStepChanged	O
+3702	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7128##548885##8661##16256##27394469	B
+
+onStandStepChanged	O
+3704	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7130##548890##8661##16256##27394969	B
+
+setTodayTotalDetailSteps=1514038680000##7132##548895##8661##16256##27395468	B
+
+onExtend:1514038752000	B
+3	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7132##548895##8661##16256##27395468	B
+
+setTodayTotalDetailSteps=1514038680000##7135##548900##8661##16256##27395969	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3711	B
+
+onExtend:1514038752000	B
+4	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7135##548900##8661##16256##27395969	B
+
+setTodayTotalDetailSteps=1514038680000##7139##548905##8661##16256##27396473	B
+
+onStandStepChanged	O
+3712	B
+
+setTodayTotalDetailSteps=1514038680000##7140##548910##8661##16256##27396969	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3726	B
+
+onExtend:1514038755000	B
+14	B
+0	B
+4	B
+
+calculateCaloriesWithCache	O
+totalCalories=129923	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+setTodayTotalDetailSteps=1514038680000##7154##548920##8661##16256##27400475	B
+
+calculateCaloriesWithCache	O
+totalCalories=129923	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+onStandStepChanged	O
+3732	B
+
+onExtend:1514038798000	B
+0	B
+0	B
+4	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_ON	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7154##548920##8661##16256##27400475	B
+
+setTodayTotalDetailSteps=1514038680000##7160##548925##8661##16256##27442097	B
+
+onStandStepChanged	O
+3732	B
+
+onExtend:1514038798000	B
+0	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7160##548925##8661##16256##27442097	B
+
+setTodayTotalDetailSteps=1514038680000##7160##548930##8661##16256##27442416	B
+
+calculateCaloriesWithCache	O
+totalCalories=130052	B
+
+onStandStepChanged	O
+3735	B
+
+upLoadOneMinuteDataToEngine	O
+time=25233975,0,93,0,20002	B
+
+upLoadOneMinuteDataToEngine	O
+time=25233976,0,1,0,20002	B
+
+upLoadOneMinuteDataToEngine	O
+time=25233978,0,5,0,20002	B
+
+upLoadOneMinuteDataToEngine	O
+time=25233979,0,46,0,20002	B
+
+getBinderPackageName	O
+packageName	O
+=	O
+com.huawei.health	B
+
+onExtend:1514038799000	B
+3	B
+0	B
+4	B
+
+getBinderPackageName	O
+packageName	O
+=	O
+com.huawei.health	B
+
+getBinderPackageName	O
+packageName	O
+=	O
+com.huawei.health	B
+
+insertHiHealthData()	O
+checkAppType	O
+0	B
+appID	O
+=	O
+1	B
+
+insertHiHealthData()	O
+size	O
+=	O
+4,app	B
+=	O
+1,One	B
+Data	O
+Type	O
+=	O
+40002,packageName	B
+=	O
+com.huawei.health,writeStatType	B
+=	O
+0	B
+
+saveHealthDetailData()	O
+deviceID	O
+=	O
+2,clientID=1,id=1	B
+
+saveStatData()	O
+type	O
+=40002,time	B
+=	O
+1513958400000,statClient	B
+=	O
+2,who	B
+is	O
+1	B
+
+new	O
+date	O
+=20171223,	B
+type=40002,7163.0,old=6983.0	B
+
+saveStatData()	O
+type	O
+=40003,time	B
+=	O
+1513958400000,statClient	B
+=	O
+2,who	B
+is	O
+1	B
+
+saveHealthDetailData()	O
+saveOneDetailData	O
+fail	O
+hiHealthData	O
+=	O
+1513958400000,type	B
+=	O
+40005	B
+
+saveStatData()	O
+type	O
+=40004,time	B
+=	O
+1513958400000,statClient	B
+=	O
+2,who	B
+is	O
+1	B
+
+bulkSaveDetailHiHealthData()	O
+size	O
+=	O
+4,totalTime	B
+=	O
+30	B
+
+insertHiHealthData()	O
+end	O
+totalTime	O
+=	O
+45	B
+
+uploadStaticsToDB	O
+failed	O
+message=true	B
+
+stepSyncOrNot	O
+appSynTimes	O
+is	O
+0,	B
+statsyncTimes	O
+is	O
+0	B
+
+startInsertSportSync	O
+start	O
+auto	O
+sync,app	O
+is	O
+1	B
+
+checkFirstSyncByType	O
+no	O
+such	O
+data	O
+in	O
+db	O
+,type	O
+is	O
+1	B
+deviceCode	O
+is	O
+0	B
+
+getBinderPackageName	O
+packageName	O
+=	O
+com.huawei.health	B
+
+startSync	O
+hiSyncOption	O
+=	O
+HiSyncOption{syncAction=2,	B
+syncMethod=2,	B
+syncScope=0,	B
+syncDataType=20000,	B
+syncModel=2,	B
+pushAction=0},app	B
+=	O
+1	B
+who	O
+=	O
+1	B
+
+insertHiHealthData()	O
+checkAppType	O
+0	B
+appID	O
+=	O
+1	B
+
+insertHiHealthData()	O
+size	O
+=	O
+20,app	B
+=	O
+1,One	B
+Data	O
+Type	O
+=	O
+2,packageName	B
+=	O
+com.huawei.health,writeStatType	B
+=	O
+0	B
+
+saveHealthDetailData()	O
+deviceID	O
+=	O
+2,clientID=1,id=1	B
+
+initDataPrivacy	O
+the	O
+dataPrivacy	O
+switch	O
+is	O
+open,	B
+start	O
+push	O
+health	O
+data!	O
+
+initDataPrivacy	O
+the	O
+dataPrivacy	O
+is	O
+true	B
+
+initUserPrivacy	O
+the	O
+userPrivacy	O
+switch	O
+is	O
+open,	B
+start	O
+push	O
+user	O
+data!	O
+
+initUserPrivacy	O
+the	O
+userPrivacy	O
+is	O
+true	B
+
+ifCanSync	O
+not!	O
+no	O
+cloud	O
+version	O
+
+new	O
+date	O
+=20171223,	B
+type=40002,6724.0,old=7163.0	B
+
+new	O
+date	O
+=20171223,	B
+type=40004,4800.935999999999,old=5112.0	B
+
+new	O
+date	O
+=20171223,	B
+type=40005,330.0,old=330.0	B
+
+new	O
+date	O
+=20171223,	B
+type=40031,4508.196000000001,old=4381.818	B
+
+new	O
+date	O
+=20171223,	B
+type=40013,410.0,old=410.0	B
+
+new	O
+date	O
+=20171223,	B
+type=40024,79200.0,old=79200.0	B
+
+new	O
+date	O
+=20171223,	B
+type=40041,6720.0,old=6480.0	B
+
+new	O
+date	O
+=20171223,	B
+type=40006,7140.0,old=6900.0	B
+
+insertHiHealthData()	O
+end	O
+totalTime	O
+=	O
+94	B
+
+InsertEvent	O
+success	O
+begin:25233975	B
+end:25233979	B
+
+setWriteDBLastDataMinute=25233979	B
+
+flush2DB	O
+result	O
+success	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7160##548930##8661##16256##27442416	B
+
+setTodayTotalDetailSteps=1514038680000##7163##548935##8661##16256##27442827	B
+
+checkInsertStatus	O
+stepSum	O
+or	O
+calorieSum	O
+is	O
+enough	O
+
+checkInsertStatus	O
+stepStatSum	O
+or	O
+calorieStatSum	O
+is	O
+enough	O
+
+stepSyncOrNot	O
+appSynTimes	O
+is	O
+0,	B
+statsyncTimes	O
+is	O
+0	B
+
+checkFirstSyncByType	O
+no	O
+such	O
+data	O
+in	O
+db	O
+,type	O
+is	O
+1	B
+deviceCode	O
+is	O
+0	B
+
+startSync	O
+hiSyncOption	O
+=	O
+HiSyncOption{syncAction=2,	B
+syncMethod=2,	B
+syncScope=0,	B
+syncDataType=20000,	B
+syncModel=2,	B
+pushAction=0},app	B
+=	O
+1	B
+who	O
+=	O
+1	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+initUserPrivacy	O
+the	O
+userPrivacy	O
+is	O
+true	B
+
+ifCanSync	O
+not!	O
+no	O
+cloud	O
+version	O
+
+sendSyncFailedBroadcast	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7163##548935##8661##16256##27442827	B
+
+setTodayTotalDetailSteps=1514038680000##7165##548940##8661##16256##27443484	B
+
+calculateCaloriesWithCache	O
+totalCalories=130159	B
+
+onExtend:1514038800000	B
+2	B
+0	B
+4	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3742	B
+
+onExtend:1514038800000	B
+3	B
+0	B
+4	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038680000##7167##548945##8661##16256##27443986	B
+
+calculateCaloriesWithCache	O
+totalCalories=130266	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3745	B
+
+setTodayTotalDetailSteps=1514038740000##7173##549047##8661##16256##27444985	B
+
+onStandStepChanged	O
+3746	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7173##549047##8661##16256##27444985	B
+
+calculateCaloriesWithCache	O
+totalCalories=130351	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038802000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7174##549098##8661##16256##27445485	B
+
+setTodayTotalDetailSteps=1514038740000##7176##549149##8661##16256##27445983	B
+
+calculateCaloriesWithCache	O
+totalCalories=130394	B
+
+onExtend:1514038802000	B
+3	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038740000##7179##549200##8661##16256##27446483	B
+
+calculateCaloriesWithCache	O
+totalCalories=130458	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038803000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7179##549200##8661##16256##27446483	B
+
+setTodayTotalDetailSteps=1514038740000##7181##549251##8661##16256##27446989	B
+
+calculateCaloriesWithCache	O
+totalCalories=130501	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3755	B
+
+onExtend:1514038803000	B
+2	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514038740000##7183##549302##8661##16256##27447483	B
+
+calculateCaloriesWithCache	O
+totalCalories=130544	B
+
+onStandStepChanged	O
+3757	B
+
+onExtend:1514038804000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7183##549302##8661##16256##27447483	B
+
+calculateCaloriesWithCache	O
+totalCalories=130587	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3759	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7186##549404##8661##16256##27448983	B
+
+setTodayTotalDetailSteps=1514038740000##7187##549455##8661##16256##27449982	B
+
+setTodayTotalDetailSteps=1514038740000##7188##549506##8661##16256##27451985	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514038808000	B
+1	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7188##549506##8661##16256##27451985	B
+
+setTodayTotalDetailSteps=1514038740000##7189##549557##8661##16256##27452491	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onStandStepChanged	O
+3761	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7189##549557##8661##16256##27452491	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514038816000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7189##549608##8661##16256##27457484	B
+
+setTodayTotalDetailSteps=1514038740000##7189##549659##8661##16256##27460494	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514038819000	B
+0	B
+0	B
+5	B
+
+onExtend:1514038879000	B
+0	B
+0	B
+5	B
+
+onExtend:1514038999000	B
+0	B
+0	B
+5	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514038740000##7189##549659##8661##16256##27460494	B
+
+setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27706526	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514039062000	B
+0	B
+0	B
+0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514039091000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038980000##7189##549659##8661##16256##27706835	B
+
+setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27736503	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3761	B
+
+onStandStepChanged	O
+3761	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514038980000##7189##549659##8661##16256##27738504	B
+
+setTodayTotalDetailSteps=1514038980000##7189##549659##8661##16256##27743510	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514039112000	B
+0	B
+0	B
+5	B
+
+onExtend:1514039232000	B
+0	B
+0	B
+5	B
+
+onExtend:1514039292000	B
+0	B
+0	B
+5	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+onStandStepChanged	O
+3761	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3761	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514039492000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514039340000##7189##549659##8661##16256##28068666	B
+
+setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28136544	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_ON	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+onExtend:1514039515000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514039400000##7189##549659##8661##16256##28136544	B
+
+setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28163940	B
+
+onStandStepChanged	O
+3761	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514039520000	B
+0	B
+0	B
+0	B
+
+setTodayTotalDetailSteps=1514039400000##7189##549659##8661##16256##28164276	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+startTimer	O
+start	O
+autoSync	O
+
+stepSyncOrNot	O
+appSynTimes	O
+is	O
+0	B
+
+needAutoSync	O
+autoSyncSwitch	O
+is	O
+open	B
+
+initDataPrivacy	O
+the	O
+dataPrivacy	O
+is	O
+true	B
+
+initUserPrivacy	O
+the	O
+userPrivacy	O
+switch	O
+is	O
+open,	B
+start	O
+push	O
+user	O
+data!	O
+
+initUserPrivacy	O
+the	O
+userPrivacy	O
+is	O
+true	B
+
+ifCanSync	O
+not!	O
+no	O
+cloud	O
+version	O
+
+sendSyncFailedBroadcast	O
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514039590000	B
+0	B
+0	B
+5	B
+
+setTodayTotalDetailSteps=1514039520000##7189##549659##8661##16256##28234547	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514039626000	B
+0	B
+0	B
+0	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_ON	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+setTodayTotalDetailSteps=1514039520000##7189##549659##8661##16256##28270623	B
+
+onStandStepChanged	O
+3761	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+setTodayTotalDetailSteps=1514039520000##7189##549659##8661##16256##28270935	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514039834000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514039520000##7189##549659##8661##16256##28270935	B
+
+setTodayTotalDetailSteps=1514039760000##7189##549659##8661##16256##28479559	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514039857000	B
+0	B
+0	B
+5	B
+
+onExtend:1514039917000	B
+0	B
+0	B
+5	B
+
+onExtend:1514039977000	B
+0	B
+0	B
+0	B
+
+flush	O
+sensor	O
+data	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514039760000##7189##549659##8661##16256##28479559	B
+
+setTodayTotalDetailSteps=1514039880000##7189##549659##8661##16256##28609620	B
+
+onStandStepChanged	O
+3761	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514039965000	B
+0	B
+0	B
+0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+setTodayTotalDetailSteps=1514039880000##7189##549659##8661##16256##28609933	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514039880000##7189##549659##8661##16256##28609933	B
+
+setTodayTotalDetailSteps=1514040240000##7189##549659##8661##16256##28993578	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040240000##7189##549659##8661##16256##28993578	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514040662000	B
+0	B
+0	B
+5	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+onStandStepChanged	O
+3761	B
+
+flush	O
+sensor	O
+data	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514040600000##7189##549659##8661##16256##29307585	B
+
+setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29341612	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514040697000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040600000##7189##549659##8661##16256##29341612	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3761	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040600000##7189##549659##8661##16256##29341927	B
+
+setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29344951	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514040708000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040600000##7189##549659##8661##16256##29344951	B
+
+setTodayTotalDetailSteps=1514040600000##7189##549659##8661##16256##29353602	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3761	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040600000##7189##549659##8661##16256##29353602	B
+
+setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29409806	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040660000##7189##549659##8661##16256##29409806	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514040766000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040660000##7189##549659##8661##16256##29410120	B
+
+setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29410605	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040660000##7189##549659##8661##16256##29410605	B
+
+setTodayTotalDetailSteps=1514040660000##7189##549659##8661##16256##29416607	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onExtend:1514040776000	B
+0	B
+0	B
+5	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_ON	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514040660000##7189##549659##8661##16256##29416607	B
+
+onStandStepChanged	O
+3761	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onStandStepChanged	O
+3761	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29425847	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514040786000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040720000##7189##549659##8661##16256##29425847	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3761	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+setTodayTotalDetailSteps=1514040720000##7189##549659##8661##16256##29437037	B
+
+onStandStepChanged	O
+3761	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514040793000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040720000##7189##549659##8661##16256##29437037	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3761	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+setTodayTotalDetailSteps=1514040840000##7189##549659##8661##16256##29600053	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514040956000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514040840000##7189##549659##8661##16256##29600053	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514041086000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041146000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041206000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041326000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041446000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041506000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041566000	B
+0	B
+0	B
+5	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_ON	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+onStandStepChanged	O
+3761	B
+
+setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270445	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514041627000	B
+0	B
+0	B
+5	B
+
+setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30270764	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041560000##7189##549659##8661##16256##30270764	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodaySportData	O
+mStepsRecordManager=com.huawei.health.g.c@8a2a501	B
+
+setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30314585	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodaySportData	O
+mStepsRecordManager=com.huawei.health.g.c@8a2a501	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041560000##7189##549659##8661##16256##30314585	B
+
+setTodayTotalDetailSteps=1514041560000##7189##549659##8661##16256##30315546	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodaySportData	O
+mStepsRecordManager=com.huawei.health.g.c@8a2a501	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodaySportData	O
+mStepsRecordManager=com.huawei.health.g.c@8a2a501	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041620000##7189##549659##8661##16256##30333554	B
+
+setTodayTotalDetailSteps=1514041620000##7189##549659##8661##16256##30343722	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514041722000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041782000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041842000	B
+0	B
+0	B
+5	B
+
+onExtend:1514041962000	B
+0	B
+0	B
+5	B
+
+onExtend:1514042022000	B
+0	B
+0	B
+5	B
+
+onStandStepChanged	O
+3761	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+onStandStepChanged	O
+3761	B
+
+onExtend:1514042064000	B
+0	B
+0	B
+5	B
+
+timeStamp	O
+back,extendReportTimeStamp=1514042082000	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7189##549659##8661##16256##30708710	B
+
+setTodayTotalDetailSteps=1514041980000##7189##549659##8661##16256##30709030	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7189##549659##8661##16256##30709030	B
+
+setTodayTotalDetailSteps=1514041980000##7189##549659##8661##16256##30709727	B
+
+calculateCaloriesWithCache	O
+totalCalories=130673	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514042082000	B
+2	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7189##549659##8661##16256##30709727	B
+
+setTodayTotalDetailSteps=1514041980000##7191##549659##8661##16256##30727229	B
+
+calculateCaloriesWithCache	O
+totalCalories=130715	B
+
+onExtend:1514042082000	B
+1	B
+0	B
+4	B
+
+setTodayTotalDetailSteps=1514041980000##7192##549659##8661##16256##30727733	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3765	B
+
+onExtend:1514042083000	B
+1	B
+0	B
+4	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3768	B
+
+onExtend:1514042083000	B
+3	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7193##549659##8661##16256##30728232	B
+
+calculateCaloriesWithCache	O
+totalCalories=130822	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3770	B
+
+onExtend:1514042084000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7196##549659##8661##16256##30728728	B
+
+setTodayTotalDetailSteps=1514041980000##7198##549659##8661##16256##30729233	B
+
+calculateCaloriesWithCache	O
+totalCalories=130865	B
+
+onStandStepChanged	O
+3772	B
+
+onExtend:1514042084000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7198##549659##8661##16256##30729233	B
+
+setTodayTotalDetailSteps=1514041980000##7200##549659##8661##16256##30729733	B
+
+calculateCaloriesWithCache	O
+totalCalories=130908	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3774	B
+
+onExtend:1514042085000	B
+2	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7200##549659##8661##16256##30729733	B
+
+setTodayTotalDetailSteps=1514041980000##7202##549659##8661##16256##30730227	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3777	B
+
+onExtend:1514042085000	B
+3	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7202##549659##8661##16256##30730227	B
+
+setTodayTotalDetailSteps=1514041980000##7205##549659##8661##16256##30730728	B
+
+calculateCaloriesWithCache	O
+totalCalories=131015	B
+
+onStandStepChanged	O
+3780	B
+
+onExtend:1514042086000	B
+3	B
+0	B
+4	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7205##549659##8661##16256##30730728	B
+
+calculateCaloriesWithCache	O
+totalCalories=131079	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7208##549659##8661##16256##30731232	B
+
+calculateCaloriesWithCache	O
+totalCalories=131144	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514041980000##7211##549659##8661##16256##30731730	B
+
+setTodayTotalDetailSteps=1514041980000##7212##549659##8661##16256##30732729	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514042088000	B
+2	B
+0	B
+4	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514042091000	B
+0	B
+0	B
+0	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514042182000	B
+0	B
+0	B
+5	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514042265000	B
+0	B
+0	B
+0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30905315	B
+
+onStandStepChanged	O
+3786	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514042261000	B
+0	B
+0	B
+0	B
+
+setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30905625	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514042262000	B
+0	B
+0	B
+0	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.SCREEN_ON	B
+
+flush	O
+sensor	O
+data	O
+
+getTodayTotalDetailSteps	O
+=	O
+1514042160000##7214##549659##8661##16256##30905625	B
+
+setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30906310	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514042160000##7214##549659##8661##16256##30906310	B
+
+setTodayTotalDetailSteps=1514042160000##7214##549659##8661##16256##30906710	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514042360000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514042160000##7214##549659##8661##16256##30906710	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514042280000##7214##549659##8661##16256##31004759	B
+
+setTodayTotalDetailSteps=1514042280000##7214##549659##8661##16256##31005759	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514042280000##7214##549659##8661##16256##31005759	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514042520000##7214##549659##8661##16256##31239760	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514042944000	B
+0	B
+0	B
+5	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+setTodayTotalDetailSteps=1514042880000##7214##549659##8661##16256##31589757	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+startTimer	O
+start	O
+autoSync	O
+
+startSync	O
+hiSyncOption	O
+=	O
+HiSyncOption{syncAction=1,	B
+syncMethod=2,	B
+syncScope=0,	B
+syncDataType=20000,	B
+syncModel=2,	B
+pushAction=0},app	B
+=	O
+1	B
+who	O
+=	O
+1	B
+
+initDataPrivacy	O
+the	O
+dataPrivacy	O
+switch	O
+is	O
+open,	B
+start	O
+push	O
+health	O
+data!	O
+
+initUserPrivacy	O
+the	O
+userPrivacy	O
+switch	O
+is	O
+open,	B
+start	O
+push	O
+user	O
+data!	O
+
+ifCanSync	O
+not!	O
+no	O
+cloud	O
+version	O
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514043434000	B
+0	B
+0	B
+5	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514043360000##7214##549659##8661##16256##32078759	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514043360000##7214##549659##8661##16256##32080760	B
+
+setTodayTotalDetailSteps=1514043540000##7214##549659##8661##16256##32254765	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514043540000##7214##549659##8661##16256##32254765	B
+
+setTodayTotalDetailSteps=1514043540000##7214##549659##8661##16256##32258759	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514043759000	B
+0	B
+0	B
+0	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514043967000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514043660000##7214##549659##8661##16256##32403526	B
+
+setTodayTotalDetailSteps=1514043900000##7214##549659##8661##16256##32611763	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514043900000##7214##549659##8661##16256##32611763	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514043900000##7214##549659##8661##16256##32618758	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514044377000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044140000##7214##549659##8661##16256##32893026	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514044380000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044260000##7214##549659##8661##16256##33021763	B
+
+setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33024761	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514044395000	B
+0	B
+0	B
+5	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044320000##7214##549659##8661##16256##33039758	B
+
+setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33041763	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514044405000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044320000##7214##549659##8661##16256##33041763	B
+
+setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33049759	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044411000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044320000##7214##549659##8661##16256##33049759	B
+
+setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33055760	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044320000##7214##549659##8661##16256##33055760	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044422000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044320000##7214##549659##8661##16256##33064766	B
+
+setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33066759	B
+
+onExtend:1514044431000	B
+0	B
+0	B
+5	B
+
+setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33075759	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044437000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044320000##7214##549659##8661##16256##33075759	B
+
+setTodayTotalDetailSteps=1514044320000##7214##549659##8661##16256##33081765	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044468000	B
+0	B
+0	B
+5	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044380000##7214##549659##8661##16256##33112771	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044474000	B
+0	B
+0	B
+5	B
+
+setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33118758	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+onExtend:1514044475000	B
+0	B
+0	B
+0	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+onExtend:1514044485000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044380000##7214##549659##8661##16256##33119761	B
+
+setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33129767	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044380000##7214##549659##8661##16256##33129767	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044380000##7214##549659##8661##16256##33131773	B
+
+setTodayTotalDetailSteps=1514044380000##7214##549659##8661##16256##33138759	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+setTodayTotalDetailSteps=1514044440000##7214##549659##8661##16256##33168762	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044440000##7214##549659##8661##16256##33168762	B
+
+setTodayTotalDetailSteps=1514044440000##7214##549659##8661##16256##33169760	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044572000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044440000##7214##549659##8661##16256##33169760	B
+
+setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33216767	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044573000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044500000##7214##549659##8661##16256##33216767	B
+
+setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33217764	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onExtend:1514044588000	B
+0	B
+0	B
+5	B
+
+setTodayTotalDetailSteps=1514044500000##7214##549659##8661##16256##33232763	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044500000##7214##549659##8661##16256##33239758	B
+
+setTodayTotalDetailSteps=1514044560000##7214##549659##8661##16256##33298759	B
+
+calculateCaloriesWithCache	O
+totalCalories=131208	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044662000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044560000##7214##549659##8661##16256##33298759	B
+
+calculateAltitudeWithCache	O
+totalAltitude=240	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+theDayChanged	O
+1514044800216	B
+
+initEnviroument	O
+
+reStartStepCounter	O
+
+clear()	O
+
+tryToRecordAsBasicStepData	O
+bWrite	O
+true	B
+
+setBasicStandardSteps	O
+basicStandardStep=3786	B
+restartSteps=0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044560000##7214##549659##8661##16256##33306763	B
+
+tryToReloadTodayBasicSteps1514044800223|3786|0|0	B
+
+reload	O
+:	O
+3786	B
+restar	O
+0	B
+
+setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33444553	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+next	O
+day:steps0mLastReport7214	B
+
+closeNotification...	O
+
+deleteHealthNotification()	O
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044740000##0##549659##8661##16256##33444553	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+onStandStepChanged	O
+3786	B
+
+setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33449757	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514044806000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044740000##0##549659##8661##16256##33449757	B
+
+setTodayTotalDetailSteps=1514044740000##0##549659##8661##16256##33450764	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045123000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514044740000##0##549659##8661##16256##33450764	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045040000##0##549659##8661##16256##33767093	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514045222000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045100000##0##549659##8661##16256##33821183	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045224000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045160000##0##549659##8661##16256##33866758	B
+
+setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33868758	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onExtend:1514045240000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045160000##0##549659##8661##16256##33868758	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045241000	B
+0	B
+0	B
+0	B
+
+setTodayTotalDetailSteps=1514045160000##0##549659##8661##16256##33885759	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045344000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045160000##0##549659##8661##16256##33885759	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045346000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045280000##0##549659##8661##16256##33988760	B
+
+setTodayTotalDetailSteps=1514045280000##0##549659##8661##16256##33990761	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045374000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045280000##0##549659##8661##16256##33990761	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045375000	B
+0	B
+0	B
+0	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045280000##0##549659##8661##16256##34018758	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045409000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045280000##0##549659##8661##16256##34019759	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+onStandStepChanged	O
+3786	B
+
+onExtend:1514045410000	B
+0	B
+0	B
+0	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045340000##0##549659##8661##16256##34054759	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045340000##0##549659##8661##16256##34086757	B
+
+setTodayTotalDetailSteps=1514045340000##0##549659##8661##16256##34087759	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514045516000	B
+0	B
+0	B
+5	B
+
+setTodayTotalDetailSteps=1514045400000##0##549659##8661##16256##34160765	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onStandStepChanged	O
+3786	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045400000##0##549659##8661##16256##34160765	B
+
+setTodayTotalDetailSteps=1514045400000##0##549659##8661##16256##34161762	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514045753000	B
+0	B
+0	B
+0	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514046316000	B
+0	B
+0	B
+5	B
+
+getTodayTotalDetailSteps	O
+=	O
+1514045640000##0##549659##8661##16256##34397604	B
+
+setTodayTotalDetailSteps=1514046240000##0##549659##8661##16256##34960758	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+setTodayTotalDetailSteps=1514046240000##0##549659##8661##16256##34961757	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+onExtend:1514046505000	B
+0	B
+0	B
+5	B
+
+calculateCaloriesWithCache	O
+totalCalories=0	B
+
+calculateAltitudeWithCache	O
+totalAltitude=0	B
+
+onReceive	O
+action:	O
+android.intent.action.SCREEN_OFF	B
+
+startTimer	O
+start	O
+autoSync	O
+
+stepSyncOrNot	O
+appSynTimes	O
+is	O
+0	B
+
+needAutoSync	O
+autoSyncSwitch	O
+is	O
+open	B
+
+initUserPrivacy	O
+the	O
+userPrivacy	O
+switch	O
+is	O
+open,	B
+start	O
+push	O
+user	O
+data!	O
+
+ifCanSync	O
+not!	O
+no	O
+cloud	O
+version	O
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+
+processHandleBroadcastAction	O
+action:android.intent.action.TIME_TICK	B
+

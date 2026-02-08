@@ -1,0 +1,2940 @@
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+32712	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+32419	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+32422	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+6036	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+1277	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+2060	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+32552	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+5469	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+5499	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+8764	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+jk2_init()	O
+Found	O
+child	O
+5856	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+9	B
+
+[client	O
+67.166.248.235]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+jk2_init()	O
+Found	O
+child	O
+5432	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+5032	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+1786	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+311	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+6008	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+[client	O
+125.30.38.52]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1357	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+2027	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32579	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1507	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6724	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+5878	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5429	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32425	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+353	B
+in	O
+scoreboard	O
+slot	O
+12	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+6791	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+1299	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+1932	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+1449	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1513	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5810	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+5970	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5388	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1356	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+6070	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+5925	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+1358	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+4999	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1323	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5923	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1394	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32581	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+32646	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+2878	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+2841	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32548	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+32433	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+6115	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5365	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+32576	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+8766	B
+in	O
+scoreboard	O
+slot	O
+12	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1912	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1320	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32480	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+init	O
+1	B
+-2	B
+
+jk2_init()	O
+Found	O
+child	O
+5877	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+32629	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32652	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32677	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+[client	O
+218.62.18.218]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+jk2_init()	O
+Found	O
+child	O
+8533	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+32682	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+init	O
+1	B
+-2	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+32638	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+6294	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32483	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+1964	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+8587	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+4630	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+[client	O
+207.203.80.15]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+1862	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1561	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+[client	O
+218.76.139.20]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+5993	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+32758	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+2031	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+1813	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32420	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1868	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5940	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6042	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6586	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+32679	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+8584	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1850	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+[client	O
+218.39.132.175]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+jk2_init()	O
+Found	O
+child	O
+2866	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+5786	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6280	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+1984	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+jk2_init()	O
+Found	O
+child	O
+5497	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32720	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6442	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+5024	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6011	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32424	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+[client	O
+141.154.18.244]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+5000	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Can't	O
+find	O
+child	O
+2086	B
+in	O
+scoreboard	O
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+2051	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6594	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32564	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+jk2_init()	O
+Found	O
+child	O
+32731	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32673	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5470	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1527	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+5788	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+5971	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+1800	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+2880	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+352	B
+in	O
+scoreboard	O
+slot	O
+11	B
+
+jk2_init()	O
+Found	O
+child	O
+5006	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32669	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+5984	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+32443	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+1441	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+5018	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5919	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+32451	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+6780	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+[client	O
+65.68.235.27]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32621	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5811	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+3753	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+jk2_init()	O
+Found	O
+child	O
+2763	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+1965	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1297	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+[client	O
+168.20.198.21]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+5405	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+1312	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+3746	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32584	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+5416	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+4992	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+2837	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+6009	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32636	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+3681	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1335	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+5029	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+5898	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1389	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1276	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+1823	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+5350	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+32438	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+32586	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32626	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+1966	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+349	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+4609	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+2773	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+32391	B
+in	O
+scoreboard	O
+slot	O
+10	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+10	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6765	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+4892	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+6738	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+2002	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+6055	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+5367	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+init	O
+1	B
+-2	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+4932	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+8541	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1824	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Can't	O
+find	O
+child	O
+2082	B
+in	O
+scoreboard	O
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+4613	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+init	O
+1	B
+-2	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+9	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+5434	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+6577	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+2843	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+32685	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+1816	B
+in	O
+scoreboard	O
+slot	O
+9	B
+
+jk2_init()	O
+Found	O
+child	O
+324	B
+in	O
+scoreboard	O
+slot	O
+11	B
+
+jk2_init()	O
+Found	O
+child	O
+3755	B
+in	O
+scoreboard	O
+slot	O
+13	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+jk2_init()	O
+Found	O
+child	O
+1325	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6314	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+jk2_init()	O
+Found	O
+child	O
+6767	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+5344	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32348	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+6302	B
+in	O
+scoreboard	O
+slot	O
+8	B
+
+[client	O
+208.51.151.210]	B
+Directory	O
+index	O
+forbidden	O
+by	O
+rule:	O
+/var/www/html/	B
+
+jk2_init()	O
+Found	O
+child	O
+6639	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+8765	B
+in	O
+scoreboard	O
+slot	O
+11	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+6	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+workerEnv.init()	O
+ok	O
+/etc/httpd/conf/workers2.properties	B
+
+jk2_init()	O
+Found	O
+child	O
+6719	B
+in	O
+scoreboard	O
+slot	O
+7	B
+
+jk2_init()	O
+Found	O
+child	O
+32560	B
+in	O
+scoreboard	O
+slot	O
+6	B
+
+mod_jk	O
+child	O
+workerEnv	O
+in	O
+error	O
+state	O
+8	B
+

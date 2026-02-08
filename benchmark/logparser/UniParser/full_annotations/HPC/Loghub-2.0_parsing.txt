@@ -1,0 +1,7829 @@
+Component	O
+State	O
+Change:	O
+Component	O
+\042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=1973)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=3180)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=5089)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=4088)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=2538)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=2480)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=3713)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=3891)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=2478)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=2969)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=4159)	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=2608)	B
+
+clusterAddMember	O
+(command	O
+1902)	B
+
+clusterAddMember	O
+(command	O
+1900)	B
+
+risBoot	O
+(command	O
+1903)	B
+
+bootGenvmunix	O
+(command	O
+1903)	B
+
+boot	O
+(command	O
+1911)	B
+
+boot	O
+(command	O
+1910)	B
+
+boot	O
+(command	O
+1978)	B
+
+boot	O
+(command	O
+1967)	B
+
+wait	O
+(command	O
+1975)	B
+
+boot	O
+(command	O
+1999)	B
+
+halt	O
+(command	O
+1982)	B
+
+boot	O
+(command	O
+1981)	B
+
+boot	O
+(command	O
+1973)	B
+
+wait	O
+(command	O
+1973)	B
+
+wait	O
+(command	O
+2057)	B
+
+boot	O
+(command	O
+2152)	B
+
+wait	O
+(command	O
+2154)	B
+
+boot	O
+(command	O
+2141)	B
+
+boot	O
+(command	O
+2110)	B
+
+boot	O
+(command	O
+2160)	B
+
+halt	O
+(command	O
+2221)	B
+
+wait	O
+(command	O
+2217)	B
+
+wait	O
+(command	O
+2217)	B
+
+wait	O
+(command	O
+2201)	B
+
+wait	O
+(command	O
+2199)	B
+
+boot	O
+(command	O
+2183)	B
+
+wait	O
+(command	O
+2189)	B
+
+wait	O
+(command	O
+2302)	B
+
+wait	O
+(command	O
+2270)	B
+
+wait	O
+(command	O
+2257)	B
+
+boot	O
+(command	O
+2257)	B
+
+boot	O
+(command	O
+2316)	B
+
+boot	O
+(command	O
+2316)	B
+
+wait	O
+(command	O
+2322)	B
+
+wait	O
+(command	O
+2354)	B
+
+wait	O
+(command	O
+2347)	B
+
+boot	O
+(command	O
+2368)	B
+
+boot	O
+(command	O
+2392)	B
+
+boot	O
+(command	O
+2406)	B
+
+boot	O
+(command	O
+2417)	B
+
+boot	O
+(command	O
+2423)	B
+
+wait	O
+(command	O
+2424)	B
+
+wait	O
+(command	O
+2449)	B
+
+boot	O
+(command	O
+2464)	B
+
+wait	O
+(command	O
+2468)	B
+
+boot	O
+(command	O
+2520)	B
+
+wait	O
+(command	O
+2517)	B
+
+boot	O
+(command	O
+2517)	B
+
+wait	O
+(command	O
+2511)	B
+
+wait	O
+(command	O
+2513)	B
+
+boot	O
+(command	O
+2514)	B
+
+wait	O
+(command	O
+2484)	B
+
+boot	O
+(command	O
+2625)	B
+
+wait	O
+(command	O
+2607)	B
+
+boot	O
+(command	O
+2616)	B
+
+boot	O
+(command	O
+2619)	B
+
+boot	O
+(command	O
+2616)	B
+
+boot	O
+(command	O
+2616)	B
+
+boot	O
+(command	O
+2602)	B
+
+wait	O
+(command	O
+2582)	B
+
+boot	O
+(command	O
+2584)	B
+
+wait	O
+(command	O
+2549)	B
+
+boot	O
+(command	O
+2550)	B
+
+boot	O
+(command	O
+2548)	B
+
+boot	O
+(command	O
+2538)	B
+
+wait	O
+(command	O
+2683)	B
+
+boot	O
+(command	O
+2686)	B
+
+wait	O
+(command	O
+2682)	B
+
+wait	O
+(command	O
+2763)	B
+
+wait	O
+(command	O
+2800)	B
+
+boot	O
+(command	O
+2790)	B
+
+wait	O
+(command	O
+2817)	B
+
+wait	O
+(command	O
+2823)	B
+
+wait	O
+(command	O
+2817)	B
+
+wait	O
+(command	O
+2900)	B
+
+wait	O
+(command	O
+2885)	B
+
+wait	O
+(command	O
+2909)	B
+
+boot	O
+(command	O
+2960)	B
+
+wait	O
+(command	O
+2963)	B
+
+boot	O
+(command	O
+2999)	B
+
+halt	O
+(command	O
+2992)	B
+
+wait	O
+(command	O
+3087)	B
+
+wait	O
+(command	O
+3079)	B
+
+wait	O
+(command	O
+3078)	B
+
+wait	O
+(command	O
+3141)	B
+
+boot	O
+(command	O
+3138)	B
+
+boot	O
+(command	O
+3169)	B
+
+boot	O
+(command	O
+3169)	B
+
+boot	O
+(command	O
+3194)	B
+
+boot	O
+(command	O
+3320)	B
+
+boot	O
+(command	O
+3318)	B
+
+boot	O
+(command	O
+3317)	B
+
+wait	O
+(command	O
+3319)	B
+
+wait	O
+(command	O
+3334)	B
+
+boot	O
+(command	O
+3334)	B
+
+wait	O
+(command	O
+3412)	B
+
+boot	O
+(command	O
+3413)	B
+
+boot	O
+(command	O
+3473)	B
+
+wait	O
+(command	O
+3523)	B
+
+wait	O
+(command	O
+3525)	B
+
+wait	O
+(command	O
+3519)	B
+
+boot	O
+(command	O
+3519)	B
+
+boot	O
+(command	O
+3512)	B
+
+boot	O
+(command	O
+3579)	B
+
+boot	O
+(command	O
+3572)	B
+
+boot	O
+(command	O
+3580)	B
+
+wait	O
+(command	O
+3612)	B
+
+boot	O
+(command	O
+3615)	B
+
+wait	O
+(command	O
+3609)	B
+
+boot	O
+(command	O
+3624)	B
+
+wait	O
+(command	O
+3649)	B
+
+boot	O
+(command	O
+3639)	B
+
+wait	O
+(command	O
+3690)	B
+
+boot	O
+(command	O
+3696)	B
+
+wait	O
+(command	O
+3698)	B
+
+wait	O
+(command	O
+3709)	B
+
+wait	O
+(command	O
+3837)	B
+
+wait	O
+(command	O
+3847)	B
+
+boot	O
+(command	O
+3951)	B
+
+boot	O
+(command	O
+3928)	B
+
+boot	O
+(command	O
+3939)	B
+
+boot	O
+(command	O
+3964)	B
+
+wait	O
+(command	O
+3973)	B
+
+wait	O
+(command	O
+3981)	B
+
+wait	O
+(command	O
+3981)	B
+
+boot	O
+(command	O
+4024)	B
+
+wait	O
+(command	O
+4061)	B
+
+wait	O
+(command	O
+4110)	B
+
+boot	O
+(command	O
+4118)	B
+
+wait	O
+(command	O
+4116)	B
+
+wait	O
+(command	O
+4117)	B
+
+boot	O
+(command	O
+4109)	B
+
+wait	O
+(command	O
+4145)	B
+
+boot	O
+(command	O
+4176)	B
+
+boot	O
+(command	O
+4170)	B
+
+wait	O
+(command	O
+4176)	B
+
+wait	O
+(command	O
+4176)	B
+
+bootGenvmunix	O
+(command	O
+4185)	B
+
+boot	O
+(command	O
+4223)	B
+
+wait	O
+(command	O
+4221)	B
+
+wait	O
+(command	O
+4219)	B
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+Targeting	O
+domains:node-D0	B
+and	O
+nodes:node-0	B
+
+Targeting	O
+domains:node-D2	B
+and	O
+nodes:node-84	B
+
+psu	O
+failure\	O
+ambient=28	B
+
+psu	O
+failure\	O
+ambient=28	B
+
+psu	O
+failure\	O
+ambient=28	B
+
+psu	O
+failure\	O
+ambient=28	B
+
+psu	O
+failure\	O
+ambient=31	B
+
+Temperature	O
+(41C)	B
+exceeds	O
+warning	O
+threshold	O
+
+Temperature	O
+(41C)	B
+exceeds	O
+warning	O
+threshold	O
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage234	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1412	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1024	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1534	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1231	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage934	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage131	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1144	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage444	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage141	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1622	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1612	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1622	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1542	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1644	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage242	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1031	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1331	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage742	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage221	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage622	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage112	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1432	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage142	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage742	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1231	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1311	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage411	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage132	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage832	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage531	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage321	B
+
+NIFF:	O
+node	O
+node-69	B
+detected	O
+a	O
+failed	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-162	B
+detected	O
+a	O
+failed	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+ServerFileSystem:	O
+An	O
+ServerFileSystem	O
+domain	O
+panic	O
+has	O
+occurred	O
+on	O
+storage442	B
+
+Command	O
+has	O
+been	O
+aborted	O
+
+power/control	O
+problem	O
+
+Link	O
+error	O
+
+Link	O
+error	O
+
+Link	O
+error	O
+
+Link	O
+error	O
+
+Link	O
+in	O
+reset	O
+
+Link	O
+error	O
+
+Link	O
+error	O
+
+Link	O
+error	O
+
+Link	O
+error	O
+
+Link	O
+error	O
+
+Link	O
+in	O
+reset	O
+
+Link	O
+ok	O
+
+Link	O
+error	O
+on	O
+broadcast	O
+tree	O
+Interconnect-0T00:00:2:1	B
+
+Link	O
+error	O
+on	O
+broadcast	O
+tree	O
+Interconnect-1T00:00:3:6	B
+
+Link	O
+error	O
+on	O
+broadcast	O
+tree	O
+Interconnect-1T00:00:2:0	B
+
+Link	O
+error	O
+on	O
+broadcast	O
+tree	O
+Interconnect-1T00:00:2:0	B
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root14_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root10_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root22_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root13_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root26_tmp	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root7_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root1_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root22_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root3_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root25_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root26_local	B
+is	O
+full	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root22_local	B
+is	O
+full	O
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+cluster_root_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-96	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-160	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root3_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-128	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root9_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-224	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root10_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-224	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root28_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-96	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root30_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-0	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root26_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-57	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root29_local	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-28	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root12_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-11	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root5_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-196	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root28_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-187	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root5_tmp	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-228	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+storage1422	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-245	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+storage343	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-11	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root19_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-114	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root14_local	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-77	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root6_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-37	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+storage534	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-18	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root12_tmp	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-11	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root23_local	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-182	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root14_tmp	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-45	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+storage211	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-4	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root8_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-167	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root25_local	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-216	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+cluster_usr_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-160	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-128	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root24_local	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-247	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root18_tmp	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-241	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root17_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-240	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+sc_cluster_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-0	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+cluster_usr_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-192	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+cluster_var_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-224	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root1_tmp_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-96	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root1_domain_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-96	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root28_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-219	B
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+blocked	O
+
+blocked	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+running	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+active	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+not	O
+responding	O
+
+active	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+blocked	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+running	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+not	O
+responding	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+blocked	O
+
+blocked	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+not-responding	O
+
+running	O
+
+running	O
+
+active	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+blocked	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+active	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+configured	O
+out	O
+
+blocked	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+blocked	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+blocked	O
+
+configured	O
+out	O
+
+running	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+not	O
+responding	O
+
+starting	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+configured	O
+out	O
+
+blocked	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+blocked	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+closing	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+blocked	O
+
+running	O
+
+not	O
+responding	O
+
+running	O
+
+active	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+blocked	O
+
+running	O
+
+not	O
+responding	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+blocked	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+configured	O
+out	O
+
+running	O
+
+blocked	O
+
+running	O
+
+not	O
+responding	O
+
+configured	O
+out	O
+
+running	O
+
+running	O
+
+running	O
+
+running	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+ambient=30	B
+
+normal	O
+
+ambient=30	B
+
+normal	O
+
+normal	O
+
+critical	O
+
+normal	O
+
+normal	O
+
+critical	O
+
+normal	O
+
+ambient=31	B
+
+normal	O
+
+normal	O
+
+ambient=30	B
+
+ambient=29	B
+
+normal	O
+
+ambient=26	B
+
+ambient=30	B
+
+warning	O
+
+critical	O
+
+normal	O
+
+ambient=32	B
+
+ambient=29	B
+
+normal	O
+
+ambient=33	B
+
+ambient=28	B
+
+ambient=31	B
+
+ambient=33	B
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=31	B
+
+warning	O
+
+normal	O
+
+ambient=30	B
+
+ambient=30	B
+
+normal	O
+
+ambient=31	B
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+ambient=31	B
+
+warning	O
+
+ambient=26	B
+
+ambient=31	B
+
+normal	O
+
+warning	O
+
+normal	O
+
+ambient=29	B
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=27	B
+
+ambient=30	B
+
+ambient=26	B
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+ambient=34	B
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+ambient=31	B
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=32	B
+
+normal	O
+
+ambient=33	B
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=35	B
+
+ambient=31	B
+
+ambient=31	B
+
+ambient=31	B
+
+ambient=30	B
+
+ambient=31	B
+
+ambient=29	B
+
+warning	O
+
+normal	O
+
+ambient=26	B
+
+normal	O
+
+warning	O
+
+normal	O
+
+ambient=33	B
+
+normal	O
+
+ambient=31	B
+
+warning	O
+
+critical	O
+
+ambient=34	B
+
+ambient=35	B
+
+ambient=30	B
+
+warning	O
+
+ambient=35	B
+
+ambient=33	B
+
+ambient=33	B
+
+normal	O
+
+ambient=30	B
+
+ambient=28	B
+
+ambient=27	B
+
+warning	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+ambient=32	B
+
+ambient=31	B
+
+ambient=35	B
+
+ambient=32	B
+
+ambient=28	B
+
+warning	O
+
+ambient=30	B
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+ambient=31	B
+
+normal	O
+
+ambient=31	B
+
+warning	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=29	B
+
+warning	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=29	B
+
+normal	O
+
+normal	O
+
+ambient=30	B
+
+ambient=30	B
+
+ambient=33	B
+
+ambient=32	B
+
+normal	O
+
+ambient=27	B
+
+warning	O
+
+normal	O
+
+normal	O
+
+ambient=32	B
+
+normal	O
+
+warning	O
+
+ambient=33	B
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+ambient=29	B
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+ambient=32	B
+
+ambient=29	B
+
+normal	O
+
+ambient=36	B
+
+ambient=29	B
+
+ambient=30	B
+
+warning	O
+
+ambient=29	B
+
+normal	O
+
+ambient=32	B
+
+ambient=30	B
+
+ambient=32	B
+
+ambient=30	B
+
+ambient=33	B
+
+ambient=31	B
+
+normal	O
+
+ambient=33	B
+
+normal	O
+
+ambient=33	B
+
+ambient=31	B
+
+ambient=33	B
+
+critical	O
+
+normal	O
+
+ambient=27	B
+
+normal	O
+
+ambient=33	B
+
+normal	O
+
+ambient=33	B
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+ambient=29	B
+
+ambient=33	B
+
+ambient=36	B
+
+ambient=30	B
+
+normal	O
+
+warning	O
+
+warning	O
+
+ambient=28	B
+
+ambient=26	B
+
+warning	O
+
+normal	O
+
+ambient=29	B
+
+normal	O
+
+ambient=25	B
+
+ambient=29	B
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+ambient=34	B
+
+ambient=28	B
+
+ambient=27	B
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+ambient=27	B
+
+normal	O
+
+ambient=33	B
+
+ambient=27	B
+
+warning	O
+
+ambient=30	B
+
+ambient=33	B
+
+ambient=27	B
+
+normal	O
+
+ambient=27	B
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+ambient=27	B
+
+normal	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+ambient=26	B
+
+normal	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+critical	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=29	B
+
+warning	O
+
+normal	O
+
+ambient=28	B
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+ambient=28	B
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+ambient=26	B
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+ambient=35	B
+
+ambient=33	B
+
+ambient=32	B
+
+ambient=31	B
+
+ambient=31	B
+
+critical	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=27	B
+
+normal	O
+
+ambient=33	B
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+ambient=32	B
+
+warning	O
+
+ambient=30	B
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+critical	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+critical	O
+
+ambient=34	B
+
+warning	O
+
+ambient=27	B
+
+normal	O
+
+warning	O
+
+ambient=23	B
+
+normal	O
+
+warning	O
+
+normal	O
+
+ambient=29	B
+
+normal	O
+
+ambient=28	B
+
+ambient=26	B
+
+normal	O
+
+ambient=28	B
+
+ambient=25	B
+
+ambient=24	B
+
+warning	O
+
+ambient=34	B
+
+ambient=31	B
+
+critical	O
+
+normal	O
+
+ambient=28	B
+
+ambient=30	B
+
+ambient=33	B
+
+ambient=31	B
+
+ambient=31	B
+
+ambient=33	B
+
+ambient=32	B
+
+ambient=27	B
+
+ambient=29	B
+
+warning	O
+
+critical	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+critical	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+critical	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+ambient=25	B
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=28	B
+
+ambient=33	B
+
+ambient=33	B
+
+ambient=36	B
+
+ambient=36	B
+
+ambient=28	B
+
+warning	O
+
+critical	O
+
+ambient=35	B
+
+normal	O
+
+warning	O
+
+ambient=29	B
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+ambient=25	B
+
+normal	O
+
+normal	O
+
+ambient=34	B
+
+ambient=35	B
+
+ambient=36	B
+
+ambient=35	B
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+ambient=27	B
+
+warning	O
+
+ambient=29	B
+
+ambient=26	B
+
+ambient=26	B
+
+ambient=30	B
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+normal	O
+
+ambient=24	B
+
+normal	O
+
+ambient=30	B
+
+ambient=31	B
+
+ambient=33	B
+
+ambient=31	B
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=27	B
+
+normal	O
+
+ambient=29	B
+
+ambient=31	B
+
+normal	O
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=30	B
+
+ambient=32	B
+
+warning	O
+
+ambient=29	B
+
+normal	O
+
+ambient=24	B
+
+ambient=30	B
+
+warning	O
+
+ambient=28	B
+
+ambient=34	B
+
+ambient=25	B
+
+ambient=26	B
+
+ambient=25	B
+
+ambient=25	B
+
+ambient=25	B
+
+ambient=27	B
+
+ambient=30	B
+
+warning	O
+
+ambient=31	B
+
+ambient=29	B
+
+warning	O
+
+warning	O
+
+ambient=28	B
+
+ambient=28	B
+
+normal	O
+
+normal	O
+
+ambient=25	B
+
+ambient=30	B
+
+ambient=30	B
+
+ambient=26	B
+
+warning	O
+
+ambient=25	B
+
+warning	O
+
+ambient=29	B
+
+normal	O
+
+ambient=29	B
+
+ambient=27	B
+
+warning	O
+
+ambient=26	B
+
+normal	O
+
+normal	O
+
+warning	O
+
+ambient=25	B
+
+warning	O
+
+normal	O
+
+ambient=28	B
+
+ambient=29	B
+
+ambient=28	B
+
+normal	O
+
+ambient=30	B
+
+ambient=30	B
+
+ambient=27	B
+
+normal	O
+
+ambient=28	B
+
+warning	O
+
+normal	O
+
+ambient=30	B
+
+normal	O
+
+normal	O
+
+ambient=30	B
+
+ambient=27	B
+
+warning	O
+
+ambient=26	B
+
+ambient=27	B
+
+ambient=24	B
+
+normal	O
+
+ambient=26	B
+
+ambient=31	B
+
+warning	O
+
+warning	O
+
+ambient=29	B
+
+ambient=29	B
+
+warning	O
+
+ambient=27	B
+
+normal	O
+
+ambient=33	B
+
+ambient=30	B
+
+ambient=29	B
+
+ambient=33	B
+
+normal	O
+
+ambient=29	B
+
+warning	O
+
+ambient=30	B
+
+ambient=29	B
+
+ambient=28	B
+
+ambient=32	B
+
+warning	O
+
+ambient=28	B
+
+ambient=28	B
+
+warning	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+ambient=29	B
+
+ambient=30	B
+
+ambient=31	B
+
+ambient=31	B
+
+ambient=34	B
+
+warning	O
+
+ambient=36	B
+
+ambient=33	B
+
+ambient=25	B
+
+ambient=36	B
+
+ambient=33	B
+
+ambient=25	B
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+ambient=30	B
+
+normal	O
+
+normal	O
+
+ambient=33	B
+
+ambient=37	B
+
+warning	O
+
+ambient=27	B
+
+ambient=30	B
+
+ambient=35	B
+
+ambient=27	B
+
+ambient=29	B
+
+warning	O
+
+normal	O
+
+ambient=28	B
+
+normal	O
+
+ambient=28	B
+
+ambient=27	B
+
+ambient=26	B
+
+ambient=25	B
+
+ambient=30	B
+
+ambient=35	B
+
+ambient=32	B
+
+ambient=29	B
+
+ambient=35	B
+
+critical	O
+
+ambient=27	B
+
+ambient=29	B
+
+ambient=28	B
+
+ambient=28	B
+
+ambient=25	B
+
+ambient=25	B
+
+ambient=27	B
+
+ambient=30	B
+
+ambient=28	B
+
+critical	O
+
+ambient=25	B
+
+normal	O
+
+ambient=27	B
+
+normal	O
+
+ambient=25	B
+
+ambient=28	B
+
+ambient=33	B
+
+ambient=36	B
+
+ambient=30	B
+
+ambient=36	B
+
+ambient=33	B
+
+normal	O
+
+ambient=31	B
+
+normal	O
+
+ambient=27	B
+
+ambient=26	B
+
+warning	O
+
+critical	O
+
+normal	O
+
+normal	O
+
+ambient=33	B
+
+warning	O
+
+normal	O
+
+ambient=36	B
+
+ambient=33	B
+
+normal	O
+
+ambient=26	B
+
+ambient=25	B
+
+ambient=27	B
+
+ambient=31	B
+
+ambient=25	B
+
+ambient=28	B
+
+warning	O
+
+normal	O
+
+ambient=32	B
+
+ambient=33	B
+
+ambient=28	B
+
+ambient=31	B
+
+critical	O
+
+normal	O
+
+ambient=30	B
+
+ambient=29	B
+
+ambient=30	B
+
+normal	O
+
+normal	O
+
+normal	O
+
+warning	O
+
+warning	O
+
+ambient=27	B
+
+normal	O
+
+critical	O
+
+warning	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+normal	O
+
+warning	O
+
+ambient=28	B
+
+ambient=26	B
+
+ambient=34	B
+
+warning	O
+
+warning	O
+
+critical	O
+
+warning	O
+
+Link	O
+ok	O
+
+Link	O
+ok	O
+
+Link	O
+ok	O
+
+Link	O
+ok	O
+
+Link	O
+error	O
+
+Link	O
+error	O
+
+Link	O
+in	O
+reset	O
+
+Link	O
+ok	O
+
+Link	O
+ok	O
+
+Link	O
+in	O
+reset	O
+
+Link	O
+ok	O
+
+Link	O
+error	O
+
+Link	O
+ok	O
+
+Link	O
+ok	O
+
+Link	O
+ok	O
+
+Link	O
+error	O
+
+Link	O
+in	O
+reset	O
+
+Link	O
+ok	O
+
+Link	O
+ok	O
+
+Link	O
+in	O
+reset	O
+
+Link	O
+in	O
+reset	O
+
+Link	O
+in	O
+reset	O
+
+Link	O
+in	O
+reset	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+risBoot	O
+(command	O
+1903)	B
+Error:	O
+Timed	O
+out	O
+while	O
+waiting	O
+for	O
+SRM	O
+prompt:	O
+<ABORT	O
+code	O
+completed>	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+boot	O
+(command	O
+2092)	B
+Error:	O
+HALT	O
+asserted\	O
+cannot	O
+continue	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Failed	O
+subcommands	O
+3406	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+NIFF:	O
+node	O
+node-129	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-148	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-24	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-232	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-17	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-241	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-26	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-120	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-142	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-73	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-252	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-173	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-189	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-163	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-186	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-205	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-155	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-176	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-75	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-9	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-237	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-208	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-157	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-139	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-84	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-217	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-214	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-202	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-254	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-234	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-244	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-30	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-130	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.96.0.0	B
+via	O
+interface	O
+scip0	B
+
+NIFF:	O
+node	O
+node-45	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-44	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-151	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-255	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-188	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-29	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-87	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-203	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-72	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-113	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-152	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-104	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-142	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-193	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-139	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-143	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-45	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-106	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-7	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-233	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-23	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-190	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-84	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-19	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-253	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-29	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-240	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-86	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-204	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-46	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-150	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-42	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-91	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-26	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-44	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-244	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-182	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-144	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.96.0.0	B
+via	O
+interface	O
+scip0	B
+
+NIFF:	O
+node	O
+node-17	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-69	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-202	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-205	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-44	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-183	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-212	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-187	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-221	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-189	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-218	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-94	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-248	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-176	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-77	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-176	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+NIFF:	O
+node	O
+node-178	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-161	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-73	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-171	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+

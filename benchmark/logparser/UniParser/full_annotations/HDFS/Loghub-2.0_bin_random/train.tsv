@@ -1,0 +1,3356 @@
+Received	O
+block	O
+blk_-9190864897806028230	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.130	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_755689327380778318	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.110.8:50010	B
+is	O
+added	O
+to	O
+blk_-1661553043410372067	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.66.192:50010	B
+is	O
+added	O
+to	O
+blk_-4405302133414008227	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-5340841684362207777	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.198.33	B
+
+Deleting	O
+block	O
+blk_7754477838724397551	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir46/blk_7754477838724397551	B
+
+Deleting	O
+block	O
+blk_-4295805058711840933	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir0/blk_-4295805058711840933	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-2466006073687914843	B
+terminating	O
+
+Received	O
+block	O
+blk_1489031087420498797	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.71.193	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-26568864070436835	B
+terminating	O
+
+Deleting	O
+block	O
+blk_-5934436507161953485	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_-5934436507161953485	B
+
+Received	O
+block	O
+blk_3961831045048378097	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.160	B
+
+Received	O
+block	O
+blk_-8789402864074203800	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.193.224	B
+
+10.251.91.84:50010	B
+Served	O
+block	O
+blk_-8915491531889006304	B
+to	O
+/10.251.91.84	B
+
+Received	O
+block	O
+blk_7484759945731484842	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.203.149	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.66.3:50010	B
+is	O
+added	O
+to	O
+blk_1756478622414930264	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-1750007847201154657	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir1/blk_-1750007847201154657	B
+
+Received	O
+block	O
+blk_7577595658377008671	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.71.97	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.198.196:50010	B
+is	O
+added	O
+to	O
+blk_427714267500527780	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.106.37:50010	B
+is	O
+added	O
+to	O
+blk_-4741127506068309449	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-5880591395067598620	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir32/blk_-5880591395067598620	B
+
+Deleting	O
+block	O
+blk_2756799797410851893	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir24/blk_2756799797410851893	B
+
+Receiving	O
+block	O
+blk_-7418372263556457716	B
+src:	O
+/10.251.89.155:53560	B
+dest:	O
+/10.251.89.155:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.26.8:50010	B
+is	O
+added	O
+to	O
+blk_-5963475042722370536	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-2452477352812192142	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.7.244	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_1275198635723397883	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.202.134:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6640779266188771131	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.126.83:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2953550760670423417	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2111886617384066018	B
+terminating	O
+
+Receiving	O
+block	O
+blk_9074726164158535746	B
+src:	O
+/10.251.214.32:34409	B
+dest:	O
+/10.251.214.32:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt9/_temporary/_task_200811101024_0016_m_000347_0/part-00347.	B
+blk_-8426741581316629266	B
+
+Deleting	O
+block	O
+blk_-8360774680830158225	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir31/blk_-8360774680830158225	B
+
+Deleting	O
+block	O
+blk_-6008397446568765070	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_-6008397446568765070	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_4884219613602801814	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-1868325377308234190	B
+src:	O
+/10.251.42.207:50666	B
+dest:	O
+/10.251.42.207:50010	B
+
+Receiving	O
+block	O
+blk_6672666770563118759	B
+src:	O
+/10.251.71.68:44457	B
+dest:	O
+/10.251.71.68:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_001195_0/part-01195.	B
+blk_5708405953850477535	B
+
+Received	O
+block	O
+blk_-4775386099844009890	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.107.19	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.110.8:50010	B
+is	O
+added	O
+to	O
+blk_8015913224713045110	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.31.5:50010	B
+is	O
+added	O
+to	O
+blk_-1821104627978106102	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_707166530951154301	B
+terminating	O
+
+10.250.19.227:50010	B
+Served	O
+block	O
+blk_3979872751691718643	B
+to	O
+/10.250.19.227	B
+
+Received	O
+block	O
+blk_-337972286882621518	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.144	B
+
+Deleting	O
+block	O
+blk_-3564493590065542578	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir55/blk_-3564493590065542578	B
+
+10.251.126.255:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_1910039736720341651	B
+to	O
+/10.251.31.85:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.215.192:50010	B
+is	O
+added	O
+to	O
+blk_2015610615789582788	B
+size	O
+67108864	B
+
+10.251.42.246:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-7658293778087733436	B
+to	O
+/10.251.30.179:	B
+
+Deleting	O
+block	O
+blk_-8383503596684323017	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir26/blk_-8383503596684323017	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2154193600525549460	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.43.147:50010	B
+
+10.251.197.226:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_2101007907134483259	B
+to	O
+/10.251.31.242:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.90.64:50010	B
+is	O
+added	O
+to	O
+blk_1441315972355360459	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.199.86:50010	B
+is	O
+added	O
+to	O
+blk_-9181958042427679309	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-6865167803683277211	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_8060713381303305129	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.31.242:50010	B
+is	O
+added	O
+to	O
+blk_-5400783031085008882	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_5806397523737304814	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_5806397523737304814	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_3584162266158512993	B
+terminating	O
+
+Received	O
+block	O
+blk_3777399812922072863	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.199.225	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.194.213:50010	B
+is	O
+added	O
+to	O
+blk_-7030770677241078854	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_2241654010576170013	B
+terminating	O
+
+10.251.107.227:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-6290631608800952376	B
+to	O
+/10.251.109.209:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.127.243:50010	B
+is	O
+added	O
+to	O
+blk_-719178972315562824	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-8974021306351083168	B
+src:	O
+/10.251.91.15:40699	B
+dest:	O
+/10.251.91.15:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.91.159:50010	B
+is	O
+added	O
+to	O
+blk_-5739126205963920408	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_703046261120042821	B
+terminating	O
+
+Received	O
+block	O
+blk_6000837850922531821	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.197.226	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-900229825899812461	B
+terminating	O
+
+Receiving	O
+block	O
+blk_3962600675982666210	B
+src:	O
+/10.251.123.195:37374	B
+dest:	O
+/10.251.123.195:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1162676743264290624	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.194.213:50010	B
+
+Receiving	O
+block	O
+blk_-8876879715755468215	B
+src:	O
+/10.251.111.80:43834	B
+dest:	O
+/10.251.111.80:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_703049809255765647	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.15.101:50010	B
+is	O
+added	O
+to	O
+blk_-6540455811923725840	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1649239999940418046	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-1910608563003942187	B
+terminating	O
+
+Received	O
+block	O
+blk_1600228140214754078	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.90.81	B
+
+Received	O
+block	O
+blk_2652444451422301232	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.225	B
+
+Received	O
+block	O
+blk_6894918622505820383	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.14.143	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-945770324989341170	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.31.180:50010	B
+
+Received	O
+block	O
+blk_1411218759880637753	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.123.20	B
+
+Received	O
+block	O
+blk_-562725280853087685	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.91.84	B
+
+10.251.67.113:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-62891505109755100	B
+to	O
+/10.250.7.96:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.202.209:50010	B
+is	O
+added	O
+to	O
+blk_111759050707136656	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-6127741703501838658	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir53/blk_-6127741703501838658	B
+
+Deleting	O
+block	O
+blk_-2658615574293326723	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir37/blk_-2658615574293326723	B
+
+Received	O
+block	O
+blk_-1849105860762445186	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.91.229	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-7553009628768897700	B
+terminating	O
+
+Received	O
+block	O
+blk_-3693786175267111588	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.71.97	B
+
+Receiving	O
+block	O
+blk_8303284829424905326	B
+src:	O
+/10.251.70.37:47359	B
+dest:	O
+/10.251.70.37:50010	B
+
+Receiving	O
+block	O
+blk_1512136249403454074	B
+src:	O
+/10.250.7.244:47958	B
+dest:	O
+/10.250.7.244:50010	B
+
+Received	O
+block	O
+blk_-3805070405372551730	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.109.236	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.6.223:50010	B
+is	O
+added	O
+to	O
+blk_7474737521119026445	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.127.243:50010	B
+is	O
+added	O
+to	O
+blk_1793140687921032046	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.91.84:50010	B
+is	O
+added	O
+to	O
+blk_6039898256291822367	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-4430291708660291878	B
+terminating	O
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-3671953658029337449	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.14.143:50010	B
+
+Received	O
+block	O
+blk_-6168484338203583997	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.192	B
+
+10.251.215.70:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-20269367189114433	B
+to	O
+/10.251.30.179:	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand2/_temporary/_task_200811101024_0003_r_000315_0/part-00315.	B
+blk_-463998587096565542	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_3088175971503531298	B
+terminating	O
+
+Deleting	O
+block	O
+blk_-8775602795571523802	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir29/blk_-8775602795571523802	B
+
+Verification	O
+succeeded	O
+for	O
+blk_-6160667975382232149	B
+
+Receiving	O
+block	O
+blk_5816171803790152026	B
+src:	O
+/10.251.194.102:43940	B
+dest:	O
+/10.251.194.102:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.242:50010	B
+is	O
+added	O
+to	O
+blk_-5773244829531118765	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-5014786445735476734	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir9/blk_-5014786445735476734	B
+
+Receiving	O
+block	O
+blk_-5144503768267321004	B
+src:	O
+/10.251.107.19:36862	B
+dest:	O
+/10.251.107.19:50010	B
+
+Received	O
+block	O
+blk_-71429470616906355	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.19.16	B
+
+Receiving	O
+block	O
+blk_313888672758374538	B
+src:	O
+/10.251.39.179:40031	B
+dest:	O
+/10.251.39.179:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-7024895786822269814	B
+terminating	O
+
+10.251.70.211:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_424255210146453297	B
+to	O
+/10.251.203.179:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.193.224:50010	B
+is	O
+added	O
+to	O
+blk_-6299730951392868297	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_4967370797322420259	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.192	B
+
+Receiving	O
+block	O
+blk_2583125615128303019	B
+src:	O
+/10.251.71.97:54431	B
+dest:	O
+/10.251.71.97:50010	B
+
+10.251.43.115:50010	B
+Served	O
+block	O
+blk_-7364557883931785608	B
+to	O
+/10.251.43.115	B
+
+Receiving	O
+block	O
+blk_-878226404201600469	B
+src:	O
+/10.250.7.96:40849	B
+dest:	O
+/10.250.7.96:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.19.227:50010	B
+is	O
+added	O
+to	O
+blk_2059389709317340334	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_001495_0/part-01495.	B
+blk_-7592643790414500555	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.31.242:50010	B
+is	O
+added	O
+to	O
+blk_-4342304152206614489	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_6138894560185644209	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir42/blk_6138894560185644209	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7336636250384047238	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.26.177:50010	B
+
+Deleting	O
+block	O
+blk_-1939956833921604216	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir34/blk_-1939956833921604216	B
+
+Deleting	O
+block	O
+blk_449049393237281194	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir18/blk_449049393237281194	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.203.149:50010	B
+is	O
+added	O
+to	O
+blk_-6247364168500873179	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-4352313989800650828	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir56/blk_-4352313989800650828	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7999375661905777727	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.106.37:50010	B
+
+Deleting	O
+block	O
+blk_4632283243694149854	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir40/blk_4632283243694149854	B
+
+Receiving	O
+block	O
+blk_-6412155847905320411	B
+src:	O
+/10.251.30.85:58995	B
+dest:	O
+/10.251.30.85:50010	B
+
+Deleting	O
+block	O
+blk_-2826763604408365998	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir40/blk_-2826763604408365998	B
+
+Received	O
+block	O
+blk_-7380871572601322244	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.121.224	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.67.225:50010	B
+is	O
+added	O
+to	O
+blk_-6325232815283133921	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.17.177:50010	B
+is	O
+added	O
+to	O
+blk_4385764838827095986	B
+size	O
+3541872	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt2/_temporary/_task_200811101024_0002_m_001335_0/part-01335.	B
+blk_-2541428592126088938	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-2025578204394955498	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.91.159:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_001353_0/part-01353.	B
+blk_5782729236964719738	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.244:50010	B
+is	O
+added	O
+to	O
+blk_-6956067134432991406	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-9038475355621289969	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir41/blk_-9038475355621289969	B
+
+Deleting	O
+block	O
+blk_1920931690498309324	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir42/blk_1920931690498309324	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001348_0/part-01348.	B
+blk_4531288786306744275	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand5/_temporary/_task_200811101024_0011_m_001408_0/part-01408.	B
+blk_6601059760261449131	B
+
+Received	O
+block	O
+blk_-5671206752084326639	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.67	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-6997219177553478996	B
+terminating	O
+
+Receiving	O
+block	O
+blk_345577139488306634	B
+src:	O
+/10.251.37.240:38873	B
+dest:	O
+/10.251.37.240:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt3/_temporary/_task_200811101024_0007_m_000186_0/part-00186.	B
+blk_-6754647973871368247	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_4640277741339926850	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.26.131:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.11.100:50010	B
+is	O
+added	O
+to	O
+blk_-4595094649363595358	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_4873550540813847659	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-7948158002985968470	B
+terminating	O
+
+10.250.19.16:50010	B
+Served	O
+block	O
+blk_1078000656626961731	B
+to	O
+/10.250.19.16	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_3318864983801406136	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-2025617675484194470	B
+terminating	O
+
+Receiving	O
+block	O
+blk_2972699288862031202	B
+src:	O
+/10.250.5.161:51077	B
+dest:	O
+/10.250.5.161:50010	B
+
+Receiving	O
+block	O
+blk_6108023147232847992	B
+src:	O
+/10.251.42.9:43819	B
+dest:	O
+/10.251.42.9:50010	B
+
+Receiving	O
+block	O
+blk_-7048088870427586736	B
+src:	O
+/10.250.10.100:56512	B
+dest:	O
+/10.250.10.100:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-1250775350296476256	B
+terminating	O
+
+Received	O
+block	O
+blk_2063252936853409868	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.43.192	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_4877808040461609832	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_1155029843511109085	B
+terminating	O
+
+Deleting	O
+block	O
+blk_3921292580505776296	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir57/blk_3921292580505776296	B
+
+Receiving	O
+block	O
+blk_-5892603381347650390	B
+src:	O
+/10.250.14.143:57484	B
+dest:	O
+/10.250.14.143:50010	B
+
+Received	O
+block	O
+blk_-8015797075596093783	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.11.194	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4149539113118855204	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.71.16:50010	B
+
+Received	O
+block	O
+blk_7016884347337429710	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.194.129	B
+
+Deleting	O
+block	O
+blk_2403370969415186087	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir6/blk_2403370969415186087	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.43.192:50010	B
+is	O
+added	O
+to	O
+blk_6285161494041403917	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt3/_temporary/_task_200811101024_0007_m_000585_0/part-00585.	B
+blk_8561332122820208519	B
+
+Deleting	O
+block	O
+blk_-1263913006422225885	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir2/blk_-1263913006422225885	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_000392_0/part-00392.	B
+blk_-3010126661650043258	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.203.149:50010	B
+is	O
+added	O
+to	O
+blk_-7282356322111075290	B
+size	O
+67108864	B
+
+10.251.111.80:50010	B
+Served	O
+block	O
+blk_6296828743242110158	B
+to	O
+/10.251.42.246	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.30.6:50010	B
+is	O
+added	O
+to	O
+blk_1119272693889755844	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.199.159:50010	B
+is	O
+added	O
+to	O
+blk_-8558845834445970595	B
+size	O
+67108864	B
+
+10.251.39.144:50010	B
+Served	O
+block	O
+blk_-8187008844253719581	B
+to	O
+/10.251.91.32	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-2780312306380730204	B
+terminating	O
+
+10.251.123.1:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-272707591443354058	B
+to	O
+/10.251.198.33:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.130:50010	B
+is	O
+added	O
+to	O
+blk_-4427507243535536615	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-4311652947826112510	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir57/blk_-4311652947826112510	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-800664075087524591	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-6369730481066968769	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-6766351519628312408	B
+terminating	O
+
+10.251.194.147:50010	B
+Served	O
+block	O
+blk_7703498406755483188	B
+to	O
+/10.251.111.209	B
+
+Received	O
+block	O
+blk_-7716943410942322104	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.126.5	B
+
+Received	O
+block	O
+blk_-7247291679155656679	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.176	B
+
+Received	O
+block	O
+blk_2474460483915499078	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.195.52	B
+
+Received	O
+block	O
+blk_-6986311820863339652	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.71.240	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-4624597753370705281	B
+terminating	O
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-5382946262718129284	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.5.161:50010	B
+
+BLOCK*	O
+ask	O
+10.250.14.38:50010	B
+to	O
+replicate	O
+blk_-7571492020523929240	B
+to	O
+datanode(s)	O
+10.251.122.38:50010	B
+
+Received	O
+block	O
+blk_-5861636720645142679	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.70.211	B
+
+Received	O
+block	O
+blk_7864850143895703065	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.107.98	B
+
+Receiving	O
+block	O
+blk_6400082566804273401	B
+src:	O
+/10.251.38.214:42160	B
+dest:	O
+/10.251.38.214:50010	B
+
+Receiving	O
+block	O
+blk_148513789886825227	B
+src:	O
+/10.251.123.33:54308	B
+dest:	O
+/10.251.123.33:50010	B
+
+Deleting	O
+block	O
+blk_4863571548336254624	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir5/blk_4863571548336254624	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-9056865861421808370	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.67:50010	B
+is	O
+added	O
+to	O
+blk_-5961895238114806886	B
+size	O
+28508403	B
+
+Receiving	O
+block	O
+blk_2583600095045026513	B
+src:	O
+/10.250.15.67:59629	B
+dest:	O
+/10.250.15.67:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-2451769929123196359	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.199.159:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.71.240:50010	B
+is	O
+added	O
+to	O
+blk_-5580048401594934039	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.126.5:50010	B
+is	O
+added	O
+to	O
+blk_4361294871479973840	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_5225719677049010638	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt2/_temporary/_task_200811101024_0002_m_000054_0/part-00054.	B
+blk_-4139299269696044017	B
+
+Deleting	O
+block	O
+blk_8598135237831029828	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir59/blk_8598135237831029828	B
+
+10.251.42.84:50010	B
+Served	O
+block	O
+blk_6105506155797750768	B
+to	O
+/10.251.42.84	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand3/_temporary/_task_200811101024_0005_m_000720_0/part-00720.	B
+blk_-7988596544606686086	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.203.80:50010	B
+is	O
+added	O
+to	O
+blk_7888946331804732825	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-6608350831463251448	B
+src:	O
+/10.251.107.196:43317	B
+dest:	O
+/10.251.107.196:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.39.144:50010	B
+is	O
+added	O
+to	O
+blk_1526403491950199810	B
+size	O
+3534443	B
+
+Receiving	O
+block	O
+blk_8752665860595246441	B
+src:	O
+/10.251.70.5:44006	B
+dest:	O
+/10.251.70.5:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.43.115:50010	B
+is	O
+added	O
+to	O
+blk_-7893636450787030202	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-4438918035940270891	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.71.193:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-8026264173633579073	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.214.18:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_708101772844351082	B
+terminating	O
+
+Received	O
+block	O
+blk_-3787594914477940893	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.71.16	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_2096199637324483321	B
+terminating	O
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-2014243777892518956	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-7230947007726948080	B
+src:	O
+/10.251.29.239:53564	B
+dest:	O
+/10.251.29.239:50010	B
+
+Deleting	O
+block	O
+blk_-8443921001690182522	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir33/blk_-8443921001690182522	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.70.211:50010	B
+is	O
+added	O
+to	O
+blk_5570475465835003801	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_3922791077126964673	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_000480_0/part-00480.	B
+blk_-5613694521084380933	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.30.101:50010	B
+is	O
+added	O
+to	O
+blk_6451403582950672007	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001940_0/part-01940.	B
+blk_1910319264393500537	B
+
+Receiving	O
+block	O
+blk_7572868180557515526	B
+src:	O
+/10.251.214.130:38983	B
+dest:	O
+/10.251.214.130:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5616920288053661280	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.42.9:50010	B
+
+10.251.31.5:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_6332892729727950039	B
+to	O
+/10.251.123.1:	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2389216938154332862	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-352190670750948803	B
+terminating	O
+
+Received	O
+block	O
+blk_-1956140031907143783	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.70.112	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-6952295868487656571	B
+terminating	O
+
+Receiving	O
+block	O
+blk_3016571528120363023	B
+src:	O
+/10.251.194.102:60235	B
+dest:	O
+/10.251.194.102:50010	B
+
+Receiving	O
+block	O
+blk_-2192382893903170466	B
+src:	O
+/10.251.201.204:36915	B
+dest:	O
+/10.251.201.204:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_7017399031777870797	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.5.161:50010	B
+
+Receiving	O
+block	O
+blk_-6276023454199613372	B
+src:	O
+/10.251.65.237:34085	B
+dest:	O
+/10.251.65.237:50010	B
+
+Received	O
+block	O
+blk_-8847552694913526632	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.201.204	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-3402248757106237109	B
+terminating	O
+
+Receiving	O
+block	O
+blk_7713504868233504097	B
+src:	O
+/10.251.127.191:36437	B
+dest:	O
+/10.251.127.191:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_001757_0/part-01757.	B
+blk_-5343533992609553091	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.202.134:50010	B
+is	O
+added	O
+to	O
+blk_-4945182943709543868	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_8145984793403459836	B
+file	O
+/mnt/hadoop/dfs/data/current/blk_8145984793403459836	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.31.85:50010	B
+is	O
+added	O
+to	O
+blk_-7017553867379051457	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-5668584889663038916	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.9.207	B
+
+Deleting	O
+block	O
+blk_-8792837405349224102	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir35/blk_-8792837405349224102	B
+
+Receiving	O
+block	O
+blk_-7764040409370932316	B
+src:	O
+/10.251.125.237:58496	B
+dest:	O
+/10.251.125.237:50010	B
+
+Verification	O
+succeeded	O
+for	O
+blk_-1547954353065580372	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.32:50010	B
+is	O
+added	O
+to	O
+blk_-2125743956855238111	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-5624558200776510955	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.107.242:50010	B
+
+Received	O
+block	O
+blk_-7207514537719465756	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.75.143	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_3160319368100972992	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_8254500345987409515	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-3657751236932275338	B
+src:	O
+/10.251.123.99:50481	B
+dest:	O
+/10.251.123.99:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8155177385081669900	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.197.161:50010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_6465095458973828118	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_3070718541088657475	B
+terminating	O
+
+Receiving	O
+block	O
+blk_2737505352081488746	B
+src:	O
+/10.251.194.245:52516	B
+dest:	O
+/10.251.194.245:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-5908283405801966540	B
+terminating	O
+
+10.250.14.38:50010	B
+Served	O
+block	O
+blk_-8674089929114017279	B
+to	O
+/10.250.14.38	B
+
+10.251.198.33:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-8495670552887053546	B
+to	O
+/10.250.10.223:	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7709713535298137702	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.215.50:50010	B
+
+Receiving	O
+block	O
+blk_6245594177708848366	B
+src:	O
+/10.250.15.198:46793	B
+dest:	O
+/10.250.15.198:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.127.243:50010	B
+is	O
+added	O
+to	O
+blk_1512923509505250283	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-2929627680703662712	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir32/blk_-2929627680703662712	B
+
+Received	O
+block	O
+blk_4263664068073345850	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.67	B
+
+Received	O
+block	O
+blk_-7630699912570186723	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.71.240	B
+
+Receiving	O
+block	O
+blk_1606295458729964667	B
+src:	O
+/10.251.214.32:47910	B
+dest:	O
+/10.251.214.32:50010	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand8/_temporary/_task_200811101024_0015_m_001425_0/part-01425.	B
+blk_2630223487595425525	B
+
+Deleting	O
+block	O
+blk_5736622945587812309	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir19/blk_5736622945587812309	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7894824934989391122	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.38.197:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.90.239:50010	B
+is	O
+added	O
+to	O
+blk_-2281067667503210140	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-7411687001739959508	B
+src:	O
+/10.251.122.65:46080	B
+dest:	O
+/10.251.122.65:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.122.79:50010	B
+is	O
+added	O
+to	O
+blk_-2895171018912807248	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_815809455641029563	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.111.37:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.13.240:50010	B
+is	O
+added	O
+to	O
+blk_2593937801738981947	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.42.191:50010	B
+is	O
+added	O
+to	O
+blk_-4208396523159735354	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-5808893254440551816	B
+src:	O
+/10.250.11.194:53256	B
+dest:	O
+/10.250.11.194:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.90.239:50010	B
+is	O
+added	O
+to	O
+blk_-5927343391895571936	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_8473858691873523269	B
+src:	O
+/10.250.11.53:60609	B
+dest:	O
+/10.250.11.53:50010	B
+
+Received	O
+block	O
+blk_3084588477220583373	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.125.174	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.15.198:50010	B
+is	O
+added	O
+to	O
+blk_8894334107354324777	B
+size	O
+3549832	B
+
+Deleting	O
+block	O
+blk_-921231092429668424	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir23/blk_-921231092429668424	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.5.237:50010	B
+is	O
+added	O
+to	O
+blk_-476906696485288376	B
+size	O
+67108864	B
+
+10.251.39.179:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_1683075246463470765	B
+to	O
+/10.250.14.38:	B
+
+Received	O
+block	O
+blk_8829027411458566099	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.38.214	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_3695169334833427187	B
+terminating	O
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_5668137923110942035	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.91.229:50010	B
+
+Deleting	O
+block	O
+blk_153508158653341141	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir50/blk_153508158653341141	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_6055109613223910610	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-191333338640084691	B
+terminating	O
+
+Receiving	O
+block	O
+blk_-5623176793330377570	B
+src:	O
+/10.251.75.228:53725	B
+dest:	O
+/10.251.75.228:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.199.225:50010	B
+is	O
+added	O
+to	O
+blk_7481361125021302112	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-805262942087665153	B
+terminating	O
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-2421414377433740760	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/sortrand/_temporary/_task_200811092030_0002_r_000296_0/part-00296.	B
+blk_-6620182933895093708	B
+
+Deleting	O
+block	O
+blk_-643763844763678010	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir29/blk_-643763844763678010	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-165500353496111884	B
+terminating	O
+
+Received	O
+block	O
+blk_-1614641487214609125	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.193.175	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt2/_temporary/_task_200811101024_0002_m_001968_1/part-01968.	B
+blk_5106303344783117537	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_805187982300776163	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.73.188:50010	B
+
+Receiving	O
+block	O
+blk_4599950495841528213	B
+src:	O
+/10.251.194.102:59433	B
+dest:	O
+/10.251.194.102:50010	B
+
+Deleting	O
+block	O
+blk_7519257846502835091	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir15/blk_7519257846502835091	B
+
+Receiving	O
+block	O
+blk_4783621682384104986	B
+src:	O
+/10.251.193.224:52556	B
+dest:	O
+/10.251.193.224:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2468407162668753567	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.106.37:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_8442157310069672329	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.39.64:50010	B
+
+Deleting	O
+block	O
+blk_-8484827087450439270	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir25/blk_-8484827087450439270	B
+
+Deleting	O
+block	O
+blk_-1345585044778938153	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir45/blk_-1345585044778938153	B
+
+Received	O
+block	O
+blk_5250287988089075029	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.66.63	B
+
+Receiving	O
+block	O
+blk_8087142318511408355	B
+src:	O
+/10.250.15.67:55334	B
+dest:	O
+/10.250.15.67:50010	B
+
+Deleting	O
+block	O
+blk_797263375273454863	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir16/blk_797263375273454863	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.7.146:50010	B
+is	O
+added	O
+to	O
+blk_9163807899833139121	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_-2583370070230800221	B
+src:	O
+/10.251.31.160:58714	B
+dest:	O
+/10.251.31.160:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.75.49:50010	B
+is	O
+added	O
+to	O
+blk_-3684613761619321001	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_4506604798892399878	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir0/blk_4506604798892399878	B
+
+Received	O
+block	O
+blk_-1090213273274684471	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.130	B
+
+Receiving	O
+block	O
+blk_-8475679647841427708	B
+src:	O
+/10.251.75.49:58661	B
+dest:	O
+/10.251.75.49:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6932221506331060207	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.74.79:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6324712740029479576	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.6:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.25.237:50010	B
+is	O
+added	O
+to	O
+blk_541463031152673662	B
+size	O
+67108864	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-1484647023667047838	B
+terminating	O
+
+Received	O
+block	O
+blk_4443043493758564822	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.106.37	B
+
+Deleting	O
+block	O
+blk_6085442148007558065	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir63/blk_6085442148007558065	B
+
+Receiving	O
+block	O
+blk_-3157541550945505354	B
+src:	O
+/10.251.125.193:45917	B
+dest:	O
+/10.251.125.193:50010	B
+
+Deleting	O
+block	O
+blk_2708206493147801743	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir15/blk_2708206493147801743	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-9220604860626391374	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.30.179:50010	B
+
+Receiving	O
+block	O
+blk_8574493302165689212	B
+src:	O
+/10.251.194.245:34656	B
+dest:	O
+/10.251.194.245:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.196:50010	B
+is	O
+added	O
+to	O
+blk_-6308508598639278892	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_7929144620252342335	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.31.5	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-7668075074035173978	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.31.5:50010	B
+
+Receiving	O
+block	O
+blk_-7350482598011027441	B
+src:	O
+/10.250.7.96:41476	B
+dest:	O
+/10.250.7.96:50010	B
+
+Receiving	O
+block	O
+blk_-7727864185516010230	B
+src:	O
+/10.251.43.192:36039	B
+dest:	O
+/10.251.43.192:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.18:50010	B
+is	O
+added	O
+to	O
+blk_-7555801584297376435	B
+size	O
+67108864	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-7640601843607665080	B
+terminating	O
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_1960893136630391966	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.39.144:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_3280859030919654043	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.214.130:50010	B
+
+10.251.123.132:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_4048438071314937575	B
+to	O
+/10.251.194.213:	B
+
+Received	O
+block	O
+blk_8474920544984206742	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.91.229	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_2917692073041583988	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.107.196:50010	B
+is	O
+added	O
+to	O
+blk_4802366409699286298	B
+size	O
+3547304	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6114220623980201749	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.13.240:50010	B
+
+Receiving	O
+block	O
+blk_3846795603907041885	B
+src:	O
+/10.250.10.176:47296	B
+dest:	O
+/10.250.10.176:50010	B
+
+Received	O
+block	O
+blk_3386670145292909259	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.110.68	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_2957756905007569214	B
+terminating	O
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.6.4:50010	B
+is	O
+added	O
+to	O
+blk_344934934043642744	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand7/_temporary/_task_200811101024_0014_m_001649_0/part-01649.	B
+blk_-5581540863377925517	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1331750856499198500	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.38.53:50010	B
+
+Receiving	O
+block	O
+blk_-7460532841070848624	B
+src:	O
+/10.250.15.67:55076	B
+dest:	O
+/10.250.15.67:50010	B
+
+Received	O
+block	O
+blk_-6031720401337601269	B
+of	O
+size	O
+67108864	B
+from	O
+/10.250.10.100	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_859668537217019080	B
+terminating	O
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-6500549130351529113	B
+terminating	O
+
+Receiving	O
+block	O
+blk_4149909442914612270	B
+src:	O
+/10.251.195.33:55490	B
+dest:	O
+/10.251.195.33:50010	B
+
+10.251.125.237:50010	B
+Served	O
+block	O
+blk_-309134958179110212	B
+to	O
+/10.251.125.237	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/randtxt/_temporary/_task_200811092030_0003_m_000675_0/part-00675.	B
+blk_-7866582011201618766	B
+
+Received	O
+block	O
+blk_-6867873931012347356	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.39.64	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.31.5:50010	B
+is	O
+added	O
+to	O
+blk_5813361416484537967	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-1335063409877429524	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.107.196:50010	B
+
+Receiving	O
+block	O
+blk_-5009020203888190378	B
+src:	O
+/10.251.199.19:52622	B
+dest:	O
+/10.251.199.19:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_712730845180531820	B
+terminating	O
+
+Receiving	O
+block	O
+blk_3248835454898465560	B
+src:	O
+/10.251.42.84:40950	B
+dest:	O
+/10.251.42.84:50010	B
+
+Deleting	O
+block	O
+blk_8492196963764530259	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir45/blk_8492196963764530259	B
+
+10.251.70.112:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_4357276972386184626	B
+to	O
+/10.251.74.79:	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-5403209762224435166	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.125.193:50010	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-1049340855430710153	B
+terminating	O
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_6881216037013929188	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.91.32:50010	B
+
+Deleting	O
+block	O
+blk_-7515058933811567980	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir1/blk_-7515058933811567980	B
+
+Deleting	O
+block	O
+blk_1369784431092292099	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir36/blk_1369784431092292099	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_4471044334742081825	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.15.198:50010	B
+
+10.250.15.198:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-1851265222873801714	B
+to	O
+/10.251.195.52:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.70.37:50010	B
+is	O
+added	O
+to	O
+blk_300967862449910205	B
+size	O
+67108864	B
+
+PacketResponder	O
+2	B
+for	O
+block	O
+blk_-6670958622368987959	B
+terminating	O
+
+10.251.39.179:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-8558281124275910849	B
+to	O
+/10.251.30.134:	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand/_temporary/_task_200811101024_0001_m_001197_0/part-01197.	B
+blk_-5255262711039499896	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.214.67:50010	B
+is	O
+added	O
+to	O
+blk_-8483420270408348004	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_000197_0/part-00197.	B
+blk_1832308388558480	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.126.5:50010	B
+is	O
+added	O
+to	O
+blk_-989798817617753264	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-7601381921195183756	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir48/blk_-7601381921195183756	B
+
+Deleting	O
+block	O
+blk_-1800458850981311953	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir57/blk_-1800458850981311953	B
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand5/_temporary/_task_200811101024_0011_m_000040_0/part-00040.	B
+blk_1253515519191706153	B
+
+PacketResponder	O
+1	B
+for	O
+block	O
+blk_-7200400342436668240	B
+terminating	O
+
+BLOCK*	O
+NameSystem.allocateBlock:	O
+/user/root/rand6/_temporary/_task_200811101024_0013_m_000153_0/part-00153.	B
+blk_8596624696139957935	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_-6978845808078082463	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.109.209:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2259206517962925438	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.215.16:50010	B
+
+Receiving	O
+block	O
+blk_-5439682406172672049	B
+src:	O
+/10.251.42.207:36091	B
+dest:	O
+/10.251.42.207:50010	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_1481009974400305784	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.251.39.242:50010	B
+
+10.251.123.99:50010	B
+Served	O
+block	O
+blk_5385121219895615240	B
+to	O
+/10.251.71.146	B
+
+BLOCK*	O
+NameSystem.delete:	O
+blk_2149728827322918746	B
+is	O
+added	O
+to	O
+invalidSet	O
+of	O
+10.250.11.194:50010	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.127.191:50010	B
+is	O
+added	O
+to	O
+blk_1589878256898761558	B
+size	O
+67108864	B
+
+Deleting	O
+block	O
+blk_-4223625526513535681	B
+file	O
+/mnt/hadoop/dfs/data/current/subdir60/blk_-4223625526513535681	B
+
+Receiving	O
+block	O
+blk_-1259190292740306590	B
+src:	O
+/10.251.65.203:36289	B
+dest:	O
+/10.251.65.203:50010	B
+
+Receiving	O
+block	O
+blk_-4526931594457272384	B
+src:	O
+/10.251.43.147:40348	B
+dest:	O
+/10.251.43.147:50010	B
+
+Received	O
+block	O
+blk_-5954527587435406374	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.106.10	B
+
+10.251.126.227:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_-4181768899028058192	B
+to	O
+/10.251.26.177:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.250.11.100:50010	B
+is	O
+added	O
+to	O
+blk_3406384548372443486	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_1247599917761164561	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.37.240	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.91.32:50010	B
+is	O
+added	O
+to	O
+blk_5272761429354463572	B
+size	O
+67108864	B
+
+Received	O
+block	O
+blk_-3455521536483250153	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.106.37	B
+
+10.251.90.134:50010:Got	B
+exception	O
+while	O
+serving	O
+blk_7154985168984871115	B
+to	O
+/10.251.110.160:	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.110.160:50010	B
+is	O
+added	O
+to	O
+blk_-1675768179383804109	B
+size	O
+67108864	B
+
+BLOCK*	O
+NameSystem.addStoredBlock:	O
+blockMap	O
+updated:	O
+10.251.91.84:50010	B
+is	O
+added	O
+to	O
+blk_-2321016155994168744	B
+size	O
+67108864	B
+
+Receiving	O
+block	O
+blk_4414644179961808738	B
+src:	O
+/10.251.107.98:46161	B
+dest:	O
+/10.251.107.98:50010	B
+
+Received	O
+block	O
+blk_7534378757788640871	B
+of	O
+size	O
+67108864	B
+from	O
+/10.251.214.130	B
+
+10.251.74.79:50010	B
+Served	O
+block	O
+blk_-3457731723401426942	B
+to	O
+/10.251.74.79	B
+
+Receiving	O
+block	O
+blk_-8788032532930439012	B
+src:	O
+/10.251.126.255:41104	B
+dest:	O
+/10.251.126.255:50010	B
+
+PacketResponder	O
+0	B
+for	O
+block	O
+blk_-5610308397633191834	B
+terminating	O
+

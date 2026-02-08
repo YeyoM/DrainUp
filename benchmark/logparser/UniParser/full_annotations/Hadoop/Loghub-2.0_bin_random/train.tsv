@@ -1,0 +1,3766 @@
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Starting	O
+Socket	O
+Reader	O
+#1	B
+for	O
+port	O
+62270	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+220	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=0	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+217	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+182	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+104	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:1024,	B
+vCores:-26>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+39	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+job_1445144423722_0020Job	B
+Transitioned	O
+from	O
+SETUP	O
+to	O
+RUNNING	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.4486067	B
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Connecting	O
+to	O
+ResourceManager	O
+at	O
+msra-sa-41/10.190.173.170:8030	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+205	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+353	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+64	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Default	O
+file	O
+system	O
+[hdfs://msra-sa-41:9000]	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.106881365	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.32958937	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.27825075	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000008_0	B
+is	O
+:	O
+0.106881365	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+282	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+task_1445144423722_0020_m_000008	B
+Task	O
+Transitioned	O
+from	O
+NEW	B
+to	O
+SCHEDULED	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+213	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+99	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.36390656	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:7	B
+ScheduledReds:0	B
+AssignedMaps:3	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:3	B
+ContRel:0	B
+HostLocal:0	B
+RackLocal:3	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+108	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+153	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+147	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.19255035	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+123	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:8	B
+ScheduledReds:0	B
+AssignedMaps:2	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:2	B
+ContRel:0	B
+HostLocal:0	B
+RackLocal:2	B
+
+attempt_1445144423722_0020_m_000000_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	B
+to	O
+UNASSIGNED	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+173	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.4486067	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+attempt_1445144423722_0020_m_000002_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+UNASSIGNED	B
+to	O
+ASSIGNED	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+293	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+342	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+344	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+157	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.4956123	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.36390656	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.295472	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Resolved	O
+MSRA-SA-41.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+186	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Launching	O
+attempt_1445144423722_0020_m_000001_0	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+98	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+71	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.36388028	B
+
+Shuffle	O
+port	O
+returned	O
+by	O
+ContainerManager	O
+for	O
+attempt_1445144423722_0020_m_000006_0	B
+:	O
+13562	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+111	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19158794	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Received	O
+completed	O
+container	O
+container_1445144423722_0020_01_000012	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Resolved	O
+04DN8IQ.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+267	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+352	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+257	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000011	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.44980705	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.27772525	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:7168,	B
+vCores:-20>	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.358454	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+117	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+KILLING	O
+attempt_1445144423722_0020_m_000002_0	B
+
+After	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:0	B
+ScheduledReds:1	B
+AssignedMaps:10	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+69	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Got	O
+allocated	O
+containers	O
+1	B
+
+Assigned	O
+container	O
+container_1445144423722_0020_01_000008	B
+to	O
+attempt_1445144423722_0020_m_000006_0	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.5343203	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+222	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+223	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Resolved	O
+MSRA-SA-39.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.80356	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000003	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000001_0	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+attempt_1445144423722_0020_m_000003_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	B
+to	O
+UNASSIGNED	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+290	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.1066108	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+134	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+TaskAttempt:	O
+[attempt_1445144423722_0020_m_000000_0]	B
+using	O
+containerId:	O
+[container_1445144423722_0020_01_000002	B
+on	O
+NM:	O
+[04DN8IQ.fareast.corp.microsoft.com:54883]	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.35880664	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.36404583	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+74	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+95	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+109	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Input	O
+size	O
+for	O
+job	O
+job_1445144423722_0020	B
+=	O
+1256521728.	B
+Number	O
+of	O
+splits	O
+=	O
+10	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+307	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+208	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+185	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+328	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+236	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+160	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.6199081	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+52	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Registering	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.job.event.JobEventType	B
+for	O
+class	O
+org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobEventDispatcher	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+207	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.27696857	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+88	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+232	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.1795899	B
+
+Added	O
+attempt_1445144423722_0020_m_000002_1	B
+to	O
+list	O
+of	O
+failed	O
+maps	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+151	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+159	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+96	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Executing	O
+with	O
+tokens:	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=0	B
+release=	O
+1	B
+newContainers=0	B
+finishedContainers=1	B
+resourcelimit=<memory:1024,	B
+vCores:-26>	B
+knownNMs=4	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+84	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+adding	O
+path	O
+spec:	O
+/ws/*	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10004553	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+340	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Launching	O
+attempt_1445144423722_0020_m_000008_0	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+After	O
+Scheduling:	O
+PendingReds:1	B
+ScheduledMaps:9	B
+ScheduledReds:0	B
+AssignedMaps:1	B
+AssignedReds:0	B
+CompletedMaps:0	B
+CompletedReds:0	B
+ContAlloc:1	B
+ContRel:0	B
+HostLocal:0	B
+RackLocal:1	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+231	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+97	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.106493875	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+140	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+40	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.19212553	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+228	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+getResources()	O
+for	O
+application_1445144423722_0020:	B
+ask=4	B
+release=	O
+0	B
+newContainers=1	B
+finishedContainers=0	B
+resourcelimit=<memory:0,	B
+vCores:-27>	B
+knownNMs=4	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+312	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+179	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000009_0	B
+is	O
+:	O
+0.5323719	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.38137424	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+attempt_1445144423722_0020_m_000000_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+ASSIGNED	B
+to	O
+RUNNING	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000007_0	B
+is	O
+:	O
+0.10681946	B
+
+Started	O
+HttpServer2$SelectChannelConnectorWithSafeStartup@0.0.0.0:62267	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.19716828	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Default	O
+file	O
+system	O
+[hdfs://msra-sa-41:9000]	B
+
+Processing	O
+the	O
+event	O
+EventType:	O
+CONTAINER_REMOTE_LAUNCH	B
+for	O
+container	O
+container_1445144423722_0020_01_000003	B
+taskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+The	O
+job-jar	O
+file	O
+on	O
+the	O
+remote	O
+FS	O
+is	O
+hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.jar	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Resolved	O
+MININT-FNANLI5.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+task_1445144423722_0020_m_000000	B
+Task	O
+Transitioned	O
+from	O
+NEW	B
+to	O
+SCHEDULED	B
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Diagnostics	O
+report	O
+from	O
+attempt_1445144423722_0020_m_000001_0:	B
+Error:	O
+java.net.NoRouteToHostException:	O
+No	O
+Route	O
+to	O
+Host	O
+from	O
+MININT-FNANLI5/127.0.0.1	B
+to	O
+msra-sa-41:9000	B
+failed	O
+on	O
+socket	O
+timeout	O
+exception:	O
+java.net.NoRouteToHostException:	O
+No	O
+route	O
+to	O
+host:	O
+no	O
+further	O
+information;	O
+For	O
+more	O
+details	O
+see:	O
+http://wiki.apache.org/hadoop/NoRouteToHost	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.36323506	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+245	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+269	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000004_0	B
+is	O
+:	O
+0.44968578	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.19211523	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+48	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.33995733	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.37551183	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Auth	O
+successful	O
+for	O
+job_1445144423722_0020	B
+(auth:SIMPLE)	B
+
+Putting	O
+shuffle	O
+token	O
+in	O
+serviceData	O
+
+After	O
+Scheduling:	O
+PendingReds:0	B
+ScheduledMaps:1	B
+ScheduledReds:1	B
+AssignedMaps:9	B
+AssignedReds:0	B
+CompletedMaps:1	B
+CompletedReds:0	B
+ContAlloc:11	B
+ContRel:1	B
+HostLocal:7	B
+RackLocal:3	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.667	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000000_0	B
+is	O
+:	O
+0.10635664	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000003_0	B
+is	O
+:	O
+0.19209063	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Got	O
+allocated	O
+containers	O
+2	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:4096,	B
+vCores:-23>	B
+
+Error	O
+Recovery	O
+for	O
+block	O
+BP-1347369012-10.190.173.170-1444972147527:blk_1073743512_2731	B
+in	O
+pipeline	O
+10.86.169.121:50010,	B
+10.190.173.170:50010:	B
+bad	O
+datanode	O
+10.190.173.170:50010	B
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+attempt_1445144423722_0020_r_000000_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	B
+to	O
+UNASSIGNED	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Instantiated	O
+MRClientService	O
+at	O
+MININT-FNANLI5.fareast.corp.microsoft.com/10.86.169.121:62260	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+227	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000005_0	B
+is	O
+:	O
+0.44950968	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+271	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+274	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000002_0	B
+is	O
+:	O
+0.10660437	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.36319977	B
+
+OutputCommitter	O
+is	O
+org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter	B
+
+Opening	O
+proxy	O
+:	O
+MSRA-SA-41.fareast.corp.microsoft.com:7109	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000001_0	B
+is	O
+:	O
+0.27776006	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+83	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+JVM	O
+with	O
+ID:	O
+jvm_1445144423722_0020_m_000005	B
+given	O
+task:	O
+attempt_1445144423722_0020_m_000003_0	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Progress	O
+of	O
+TaskAttempt	O
+attempt_1445144423722_0020_m_000006_0	B
+is	O
+:	O
+0.106964506	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Resolved	O
+04DN8IQ.fareast.corp.microsoft.com	B
+to	O
+/default-rack	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+124	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+ERROR	O
+IN	O
+CONTACTING	O
+RM.	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:8030	B
+New:	O
+msra-sa-41:8030	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+263	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Address	O
+change	O
+detected.	O
+Old:	O
+msra-sa-41/10.190.173.170:9000	B
+New:	O
+msra-sa-41:9000	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+Reduce	O
+slow	O
+start	O
+threshold	O
+not	O
+met.	O
+completedMapsForReduceSlowstart	O
+1	B
+
+attempt_1445144423722_0020_m_000009_0	B
+TaskAttempt	O
+Transitioned	O
+from	O
+NEW	B
+to	O
+UNASSIGNED	B
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+127	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Failed	O
+to	O
+renew	O
+lease	O
+for	O
+[DFSClient_NONMAPREDUCE_1537864556_1]	B
+for	O
+78	B
+seconds.	O
+Will	O
+retry	O
+shortly	O
+...	O
+
+Processing	O
+the	O
+event	O
+EventType:	O
+TASK_ABORT	O
+
+Retrying	O
+connect	O
+to	O
+server:	O
+msra-sa-41:8030.	B
+Already	O
+tried	O
+0	B
+time(s);	O
+retry	O
+policy	O
+is	O
+RetryUpToMaximumCountWithFixedSleep(maxRetries=10,	B
+sleepTime=1000	B
+MILLISECONDS)	O
+
+Recalculating	O
+schedule,	O
+headroom=<memory:0,	B
+vCores:-27>	B
+
+Recalculating	O
+schedule,	O
+headroom=<memory:8192,	B
+vCores:-19>	B
+

@@ -218,3 +218,8 @@ __marimo__/
 *full_dataset/*
 
 **/glove.6B.*
+
+*result/result_DrainUP_full/*.csv
+*result/result_DrainUP_full/backups/*.csv
+*result/result_Drain_full/*.csv
+*result/result_UniParser_full/*.csv

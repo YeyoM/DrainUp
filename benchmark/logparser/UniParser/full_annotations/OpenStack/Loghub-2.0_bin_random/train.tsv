@@ -1,0 +1,3974 @@
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2621419	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del	B
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/b9000564-fe1a-409b-b8cc-1e88b294cd1d_del	B
+complete	O
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/a015cf14-84bb-4156-a48d-7c4824ac7a9d_del	B
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2619240	B
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.21.138,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+157	B
+time:	O
+0.0010941	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Took	O
+20.14	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2652020	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2866180	B
+
+Creating	O
+event	O
+network-vif-plugged:1bb8c7a3-effa-4568-8cf7-2b9a55011df9	B
+for	O
+instance	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8	B
+
+10.11.21.131,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+967	B
+time:	O
+0.2374320	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+10.11.10.1	B
+"POST	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers	B
+HTTP/1.1"	B
+status:	O
+202	B
+len:	O
+733	B
+time:	O
+0.6686139	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2777491	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2650268	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2536151	B
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Instance	O
+spawned	O
+successfully.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Took	O
+0.48	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"DELETE	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/95960536-049b-41f6-9049-05fc479b6a7c	B
+HTTP/1.1"	B
+status:	O
+204	B
+len:	O
+203	B
+time:	O
+0.2639730	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2570741	B
+
+10.11.21.136,10.11.10.1	B
+"GET	O
+/openstack/2012-08-10/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+264	B
+time:	O
+0.2157998	B
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Took	O
+1.01	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+10.11.21.143,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2292829	B
+
+10.11.21.131,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2361510	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2557549	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2753210	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2578239	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Took	O
+20.35	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2587070	B
+
+10.11.10.1	B
+"POST	O
+/v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+380	B
+time:	O
+0.0975678	B
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1759	B
+time:	O
+0.2735381	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1583	B
+time:	O
+0.1962459	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.10.1	B
+"DELETE	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/be793e89-2cc3-4f99-9884-9c6a624a84bc	B
+HTTP/1.1"	B
+status:	O
+204	B
+len:	O
+203	B
+time:	O
+0.2519062	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2639749	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1916	B
+time:	O
+0.2837551	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1583	B
+time:	O
+0.1848371	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2707500	B
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Took	O
+1.02	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+10.11.21.143,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+967	B
+time:	O
+0.2221360	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Took	O
+1.01	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+10.11.21.135,10.11.10.1	B
+"GET	O
+/latest/meta-data/block-device-mapping/root	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.0009499	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2634912	B
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Creating	O
+image	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2646890	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2498651	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2646151	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1759	B
+time:	O
+0.2754171	B
+
+10.11.21.142,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2241619	B
+
+10.11.21.130,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+967	B
+time:	O
+0.2323599	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1575	B
+time:	O
+0.1955159	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+Took	O
+20.05	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2567759	B
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.3648129	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2677131	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2778099	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+211	B
+time:	O
+0.0931380	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Took	O
+1.11	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2692139	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/af5f7392-f7d4-4298-b647-c98924c64aa1_del	B
+complete	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/b562ef10-ba2d-48ae-bf4a-18666cba4a51	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1708	B
+time:	O
+0.2013841	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2643571	B
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Took	O
+19.37	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2594640	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2672410	B
+
+10.11.21.140,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+157	B
+time:	O
+0.2332909	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.3834350	B
+
+10.11.10.1	B
+"POST	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers	B
+HTTP/1.1"	B
+status:	O
+202	B
+len:	O
+733	B
+time:	O
+0.5169401	B
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2659788	B
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1759	B
+time:	O
+0.2935462	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1874	B
+time:	O
+0.1886330	B
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Took	O
+0.99	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2586210	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2563319	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2613258	B
+
+10.11.21.143,10.11.10.1	B
+"GET	O
+/latest/meta-data/block-device-mapping/root	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.0009151	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1583	B
+time:	O
+0.1964839	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/43204226-2f87-4da7-b7ee-4d20cc66e846_del	B
+complete	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2566571	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.3674121	B
+
+Creating	O
+event	O
+network-vif-plugged:418c107f-95d6-4655-ae6b-90bca57d9a71	B
+for	O
+instance	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc	B
+
+10.11.21.134,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2222700	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2620330	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.4316020	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Took	O
+19.96	B
+seconds	O
+to	O
+spawn	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2702570	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2591708	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+10.11.10.1	B
+"DELETE	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4	B
+HTTP/1.1"	B
+status:	O
+204	B
+len:	O
+203	B
+time:	O
+0.2604880	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1583	B
+time:	O
+0.1850250	B
+
+10.11.21.141,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2249861	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2522721	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2540510	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+10.11.10.1	B
+"DELETE	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/bf8c824d-f099-4433-a41e-e3da7578262e	B
+HTTP/1.1"	B
+status:	O
+204	B
+len:	O
+203	B
+time:	O
+0.2631681	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2575791	B
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+0	B
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1910	B
+time:	O
+0.2920430	B
+
+Creating	O
+event	O
+network-vif-plugged:b26c4935-6377-4e96-9ba1-ec6985d42d5d	B
+for	O
+instance	O
+78dc1847-8848-49cc-933e-9239b12c9dcf	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.21.143,10.11.10.1	B
+"GET	O
+/latest/meta-data/block-device-mapping/	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.0010331	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1874	B
+time:	O
+0.2152700	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Took	O
+0.57	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2692790	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2575760	B
+
+10.11.10.1	B
+"POST	O
+/v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events	B
+HTTP/1.1"	B
+status:	O
+404	B
+len:	O
+296	B
+time:	O
+0.0847020	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2575240	B
+
+10.11.10.1	B
+"POST	O
+/v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events	B
+HTTP/1.1"	B
+status:	O
+404	B
+len:	O
+296	B
+time:	O
+0.0926130	B
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2659068	B
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Took	O
+20.79	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1910	B
+time:	O
+0.2790279	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2499630	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2491391	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1916	B
+time:	O
+0.2677610	B
+
+10.11.21.125,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2296579	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2626150	B
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Terminating	O
+instance	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+10.11.21.143,10.11.10.1	B
+"GET	O
+/openstack/2012-08-10/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+264	B
+time:	O
+0.2402911	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+10.11.21.123,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+967	B
+time:	O
+0.0010512	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.21.132,10.11.10.1	B
+"GET	O
+/latest/meta-data/placement/	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+134	B
+time:	O
+0.0007560	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1575	B
+time:	O
+0.1933501	B
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1910	B
+time:	O
+0.2577920	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2485340	B
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+Instance	O
+spawned	O
+successfully.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1583	B
+time:	O
+0.2042511	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2528281	B
+
+Removable	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.21.142,10.11.10.1	B
+"GET	O
+/latest/meta-data/	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+328	B
+time:	O
+0.2538400	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+10.11.10.1	B
+"POST	O
+/v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+380	B
+time:	O
+0.1030841	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2576840	B
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Claim	O
+successful	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Took	O
+0.48	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2857480	B
+
+[instance:	O
+b9000564-fe1a-409b-b8cc-1e88b294cd1d]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+The	O
+instance	O
+sync	O
+for	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'	B
+did	O
+not	O
+match.	O
+Re-created	O
+its	O
+InstanceList.	O
+
+10.11.21.141,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+157	B
+time:	O
+0.0009151	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2648492	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2599471	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.4324191	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2626660	B
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+10.11.21.124,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.0006270	B
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+Instance	O
+spawned	O
+successfully.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2663469	B
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+211	B
+time:	O
+0.1033430	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2634540	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1910	B
+time:	O
+0.2577119	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+Took	O
+20.22	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+10.11.21.130,10.11.10.1	B
+"GET	O
+/openstack/2012-08-10/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+264	B
+time:	O
+0.2336938	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2727239	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Took	O
+20.55	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1759	B
+time:	O
+0.2756851	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2577181	B
+
+10.11.21.135,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.0010960	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1759	B
+time:	O
+0.2717040	B
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del	B
+complete	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2498078	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1910	B
+time:	O
+0.2428820	B
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2774739	B
+
+10.11.21.127,10.11.10.1	B
+"GET	O
+/openstack/2012-08-10/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+264	B
+time:	O
+0.2254272	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1910	B
+time:	O
+0.2721858	B
+
+10.11.10.1	B
+"DELETE	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5	B
+HTTP/1.1"	B
+status:	O
+204	B
+len:	O
+203	B
+time:	O
+0.2801199	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2508061	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2558119	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2773159	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+Instance	O
+spawned	O
+successfully.	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/96abccce-8d1f-4e07-b6d1-4b2ab87e23b4_del	B
+complete	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2677679	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2598279	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2497211	B
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Took	O
+0.53	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Deletion	O
+of	O
+/var/lib/nova/instances/63a0d960-70b6-44c6-b606-491478a5cadf_del	B
+complete	O
+
+10.11.10.1	B
+"POST	O
+/v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+380	B
+time:	O
+0.0935540	B
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2462721	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+10.11.21.135,10.11.10.1	B
+"GET	O
+/latest/meta-data/reservation-id	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+127	B
+time:	O
+0.2272091	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+Base	O
+or	O
+swap	O
+file	O
+too	O
+young	O
+to	O
+remove:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+Total	O
+usable	O
+vcpus:	O
+16,	B
+total	O
+allocated	O
+vcpus:	O
+1	B
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Instance	O
+spawned	O
+successfully.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1916	B
+time:	O
+0.2653639	B
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+VM	O
+Started	O
+(Lifecycle	O
+Event)	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2774730	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2564912	B
+
+[instance:	O
+faf974ea-cba5-4e1b-93f4-3a3bc606006f]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2582810	B
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2700448	B
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Total	O
+disk:	O
+15	B
+GB,	O
+used:	O
+0.00	B
+GB	O
+
+HTTP	O
+exception	O
+thrown:	O
+No	O
+instances	O
+found	O
+for	O
+any	O
+event	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.21.123,10.11.10.1	B
+"GET	O
+/latest/meta-data/	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+328	B
+time:	O
+0.0009170	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.21.122,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2368760	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2571011	B
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.10.1	B
+"POST	O
+/v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+380	B
+time:	O
+0.0901439	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2563808	B
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+a015cf14-84bb-4156-a48d-7c4824ac7a9d]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2493019	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1916	B
+time:	O
+0.2644901	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+10.11.21.129,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/user_data	B
+HTTP/1.1"	B
+status:	O
+404	B
+len:	O
+176	B
+time:	O
+0.0006950	B
+
+10.11.21.140,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/user_data	B
+HTTP/1.1"	B
+status:	O
+404	B
+len:	O
+176	B
+time:	O
+0.0012619	B
+
+10.11.21.133,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/user_data	B
+HTTP/1.1"	B
+status:	O
+404	B
+len:	O
+176	B
+time:	O
+0.2186041	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+[instance:	O
+af5f7392-f7d4-4298-b647-c98924c64aa1]	B
+During	O
+sync_power_state	O
+the	O
+instance	O
+has	O
+a	O
+pending	O
+task	O
+(spawning).	O
+Skip.	O
+
+[instance:	O
+be793e89-2cc3-4f99-9884-9c6a624a84bc]	B
+Creating	O
+image	O
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+disk	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+127e769a-4fe6-4548-93b1-513ac51e0452]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2756960	B
+
+[instance:	O
+70c1714b-c11b-4c88-b300-239afe1f5ff8]	B
+Claim	O
+successful	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2769511	B
+
+10.11.21.132,10.11.10.1	B
+"GET	O
+/latest/meta-data/hostname	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+130	B
+time:	O
+0.0011861	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1916	B
+time:	O
+0.3824501	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+Creating	O
+event	O
+network-vif-plugged:0b72aca0-102e-4421-8ff3-2902d8353ff0	B
+for	O
+instance	O
+d6b7bd36-2943-4363-9235-fffdd89ea40e	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1759	B
+time:	O
+0.2800210	B
+
+Compute_service	O
+record	O
+updated	O
+for	O
+cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us:cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Took	O
+20.72	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.3592770	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2646649	B
+
+[instance:	O
+bf8c824d-f099-4433-a41e-e3da7578262e]	B
+Took	O
+1.00	B
+seconds	O
+to	O
+destroy	O
+the	O
+instance	O
+on	O
+the	O
+hypervisor.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1583	B
+time:	O
+0.1909380	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2618630	B
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2585871	B
+
+10.11.21.132,10.11.10.1	B
+"GET	O
+/latest/meta-data/block-device-mapping/ami	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+119	B
+time:	O
+0.0010529	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2421730	B
+
+Creating	O
+event	O
+network-vif-plugged:a208479c-c0e3-4730-a5a0-d75e8afd0252	B
+for	O
+instance	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2561631	B
+
+10.11.21.136,10.11.10.1	B
+"GET	O
+/latest/meta-data/block-device-mapping/	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2300491	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2577350	B
+
+10.11.21.123,10.11.10.1	B
+"GET	O
+/openstack/2012-08-10/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+264	B
+time:	O
+0.2205780	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2536900	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2760520	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+Unknown	O
+base	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+Successfully	O
+synced	O
+instances	O
+from	O
+host	O
+'cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us'.	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2812061	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2519629	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2708280	B
+
+10.11.10.1	B
+"POST	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers	B
+HTTP/1.1"	B
+status:	O
+202	B
+len:	O
+733	B
+time:	O
+0.4923580	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2791021	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+b562ef10-ba2d-48ae-bf4a-18666cba4a51]	B
+Total	O
+memory:	O
+64172	B
+MB,	O
+used:	O
+512.00	B
+MB	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.3579462	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+Instance	O
+spawned	O
+successfully.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.4467819	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2486479	B
+
+10.11.21.136,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/meta_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+967	B
+time:	O
+0.0009689	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1910	B
+time:	O
+0.2753000	B
+
+[instance:	O
+d96a117b-0193-4549-bdcc-63b917273d1d]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Took	O
+19.92	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=2560MB	B
+phys_disk=15GB	B
+used_disk=20GB	B
+total_vcpus=16	B
+used_vcpus=1	B
+pci_stats=[]	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1759	B
+time:	O
+0.2832491	B
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=512MB	B
+phys_disk=15GB	B
+used_disk=0GB	B
+total_vcpus=16	B
+used_vcpus=0	B
+pci_stats=[]	B
+
+[instance:	O
+7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5]	B
+Total	O
+vcpu:	O
+16	B
+VCPU,	O
+used:	O
+0.00	B
+VCPU	O
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+c62f4f25-982c-4ea2-b5e4-93000edfcfbf]	B
+Took	O
+0.58	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+memory	O
+limit:	O
+96258.00	B
+MB,	O
+free:	O
+95746.00	B
+MB	O
+
+[instance:	O
+43204226-2f87-4da7-b7ee-4d20cc66e846]	B
+Deleting	O
+instance	O
+files	O
+/var/lib/nova/instances/43204226-2f87-4da7-b7ee-4d20cc66e846_del	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2727931	B
+
+[instance:	O
+fecdd5a9-3ca0-4c82-9336-63b7774f738e]	B
+Claim	O
+successful	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+10.11.21.139,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/user_data	B
+HTTP/1.1"	B
+status:	O
+404	B
+len:	O
+176	B
+time:	O
+0.0010579	B
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+in	O
+use:	O
+on	O
+this	O
+node	O
+1	B
+local,	O
+0	B
+on	O
+other	O
+nodes	O
+sharing	O
+this	O
+instance	O
+storage	O
+
+Creating	O
+event	O
+network-vif-plugged:e1bf6353-ae58-4e46-b2d1-65a69b992bed	B
+for	O
+instance	O
+63a0d960-70b6-44c6-b606-491478a5cadf	B
+
+10.11.21.128,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2283430	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1575	B
+time:	O
+0.1659300	B
+
+10.11.21.137,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/user_data	B
+HTTP/1.1"	B
+status:	O
+404	B
+len:	O
+176	B
+time:	O
+0.2108901	B
+
+10.11.10.1	B
+"POST	O
+/v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+380	B
+time:	O
+0.0926321	B
+
+10.11.21.139,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17/vendor_data.json	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+124	B
+time:	O
+0.2188199	B
+
+10.11.21.134,10.11.10.1	B
+"GET	O
+/openstack/2013-10-17	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+157	B
+time:	O
+0.2231328	B
+
+Removing	O
+base	O
+or	O
+swap	O
+file:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2690120	B
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+vcpu	O
+limit	O
+not	O
+specified,	O
+defaulting	O
+to	O
+unlimited	O
+
+[instance:	O
+78dc1847-8848-49cc-933e-9239b12c9dcf]	B
+Instance	O
+destroyed	O
+successfully.	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+
+[instance:	O
+ae3a1b5d-eec1-45bb-b76a-c59d83b1471f]	B
+Attempting	O
+claim:	O
+memory	O
+2048	B
+MB,	O
+disk	O
+20	B
+GB,	O
+vcpus	O
+1	B
+CPU	O
+
+[instance:	O
+95960536-049b-41f6-9049-05fc479b6a7c]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1910	B
+time:	O
+0.2486420	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2634399	B
+
+Active	O
+base	O
+files:	O
+/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742	B
+
+[instance:	O
+17288ea8-cbf4-4f0e-94fe-853fd2735f29]	B
+VM	O
+Paused	O
+(Lifecycle	O
+Event)	O
+
+image	O
+0673dd71-34c5-4fbb-86c4-40623fbe45b4	B
+at	O
+(/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742):	B
+checking	O
+
+Final	O
+resource	O
+view:	O
+name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us	B
+phys_ram=64172MB	B
+used_ram=512MB	B
+phys_disk=15GB	B
+used_disk=0GB	B
+total_vcpus=16	B
+used_vcpus=0	B
+pci_stats=[]	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2719719	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+Took	O
+20.71	B
+seconds	O
+to	O
+build	O
+instance.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2432280	B
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2582371	B
+
+[instance:	O
+63a0d960-70b6-44c6-b606-491478a5cadf]	B
+Took	O
+0.46	B
+seconds	O
+to	O
+deallocate	O
+network	O
+for	O
+instance.	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1893	B
+time:	O
+0.2604382	B
+
+[instance:	O
+d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c]	B
+VM	O
+Stopped	O
+(Lifecycle	O
+Event)	O
+
+10.11.10.1	B
+"GET	O
+/v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail	B
+HTTP/1.1"	B
+status:	O
+200	B
+len:	O
+1874	B
+time:	O
+0.2131531	B
+
+[instance:	O
+96abccce-8d1f-4e07-b6d1-4b2ab87e23b4]	B
+VM	O
+Resumed	O
+(Lifecycle	O
+Event)	O
+

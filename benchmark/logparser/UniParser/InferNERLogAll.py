@@ -13,9 +13,14 @@ import time
 import json
 
 def csv_reader(path):
-    with open(path, 'r', encoding='utf-8') as fp:
-        reader = csv.reader(fp)
-        data = [i for i in reader]
+    with open(path, 'r', encoding='utf-8', errors='ignore') as fp:
+        # Read the file and remove NUL bytes
+        content = fp.read().replace('\x00', '')
+    
+    # Parse the cleaned content
+    from io import StringIO
+    reader = csv.reader(StringIO(content))
+    data = [i for i in reader]
     return data
 
 def csv_writer(path, header, data):
@@ -42,7 +47,7 @@ if __name__ == "__main__":
     set_seed(42)
     use_device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     datasets = ['Apache', 'BGL', 'HDFS', 'HPC', 'Hadoop', 'HealthApp', 'Linux', 'Mac', 'OpenSSH', 'OpenStack',
-             'Proxifier', 'Spark', 'Thunderbird', 'Zookeeper']
+             'Proxifier', 'Spark', 'Zookeeper']
 
     # Dictionary to store parsing times for all datasets
     parsing_times = {}

@@ -21,7 +21,6 @@ def write_ner_tsv_data(data, path):
             fout.write(lines + '\n\n')
 
 
-
 #####################################################
 #####################################################
 ######## Use Parsing CSV file #######################
@@ -39,7 +38,7 @@ def csv_writer(path, header, data):
         writer.writerows(data)
 
 def modify_prompt(logs, templates, dataset):
-    df = pd.read_csv(f"../../full_dataset/{dataset}/{dataset}_full.log_structured.csv")
+    df = pd.read_csv(f"../../../full_dataset/{dataset}/{dataset}_full.log_structured.csv")
     df = df.drop_duplicates(subset=['Content'])
     logs = [re.sub(' +', ' ', log).strip() for log in logs]
     df = df[df['Content'].isin(logs)]
@@ -53,7 +52,7 @@ def modify_prompt(logs, templates, dataset):
     return logs, templates
 
 datasets = ['Apache', 'BGL', 'HDFS', 'HPC', 'Hadoop', 'HealthApp', 'Linux', 'Mac', 'OpenSSH', 'OpenStack',
-         'Proxifier', 'Spark', 'Thunderbird', 'Zookeeper']
+         'Proxifier', 'Spark', 'Zookeeper']
 
 config = argparse.ArgumentParser()
 config.add_argument('-full', '--full_data',
@@ -64,7 +63,7 @@ data_type = 'full' if config.full_data else '2k'
 sentenceList = []
 for dataset in datasets:
     print(f"{dataset}")
-    data_dir = f'../../2k_dataset/{dataset}'
+    data_dir = f'../../../2k_dataset/{dataset}'
     data = csv_reader(os.path.join(data_dir, f"{dataset}_2k.log_structured_corrected.csv"))
     header = data[0]
     contents = data[1:]
@@ -103,13 +102,4 @@ for dataset in datasets:
     write_ner_tsv_data([pairs[i] for i in train], os.path.join(output_dir, 'Loghub-2.0_bin_random', 'train.tsv'))
     write_ner_tsv_data([pairs[i] for i in dev], os.path.join(output_dir, 'Loghub-2.0_bin_random', 'val.tsv'))
     write_ner_tsv_data([pairs[i] for i in test], os.path.join(output_dir, 'Loghub-2.0_bin_random', 'test.tsv'))
-
-
-
-"""
-Hadoop: Counter({'O': 12870, 'B': 3860})
-Hadoop # pairs: 2000
-
-
-"""
 

@@ -1,0 +1,2780 @@
+iar	O
+003a926c	B
+dear	O
+00f2b078	B
+
+data	O
+storage	O
+interrupt	O
+
+generating	O
+core.851	B
+
+iar	O
+001061dc	B
+dear	O
+0244c22c	B
+
+generating	O
+core.20392	B
+
+generating	O
+core.865	B
+
+Node	O
+card	O
+is	O
+not	O
+fully	O
+functional	O
+
+icache	O
+prefetch	O
+threshold................0	B
+
+iar	O
+001061dc	B
+dear	O
+0244c22c	B
+
+data	O
+storage	O
+interrupt	O
+
+total	O
+of	O
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+
+iar	O
+00106210	B
+dear	O
+0244c1dc	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+PrepareForService	O
+shutting	O
+down	O
+NodeCard(mLctn(R25-M1-N2),	B
+mCardSernum(203231503833343000000000594c31304b34333431303158),	B
+mLp(FF:F2:9F:16:CF:0F:00:0D:60:E9:30:F0),	B
+mIp(10.2.2.80),	B
+mType(4))	B
+as	O
+part	O
+of	O
+Service	O
+Action	O
+310	B
+
+generating	O
+core.17817	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+data	O
+storage	O
+interrupt	O
+
+program	O
+interrupt	O
+
+generating	O
+core.26156	B
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+generating	O
+core.5307	B
+
+generating	O
+core.16019	B
+
+generating	O
+core.9578	B
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/followup/RAPTOR/new.raptor.trace:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+36833864	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+CE	O
+sym	O
+20,	B
+at	O
+0x0a508740,	B
+mask	O
+0x02	B
+
+total	O
+of	O
+3	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+over	O
+8732	B
+seconds	O
+
+generating	O
+core.4159	B
+
+program	O
+interrupt:	O
+illegal	O
+instruction......1	B
+
+generating	O
+core.5671	B
+
+Node	O
+card	O
+is	O
+not	O
+fully	O
+functional	O
+
+generating	O
+core.10185	B
+
+iar	O
+001061b4	B
+dear	O
+024701dc	B
+
+10686	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+generating	O
+core.728	B
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+00105e88	B
+dear	O
+02f6436c	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+CE	O
+sym	O
+6,	B
+at	O
+0x06ec7a20,	B
+mask	O
+0x20	B
+
+generating	O
+core.34898	B
+
+generating	O
+core.58351	B
+
+ciod:	O
+Error	O
+loading	O
+/p/gb1/stella/SPPM/1322/sppm_DD:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+auxiliary	O
+processor.........................0	B
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.50841	B
+
+Machine	O
+State	O
+Register:	O
+0x0002f900	B
+
+data	O
+storage	O
+interrupt	O
+
+generating	O
+core.8803	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+generating	O
+core.14071	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:52930,	B
+Connection	O
+reset	O
+by	O
+peer	O
+
+generating	O
+core.46559	B
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+CE	O
+sym	O
+30,	B
+at	O
+0x042358a0,	B
+mask	O
+0x20	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+25,	B
+bit	O
+1	B
+
+iar	O
+00106228	B
+dear	O
+0244c1ec	B
+
+generating	O
+core.9337	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+20,	B
+bit	O
+3	B
+
+data	O
+store	O
+interrupt	O
+caused	O
+by	O
+icbi.........0	B
+
+PrepareForService	O
+shutting	O
+down	O
+Node	O
+card(mLctn(R10-M1-N2),	B
+mCardSernum(203231503833343000000000594c31304b34323934303257),	B
+mLp(FF:F2:9F:16:E0:DA:00:0D:60:E9:1F:25),	B
+mIp(10.1.1.164),	B
+mType(4))	B
+as	O
+part	O
+of	O
+Service	O
+Action	O
+648	B
+
+generating	O
+core.10860	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.10514	B
+
+generating	O
+core.424	B
+
+488205	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+003a9260	B
+dear	O
+0128fc88	B
+
+iar	O
+003a90fc	B
+dear	O
+00b360e8	B
+
+10652	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10722	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+generating	O
+core.7183	B
+
+generating	O
+core.36904	B
+
+generating	O
+core.9881	B
+
+ciod:	O
+Error	O
+loading	O
+/home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.1694	B
+
+NFS	O
+Mount	O
+failed	O
+on	O
+bglio716,	B
+slept	O
+15	B
+seconds,	O
+retrying	O
+(1)	B
+
+generating	O
+core.7151	B
+
+iar	O
+0010681c	B
+dear	O
+02f692fc	B
+
+generating	O
+core.8877	B
+
+CE	O
+sym	O
+10,	B
+at	O
+0x08d10580,	B
+mask	O
+0x08	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001f2	B
+
+critical	O
+input	O
+interrupt	O
+(unit=0x0b	B
+bit=0x0a):	B
+warning	O
+for	O
+torus	O
+z+	B
+wire,	O
+suppressing	O
+further	O
+interrupts	O
+of	O
+same	O
+type	O
+
+10686	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+machine	O
+check:	O
+i-fetch......................0	B
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio617	B
+:	O
+block_id	O
+:	O
+location	O
+
+Kernel	O
+detected	O
+3747792	B
+integer	O
+alignment	O
+exceptions	O
+(3747785)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01fc9220	B
+(3747786)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01fc9240	B
+(3747787)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01fc9260	B
+(3747788)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01fc9280	B
+(3747789)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01fc92a0	B
+(3747790)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01fc92c0	B
+(3747791)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01fc92e0	B
+(3747792)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01fc9300	B
+
+generating	O
+core.15737	B
+
+iar	O
+003a9260	B
+dear	O
+012979b8	B
+
+ciod:	O
+generated	O
+64	B
+core	O
+files	O
+for	O
+program	O
+/bgl/apps/followup/hellow/a.out.1111	B
+
+generating	O
+core.10019	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.19321	B
+
+generating	O
+core.15753	B
+
+CE	O
+sym	O
+5,	B
+at	O
+0x11042a80,	B
+mask	O
+0x04	B
+
+CE	O
+sym	O
+26,	B
+at	O
+0x146ad540,	B
+mask	O
+0x10	B
+
+458720	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+CE	O
+sym	O
+25,	B
+at	O
+0x06c27c60,	B
+mask	O
+0x40	B
+
+ciod:	O
+Error	O
+loading	O
+/home/yates//torus-latency.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+47332148	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+ciod:	O
+generated	O
+64	B
+core	O
+files	O
+for	O
+program	O
+/bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm	B
+
+1524480	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.978	B
+
+generating	O
+core.31691	B
+
+iar	O
+00106210	B
+dear	O
+0244c20c	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.4615	B
+
+generating	O
+core.19744	B
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+CE	O
+sym	O
+0,	B
+at	O
+0x12af93a0,	B
+mask	O
+0x08	B
+
+ciod:	O
+LOGIN	O
+chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+685	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+instruction	O
+address:	O
+0x0062fe04	B
+
+ciod:	O
+Error	O
+loading	O
+/home/yates//broadcast.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+generating	O
+core.17517	B
+
+MACHINE	O
+CHECK	O
+DCR	O
+read	O
+timeout	O
+(mc=e08x	B
+iar	O
+0x00000000	B
+lr	O
+0xc00045a4)	B
+
+iar	O
+00106588	B
+dear	O
+0245a17c	B
+
+iar	O
+00106bd8	B
+dear	O
+0245cf3c	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+344040	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+00106288	B
+dear	O
+02f7a0fc	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:50288,	B
+Link	O
+has	O
+been	O
+severed	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+generating	O
+core.19296	B
+
+rts	O
+panic!	O
+-	O
+stopping	O
+execution	O
+
+458720	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+program	O
+interrupt	O
+
+generating	O
+core.4012	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+17,	B
+bit	O
+7	B
+
+generating	O
+core.17493	B
+
+program	O
+interrupt:	O
+illegal	O
+instruction......1	B
+
+iar	O
+00149ee0	B
+dear	O
+009a2788	B
+
+generating	O
+core.11244	B
+
+generating	O
+core.7068	B
+
+147337410	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.27704	B
+
+floating	O
+point	O
+instr.	O
+enabled.....1	B
+
+458720	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.18540	B
+
+iar	O
+00106228	B
+dear	O
+0244c24c	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:55929,	B
+Link	O
+has	O
+been	O
+severed	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+00106568	B
+dear	O
+02494bbc	B
+
+New	O
+ido	O
+chip	O
+inserted	O
+into	O
+the	O
+database:	O
+FF:F2:9F:15:1F:72:00:0D:60:EA:E0:8D	B
+ip=10.7.0.13	B
+v=9	B
+t=2	B
+
+generating	O
+core.22807	B
+
+generating	O
+core.6161	B
+
+generating	O
+core.32116	B
+
+generating	O
+core.1988	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+machine	O
+state	O
+register:	O
+0x00002000	B
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.29025	B
+
+data	O
+storage	O
+interrupt	O
+
+iar	O
+00106568	B
+dear	O
+045e140c	B
+
+generating	O
+core.1820	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+machine	O
+check:	O
+i-fetch......................0	B
+
+generating	O
+core.42	B
+
+iar	O
+003a9260	B
+dear	O
+012924f8	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+iar	O
+001066c4	B
+dear	O
+0252528c	B
+
+CE	O
+sym	O
+8,	B
+at	O
+0x0a2ae600,	B
+mask	O
+0x10	B
+
+total	O
+of	O
+20	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+over	O
+22070	B
+seconds	O
+
+CE	O
+sym	O
+25,	B
+at	O
+0x10e1b8a0,	B
+mask	O
+0x10	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.22283	B
+
+generating	O
+core.12927	B
+
+CE	O
+sym	O
+28,	B
+at	O
+0x0fe65820,	B
+mask	O
+0x04	B
+
+generating	O
+core.11379	B
+
+generating	O
+core.7205	B
+
+generating	O
+core.12122	B
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+generating	O
+core.412	B
+
+10692	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+CE	O
+sym	O
+29,	B
+at	O
+0x1b719940,	B
+mask	O
+0x02	B
+
+exception	O
+syndrome	O
+register:	O
+0x00800000	B
+
+Node	O
+card	O
+VPD	O
+check:	O
+U11	B
+node	O
+in	O
+processor	O
+card	O
+slot	O
+J17	B
+do	O
+not	O
+match.	O
+VPD	O
+ecid	O
+04D97DB7937BFFFF05071B7054DA,	B
+found	O
+04D081A3892FFFFF0D0B1C505AF3	B
+
+total	O
+of	O
+23	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+
+iar	O
+00106580	B
+dear	O
+02494bfc	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+iar	O
+0010662c	B
+dear	O
+0245ccfc	B
+
+CE	O
+sym	O
+23,	B
+at	O
+0x03f89c00,	B
+mask	O
+0x10	B
+
+Kernel	O
+detected	O
+3946290	B
+integer	O
+alignment	O
+exceptions	O
+(3946283)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01ef6080	B
+(3946284)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01ef60a0	B
+(3946285)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01ef60c0	B
+(3946286)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01ef60e0	B
+(3946287)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01ef6100	B
+(3946288)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01ef6120	B
+(3946289)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01ef6140	B
+(3946290)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01ef6160	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.1213	B
+
+generating	O
+core.9651	B
+
+generating	O
+core.2040	B
+
+generating	O
+core.23119	B
+
+141	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+ciod:	O
+Error	O
+loading	O
+/home/spelce1/HPCC_IBM/Urgent/COP/64K/hpcc-1.0.0.102905_opt_essl_cpm:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+16	B
+tree	O
+receiver	O
+2	B
+in	O
+re-synch	O
+state	O
+event(s)	O
+(dcr	O
+0x019a)	B
+detected	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.27997	B
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.4660	B
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+data	O
+storage	O
+interrupt	O
+
+iar	O
+003a92a0	B
+dear	O
+00fcc6b8	B
+
+generating	O
+core.841	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001b0	B
+
+iar	O
+003a9260	B
+dear	O
+00f29b68	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:60243,	B
+Link	O
+has	O
+been	O
+severed	O
+
+10740	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+ciod:	O
+LOGIN	O
+chdir(/p/gb1/stella/RAPTOR/2183)	B
+failed:	O
+Input/output	O
+error	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+generating	O
+core.11564	B
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+0010639c	B
+dear	O
+0245b71c	B
+
+generating	O
+core.6940	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+generating	O
+core.30603	B
+
+generating	O
+core.11113	B
+
+generating	O
+core.5854	B
+
+data	O
+address:	O
+0x00000002	B
+
+generating	O
+core.2790	B
+
+Error	O
+receiving	O
+packet	O
+on	O
+tree	O
+network,	O
+expecting	O
+type	O
+57	B
+instead	O
+of	O
+type	O
+3	B
+(softheader=00ce22e8	B
+e6200003	B
+00000002	B
+00000000)	B
+PSR0=00001f01	B
+PSR1=00000000	B
+PRXF=00000002	B
+PIXF=00000007	B
+
+CE	O
+sym	O
+30,	B
+at	O
+0x042358a0,	B
+mask	O
+0x20	B
+
+generating	O
+core.7946	B
+
+generating	O
+core.5935	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.1123	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+CE	O
+sym	O
+15,	B
+at	O
+0x06a72120,	B
+mask	O
+0x04	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+iar	O
+001061dc	B
+dear	O
+0244c22c	B
+
+generating	O
+core.21374	B
+
+iar	O
+001061b4	B
+dear	O
+0247017c	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.18632	B
+
+62500	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+floating	O
+point	O
+instr.	O
+enabled.....1	B
+
+floating	O
+pt	O
+ex	O
+mode	O
+0	B
+enable......0	B
+
+iar	O
+00149f88	B
+dear	O
+00996f88	B
+
+generating	O
+core.29903	B
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.42	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+rts:	O
+kernel	O
+terminated	O
+for	O
+reason	O
+1003	B
+
+generating	O
+core.47007	B
+
+generating	O
+core.28370	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:52839,	B
+Connection	O
+reset	O
+by	O
+peer	O
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+CE	O
+sym	O
+33,	B
+at	O
+0x1ff2fc60,	B
+mask	O
+0x04	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+35,	B
+bit	O
+1	B
+
+generating	O
+core.39138	B
+
+data	O
+cache	O
+search	O
+parity	O
+error	O
+detected.	O
+attempting	O
+to	O
+correct	O
+
+generating	O
+core.18129	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio23	B
+:	O
+point	O
+/p/gb1	B
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/SWL/stability/HPL/WORK/1501./hpl_DD:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+generating	O
+core.20015	B
+
+generating	O
+core.4862	B
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.17526	B
+
+program	O
+interrupt:	O
+trap	O
+instruction.........0	B
+
+generating	O
+core.6698	B
+
+generating	O
+core.26918	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.46408	B
+
+generating	O
+core.1172	B
+
+Node	O
+card	O
+status:	O
+no	O
+ALERTs	O
+are	O
+active.	O
+Clock	O
+Mode	O
+is	O
+Low.	O
+Clock	O
+Select	O
+is	O
+Midplane.	O
+Phy	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+ASIC	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+Temperature	O
+Mask	O
+is	O
+not	O
+active.	O
+No	O
+temperature	O
+error.	O
+Temperature	O
+Limit	O
+Error	O
+Latch	O
+is	O
+clear.	O
+PGOOD	O
+IS	O
+NOT	O
+ASSERTED.	O
+PGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+MPGOOD	O
+IS	O
+NOT	O
+OK.	O
+MPGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+The	O
+2.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+The	O
+1.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.29308	B
+
+Node	O
+card	O
+VPD	O
+check:	O
+U01	B
+node	O
+in	O
+processor	O
+card	O
+slot	O
+J14	B
+do	O
+not	O
+match.	O
+VPD	O
+ecid	O
+074C04C10F7BFFFF08051AE08ED2,	B
+found	O
+04C180A5D12FFFFF05081BD088E2	B
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/SWL/stability/NEWS05/news05_DD:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+generating	O
+core.775	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+suppressing	O
+further	O
+interrupts	O
+of	O
+same	O
+type	O
+
+iar	O
+003a92a0	B
+dear	O
+013611f8	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+344040	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.14652	B
+
+iar	O
+001061e8	B
+dear	O
+0247015c	B
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.1916	B
+
+generating	O
+core.13776	B
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio736	B
+:	O
+point	O
+/p/gb1	B
+
+generating	O
+core.46654	B
+
+data	O
+store	O
+interrupt	O
+caused	O
+by	O
+icbi.........0	B
+
+iar	O
+00106448	B
+dear	O
+0246dacc	B
+
+program	O
+interrupt:	O
+imprecise	O
+exception......0	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.42905	B
+
+generating	O
+core.25229	B
+
+generating	O
+core.21016	B
+
+CE	O
+sym	O
+0,	B
+at	O
+0x1b858280,	B
+mask	O
+0x40	B
+
+iar	O
+00106704	B
+dear	O
+0245b77c	B
+
+Kernel	O
+detected	O
+3486044	B
+integer	O
+alignment	O
+exceptions	O
+(3486037)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01ef7c60	B
+(3486038)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01ef7c80	B
+(3486039)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01ef7ca0	B
+(3486040)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01ef7cc0	B
+(3486041)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01ef7ce0	B
+(3486042)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01ef7d00	B
+(3486043)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01ef7d20	B
+(3486044)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01ef7d40	B
+
+generating	O
+core.4489	B
+
+259822751	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+minus	O
+normalized	O
+number..................0	B
+
+iar	O
+0014a150	B
+dear	O
+00991c88	B
+
+generating	O
+core.8374	B
+
+generating	O
+core.33163	B
+
+generating	O
+core.18363	B
+
+112762744	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.29431	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+CE	O
+sym	O
+6,	B
+at	O
+0x1880a8e0,	B
+mask	O
+0x40	B
+
+iar	O
+0014a150	B
+dear	O
+0098d458	B
+
+23768676	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.6425	B
+
+iar	O
+00106228	B
+dear	O
+0244c1ec	B
+
+generating	O
+core.133	B
+
+data	O
+address:	O
+0x00000002	B
+
+generating	O
+core.28084	B
+
+generating	O
+core.58109	B
+
+CE	O
+sym	O
+34,	B
+at	O
+0x11e7ed80,	B
+mask	O
+0x80	B
+
+1	B
+tree	O
+receiver	O
+1	B
+in	O
+re-synch	O
+state	O
+event(s)	O
+(dcr	O
+0x0185)	B
+detected	O
+over	O
+244	B
+seconds	O
+
+generating	O
+core.11493	B
+
+machine	O
+state	O
+register:	O
+0x00002000	B
+
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+9	B
+over	O
+986	B
+seconds	O
+
+2576000	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+00106200	B
+dear	O
+0247019c	B
+
+generating	O
+core.1682	B
+
+generating	O
+core.536	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.30632	B
+
+generating	O
+core.12630	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+41097026	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.6884	B
+
+5	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+28	B
+over	O
+2946	B
+seconds	O
+
+iar	O
+00106534	B
+dear	O
+02494c3c	B
+
+generating	O
+core.8021	B
+
+generating	O
+core.2605	B
+
+generating	O
+core.1715	B
+
+total	O
+of	O
+5	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+over	O
+9108	B
+seconds	O
+
+generating	O
+core.4900	B
+
+data	O
+store	O
+interrupt	O
+caused	O
+by	O
+dcbf.........0	B
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+iar	O
+001061b4	B
+dear	O
+024701ac	B
+
+generating	O
+core.15966	B
+
+generating	O
+core.12536	B
+
+63543	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.2233	B
+
+458720	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.15648	B
+
+generating	O
+core.7881	B
+
+720	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+CE	O
+sym	O
+13,	B
+at	O
+0x0397e0e0,	B
+mask	O
+0x08	B
+
+640404	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+NFS	O
+Mount	O
+failed	O
+on	O
+bglio91,	B
+slept	O
+15	B
+seconds,	O
+retrying	O
+(1)	B
+
+ciod:	O
+Error	O
+loading	O
+allreduce_int_V1R1.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+generating	O
+core.45880	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+255244071	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+632431728	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+program	O
+interrupt:	O
+imprecise	O
+exception......0	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.19592	B
+
+iar	O
+00105ea0	B
+dear	O
+0244c28c	B
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+001066c4	B
+dear	O
+0252523c	B
+
+487476	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.7672	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+generating	O
+core.12357	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+11,	B
+bit	O
+6	B
+
+generating	O
+core.50505	B
+
+generating	O
+core.176	B
+
+generating	O
+core.14911	B
+
+generating	O
+core.1978	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+

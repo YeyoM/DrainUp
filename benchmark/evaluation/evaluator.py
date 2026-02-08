@@ -20,7 +20,7 @@ datasets_2k = [
     "Mac",
     "OpenSSH",
     "Spark",
-    "Thunderbird",
+    #"Thunderbird",
     "BGL",
     "HDFS",
 ]
@@ -37,7 +37,7 @@ datasets_full = [
     "Mac",
     "OpenSSH",
     "Spark",
-    "Thunderbird",
+    #"Thunderbird",
     "BGL",
     "HDFS",
 ]

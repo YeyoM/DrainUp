@@ -1,0 +1,10873 @@
+FA||Url||taskID[2019352994]	B
+dealloc	O
+
+ARPT:	O
+620701.011328:	B
+AirPort_Brcm43xx::syncPowerState:	O
+WWEN[enabled]	B
+
+ARPT:	O
+620752.337198:	B
+ARPT:	O
+Wake	O
+Reason:	O
+Wake	O
+on	O
+Scan	O
+offload	O
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+ARPT:	O
+620896.311264:	B
+wl0:	B
+MDNS:	O
+0	B
+SRV	O
+Recs,	O
+0	B
+TXT	O
+Recs	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+CCIOReporterFormatter::addRegistryChildToChannelDictionary	O
+streams	O
+7	B
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+AirPort:	O
+Link	O
+Down	O
+on	O
+awdl0.	B
+Reason	O
+1	B
+(Unspecified).	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+438666	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+621146.080894:	B
+wl0:	B
+wl_update_tcpkeep_seq:	O
+Original	O
+Seq:	O
+3014995849,	B
+Ack:	O
+2590995288,	B
+Win	O
+size:	O
+4096	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+2165	B
+seconds.	O
+Ignoring.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+13090	B
+seconds.	O
+Ignoring.	O
+
+IO80211AWDLPeerManager::setAwdlSuspendedMode()	O
+Suspending	O
+AWDL,	O
+enterQuietMode(true)	B
+
+network_reachability_changed	O
+:	O
+network	O
+is	O
+not	O
+reachable,	O
+netbiosd	O
+is	O
+shutting	O
+down	O
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+2039	B
+seconds.	O
+Ignoring.	O
+
+com.apple.Addres(31211)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+ARPT:	O
+621241.634070:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:c6b3:1ff:fecd:467f	B
+
+AirPort:	O
+Link	O
+Up	O
+on	O
+en0	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+438274	B
+seconds.	O
+Ignoring.	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1849	B
+seconds.	O
+Ignoring.	O
+
+mDNS_DeregisterInterface:	O
+Frequent	O
+transitions	O
+for	O
+interface	O
+awdl0	B
+(FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF)	B
+
+ARPT:	O
+621342.242614:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[enable]	B
+
+AirPort:	O
+Link	O
+Up	O
+on	O
+awdl0	B
+
+ARPT:	O
+621389.379319:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:c6b3:1ff:fecd:467f	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+0	B
+milliseconds	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+438095	B
+seconds.	O
+Ignoring.	O
+
+mDNS_DeregisterInterface:	O
+Frequent	O
+transitions	O
+for	O
+interface	O
+en0	B
+(2607:F140:6000:0008:C6B3:01FF:FECD:467F)	B
+
+ARPT:	O
+621492.770239:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1268	B
+seconds.	O
+Ignoring.	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+12119	B
+seconds.	O
+Ignoring.	O
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+12087	B
+seconds.	O
+Ignoring.	O
+
+mDNS_RegisterInterface:	O
+Frequent	O
+transitions	O
+for	O
+interface	O
+en0	B
+(FE80:0000:0000:0000:C6B3:01FF:FECD:467F)	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+ARPT:	O
+621686.164365:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+port:	O
+62614,	B
+Remote	O
+port:	O
+443	B
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+en0:	B
+channel	O
+changed	O
+to	O
+1	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1498928900.759059,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+Unrecognized	O
+attribute	O
+value:	O
+t:AbchPersonItemType	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+Sandbox:	O
+com.apple.Addres(31328)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+CFPasteboardRef	O
+CFPasteboardCreate(CFAllocatorRef,	O
+CFStringRef)	O
+:	O
+failed	O
+to	O
+create	O
+global	O
+data	O
+
+Sandbox:	O
+com.apple.Addres(31346)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+com.apple.Addres(31376)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+10:46:47.425	B
+:	O
+BTLE	O
+scanner	O
+Powered	O
+On	B
+
+button	O
+report:	O
+0x8002be0	B
+
+com.apple.Addres(31382)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+__42-[NETClientConnection	B
+evaluateCrazyIvan46]_block_invoke	O
+CI46	B
+-	O
+Hit	O
+by	O
+torpedo!	O
+QQ.10018	B
+tc19060	B
+125.39.133.143:14000	B
+
+Captive:	O
+[CNInfoNetworkActive:1748]	B
+en0:	B
+SSID	O
+'CalVisitor'	B
+making	O
+interface	O
+primary	O
+(cache	O
+indicates	O
+network	O
+not	O
+captive)	O
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+SUSPENDED	B
+to	O
+AUTO	B
+
+Captive:	O
+CNPluginHandler	O
+en0:	O
+Evaluating	O
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+16034	B
+seconds.	O
+Ignoring.	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1277	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+626380.467130:	B
+ARPT:	O
+Wake	O
+Reason:	O
+Wake	O
+on	O
+Scan	O
+offload	O
+
+tcp_connection_destination_perform_socket_connect	O
+19110	B
+connectx	O
+to	O
+183.57.48.75:80@0	B
+failed:	O
+[50]	B
+Network	O
+is	O
+down	O
+
+AirPort:	O
+Link	O
+Down	O
+on	O
+en0.	B
+Reason	O
+8	B
+(Disassociated	O
+because	O
+station	O
+leaving).	O
+
+11:49:29.473	B
+:	O
+BTLE	O
+scanner	O
+Powered	O
+On	B
+
+CCXPCService::setStreamEventHandler	O
+Registered	O
+for	O
+notification	O
+callback.	O
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+15759	B
+seconds.	O
+Ignoring.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+4439	B
+seconds.	O
+Ignoring.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+4429	B
+seconds.	O
+Ignoring.	O
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+0	B
+milliseconds	O
+
+Setting	O
+BTCoex	O
+Config:	O
+enable_2G:1,	B
+profile_2g:0,	B
+enable_5G:1,	B
+profile_5G:0	B
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+apsd	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+4187	B
+seconds.	O
+Ignoring.	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1542	B
+seconds.	O
+Ignoring.	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1428	B
+seconds.	O
+Ignoring.	O
+
+en0:	B
+channel	O
+changed	O
+to	O
+132,+1	B
+
+ARPT:	O
+626908.045241:	B
+wl0:	B
+setup_keepalive:	O
+interval	O
+900,	B
+retry_interval	O
+30,	B
+retry_count	O
+10	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+424575	B
+seconds.	O
+Ignoring.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+1	B
+
+RTC:	O
+PowerByCalendarDate	O
+setting	O
+ignored	O
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+en0:	B
+802.11d	B
+country	O
+code	O
+set	O
+to	O
+'X3'.	B
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+USBMSC	O
+Identifier	O
+(non-unique):	O
+000000000820	B
+0x5ac	B
+0x8406	B
+0x820,	B
+3	B
+
+ARPT:	O
+627305.613279:	B
+wl0:	B
+setup_keepalive:	O
+Seq:	O
+1664112163,	B
+Ack:	O
+818851215,	B
+Win	O
+size:	O
+4096	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+ARPT:	O
+627355.597577:	B
+ARPT:	O
+Wake	O
+Reason:	O
+Wake	O
+on	O
+Scan	O
+offload	O
+
+QQ(10018)	B
+deny	O
+mach-lookup	O
+com.apple.networking.captivenetworksupport	B
+
+[HID]	O
+[MT]	O
+AppleMultitouchDevice::willTerminate	O
+entered	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()	O
+failed	O
+path:/var/run/mDNSResponder	B
+Socket:4	B
+Err:-1	B
+Errno:1	B
+Operation	O
+not	O
+permitted	O
+
+pages	O
+1471315,	B
+wire	O
+491253,	B
+act	O
+449877,	B
+inact	O
+3,	B
+cleaned	O
+0	B
+spec	O
+5,	B
+zf	O
+23,	B
+throt	O
+0,	B
+compr	O
+345876,	B
+xpmapped	O
+40000	B
+
+VDCAssistant:	O
+Found	O
+a	O
+camera	O
+(0x1430000005ac8290)	B
+,	O
+but	O
+was	O
+not	O
+able	O
+to	O
+start	O
+it	O
+up	O
+(0x0	B
+--	O
+(os/kern)	B
+successful)	O
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+button	O
+report:	O
+0x8002bdf	B
+
+2017-07-01	B
+19:46:26.133	B
+GoogleSoftwareUpdateAgent[31702/0x7000002a0000]	B
+[lvl=2]	B
+-[KSAgentApp(KeystoneThread)	O
+runKeystonesInThreadWithArg:]	O
+Checking	O
+with	O
+local	O
+engine:	O
+<KSUpdateEngine:0x100259c60	B
+ticketStore=<KSPersistentTicketStore:0x100253770	B
+store=<KSKeyedPersistentStore:0x100254d10	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"	B
+lockFile=<KSLockFile:0x100254d80	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"	B
+locked=NO	O
+>	O
+>>	O
+processor=<KSActionProcessor:0x100259e70	B
+delegate=<KSUpdateEngine:0x100259c60>	B
+isProcessing=NO	O
+actionsCompleted=0	B
+progress=0.00	B
+errors=0	B
+currentActionErrors=0	B
+events=0	B
+currentActionEvents=0	B
+actionQueue=(	O
+)	O
+>	O
+delegate=(null)	B
+serverInfoStore=<KSServerPrivateInfoStore:0x1002594d0	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers">	B
+errors=0	B
+>	O
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+tcp_connection_tls_session_error_callback_imp	O
+1977	B
+__tcp_connection_tls_session_callback_write_block_invoke.434	B
+error	O
+22	B
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+WARNING:	O
+Type1	B
+font	O
+data	O
+isn't	O
+in	O
+the	O
+correct	O
+format	O
+required	O
+by	O
+the	O
+Adobe	O
+Type	O
+1	B
+Font	O
+Format	O
+specification.	O
+
+com.apple.ical.sync.x-coredata://DB05755C-483D-44B7-B93B-ED06E57FF420/CalDAVPrincipal/p11:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+59	B
+seconds.	O
+Ignoring.	O
+
+device_generate_desktop_screenshot:	O
+authw	O
+0x7fa823c89600(2000),	B
+shield	O
+0x7fa8258cac00(2001)	B
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+[com.apple.calendar.store.log.caldav.coredav]	B
+[Refusing	O
+to	O
+parse	O
+response	O
+to	O
+PROPPATCH	O
+because	O
+of	O
+content-type:	O
+[text/html;	B
+charset=UTF-8].]	B
+
+button	O
+report:	O
+0x8002bdf	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()	O
+failed	O
+path:/var/run/mDNSResponder	B
+Socket:4	B
+Err:-1	B
+Errno:1	B
+Operation	O
+not	O
+permitted	O
+
+hibernate_page_list_setall	O
+found	O
+pageCount	O
+448015	B
+
+[HID]	O
+[ATC]	O
+[Error]	O
+AppleDeviceManagementHIDEventService::start	O
+Could	O
+not	O
+make	O
+a	O
+string	O
+from	O
+out	O
+connection	B
+notification	O
+key	O
+
+nw_nat64_post_new_ifstate	O
+successfully	O
+changed	O
+NAT64	O
+ifstate	O
+from	O
+0x8000000000000000	B
+to	O
+0x4	B
+
+2017-07-02	B
+10:40:07.676	B
+GoogleSoftwareUpdateAgent[32012/0x7000002a0000]	B
+[lvl=2]	B
+-[KSAgentApp	O
+updateProductWithProductID:usingEngine:]	O
+Checking	O
+for	O
+updates	O
+for	O
+"com.google.Keystone"	O
+using	O
+engine	O
+<KSUpdateEngine:0x100313e70	B
+ticketStore=<KSPersistentTicketStore:0x100332a60	B
+store=<KSKeyedPersistentStore:0x100315fa0	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"	B
+lockFile=<KSLockFile:0x1003176d0	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"	B
+locked=NO	O
+>	O
+>>	O
+processor=<KSActionProcessor:0x1003143e0	B
+delegate=<KSUpdateEngine:0x100313e70>	B
+isProcessing=NO	O
+actionsCompleted=0	B
+progress=0.00	B
+errors=0	B
+currentActionErrors=0	B
+events=0	B
+currentActionEvents=0	B
+actionQueue=(	O
+)	O
+>	O
+delegate=(null)	B
+serverInfoStore=<KSServerPrivateInfoStore:0x100311a10	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers">	B
+errors=0	B
+>	O
+
+2017/07/02	B
+11:38:49.414	B
+|	O
+I	O
+|	O
+VoipWrapper	O
+|	O
+DAVEngineImpl.cpp:1400:Close	B
+|	O
+close	O
+video	O
+chat.	O
+llFriendUIN	O
+=	O
+******2341.	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+PM	O
+response	O
+took	O
+28003	B
+ms	O
+(54,	B
+powerd)	B
+
+Bluetooth	O
+--	O
+LE	O
+is	O
+supported	O
+-	O
+Disable	O
+LE	O
+meta	O
+event	O
+
+tcp_connection_handle_connect_conditions_bad	O
+19617	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+Captive:	O
+CNPluginHandler	O
+en0:	O
+Authenticated	O
+
+AppleThunderboltNHIType2::waitForOk2Go2Sx	O
+-	O
+retries	O
+=	O
+4	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()	O
+failed	O
+path:/var/run/mDNSResponder	B
+Socket:4	B
+Err:-1	B
+Errno:1	B
+Operation	O
+not	O
+permitted	O
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+Unrecognized	O
+attribute	O
+value:	O
+t:AbchPersonItemType	B
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+apsd	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+AppleThunderboltNHIType2::prePCIWake	O
+-	O
+power	O
+up	O
+complete	O
+-	O
+took	O
+1	B
+us	O
+
+QQ(10018)	B
+deny	O
+mach-lookup	O
+com.apple.networking.captivenetworksupport	B
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+tcp_connection_tls_session_error_callback_imp	O
+2044	B
+__tcp_connection_tls_session_callback_write_block_invoke.434	B
+error	O
+22	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+ASL	O
+Sender	O
+Statistics	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000300	B
+
+2017-07-02	B
+15:46:40.516	B
+GoogleSoftwareUpdateAgent[32432/0x7000002a0000]	B
+[lvl=2]	B
+-[KSOutOfProcessFetcher(PrivateMethods)	O
+launchedHelperTaskForToolPath:error:]	O
+KSOutOfProcessFetcher	O
+launched	O
+'/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/ksfetch'	B
+with	O
+process	O
+id:	O
+32433	B
+
+2017-07-02	B
+15:46:41.445	B
+ksfetch[32435/0x7fff79824000]	B
+[lvl=2]	B
+main()	O
+ksfetch	O
+fetching	O
+URL	O
+(<NSMutableURLRequest:	O
+0x1005110b0>	B
+{	O
+URL:	O
+https://tools.google.com/service/update2?cup2hreq=53f725cf03f511fab16f19e789ce64aa1eed72395fc246e9f1100748325002f4&cup2key=7:1132320327	B
+})	O
+to	O
+folder:/tmp/KSOutOfProcessFetcher.YH2CjY1tnx/download	B
+
+FA||Url||taskID[2019353182]	B
+dealloc	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+tcp_connection_tls_session_error_callback_imp	O
+2068	B
+__tcp_connection_tls_session_callback_write_block_invoke.434	B
+error	O
+22	B
+
+[17:13:46.390]	B
+<<<<	O
+IQ-CA	O
+>>>>	O
+piqca_setUsePreQueue:	O
+(0x7f92413e3000)	B
+rejecting	O
+report	O
+of	O
+layer	O
+being	O
+serviced	O
+-	O
+IQ	O
+has	O
+not	O
+yet	O
+begun	O
+to	O
+update	O
+
+[17:19:15.148]	B
+itemasync_SetProperty	O
+signalled	O
+err=-12785	B
+(kFigBaseObjectError_Invalidated)	B
+(invalidated)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c	B
+line	O
+2306	B
+
+KeychainGetICDPStatus:	O
+keychain:	O
+-25300	B
+
+KeychainGetICDPStatus:	O
+keychain:	O
+-25300	B
+
+Path	O
+not	O
+allowed	O
+in	O
+target	O
+domain:	O
+type	O
+=	O
+pid,	B
+path	O
+=	O
+/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.WebFeedParser.xpc/Contents/MacOS/com.apple.Safari.WebFeedParser	B
+error	O
+=	O
+147:	B
+The	O
+specified	O
+service	O
+did	O
+not	O
+ship	O
+in	O
+the	O
+requestor's	O
+bundle,	O
+origin	O
+=	O
+/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc	B
+
+host	O
+connection	O
+<NSXPCConnection:	O
+0x7fddbbb015c0>	B
+connection	O
+from	O
+pid	O
+30298	B
+invalidated	O
+
+ARPT:	O
+661549.802297:	B
+wl0:	B
+leaveModulePoweredForOffloads:	O
+Wi-Fi	O
+will	O
+stay	O
+on.	O
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+ARPT:	O
+661552.832561:	B
+IOPMPowerSource	O
+Information:	O
+onWake,	O
+SleepType:	O
+Normal	O
+Sleep,	O
+'ExternalConnected':	O
+Yes,	O
+'TimeRemaining':	O
+0,	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+49	B
+seconds.	O
+Ignoring.	O
+
+com.apple.Addres(32626)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+AppleThunderboltNHIType2::waitForOk2Go2Sx	O
+-	O
+intel_rp	O
+=	O
+1	B
+dlla_reporting_supported	O
+=	O
+0	B
+
+CCXPCService::setStreamEventHandler	O
+Registered	O
+for	O
+notification	O
+callback.	O
+
+Setting	O
+BTCoex	O
+Config:	O
+enable_2G:1,	B
+profile_2g:0,	B
+enable_5G:1,	B
+profile_5G:0	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+in6_unlink_ifa:	O
+IPv6	O
+address	O
+0x77c9114551ab23ab	B
+has	O
+no	O
+prefix	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+318966	B
+seconds.	O
+Ignoring.	O
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+5c:50:15:36:bc:03	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+3	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+ARPT:	O
+662096.028575:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:4de9:a101:c96c:f28b	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+314896	B
+seconds.	O
+Ignoring.	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+106	B
+seconds.	O
+Ignoring.	O
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+61304	B
+seconds.	O
+Ignoring.	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+AppleCamIn::wakeEventHandlerThread	O
+
+device_generate_lock_screen_screenshot:	O
+authw	O
+0x7fa823962400(2000)[0,	B
+0,	B
+1440,	B
+900]	B
+shield	O
+0x7fa82d372000(2001),	B
+dev	O
+[1440,900]	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+2017-07-02	B
+20:50:47.457	B
+ksfetch[32776/0x7fff79824000]	B
+[lvl=2]	B
+KSHelperReceiveAllData()	O
+KSHelperTool	O
+read	O
+1926	B
+bytes	O
+from	O
+stdin.	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+tcp_connection_tls_session_error_callback_imp	O
+2103	B
+__tcp_connection_tls_session_callback_write_block_invoke.434	B
+error	O
+22	B
+
+ASL	O
+Sender	O
+Statistics	O
+
+21:48:53.041	B
+:	O
+BTLE	O
+scanner	O
+Powered	O
+Off	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+Received	O
+Capture	O
+Event	O
+
+Captive:	O
+CNPluginHandler	O
+en0:	O
+Evaluating	O
+
+Sandbox:	O
+QQ(10018)	B
+deny(1)	B
+mach-lookup	O
+com.apple.networking.captivenetworksupport	B
+
+Sandbox:	O
+com.apple.Addres(32885)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+ARPT:	O
+671682.028482:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+fe80:0:0:0:c6b3:1ff:fecd:467f	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+AppleThunderboltNHIType2::prePCIWake	O
+-	O
+power	O
+up	O
+complete	O
+-	O
+took	O
+2	B
+us	O
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+sigio_handler:	O
+sigio_handler_active	O
+!=	O
+0	B
+
+##############################	O
+_getSysMsgList	O
+
+en0:	B
+channel	O
+changed	O
+to	O
+132,+1	B
+
+ARPT:	O
+671958.142550:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+port:	O
+49791,	B
+Remote	O
+port:	O
+5223	B
+
+wake	O
+time	O
+set	O
++0.270003	B
+s	O
+
+ARPT:	O
+672041.595629:	B
+wl0:	B
+setup_keepalive:	O
+interval	O
+258,	B
+retry_interval	O
+30,	B
+retry_count	O
+10	B
+
+ARPT:	O
+672113.005012:	B
+wl0:	B
+setup_keepalive:	O
+interval	O
+258,	B
+retry_interval	O
+30,	B
+retry_count	O
+10	B
+
+ARPT:	O
+672115.511090:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[enable]	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+03:31:43.005	B
+:	O
+BTLE	O
+scanning	O
+stopped	O
+
+AppleCamIn::wakeEventHandlerThread	O
+
+AppleThunderboltNHIType2::prePCIWake	O
+-	O
+power	O
+up	O
+complete	O
+-	O
+took	O
+1	B
+us	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+ARPT:	O
+672487.663921:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:400:a01b:c6b3:1ff:fecd:467f	B
+
+com.apple.Addres(33047)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+wake	O
+time	O
+set	O
+-0.331349	B
+s	O
+
+AppleCamIn::wakeEventHandlerThread	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+RTC:	O
+PowerByCalendarDate	O
+setting	O
+ignored	O
+
+en0:	B
+channel	O
+changed	O
+to	O
+132,+1	B
+
+ARPT:	O
+672663.206073:	B
+wl0:	B
+wl_update_tcpkeep_seq:	O
+Original	O
+Seq:	O
+2185760336,	B
+Ack:	O
+2085655440,	B
+Win	O
+size:	O
+4096	B
+
+AppleThunderboltNHIType2::waitForOk2Go2Sx	O
+-	O
+retries	O
+=	O
+5	B
+
+AppleCamIn::handleWakeEvent_gated	O
+
+ARPT:	O
+672735.825491:	B
+wl0:	B
+leaveModulePoweredForOffloads:	O
+Wi-Fi	O
+will	O
+stay	O
+on.	O
+
+AppleThunderboltNHIType2::waitForOk2Go2Sx	O
+-	O
+retries	O
+=	O
+6	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+3	B
+
+sigio_handler:	O
+sigio_handler_active	O
+!=	O
+0	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+Sandbox:	O
+com.apple.Addres(33119)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+ARPT:	O
+672922.026642:	B
+wl0:	B
+MDNS:	O
+0	B
+SRV	O
+Recs,	O
+0	B
+TXT	O
+Recs	O
+
+ARPT:	O
+672925.539048:	B
+AirPort_Brcm43xx::syncPowerState:	O
+WWEN[enabled]	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+com.apple.Addres(33139)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+ARPT:	O
+673078.174655:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+07:33:34.878	B
+:	O
+BTLE	O
+scanning	O
+started	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+ARPT:	O
+673255.225425:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[enable]	B
+
+08:21:18.004	B
+:	O
+Discoverable	O
+mode	O
+changed	O
+to	O
+Off	O
+
+ARPT:	O
+673289.745639:	B
+wl0:	B
+wl_update_tcpkeep_seq:	O
+Updated	O
+seq/ack/win	B
+from	O
+UserClient	O
+Seq	O
+1578355965,	B
+Ack	O
+2401645769,	B
+Win	O
+size	O
+278	B
+
+ARPT:	O
+673321.718258:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+port:	O
+50542,	B
+Remote	O
+port:	O
+5223	B
+
+ARPT:	O
+673324.060219:	B
+wl0:	B
+wl_update_tcpkeep_seq:	O
+Updated	O
+seq/ack/win	B
+from	O
+UserClient	O
+Seq	O
+815278018,	B
+Ack	O
+1982345407,	B
+Win	O
+size	O
+278	B
+
+ARPT:	O
+673325.798753:	B
+ARPT:	O
+Wake	O
+Reason:	O
+Wake	O
+on	O
+TCP	O
+Timeout	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+PM	O
+response	O
+took	O
+1936	B
+ms	O
+(54,	B
+powerd)	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+1	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+3	B
+
+AirPort:	O
+Link	O
+Up	O
+on	O
+awdl0	B
+
+button	O
+report:	O
+0x80039B7	B
+
+FA||Url||taskID[2019353296]	B
+dealloc	O
+
+2017-07-03	B
+10:40:41.730	B
+GoogleSoftwareUpdateAgent[33263/0x700000323000]	B
+[lvl=2]	B
+-[KSAgentApp	O
+performSelfUpdateWithEngine:]	O
+Checking	O
+for	O
+self	O
+update	O
+with	O
+Engine:	O
+<KSUpdateEngine:0x10062de70	B
+ticketStore=<KSPersistentTicketStore:0x1005206e0	B
+store=<KSKeyedPersistentStore:0x1005282c0	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore"	B
+lockFile=<KSLockFile:0x100510480	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock"	B
+locked=NO	O
+>	O
+>>	O
+processor=<KSActionProcessor:0x10062e060	B
+delegate=<KSUpdateEngine:0x10062de70>	B
+isProcessing=NO	O
+actionsCompleted=0	B
+progress=0.00	B
+errors=0	B
+currentActionErrors=0	B
+events=0	B
+currentActionEvents=0	B
+actionQueue=(	O
+)	O
+>	O
+delegate=(null)	B
+serverInfoStore=<KSServerPrivateInfoStore:0x10062d2d0	B
+path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers">	B
+errors=0	B
+>	O
+
+2017-07-03	B
+10:40:42.940	B
+GoogleSoftwareUpdateAgent[33263/0x700000323000]	B
+[lvl=2]	B
+-[KSOmahaServer	O
+updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:]	O
+Response	O
+passed	O
+CUP	O
+validation.	O
+
+FA||Url||taskID[2019353306]	B
+dealloc	O
+
+[11:31:49.472]	B
+FigAgglomeratorSetObjectForKey	O
+signalled	O
+err=-16020	B
+(kFigStringConformerError_ParamErr)	B
+(NULL	B
+key)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c	B
+line	O
+92	B
+
+[11:38:27.892]	B
+<<<<	O
+IQ-CA	O
+>>>>	O
+piqca_setUsePreQueue:	O
+(0x7fce1406d600)	B
+rejecting	O
+report	O
+of	O
+layer	O
+being	O
+serviced	O
+-	O
+IQ	O
+has	O
+not	O
+yet	O
+begun	O
+to	O
+update	O
+
+[11:39:18.356]	B
+<<<<	O
+IQ-CA	O
+>>>>	O
+piqca_setUsePreQueue:	O
+(0x7fce15069400)	B
+rejecting	O
+report	O
+of	O
+layer	O
+being	O
+serviced	O
+-	O
+IQ	O
+has	O
+not	O
+yet	O
+begun	O
+to	O
+update	O
+
+[11:41:18.041]	B
+<<<<	O
+IQ-CA	O
+>>>>	O
+piqca_setUsePreQueue:	O
+(0x7fce16267800)	B
+rejecting	O
+report	O
+of	O
+layer	O
+being	O
+serviced	O
+-	O
+IQ	O
+has	O
+not	O
+yet	O
+begun	O
+to	O
+update	O
+
+[11:48:35.539]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+[11:50:02.531]	B
+itemasync_SetProperty	O
+signalled	O
+err=-12785	B
+(kFigBaseObjectError_Invalidated)	B
+(invalidated)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c	B
+line	O
+2306	B
+
+[11:51:29.334]	B
+itemasync_SetProperty	O
+signalled	O
+err=-12785	B
+(kFigBaseObjectError_Invalidated)	B
+(invalidated)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c	B
+line	O
+2306	B
+
+[11:56:05.232]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+[12:22:42.202]	B
+itemasync_SetProperty	O
+signalled	O
+err=-12785	B
+(kFigBaseObjectError_Invalidated)	B
+(invalidated)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c	B
+line	O
+2306	B
+
+NETWORK:	O
+no	O
+response	O
+from	O
+server,	O
+reachability,	O
+2,	B
+queryRetries,	O
+0	B
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+Unexpected	O
+payload	O
+found	O
+for	O
+message	O
+9,	B
+dataLen	O
+0	B
+
+CCFile::captureLog	O
+
+Unrecognized	O
+attribute	O
+value:	O
+t:AbchPersonItemType	B
+
+ARPT:	O
+681387.132167:	B
+AirPort_Brcm43xx::powerChange:	B
+System	O
+Wake	O
+-	O
+Full	O
+Wake/	O
+Dark	O
+Wake	O
+/	O
+Maintenance	O
+wake	O
+
+ARPT:	O
+681446.072377:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+Central	O
+manager	O
+is	O
+not	O
+powered	O
+on	O
+
+AppleThunderboltNHIType2::waitForOk2Go2Sx	O
+-	O
+retries	O
+=	O
+6	B
+
+setting	O
+hostname	O
+to	O
+"authorMacBook-Pro.local"	B
+
+__42-[NETClientConnection	B
+evaluateCrazyIvan46]_block_invoke	O
+CI46	B
+-	O
+Hit	O
+by	O
+torpedo!	O
+QQ.10018	B
+tc20795	B
+14.17.42.14:14000	B
+
+tcp_connection_handle_connect_conditions_bad	O
+20835	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()	O
+failed	O
+path:/var/run/mDNSResponder	B
+Socket:4	B
+Err:-1	B
+Errno:1	B
+Operation	O
+not	O
+permitted	O
+
+IO80211AWDLPeerManager::setAwdlSuspendedMode()	O
+Suspending	O
+AWDL,	O
+enterQuietMode(true)	B
+
+<IMMacNotificationCenterManager:	O
+0x7ff1b2e00ba0>:	B
+DND	O
+Enabled:	O
+YES	B
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+Sandbox:	O
+com.apple.Addres(33493)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+ARPT:	O
+682406.173418:	B
+wl0:	O
+setup_keepalive:	O
+Remote	O
+IP:	O
+17.249.28.77	B
+
+Sandbox:	O
+com.apple.Addres(33508)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+ARPT:	O
+682466.260119:	B
+wl0:	B
+leaveModulePoweredForOffloads:	O
+Wi-Fi	O
+will	O
+stay	O
+on.	O
+
+ARPT:	O
+682468.243133:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+Bluetooth	O
+--	O
+LE	O
+is	O
+supported	O
+-	O
+Disable	O
+LE	O
+meta	O
+event	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+3	B
+
+<<<<	O
+FigByteStream	O
+>>>>	O
+FigByteStreamStatsLogOneRead:	O
+ByteStream	O
+read	O
+of	O
+4812	B
+bytes	O
+@	O
+358800	B
+took	O
+1.053312	B
+secs.	O
+to	O
+complete,	O
+5	B
+reads	O
+>=	O
+1	B
+sec.	O
+
+AppleThunderboltNHIType2::waitForOk2Go2Sx	O
+-	O
+intel_rp	O
+=	O
+1	B
+dlla_reporting_supported	O
+=	O
+0	B
+
+ARPT:	O
+682634.998705:	B
+wl0:	O
+setup_keepalive:	O
+Remote	O
+IP:	O
+17.249.28.93	B
+
+ARPT:	O
+682638.445688:	B
+AirPort_Brcm43xx::powerChange:	B
+System	O
+Wake	O
+-	O
+Full	O
+Wake/	O
+Dark	O
+Wake	O
+/	O
+Maintenance	O
+wake	O
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+apsd	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+Received	O
+Capture	O
+Event	O
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499122032.492037,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-03_15,47,15.246620]-AirPortBrcm4360_Logs-007.txt,	B
+source	O
+path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-03_15,47,15.246620]-AirPortBrcm4360_Logs-007.txt,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-03_15,47,15.349129]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-03_15,47,15.246620]-AirPortBrcm4360_Logs-007.txt	B
+
+Sandbox:	O
+com.apple.Addres(33540)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+<<<<	O
+FigByteStream	O
+>>>>	O
+FigByteStreamStatsLogOneRead:	O
+ByteStream	O
+read	O
+of	O
+4321	B
+bytes	O
+@	O
+48	B
+took	O
+0.607292	B
+sec.	B
+to	O
+complete,	O
+7	B
+reads	O
+>=	O
+0.5	B
+sec.	O
+
+AppleCamIn::handleWakeEvent_gated	O
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-03_16,05,51.075268]-AirPortBrcm4360_Logs-005.txt,	B
+Current	O
+File	O
+[2017-07-03_16,05,51.075268]-AirPortBrcm4360_Logs-005.txt	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-03_16,06,19.893324]-AirPortBrcm4360_Logs-008.txt,	B
+Current	O
+File	O
+[2017-07-03_16,06,19.893324]-AirPortBrcm4360_Logs-008.txt	B
+
+network	O
+changed:	O
+v6(en0-:2607:f140:6000:8:d8d1:d506:6046:43e4)	B
+DNS-	O
+Proxy-	O
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-03_16,07,38.954579]-io80211Family-016.pcapng,	B
+source	O
+path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_16,07,38.954579]-io80211Family-016.pcapng,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,07,39.094895]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-03_16,07,38.954579]-io80211Family-016.pcapng	B
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-03_16,07,39.096792]-CCIOReporter-017.xml,	B
+source	O
+path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-03_16,07,39.096792]-CCIOReporter-017.xml,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,07,39.171995]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-03_16,07,39.096792]-CCIOReporter-017.xml	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+ARPT:	O
+682834.192587:	B
+wlc_dump_aggfifo:	O
+
+CCFile::captureLog	O
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-03_16,07,46.105103]-CCIOReporter-032.xml,	B
+source	O
+path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-03_16,07,46.105103]-CCIOReporter-032.xml,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,07,46.298508]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-03_16,07,46.105103]-CCIOReporter-032.xml	B
+
+nw_nat64_post_new_ifstate	O
+successfully	O
+changed	O
+NAT64	O
+ifstate	O
+from	O
+0x4	B
+to	O
+0x8000000000000000	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+AirPort:	O
+Link	O
+Up	O
+on	O
+awdl0	B
+
+nw_nat64_post_new_ifstate	O
+successfully	O
+changed	O
+NAT64	O
+ifstate	O
+from	O
+0x8000000000000000	B
+to	O
+0x4	B
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-03_16,25,27.859687]-CCIOReporter-038.xml,	B
+Current	O
+File	O
+[2017-07-03_16,25,27.859687]-CCIOReporter-038.xml	B
+
+[16:25:45.631]	B
+<<<<	O
+CRABS	O
+>>>>	O
+crabsFlumeHostUnavailable:	O
+[0x7f961cf08cf0]	B
+Byte	O
+flume	O
+reports	O
+host	O
+unavailable.	O
+
+com.apple.Addres(33562)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+ARPT:	O
+682969.397322:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[enable]	B
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-03_16,27,04.995982]-io80211Family-040.pcapng,	B
+source	O
+path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_16,27,04.995982]-io80211Family-040.pcapng,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,27,05.123034]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-03_16,27,04.995982]-io80211Family-040.pcapng	B
+
+AppleCamIn::handleWakeEvent_gated	O
+
+ARPT:	O
+682977.654133:	B
+wlc_dump_aggfifo:	O
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-03_16,27,09.910337]-AirPortBrcm4360_Logs-047.txt,	B
+source	O
+path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-03_16,27,09.910337]-AirPortBrcm4360_Logs-047.txt,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-03_16,27,10.162319]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-03_16,27,09.910337]-AirPortBrcm4360_Logs-047.txt	B
+
+doSaveChannels@286:	B
+Will	O
+write	O
+to:	O
+/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-03_16,27,09.307937]	B
+-	O
+AuthFail:sts:5_rsn:0.xml	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+tcp_connection_handle_connect_conditions_bad	O
+21158	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+CCFile::captureLog	O
+
+ARPT:	O
+683047.197539:	B
+framerdy	O
+0x0	B
+bmccmd	O
+3	B
+framecnt	O
+1024	B
+
+button	O
+report:	O
+0x8002bdf	B
+
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry	O
+clearing	O
+out	O
+any	O
+previous	O
+subscriptions	O
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+ARPT:	O
+683172.046921:	B
+AirPort_Brcm43xx::syncPowerState:	O
+WWEN[enabled]	B
+
+hibernate_flush_memory:	O
+buffer_cache_gc	O
+freed	O
+up	O
+13202	B
+wired	O
+pages	O
+
+hibernate_machine_init	O
+pagesDone	O
+455920	B
+sum2	O
+81cafc41,	B
+time:	O
+185	B
+ms,	O
+disk(0x20000)	B
+847	B
+Mb/s,	O
+comp	O
+bytes:	O
+47288320	B
+time:	O
+32	B
+ms	O
+1369	B
+Mb/s,	O
+crypt	O
+bytes:	O
+158441472	B
+time:	O
+38	B
+ms	O
+3973	B
+Mb/s	O
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+hibernate_machine_init	O
+reading	O
+
+hibernate_flush_memory:	O
+buffer_cache_gc	O
+freed	O
+up	O
+3349	B
+wired	O
+pages	O
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+AirPort:	O
+Link	O
+Up	O
+on	O
+awdl0	B
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+****	O
+[IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL]	O
+--	O
+calling	O
+IOBluetoothFamily's	O
+registerService()	O
+--	O
+0x5fd0	B
+--	O
+0x9a00	B
+--	O
+0x6800	B
+****	O
+
+INIT	O
+--	O
+Host	O
+controller	O
+is	O
+published	O
+
+Unrecognized	O
+attribute	O
+value:	O
+t:AbchPersonItemType	B
+
+BuildActDeviceEntry	O
+exit	O
+
+__42-[NETClientConnection	B
+evaluateCrazyIvan46]_block_invoke	O
+CI46	B
+-	O
+Hit	O
+by	O
+torpedo!	O
+QQ.10018	B
+tc21242	B
+119.81.102.227:80	B
+
+ARPT:	O
+683604.474196:	B
+IOPMPowerSource	O
+Information:	O
+onSleep,	O
+SleepType:	O
+Standby,	B
+'ExternalConnected':	O
+No,	B
+'TimeRemaining':	O
+578,	B
+
+ARPT:	O
+683617.825411:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+64:d9:89:6b:b5:33	B
+
+button	O
+report:	O
+0x80039B7	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499133420.914478,	B
+reason	O
+=	O
+DeauthInd:sts:0_rsn:7	B
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-03_18,57,12.221233]-AirPortBrcm4360_Logs-005.txt,	B
+Current	O
+File	O
+[2017-07-03_18,57,12.221233]-AirPortBrcm4360_Logs-005.txt	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+en0:	B
+802.11d	B
+country	O
+code	O
+set	O
+to	O
+'US'.	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+nw_nat64_post_new_ifstate	O
+successfully	O
+changed	O
+NAT64	O
+ifstate	O
+from	O
+0x8000000000000000	B
+to	O
+0x4	B
+
+IO80211AWDLPeerManager::setAwdlSuspendedMode()	O
+Suspending	O
+AWDL,	O
+enterQuietMode(true)	B
+
+WARNING:	O
+hibernate_page_list_setall	O
+skipped	O
+11799	B
+xpmapped	O
+pages	O
+
+****	O
+[IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL]	O
+--	O
+calling	O
+IOBluetoothFamily's	O
+registerService()	O
+--	O
+0x5fd0	B
+--	O
+0x9a00	B
+--	O
+0xc800	B
+****	O
+
+ARPT:	O
+683779.928118:	B
+framerdy	O
+0x0	B
+bmccmd	O
+3	B
+framecnt	O
+1024	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+[19:04:53.965]	B
+FigAgglomeratorSetObjectForKey	O
+signalled	O
+err=-16020	B
+(kFigStringConformerError_ParamErr)	B
+(NULL	B
+key)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c	B
+line	O
+92	B
+
+tcp_connection_handle_connect_conditions_bad	O
+21353	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+IO80211AWDLPeerManager::setAwdlSuspendedMode()	O
+Suspending	O
+AWDL,	O
+enterQuietMode(true)	B
+
+button	O
+report:	O
+0x8002be0	B
+
+hibernate_rebuild_pmap_structs	O
+done:	O
+last_valid_compact_indx	O
+285862	B
+
+Captive:	O
+CNPluginHandler	O
+en0:	O
+Authenticated	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+en0:	B
+channel	O
+changed	O
+to	O
+132,+1	B
+
+[20:20:37.119]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+2017-07-03	B
+20:25:13.378	B
+GoogleSoftwareUpdateAgent[33847/0x7000002a0000]	B
+[lvl=2]	B
+-[KSUpdateCheckAction	O
+performAction]	O
+KSUpdateCheckAction	O
+starting	O
+update	O
+check	O
+for	O
+ticket(s):	O
+{(	O
+<KSTicket:0x10053b310	B
+productID=com.google.Keystone	B
+version=1.2.8.57	B
+xc=<KSPathExistenceChecker:0x10053ac30	B
+path=/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle>	B
+url=https://tools.google.com/service/update2	B
+creationDate=2017-02-18	B
+15:41:17	B
+ticketVersion=1	B
+>	O
+)}	O
+Using	O
+server:	O
+<KSOmahaServer:0x100248090	B
+engine=<KSUpdateEngine:0x1007249c0>	B
+>	O
+
+[20:55:46.310]	B
+FigAgglomeratorSetObjectForKey	O
+signalled	O
+err=-16020	B
+(kFigStringConformerError_ParamErr)	B
+(NULL	B
+key)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c	B
+line	O
+92	B
+
+jemmytest	O
+
+FA||Url||taskID[2019353376]	B
+dealloc	O
+
+[21:03:03.265]	B
+FigAgglomeratorSetObjectForKey	O
+signalled	O
+err=-16020	B
+(kFigStringConformerError_ParamErr)	B
+(NULL	B
+key)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c	B
+line	O
+92	B
+
+[21:07:43.005]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+KeychainGetICDPStatus:	O
+status:	O
+off	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+tcp_connection_handle_connect_conditions_bad	O
+21503	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+CCFile::captureLog	O
+
+en0:	B
+channel	O
+changed	O
+to	O
+1	B
+
+Sandbox:	O
+com.apple.Addres(33959)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+[21:41:47.568]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+1	B
+
+[23:24:32.378]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+KeychainGetICDPStatus:	O
+status:	O
+off	B
+
+tcp_connection_tls_session_error_callback_imp	O
+2210	B
+tcp_connection_tls_session_handle_read_error.790	B
+error	O
+60	B
+
+com.apple.SoftwareUpdate.Activity:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+6349	B
+seconds.	O
+Ignoring.	O
+
+com.apple.SoftwareUpdate.Activity:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+6306	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+697853.842104:	B
+AirPort_Brcm43xx::syncPowerState:	O
+WWEN[enabled]	B
+
+AppleCamIn::handleWakeEvent_gated	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+44944	B
+seconds.	O
+Ignoring.	O
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+9749	B
+seconds.	O
+Ignoring.	O
+
+Checking	O
+iCDP	O
+status	O
+for	O
+DSID	O
+874161398	B
+(checkWithServer=0)	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1883	B
+seconds.	O
+Ignoring.	O
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+207556	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+698150.103985:	B
+wl0:	O
+setup_keepalive:	O
+Remote	O
+IP:	O
+17.249.12.144	B
+
+ARPT:	O
+698152.618948:	B
+wl0:	B
+leaveModulePoweredForOffloads:	O
+Wi-Fi	O
+will	O
+stay	O
+on.	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+206840	B
+seconds.	O
+Ignoring.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+39837	B
+seconds.	O
+Ignoring.	O
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+##############################	O
+_getSysMsgList	O
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+ARPT:	O
+698398.428268:	B
+wl0:	O
+setup_keepalive:	O
+Remote	O
+IP:	O
+17.249.12.88	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1728	B
+seconds.	O
+Ignoring.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+RTC:	O
+PowerByCalendarDate	O
+setting	O
+ignored	O
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1732	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+698501.213099:	B
+ARPT:	O
+Wake	O
+Reason:	O
+Wake	O
+on	O
+TCP	O
+Timeout	O
+
+ARPT:	O
+698596.169927:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+IP:	O
+10.142.110.255	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+31785	B
+seconds.	O
+Ignoring.	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+Sandbox:	O
+com.apple.Addres(34309)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+ARPT:	O
+698894.284410:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+fe80:0:0:0:c6b3:1ff:fecd:467f	B
+
+ARPT:	O
+698896.274509:	B
+AirPort_Brcm43xx::powerChange:	O
+System	O
+Sleep	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+29590	B
+seconds.	O
+Ignoring.	O
+
+##############################	O
+_getSysMsgList	O
+
+Sandbox:	O
+com.apple.Addres(34326)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+AppleThunderboltNHIType2::prePCIWake	O
+-	O
+power	O
+up	O
+complete	O
+-	O
+took	O
+2	B
+us	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+192946	B
+seconds.	O
+Ignoring.	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+ARPT:	O
+699244.827573:	B
+wl0:	B
+wl_update_tcpkeep_seq:	O
+Updated	O
+seq/ack/win	B
+from	O
+UserClient	O
+Seq	O
+2935131210,	B
+Ack	O
+3049709979,	B
+Win	O
+size	O
+278	B
+
+ARPT:	O
+699246.920246:	B
+ARPT:	O
+Wake	O
+Reason:	O
+Wake	O
+on	O
+Scan	O
+offload	O
+
+ARPT:	O
+699300.508954:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+IP:	O
+10.105.162.105	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+23884	B
+seconds.	O
+Ignoring.	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+190238	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+699352.804212:	B
+wl0:	B
+wl_update_tcpkeep_seq:	O
+Updated	O
+seq/ack/win	B
+from	O
+UserClient	O
+Seq	O
+2794574676,	B
+Ack	O
+1746081928,	B
+Win	O
+size	O
+278	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1852	B
+seconds.	O
+Ignoring.	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+AirPort:	O
+Link	O
+Up	O
+on	O
+en0	B
+
+Sandbox:	O
+com.apple.Addres(34429)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+ARPT:	O
+699456.025397:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+port:	O
+63572,	B
+Remote	O
+port:	O
+443	B
+
+PM	O
+response	O
+took	O
+1999	B
+ms	O
+(54,	B
+powerd)	B
+
+setting	O
+hostname	O
+to	O
+"authorMacBook-Pro.local"	B
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+187547	B
+seconds.	O
+Ignoring.	O
+
+AppleCamIn::wakeEventHandlerThread	O
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+5c:50:15:36:bc:03	B
+
+network	O
+changed:	O
+DNS*	O
+
+USBMSC	O
+Identifier	O
+(non-unique):	O
+000000000820	B
+0x5ac	B
+0x8406	B
+0x820,	B
+3	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+186599	B
+seconds.	O
+Ignoring.	O
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+5c:50:15:4c:18:13	B
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+185770	B
+seconds.	O
+Ignoring.	O
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+9995	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+699815.080622:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+fe80:0:0:0:c6b3:1ff:fecd:467f	B
+
+en0:	B
+802.11d	B
+country	O
+code	O
+set	O
+to	O
+'US'.	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+182511	B
+seconds.	O
+Ignoring.	O
+
+tcp_connection_handle_connect_conditions_bad	O
+21983	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+181657	B
+seconds.	O
+Ignoring.	O
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+5c:50:15:4c:18:13	B
+
+FA||Url||taskID[2019353444]	B
+dealloc	O
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+138	B
+seconds.	O
+Ignoring.	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+12051	B
+seconds.	O
+Ignoring.	O
+
+2017-07-04	B
+09:42:58.121	B
+ksfetch[34604/0x7fff79824000]	B
+[lvl=2]	B
+main()	O
+ksfetch	O
+done	O
+fetching.	O
+
+ARPT:	O
+700256.949512:	B
+AirPort_Brcm43xx::syncPowerState:	O
+WWEN[enabled]	B
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+ARPT:	O
+700311.376459:	B
+wl0:	B
+MDNS:	O
+0	B
+SRV	O
+Recs,	O
+0	B
+TXT	O
+Recs	O
+
+en0:	B
+802.11d	B
+country	O
+code	O
+set	O
+to	O
+'X3'.	B
+
+USBMSC	O
+Identifier	O
+(non-unique):	O
+000000000820	B
+0x5ac	B
+0x8406	B
+0x820,	B
+3	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+11173	B
+seconds.	O
+Ignoring.	O
+
+network	O
+changed:	O
+v4(en0!:10.105.162.105)	B
+DNS+	O
+Proxy+	O
+SMB	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1737	B
+seconds.	O
+Ignoring.	O
+
+[10:13:05.044]	B
+<<<<	O
+CRABS	O
+>>>>	O
+crabsFlumeHostAvailable:	O
+[0x7f961cf08cf0]	B
+Byte	O
+flume	O
+reports	O
+host	O
+available	O
+again.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+10319	B
+seconds.	O
+Ignoring.	O
+
+##############################	O
+_getSysMsgList	O
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+43063	B
+seconds.	O
+Ignoring.	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+8416	B
+seconds.	O
+Ignoring.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+8500	B
+seconds.	O
+Ignoring.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+ARPT:	O
+700626.024536:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:c6b3:1ff:fecd:467f	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+0	B
+milliseconds	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+7615	B
+seconds.	O
+Ignoring.	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1609	B
+seconds.	O
+Ignoring.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+AirPort:	O
+Link	O
+Down	O
+on	O
+en0.	B
+Reason	O
+8	B
+(Disassociated	O
+because	O
+station	O
+leaving).	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+5970	B
+seconds.	O
+Ignoring.	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+172284	B
+seconds.	O
+Ignoring.	O
+
+AppleCamIn::wakeEventHandlerThread	O
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499192921.020010,	B
+reason	O
+=	O
+AssocFail:sts:5_rsn:0	B
+
+CCIOReporterFormatter::addRegistryChildToChannelDictionary	O
+streams	O
+7	B
+
+[HID]	O
+[ATC]	O
+AppleDeviceManagementHIDEventService::processWakeReason	O
+Wake	O
+reason:	O
+Host	O
+(0x01)	B
+
+ARPT:	O
+700919.494551:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+fe80:0:0:0:c6b3:1ff:fecd:467f	B
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1878	B
+seconds.	O
+Ignoring.	O
+
+AppleCamIn::handleWakeEvent_gated	O
+
+Sandbox:	O
+com.apple.Addres(34830)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+com.apple.Addres(34830)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+[12:08:23.866]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+[12:13:40.079]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+[12:25:26.551]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+ARPT:	O
+702237.246510:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+port:	O
+49218,	B
+Remote	O
+port:	O
+443	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+168082	B
+seconds.	O
+Ignoring.	O
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+-[SOAPParser:0x7fc7025b2810	B
+parser:didStartElement:namespaceURI:qualifiedName:attributes:]	O
+Type	O
+not	O
+found	O
+in	O
+EWSItemType	O
+for	O
+ExchangePersonIdGuid	O
+(t:ExchangePersonIdGuid)	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+177	B
+seconds.	O
+Ignoring.	O
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1769	B
+seconds.	O
+Ignoring.	O
+
+Unrecognized	O
+attribute	O
+value:	O
+t:AbchPersonItemType	B
+
+ARPT:	O
+702415.308381:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+AppleThunderboltNHIType2::prePCIWake	O
+-	O
+power	O
+up	O
+complete	O
+-	O
+took	O
+1	B
+us	O
+
+[13:43:06.901]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+[Accounts]	O
+Failed	O
+to	O
+update	O
+account	O
+with	O
+identifier	O
+76FE6715-3D27-4F21-AA35-C88C1EA820E8,	B
+error:	O
+Error	O
+Domain=ABAddressBookErrorDomain	B
+Code=1002	B
+"(null)"	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+[14:33:25.556]	B
+FigAgglomeratorSetObjectForKey	O
+signalled	O
+err=-16020	B
+(kFigStringConformerError_ParamErr)	B
+(NULL	B
+key)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c	B
+line	O
+92	B
+
+[14:36:08.077]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+[14:39:45.538]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+[14:43:39.854]	B
+FigAgglomeratorSetObjectForKey	O
+signalled	O
+err=-16020	B
+(kFigStringConformerError_ParamErr)	B
+(NULL	B
+key)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c	B
+line	O
+92	B
+
+2017-07-04	B
+15:03:53.270	B
+GoogleSoftwareUpdateAgent[35018/0x7000002a0000]	B
+[lvl=2]	B
+-[KSOutOfProcessFetcher(PrivateMethods)	O
+helperDidTerminate:]	O
+KSOutOfProcessFetcher	O
+fetch	O
+ended	O
+for	O
+URL:	O
+"https://tools.google.com/service/update2?cup2hreq=a70d6372a4e45a6cbba61cd7f057c79bf73c79db1b1951dc17c605e870f0419b&cup2key=7:934679018"	B
+
+ASL	O
+Sender	O
+Statistics	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+Sandbox:	O
+com.apple.Addres(35110)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+##############################	O
+_getSysMsgList	O
+
+com.apple.SoftwareUpdate.Activity:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+4045	B
+seconds.	O
+Ignoring.	O
+
+kern_open_file_for_direct_io	O
+took	O
+6	B
+ms	O
+
+com.apple.SoftwareUpdate.Activity:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+3226	B
+seconds.	O
+Ignoring.	O
+
+17:13:03.545	B
+:	O
+Starting	O
+AirDrop	O
+server	O
+for	O
+user	O
+501	B
+on	O
+wake	O
+
+ARPT:	O
+711752.511718:	B
+AirPort_Brcm43xx::powerChange:	B
+System	O
+Wake	O
+-	O
+Full	O
+Wake/	O
+Dark	O
+Wake	O
+/	O
+Maintenance	O
+wake	O
+
+Sandbox:	O
+com.apple.Addres(35150)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+ARPT:	O
+711979.641310:	B
+wl0:	B
+setup_keepalive:	O
+interval	O
+900,	B
+retry_interval	O
+30,	B
+retry_count	O
+10	B
+
+button	O
+report:	O
+0x80039B7	B
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+40	B
+seconds.	O
+Ignoring.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()	O
+failed	O
+path:/var/run/mDNSResponder	B
+Socket:4	B
+Err:-1	B
+Errno:1	B
+Operation	O
+not	O
+permitted	O
+
+ARPT:	O
+712221.085635:	B
+wl0:	B
+wl_update_tcpkeep_seq:	O
+Updated	O
+seq/ack/win	B
+from	O
+UserClient	O
+Seq	O
+70582765,	B
+Ack	O
+3488103719,	B
+Win	O
+size	O
+358	B
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+5c:50:15:4c:18:13	B
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+42431	B
+seconds.	O
+Ignoring.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()	O
+failed	O
+path:/var/run/mDNSResponder	B
+Socket:4	B
+Err:-1	B
+Errno:1	B
+Operation	O
+not	O
+permitted	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+1	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000320	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+1	B
+
+ARPT:	O
+712526.783763:	B
+wl0:	B
+setup_keepalive:	O
+interval	O
+900,	B
+retry_interval	O
+30,	B
+retry_count	O
+10	B
+
+ARPT:	O
+712530.297675:	B
+wl0:	B
+leaveModulePoweredForOffloads:	O
+Wi-Fi	O
+will	O
+stay	O
+on.	O
+
+CGXDisplayDidWakeNotification	O
+[712572581805245]:	B
+posting	O
+kCGSDisplayDidWake	O
+
+[HID]	O
+[ATC]	O
+AppleDeviceManagementHIDEventService::processWakeReason	O
+Wake	O
+reason:	O
+Host	O
+(0x01)	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+215	B
+seconds.	O
+Ignoring.	O
+
+Sandbox:	O
+com.apple.Addres(35250)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+139865	B
+seconds.	O
+Ignoring.	O
+
+IOPMrootDomain:	O
+idle	O
+cancel,	O
+state	O
+1	B
+
+ARPT:	O
+712915.870808:	B
+wl0:	B
+MDNS:	O
+IPV4	B
+Addr:	O
+10.105.162.105	B
+
+AppleThunderboltNHIType2::prePCIWake	O
+-	O
+power	O
+up	O
+complete	O
+-	O
+took	O
+2	B
+us	O
+
+ARPT:	O
+712921.782306:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+ARPT:	O
+712997.981881:	B
+IOPMPowerSource	O
+Information:	O
+onWake,	O
+SleepType:	O
+Normal	O
+Sleep,	O
+'ExternalConnected':	O
+Yes,	O
+'TimeRemaining':	O
+0,	B
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+0	B
+milliseconds	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+138144	B
+seconds.	O
+Ignoring.	O
+
+__42-[NETClientConnection	B
+evaluateCrazyIvan46]_block_invoke	O
+CI46	B
+-	O
+Hit	O
+by	O
+torpedo!	O
+QQ.10018	B
+tc22491	B
+203.205.142.158:8080	B
+
+Sandbox:	O
+com.apple.Addres(35286)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+132	B
+seconds.	O
+Ignoring.	O
+
+Peripheral	O
+manager	O
+is	O
+not	O
+powered	O
+on	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+135670	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+713439.104232:	B
+AirPort_Brcm43xx::powerChange:	O
+System	O
+Sleep	O
+
+ARPT:	O
+713493.575563:	B
+wl0:	O
+setup_keepalive:	O
+Remote	O
+IP:	O
+17.249.28.75	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+22:29:26.099	B
+:	O
+BTLE	O
+scanner	O
+Powered	O
+On	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+978	B
+seconds.	O
+Ignoring.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+NETWORK:	O
+no	O
+response	O
+from	O
+server,	O
+reachability,	O
+2,	B
+queryRetries,	O
+1	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+[com.apple.calendar.store.log.caldav.coredav]	B
+[Refusing	O
+to	O
+parse	O
+response	O
+to	O
+PROPPATCH	O
+because	O
+of	O
+content-type:	O
+[text/html;	B
+charset=UTF-8].]	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()	O
+failed	O
+path:/var/run/mDNSResponder	B
+Socket:4	B
+Err:-1	B
+Errno:1	B
+Operation	O
+not	O
+permitted	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()	O
+failed	O
+path:/var/run/mDNSResponder	B
+Socket:4	B
+Err:-1	B
+Errno:1	B
+Operation	O
+not	O
+permitted	O
+
+Path	O
+not	O
+allowed	O
+in	O
+target	O
+domain:	O
+type	O
+=	O
+pid,	B
+path	O
+=	O
+/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper	B
+error	O
+=	O
+147:	B
+The	O
+specified	O
+service	O
+did	O
+not	O
+ship	O
+in	O
+the	O
+requestor's	O
+bundle,	O
+origin	O
+=	O
+/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc	B
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00660011':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00670033':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x0360001f':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x03f20026':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x009a0005':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00990013':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00690003':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x006a00a6':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x006a00a7':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x03ef000d':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00b8fffe':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00bb0001':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00c5000c':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00e80002':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x03eb0001':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x00730020':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x007c0018':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x007d000e':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x008b036a':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x008b0360':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x008bdeaa':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x008bdeb0':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x01f90004':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02080000':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02120000':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x023b0003':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x023d0001':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02410003':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02420002':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02420006':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x0247ffe9':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x025c0009':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02640011':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x0268000a':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02cc0000':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02780026':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x027e0001':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02801000':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x0295001d':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x029f0014':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x029f003a':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+Cocoa	O
+scripting	O
+error	O
+for	O
+'0x02b60001':	B
+four	O
+character	O
+codes	O
+must	O
+be	O
+four	O
+characters	O
+long.	O
+
+jemmytest	O
+
+FA||Url||taskID[2019353519]	B
+dealloc	O
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+[com.apple.calendar.store.log.caldav.coredav]	B
+[Refusing	O
+to	O
+parse	O
+response	O
+to	O
+PROPPATCH	O
+because	O
+of	O
+content-type:	O
+[text/html;	B
+charset=UTF-8].]	B
+
+00:03:06.178	B
+:	O
+Started	O
+generating	O
+hashes	O
+
+00:03:36.715	B
+:	O
+BTLE	O
+scanning	O
+started	O
+
+jemmytest	O
+
+<<<<	O
+FigByteStream	O
+>>>>	O
+FigByteStreamStatsLogOneRead:	O
+ByteStream	O
+read	O
+of	O
+21335	B
+bytes	O
+@	O
+5481561	B
+took	O
+0.501237	B
+sec.	B
+to	O
+complete,	O
+16	B
+reads	O
+>=	O
+0.5	B
+sec.	O
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+AirPort:	O
+Link	O
+Up	O
+on	O
+en0	B
+
+button	O
+report:	O
+0X80076ED	B
+
+-_continuousScroll	B
+is	O
+deprecated	O
+for	O
+NSScrollWheel.	O
+Please	O
+use	O
+-hasPreciseScrollingDeltas.	O
+
+[00:28:42.167]	B
+(Fig)	O
+signalled	O
+err=-12871	B
+
+[00:29:04.085]	B
+<<<<	O
+CRABS	O
+>>>>	O
+crabsWaitForLoad:	O
+[0x7fbc7ac683a0]	B
+Wait	O
+time	O
+out	O
+-	O
+-1001	B
+(msRequestTimeout	O
+-1)	B
+
+tcp_connection_handle_connect_conditions_bad	O
+22710	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+NETWORK:	O
+no	O
+response	O
+from	O
+server,	O
+reachability,	O
+2,	B
+queryRetries,	O
+2	B
+
+Failed	O
+to	O
+stop	B
+a	O
+scan	O
+-	O
+central	O
+is	O
+not	O
+powered	O
+on:	O
+4	B
+
+device_generate_desktop_screenshot:	O
+authw	O
+0x7fa82407ea00(2000),	B
+shield	O
+0x7fa82435f400(2001)	B
+
+en0:	B
+channel	O
+changed	O
+to	O
+1	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+ARPT:	O
+720413.304306:	B
+wl0:	O
+setup_keepalive:	O
+Remote	O
+IP:	O
+17.249.12.81	B
+
+AppleCamIn::wakeEventHandlerThread	O
+
+com.apple.Addres(35762)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+RTC:	O
+PowerByCalendarDate	O
+setting	O
+ignored	O
+
+PM	O
+response	O
+took	O
+1988	B
+ms	O
+(54,	B
+powerd)	B
+
+ASL	O
+Sender	O
+Statistics	O
+
+****	O
+[BroadcomBluetoothHostControllerUSBTransport][start]	O
+--	O
+Completed	O
+(matched	O
+on	O
+Device)	O
+--	O
+0x6000	B
+****	O
+
+hibernate_newruntime_map	O
+time:	O
+0	B
+ms,	O
+IOPolledFilePollersOpen(),	O
+ml_get_interrupts_enabled	O
+0	B
+
+hibernate_machine_init	O
+pagesDone	O
+451550	B
+sum2	O
+4886d9d9,	B
+time:	O
+197	B
+ms,	O
+disk(0x20000)	B
+799	B
+Mb/s,	O
+comp	O
+bytes:	O
+40017920	B
+time:	O
+27	B
+ms	O
+1412	B
+Mb/s,	O
+crypt	O
+bytes:	O
+160550912	B
+time:	O
+39	B
+ms	O
+3904	B
+Mb/s	O
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+2017-07-05	B
+10:52:15.982	B
+GoogleSoftwareUpdateAgent[35861/0x700000323000]	B
+[lvl=2]	B
+-[KSOutOfProcessFetcher(PrivateMethods)	O
+helperDidTerminate:]	O
+KSOutOfProcessFetcher	O
+fetch	O
+ended	O
+for	O
+URL:	O
+"https://tools.google.com/service/update2?cup2hreq=d297a7e5b56d6bd4faa75860fff6e485c301bf4e943a561afff6c8b3707ce948&cup2key=7:2988503627"	B
+
+2017-07-05	B
+10:52:16.977	B
+GoogleSoftwareUpdateAgent[35861/0x700000323000]	B
+[lvl=2]	B
+-[KSPrefetchAction	O
+performAction]	O
+KSPrefetchAction	O
+no	O
+updates	O
+to	O
+prefetch.	O
+
+2017/07/05	B
+10:57:01.130	B
+|	O
+I	O
+|	O
+VoipWrapper	O
+|	O
+DAVEngineImpl.cpp:1400:Close	B
+|	O
+close	O
+video	O
+chat.	O
+llFriendUIN	O
+=	O
+1742124257.	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+Setting	O
+BTCoex	O
+Config:	O
+enable_2G:1,	B
+profile_2g:0,	B
+enable_5G:1,	B
+profile_5G:0	B
+
+CCIOReporterFormatter::addRegistryChildToChannelDictionary	O
+streams	O
+7	B
+
+Received	O
+Capture	O
+Event	O
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-05_11,39,39.743225]-CCIOReporter-001.xml,	B
+source	O
+path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-05_11,39,39.743225]-CCIOReporter-001.xml,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-05_11,39,38.739976]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-05_11,39,39.743225]-CCIOReporter-001.xml	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+<IMMacNotificationCenterManager:	O
+0x7ff1b2d17980>:	B
+NC	O
+Disabled:	O
+NO	B
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+CGXDisplayDidWakeNotification	O
+[723587602857832]:	B
+posting	O
+kCGSDisplayDidWake	O
+
+__42-[NETClientConnection	B
+evaluateCrazyIvan46]_block_invoke	O
+CI46	B
+-	O
+Hit	O
+by	O
+torpedo!	O
+QQ.10018	B
+tc22930	B
+125.39.240.34:14000	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+88:75:56:a0:95:ed	B
+
+ARPT:	O
+724509.898718:	B
+wl0:	B
+MDNS:	O
+IPV4	B
+Addr:	O
+10.105.160.226	B
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+88:75:56:a0:95:ed	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499288625.645942,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499288652.126295,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt,	B
+source	O
+path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-05_14,04,19.222771]=AuthFail:sts:5_rsn:0/DriverLogs//[2017-07-05_14,04,19.163834]-AirPortBrcm4360_Logs-025.txt	B
+
+CCFile::captureLog	O
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499288659.752738,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-05_14,04,25.118445]-AirPortBrcm4360_Logs-040.txt,	B
+Current	O
+File	O
+[2017-07-05_14,04,25.118445]-AirPortBrcm4360_Logs-040.txt	B
+
+doSaveChannels@286:	B
+Will	O
+write	O
+to:	O
+/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-05_14,04,24.831957]	B
+-	O
+AssocFail:sts:5_rsn:0.xml	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499288667.823332,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499288667.956536,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-05_14,04,32.840703]-io80211Family-056.pcapng,	B
+source	O
+path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-05_14,04,32.840703]-io80211Family-056.pcapng,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-05_14,04,32.969558]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-05_14,04,32.840703]-io80211Family-056.pcapng	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499288672.969558,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+CCFile::captureLog	O
+
+ARPT:	O
+724869.297011:	B
+IOPMPowerSource	O
+Information:	O
+onWake,	O
+SleepType:	O
+Normal	O
+Sleep,	O
+'ExternalConnected':	O
+No,	O
+'TimeRemaining':	O
+4551,	B
+
+IOHibernatePollerOpen(0)	B
+
+[HID]	O
+[MT]	O
+AppleMultitouchDevice::willTerminate	O
+entered	O
+
+Bluetooth	O
+--	O
+LE	O
+is	O
+supported	O
+-	O
+Disable	O
+LE	O
+meta	O
+event	O
+
+hibernate_rebuild	O
+completed	O
+-	O
+took	O
+10042450943433	B
+msecs	O
+
+AppleActuatorDevice::start	B
+Entered	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+bitmap_size	O
+0x7f0fc,	B
+previewSize	O
+0x4028,	B
+writing	O
+488299	B
+pages	O
+@	O
+0x97144	B
+
+AppleCamIn::handleWakeEvent_gated	O
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-05_16,05,05.078442]-io80211Family-008.pcapng,	B
+Current	O
+File	O
+[2017-07-05_16,05,05.078442]-io80211Family-008.pcapng	B
+
+ARPT:	O
+725218.810934:	B
+AirPort_Brcm43xx::powerChange:	O
+System	O
+Sleep	O
+
+IO80211AWDLPeerManager::setAwdlSuspendedMode()	O
+Suspending	O
+AWDL,	O
+enterQuietMode(true)	B
+
+DB	O
+Error:	O
+1	B
+"no	O
+such	O
+table:	O
+tb_c2cMsg_2658655094"	B
+
+2017-07-05	B
+16:18:06.450	B
+GoogleSoftwareUpdateAgent[36128/0x7000002a0000]	B
+[lvl=2]	B
+-[KSOutOfProcessFetcher	O
+beginFetchWithDelegate:]	O
+KSOutOfProcessFetcher	O
+fetching	O
+from	O
+URL:	O
+"https://tools.google.com/service/update2?cup2hreq=ac844e04cbb398fcef4cf81b4ffc44a3ebc863e89d19c0b5d39d02d78d26675b&cup2key=7:677488741"	B
+
+ARPT:	O
+725996.598754:	B
+framerdy	O
+0x0	B
+bmccmd	O
+3	B
+framecnt	O
+1024	B
+
+doSaveChannels@286:	B
+Will	O
+write	O
+to:	O
+/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-05_16,24,29.663045]	B
+-	O
+AuthFail:sts:5_rsn:0.xml	B
+
+button	O
+report:	O
+0x8002bdf	B
+
+CCLogTap::profileRemoved,	O
+Owner:	O
+com.apple.iokit.IO80211Family,	B
+Name:	O
+IO80211AWDLPeerManager	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+KeychainGetICDPStatus:	O
+keychain:	O
+-25300	B
+
+KeychainGetICDPStatus:	O
+status:	O
+off	B
+
+ARPT:	O
+728046.456828:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+IP:	O
+10.142.108.38	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+3	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+ARPT:	O
+728173.580097:	B
+wl0:	B
+setup_keepalive:	O
+interval	O
+900,	B
+retry_interval	O
+30,	B
+retry_count	O
+10	B
+
+ARPT:	O
+728173.580149:	B
+wl0:	B
+MDNS:	O
+IPV4	B
+Addr:	O
+10.142.108.38	B
+
+Unexpected	O
+payload	O
+found	O
+for	O
+message	O
+9,	B
+dataLen	O
+0	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+network	O
+changed:	O
+DNS*	O
+Proxy	B
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+QQ(10018)	B
+deny	O
+mach-lookup	O
+com.apple.networking.captivenetworksupport	B
+
+arp_client_transmit(en0)	B
+failed,	O
+Network	O
+is	O
+down	O
+(50)	B
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+en0:	B
+802.11d	B
+country	O
+code	O
+set	O
+to	O
+'X3'.	B
+
+Captive:	O
+CNPluginHandler	O
+en0:	B
+Inactive	O
+
+[0705/190016:WARNING:dns_config_service_posix.cc(306)]	B
+Failed	O
+to	O
+read	O
+DnsConfig.	O
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+SUSPENDED	B
+to	O
+AUTO	B
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+CalendarAgent	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+CCFile::captureLog	O
+
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry	O
+clearing	O
+out	O
+any	O
+previous	O
+subscriptions	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+ARPT:	O
+728620.515604:	B
+wl0:	B
+MDNS:	O
+0	B
+SRV	O
+Recs,	O
+0	B
+TXT	O
+Recs	O
+
+Sandbox:	O
+com.apple.Addres(36325)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+hostControllerOnline	O
+-	O
+Number	O
+of	O
+Paired	O
+devices	O
+=	O
+1,	B
+List	O
+of	O
+Paired	O
+devices	O
+=	O
+(	O
+"84-41-67-32-db-e1"	B
+)	O
+
+hibernate_newruntime_map	O
+time:	O
+0	B
+ms,	O
+IOPolledFilePollersOpen(),	O
+ml_get_interrupts_enabled	O
+0	B
+
+[BluetoothHIDDeviceController]	O
+EventServiceConnectedCallback	O
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+apsd	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+QQ(10018)	B
+deny	O
+mach-lookup	O
+com.apple.networking.captivenetworksupport	B
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+bitmap_size	O
+0x7f0fc,	B
+previewSize	O
+0x4028,	B
+writing	O
+485676	B
+pages	O
+@	O
+0x97144	B
+
+****	O
+[BroadcomBluetoothHostController][SetupController]	O
+--	O
+Delay	O
+HCI	O
+Reset	O
+by	O
+300ms	B
+****	O
+
+AppleActuatorHIDEventDriver:	O
+stop	O
+
+****	O
+[IOBluetoothHostControllerUSBTransport][start]	O
+--	O
+completed	O
+--	O
+result	O
+=	O
+TRUE	B
+--	O
+0xb000	B
+****	O
+
+AppleActuatorDeviceUserClient::start	B
+Entered	O
+
+NETWORK:	O
+requery,	O
+0,	B
+0,	B
+0,	B
+0,	B
+299,	B
+items,	O
+fQueryRetries,	O
+0,	B
+fLastRetryTimestamp,	O
+521006902.2	B
+
+polled	O
+file	O
+major	O
+1,	B
+minor	O
+0,	B
+blocksize	O
+4096,	B
+pollers	O
+5	B
+
+IOHibernatePollerOpen(0)	B
+
+2017-07-06	B
+00:30:37.064	B
+ksfetch[36439/0x7fff79824000]	B
+[lvl=2]	B
+main()	O
+Fetcher	O
+is	O
+exiting.	O
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+[0706/011106:WARNING:dns_config_service_posix.cc(306)]	B
+Failed	O
+to	O
+read	O
+DnsConfig.	O
+
+[01:11:06.715]	B
+FigAgglomeratorSetObjectForKey	O
+signalled	O
+err=-16020	B
+(kFigStringConformerError_ParamErr)	B
+(NULL	B
+key)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c	B
+line	O
+92	B
+
+Google	O
+Chrome	O
+He[36456]	B
+triggered	O
+unnest	O
+of	O
+range	O
+0x7fff93c00000->0x7fff93e00000	B
+of	O
+DYLD	O
+shared	O
+region	O
+in	O
+VM	O
+map	O
+0x77c9114550458e7b.	B
+While	O
+not	O
+abnormal	O
+for	O
+debuggers,	O
+this	O
+increases	O
+system	O
+memory	O
+footprint	O
+until	O
+the	O
+target	O
+exits.	O
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+com.apple.Addres(36461)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+com.apple.Addres(36461)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+Peripheral	O
+manager	O
+is	O
+not	O
+powered	O
+on	O
+
+QQ(10018)	B
+deny	O
+mach-lookup	O
+com.apple.networking.captivenetworksupport	B
+
+WARNING:	O
+hibernate_page_list_setall	O
+skipped	O
+19622	B
+xpmapped	O
+pages	O
+
+tcp_connection_handle_connect_conditions_bad	O
+23645	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+1	B
+
+com.apple.Addres(36491)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+hibernate_alloc_pages	O
+act	O
+107794,	B
+inact	O
+10088,	B
+anon	O
+460,	B
+throt	O
+0,	B
+spec	O
+58021,	B
+wire	O
+572831,	B
+wireinit	O
+39927	B
+
+-[NETClientConnection	O
+evaluateCrazyIvan46]	B
+CI46	B
+-	O
+Perform	O
+CrazyIvan46!	B
+QQ.10018	B
+tc23677	B
+123.151.137.101:80	B
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+SUSPENDED	B
+to	O
+AUTO	B
+
+hibernate_page_list_setall(preflight	O
+1)	B
+start	O
+
+hibernate_page_list_setall	O
+time:	O
+603	B
+ms	O
+
+IOPolledFilePollersOpen(0)	B
+6	B
+ms	O
+
+tcp_connection_handle_connect_conditions_bad	O
+23701	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+pages	O
+1418325,	B
+wire	O
+548641,	B
+act	O
+438090,	B
+inact	O
+2,	B
+cleaned	O
+0	B
+spec	O
+12,	B
+zf	O
+30,	B
+throt	O
+0,	B
+compr	O
+254881,	B
+xpmapped	O
+40000	B
+
+Bluetooth	O
+--	O
+LE	O
+is	O
+supported	O
+-	O
+Disable	O
+LE	O
+meta	O
+event	O
+
+[HID]	O
+[MT]	O
+AppleMultitouchDevice::start	O
+entered	O
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+CalendarAgent	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+[Accounts]	O
+Failed	O
+to	O
+update	O
+account	O
+with	O
+identifier	O
+76FE6715-3D27-4F21-AA35-C88C1EA820E8,	B
+error:	O
+Error	O
+Domain=ABAddressBookErrorDomain	B
+Code=1002	B
+"(null)"	B
+
+NETWORK:	O
+requery,	O
+0,	B
+0,	B
+0,	B
+0,	B
+302,	B
+items,	O
+fQueryRetries,	O
+0,	B
+fLastRetryTimestamp,	O
+521048292.6	B
+
+NETWORK:	O
+requery,	O
+0,	B
+0,	B
+0,	B
+0,	B
+291,	B
+items,	O
+fQueryRetries,	O
+0,	B
+fLastRetryTimestamp,	O
+521048893.3	B
+
+-[SFLListManager(ServiceReplyProtocol)	O
+notifyChanges:toListWithIdentifier:]	O
+Notified	O
+of	O
+item	O
+changes	O
+to	O
+list	O
+with	O
+identifier	O
+com.apple.LSSharedFileList.RecentApplications	B
+
+FA||Url||taskID[2019353614]	B
+dealloc	O
+
+no	O
+sleep	O
+images	O
+for	O
+WillPowerOffWithImages	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+button	O
+report:	O
+0x8002be0	B
+
+ChromeExistion	O
+main	O
+isUndetectWithCommand	O
+=	O
+1	B
+
+after	O
+trim	O
+url	O
+=	O
+https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8	B
+
+ChromeExistion	O
+main	O
+isUndetectWithCommand	O
+=	O
+1	B
+
+the	O
+url	O
+=	O
+http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin	B
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+ARPT:	O
+739017.747240:	B
+ARPT:	O
+Wake	O
+Reason:	O
+Wake	O
+on	O
+Scan	O
+offload	O
+
+en0:	B
+channel	O
+changed	O
+to	O
+1	B
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+apsd	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+network	O
+changed:	O
+DNS*	O
+Proxy	B
+
+[com.apple.calendar.store.log.caldav.queue]	B
+[Adding	O
+[<CalDAVAccountRefreshQueueableOperation:	O
+0x7fa11d67f3b0;	B
+Sequence:	O
+0>]	B
+to	O
+failed	O
+operations.]	O
+
+Received	O
+Capture	O
+Event	O
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+network	O
+changed:	O
+v6(en0-:2607:f140:6000:8:c6b3:1ff:fecd:467f)	B
+DNS-	O
+Proxy-	O
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-06_12,03,00.133649]-CCIOReporter-028.xml,	B
+Current	O
+File	O
+[2017-07-06_12,03,00.133649]-CCIOReporter-028.xml	B
+
+CCIOReporterFormatter::addRegistryChildToChannelDictionary	O
+streams	O
+7	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499367785.097211,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+1	B
+
+[0706/120312:WARNING:dns_config_service_posix.cc(306)]	B
+Failed	O
+to	O
+read	O
+DnsConfig.	O
+
+ARPT:	O
+739253.582611:	B
+wlc_dump_aggfifo:	O
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499367792.155080,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+AppleThunderboltNHIType2::waitForOk2Go2Sx	O
+-	O
+retries	O
+=	O
+5	B
+
+ARPT:	O
+739295.354731:	B
+wl0:	B
+Roamed	O
+or	O
+switched	O
+channel,	O
+reason	O
+#4,	B
+bssid	O
+f8:4f:57:3b:ea:b2,	B
+last	O
+RSSI	O
+-77	B
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+f8:4f:57:3b:ea:b2	B
+
+in6_unlink_ifa:	O
+IPv6	O
+address	O
+0x77c911454f1523ab	B
+has	O
+no	O
+prefix	O
+
+ARPT:	O
+739359.663674:	B
+wl0:	B
+leaveModulePoweredForOffloads:	O
+Wi-Fi	O
+will	O
+stay	O
+on.	O
+
+ARPT:	O
+739420.595498:	B
+AirPort_Brcm43xx::syncPowerState:	O
+WWEN[enabled]	B
+
+ARPT:	O
+739481.576701:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:c6b3:1ff:fecd:467f	B
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+ARPT:	O
+739668.778627:	B
+AirPort_Brcm43xx::powerChange:	O
+System	O
+Sleep	O
+
+tcp_connection_handle_connect_conditions_bad	O
+24150	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+hibernate_rebuild	O
+started	O
+
+INIT	O
+--	O
+Host	O
+controller	O
+is	O
+published	O
+
+Received	O
+Capture	O
+Event	O
+
+[com.apple.calendar.store.log.caldav.queue]	B
+[Adding	O
+[<CalDAVAccountRefreshQueueableOperation:	O
+0x7fa11d67f3b0;	B
+Sequence:	O
+0>]	B
+to	O
+failed	O
+operations.]	O
+
+Received	O
+Capture	O
+Event	O
+
+Sandbox:	O
+com.apple.Addres(37034)	B
+deny(1)	B
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+PM	O
+response	O
+took	O
+1999	B
+ms	O
+(54,	B
+powerd)	B
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+2017-07-06	B
+14:57:16.261	B
+ksfetch[37061/0x7fff79824000]	B
+[lvl=2]	B
+KSHelperReceiveAllData()	O
+KSHelperTool	O
+read	O
+1999	B
+bytes	O
+from	O
+stdin.	O
+
+2017-07-06	B
+14:57:16.661	B
+GoogleSoftwareUpdateAgent[37059/0x7000002a0000]	B
+[lvl=2]	B
+-[KSOutOfProcessFetcher(PrivateMethods)	O
+helperDidTerminate:]	O
+KSOutOfProcessFetcher	O
+fetch	O
+ended	O
+for	O
+URL:	O
+"https://tools.google.com/service/update2?cup2hreq=37fbcb7ab6829be04567976e3212d7a67627aef11546f8b7013d4cffaf51f739&cup2key=7:4200177539"	B
+
+AppleThunderboltNHIType2::prePCIWake	O
+-	O
+power	O
+up	O
+complete	O
+-	O
+took	O
+1	B
+us	O
+
+ARPT:	O
+740226.968934:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+ARPT:	O
+740345.497593:	B
+AirPort_Brcm43xx::syncPowerState:	O
+WWEN[enabled]	B
+
+in6_unlink_ifa:	O
+IPv6	O
+address	O
+0x77c911454f152b8b	B
+has	O
+no	O
+prefix	O
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+AppleCamIn::handleWakeEvent_gated	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+ARPT:	O
+740501.982555:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+fe80:0:0:0:c6b3:1ff:fecd:467f	B
+
+RTC:	O
+PowerByCalendarDate	O
+setting	O
+ignored	O
+
+__42-[NETClientConnection	B
+evaluateCrazyIvan46]_block_invoke	O
+CI46	B
+-	O
+Hit	O
+by	O
+torpedo!	O
+QQ.10018	B
+tc24283	B
+119.81.102.227:80	B
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+in6_unlink_ifa:	O
+IPv6	O
+address	O
+0x77c911453a6db3ab	B
+has	O
+no	O
+prefix	O
+
+ARPT:	O
+740631.402908:	B
+IOPMPowerSource	O
+Information:	O
+onWake,	O
+SleepType:	O
+Normal	O
+Sleep,	O
+'ExternalConnected':	O
+No,	O
+'TimeRemaining':	O
+5802,	B
+
+Path	O
+not	O
+allowed	O
+in	O
+target	O
+domain:	O
+type	O
+=	O
+pid,	B
+path	O
+=	O
+/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History	B
+error	O
+=	O
+147:	B
+The	O
+specified	O
+service	O
+did	O
+not	O
+ship	O
+in	O
+the	O
+requestor's	O
+bundle,	O
+origin	O
+=	O
+/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc	B
+
+NETWORK:	O
+requery,	O
+0,	B
+0,	B
+0,	B
+0,	B
+300,	B
+items,	O
+fQueryRetries,	O
+0,	B
+fLastRetryTimestamp,	O
+521081581.2	B
+
+Sandbox:	O
+com.apple.WebKit(9854)	B
+deny(1)	B
+file-read-data	O
+/private/etc/hosts	B
+
+FA||Url||taskID[2019353666]	B
+dealloc	O
+
+2017-07-06	B
+06:22:57.163367	B
+PM	O
+[AirPlayUIAgent]	O
+BecomingInactive:	O
+NSWorkspaceWillSleepNotification	O
+
+2017/07/06	B
+18:22:57.953	B
+|	O
+I	O
+|	O
+VoipWrapper	O
+|	O
+DAVEngineImpl.cpp:1400:Close	B
+|	O
+close	O
+video	O
+chat.	O
+llFriendUIN	O
+=	O
+1742124257.	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+258	B
+seconds.	O
+Ignoring.	O
+
+[HID]	O
+[ATC]	O
+AppleDeviceManagementHIDEventService::processWakeReason	O
+Wake	O
+reason:	O
+Host	O
+(0x01)	B
+
+full	O
+wake	O
+request	O
+(reason	O
+2)	B
+30914	B
+ms	O
+
+##############################	O
+_getSysMsgList	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+65594	B
+seconds.	O
+Ignoring.	O
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+16680	B
+seconds.	O
+Ignoring.	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+19:17:46.405	B
+:	O
+BTLE	O
+scanner	O
+Powered	O
+Off	B
+
+ARPT:	O
+744472.877165:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+15002	B
+seconds.	O
+Ignoring.	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+ARPT:	O
+744595.284508:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+524667	B
+seconds.	O
+Ignoring.	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+63122	B
+seconds.	O
+Ignoring.	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+524657	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+744650.016431:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:f882:21d2:d1af:f093	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+62280	B
+seconds.	O
+Ignoring.	O
+
+RTC:	O
+PowerByCalendarDate	O
+setting	O
+ignored	O
+
+20:03:05.179	B
+:	O
+BTLE	O
+scanner	O
+Powered	O
+Off	B
+
+button	O
+report:	O
+0x80039B7	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+1	B
+
+jemmytest	O
+
+KeychainGetICDPStatus:	O
+status:	O
+off	B
+
+[com.apple.calendar.store.log.caldav.queue]	B
+[Adding	O
+[<CalDAVAccountRefreshQueueableOperation:	O
+0x7fa11d73f960;	B
+Sequence:	O
+0>]	B
+to	O
+failed	O
+operations.]	O
+
+FA||Url||taskID[2019353677]	B
+dealloc	O
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+jemmytest	O
+
+NETWORK:	O
+requery,	O
+0,	B
+0,	B
+0,	B
+0,	B
+291,	B
+items,	O
+fQueryRetries,	O
+0,	B
+fLastRetryTimestamp,	O
+521092126.3	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+Page	O
+bounds	O
+{{0,	B
+0},	B
+{400,	B
+400}}	B
+
+[com.apple.calendar.store.log.caldav.queue]	B
+[Account	O
+xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/	B
+timed	O
+out	O
+when	O
+executing	O
+operation:	O
+<CalDAVAccountRefreshQueueableOperation:	O
+0x7fa11f9f2290;	B
+Sequence:	O
+0>]	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+Page	O
+bounds	O
+{{0,	B
+0},	B
+{400,	B
+400}}	B
+
+CFNetwork	O
+SSLHandshake	O
+failed	O
+(-9802)	B
+
+Unable	O
+to	O
+simultaneously	O
+satisfy	O
+constraints:	O
+(	O
+"<NSLayoutConstraint:0x7f8efa7db140	B
+H:[NSImageView:0x7f8efa7db900(38)]>",	B
+"<NSLayoutConstraint:0x7f8efa7cbe00	B
+H:|-(14)-[NSImageView:0x7f8efa7db900]	B
+(Names:	O
+PageItemCell:0x7f8efa7cb450,	B
+'|':PageItemCell:0x7f8efa7cb450	B
+)>",	O
+"<NSLayoutConstraint:0x7f8f17556f20	B
+'NSView-Encapsulated-Layout-Width'	O
+H:[PageItemCell(73)]	B
+(Names:	O
+PageItemCell:0x7f8efa7cb450	B
+)>",	O
+"<NSLayoutConstraint:0x7f8efa7dc1c0	B
+H:[NSImageView:0x7f8efa7db900]-(10)-[NSTextField:0x7f8efa7da9a0]>",	B
+"<NSLayoutConstraint:0x7f8efa7cbf70	B
+H:[NSTextField:0x7f8f02f1da90]-(14)-|	B
+(Names:	O
+PageItemCell:0x7f8efa7cb450,	B
+'|':PageItemCell:0x7f8efa7cb450	B
+)>",	O
+"<NSLayoutConstraint:0x7f8efa7dc350	B
+H:[NSTextField:0x7f8efa7da9a0]-(>=NSSpace(8))-[NSTextField:0x7f8f02f1da90]>"	B
+)	O
+Will	O
+attempt	O
+to	O
+recover	O
+by	O
+breaking	O
+constraint	O
+<NSLayoutConstraint:0x7f8efa7db140	B
+H:[NSImageView:0x7f8efa7db900(38)]>	B
+Set	O
+the	O
+NSUserDefault	O
+NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints	O
+to	O
+YES	O
+to	O
+have	O
+-[NSWindow	O
+visualizeConstraints:]	O
+automatically	O
+called	O
+when	O
+this	O
+happens.	O
+And/or,	O
+break	O
+on	O
+objc_exception_throw	O
+to	O
+catch	O
+this	O
+in	O
+the	O
+debugger.	O
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+<IMMacNotificationCenterManager:	O
+0x7fdcc9d16380>:	B
+NC	O
+Disabled:	O
+NO	B
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-07_00,52,55.450817]-CCIOReporter-001.xml,	B
+source	O
+path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/OneStats//[2017-07-07_00,52,55.450817]-CCIOReporter-001.xml,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-07_00,52,54.449889]=AuthFail:sts:5_rsn:0/OneStats//[2017-07-07_00,52,55.450817]-CCIOReporter-001.xml	B
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+Captive:	O
+[CNInfoNetworkActive:1748]	B
+en0:	B
+SSID	O
+'CalVisitor'	B
+making	O
+interface	O
+primary	O
+(cache	O
+indicates	O
+network	O
+not	O
+captive)	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+43840	B
+seconds.	O
+Ignoring.	O
+
+(DiskStore.Normal:2382)	B
+20cb04f	B
+1.000086	B
+
+com.apple.SoftwareUpdate.Activity:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+5703	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+761864.513194:	B
+AirPort_Brcm43xx::powerChange:	O
+System	O
+Sleep	O
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+38922	B
+seconds.	O
+Ignoring.	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+893	B
+seconds.	O
+Ignoring.	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+Thermal	O
+pressure	O
+state:	O
+1	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+498005	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+762302.122693:	B
+wl0:	B
+leaveModulePoweredForOffloads:	O
+Wi-Fi	O
+will	O
+stay	O
+on.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+35733	B
+seconds.	O
+Ignoring.	O
+
+RTC:	O
+PowerByCalendarDate	O
+setting	O
+ignored	O
+
+ARPT:	O
+762366.143164:	B
+AirPort_Brcm43xx::powerChange:	B
+System	O
+Wake	O
+-	O
+Full	O
+Wake/	O
+Dark	O
+Wake	O
+/	O
+Maintenance	O
+wake	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+2	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+33204	B
+seconds.	O
+Ignoring.	O
+
+com.apple.suggestions.harvest:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+106	B
+seconds.	O
+Ignoring.	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+31570	B
+seconds.	O
+Ignoring.	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+com.apple.Addres(37725)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+0	B
+milliseconds	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+29108	B
+seconds.	O
+Ignoring.	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+3	B
+
+com.apple.Addres(37745)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+AppleCamIn::wakeEventHandlerThread	O
+
+ARPT:	O
+762900.518967:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:3065:65eb:758e:972a	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+1065	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+762962.511796:	B
+AirPort_Brcm43xx::powerChange:	O
+System	O
+Sleep	O
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+26656	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+763023.568413:	B
+AirPort_Brcm43xx::syncPowerState:	O
+WWEN[enabled]	B
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+25947	B
+seconds.	O
+Ignoring.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+25077	B
+seconds.	O
+Ignoring.	O
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+ARPT:	O
+763490.115579:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:c6b3:1ff:fecd:467f	B
+
+setting	O
+hostname	O
+to	O
+"authorMacBook-Pro.local"	B
+
+CCDataTap::profileRemoved,	O
+Owner:	O
+com.apple.driver.AirPort.Brcm4360.0,	B
+Name:	O
+StateSnapshots	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+20786	B
+seconds.	O
+Ignoring.	O
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+1	B
+milliseconds	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+QQ(10018)	B
+deny	O
+mach-lookup	O
+com.apple.networking.captivenetworksupport	B
+
+nw_nat64_post_new_ifstate	O
+successfully	O
+changed	O
+NAT64	O
+ifstate	O
+from	O
+0x4	B
+to	O
+0x8000000000000000	B
+
+com.apple.CacheDelete.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+14028	B
+seconds.	O
+Ignoring.	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+474773	B
+seconds.	O
+Ignoring.	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+473935	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+764299.017125:	B
+wl0:	B
+MDNS:	O
+IPV6	B
+Addr:	O
+2607:f140:6000:8:9cb8:f7f2:7c03:f956	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+845	B
+seconds.	O
+Ignoring.	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+10028	B
+seconds.	O
+Ignoring.	O
+
+ARPT:	O
+764427.640542:	B
+wl0:	B
+setup_keepalive:	O
+Seq:	O
+204730741,	B
+Ack:	O
+2772623181,	B
+Win	O
+size:	O
+4096	B
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+0	B
+milliseconds	O
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+9219	B
+seconds.	O
+Ignoring.	O
+
+RTC:	O
+PowerByCalendarDate	O
+setting	O
+ignored	O
+
+##############################	O
+_getSysMsgList	O
+
+DB	O
+Path:	O
+/Users/xpc/Library/Containers/com.tencent.qq/Data/Documents/contents/916639562/QQ.db	B
+
+2017-07-07	B
+10:54:41.296	B
+ksfetch[37925/0x7fff79824000]	B
+[lvl=2]	B
+KSHelperReceiveAllData()	O
+KSHelperTool	O
+read	O
+1926	B
+bytes	O
+from	O
+stdin.	O
+
+Path	O
+not	O
+allowed	O
+in	O
+target	O
+domain:	O
+type	O
+=	O
+pid,	B
+path	O
+=	O
+/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History	B
+error	O
+=	O
+147:	B
+The	O
+specified	O
+service	O
+did	O
+not	O
+ship	O
+in	O
+the	O
+requestor's	O
+bundle,	O
+origin	O
+=	O
+/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc	B
+
+[11:48:06.869]	B
+FigAgglomeratorSetObjectForKey	O
+signalled	O
+err=-16020	B
+(kFigStringConformerError_ParamErr)	B
+(NULL	B
+key)	O
+at	O
+/Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c	B
+line	O
+92	B
+
+Service	O
+"com.apple.xpc.launchd.unmanaged.loginwindow.94"	B
+tried	O
+to	O
+hijack	O
+endpoint	O
+"com.apple.tsm.uiserver"	B
+from	O
+owner:	O
+com.apple.SystemUIServer.agent	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Active'	B
+
+Session	O
+101800	B
+destroyed	O
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+TBT	O
+W	O
+(2):	B
+0x0040	B
+[x]	B
+
+AppleCamIn::handleWakeEvent_gated	O
+
+-[SOAPParser:0x7f84bad89660	B
+parser:didStartElement:namespaceURI:qualifiedName:attributes:]	O
+Type	O
+not	O
+found	O
+in	O
+EWSItemType	O
+for	O
+ExchangePersonIdGuid	O
+(t:ExchangePersonIdGuid)	O
+
+<IMMacNotificationCenterManager:	O
+0x7fdcc9d16380>:	B
+NC	O
+Disabled:	O
+NO	B
+
+in6_unlink_ifa:	O
+IPv6	O
+address	O
+0x77c911453a6dbcdb	B
+has	O
+no	O
+prefix	O
+
+ARPT:	O
+770518.944345:	B
+framerdy	O
+0x0	B
+bmccmd	O
+3	B
+framecnt	O
+1024	B
+
+CCFile::captureLog	O
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+CCFile::captureLog	O
+
+ARPT:	O
+770602.528852:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[enable]	B
+
+TBT	O
+W	O
+(2):	B
+0x0040	B
+[x]	B
+
+ARPT:	O
+770605.092581:	B
+ARPT:	O
+Wake	O
+Reason:	O
+Wake	O
+on	O
+Scan	O
+offload	O
+
+IO80211AWDLPeerManager::setAwdlAutoMode	O
+Resuming	O
+AWDL	O
+
+doSaveChannels@286:	B
+Will	O
+write	O
+to:	O
+/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,38,22.072050]	B
+-	O
+AssocFail:sts:2_rsn:0.xml	B
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-07_13,38,23.338868]-AirPortBrcm4360_Logs-013.txt,	B
+Current	O
+File	O
+[2017-07-07_13,38,23.338868]-AirPortBrcm4360_Logs-013.txt	B
+
+CCIOReporterFormatter::addRegistryChildToChannelDictionary	O
+streams	O
+7	B
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-07_13,38,24.371339]-CCIOReporter-019.xml,	B
+Current	O
+File	O
+[2017-07-07_13,38,24.371339]-CCIOReporter-019.xml	B
+
+-[NETClientConnection	O
+evaluateCrazyIvan46]	B
+CI46	B
+-	O
+Perform	O
+CrazyIvan46!	B
+NeteaseMusic.17988	B
+tc12042	B
+103.251.128.144:80	B
+
+com.apple.Addres(38132)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+Bluetooth	O
+--	O
+LE	O
+is	O
+supported	O
+-	O
+Disable	O
+LE	O
+meta	O
+event	O
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+CalendarAgent	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+CCFile::captureLog	O
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-07_13,40,35.961495]-io80211Family-023.pcapng,	B
+Current	O
+File	O
+[2017-07-07_13,40,35.961495]-io80211Family-023.pcapng	B
+
+ARPT:	O
+770712.519828:	B
+framerdy	O
+0x0	B
+bmccmd	O
+3	B
+framecnt	O
+1024	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499460036.519390,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-07_13,40,37.052249]-io80211Family-031.pcapng,	B
+source	O
+path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-07_13,40,37.052249]-io80211Family-031.pcapng,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-07_13,40,37.192896]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-07_13,40,37.052249]-io80211Family-031.pcapng	B
+
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry	O
+clearing	O
+out	O
+any	O
+previous	O
+subscriptions	O
+
+doSaveChannels@286:	B
+Will	O
+write	O
+to:	O
+/Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,40,35.959475]	B
+-	O
+AuthFail:sts:5_rsn:0.xml	B
+
+nw_nat64_post_new_ifstate	O
+successfully	O
+changed	O
+NAT64	O
+ifstate	O
+from	O
+0x4	B
+to	O
+0x8000000000000000	B
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+apsd	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+CCFile::captureLogRun	O
+Skipping	O
+current	O
+file	O
+Dir	O
+file	O
+[2017-07-07_13,42,34.831310]-AirPortBrcm4360_Logs-041.txt,	B
+Current	O
+File	O
+[2017-07-07_13,42,34.831310]-AirPortBrcm4360_Logs-041.txt	B
+
+ARPT:	O
+770802.879782:	B
+wlc_dump_aggfifo:	O
+
+AppleThunderboltGenericHAL::earlyWake	O
+-	O
+complete	O
+-	O
+took	O
+0	B
+milliseconds	O
+
+ARPT:	O
+770812.035971:	B
+AirPort_Brcm43xx::powerChange:	B
+System	O
+Wake	O
+-	O
+Full	O
+Wake/	O
+Dark	O
+Wake	O
+/	O
+Maintenance	O
+wake	O
+
+Saw	O
+change	O
+in	O
+network	O
+reachability	O
+(isReachable=2)	B
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+CalendarAgent	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+AppleThunderboltNHIType2::prePCIWake	O
+-	O
+power	O
+up	O
+complete	O
+-	O
+took	O
+1	B
+us	O
+
+AppleCamIn::handleWakeEvent_gated	O
+
+com.apple.Addres(38179)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+[14:07:21.190]	B
+<<<<	O
+Boss	O
+>>>>	O
+figPlaybackBossPrerollCompleted:	O
+unexpected	O
+preroll-complete	O
+notification	O
+
+Service	O
+"com.apple.xpc.launchd.unmanaged.loginwindow.94"	B
+tried	O
+to	O
+hijack	O
+endpoint	O
+"com.apple.tsm.uiserver"	B
+from	O
+owner:	O
+com.apple.SystemUIServer.agent	B
+
+ASL	O
+Sender	O
+Statistics	O
+
+in6_unlink_ifa:	O
+IPv6	O
+address	O
+0x77c911454f15210b	B
+has	O
+no	O
+prefix	O
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+ARPT:	O
+771456.438849:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[disable]	B
+
+com.apple.Addres(38210)	B
+deny	O
+network-outbound	O
+/private/var/run/mDNSResponder	B
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+ASL	O
+Sender	O
+Statistics	O
+
+AppleCamIn::wakeEventHandlerThread	O
+
+en0:	B
+channel	O
+changed	O
+to	O
+1	B
+
+-[NetworkAnalyticsEngine	O
+_writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:]	O
+Hashing	O
+of	O
+the	O
+primary	O
+key	O
+failed.	O
+Dropping	O
+the	O
+journal	O
+record.	O
+
+Setting	O
+BTCoex	O
+Config:	O
+enable_2G:1,	B
+profile_2g:0,	B
+enable_5G:1,	B
+profile_5G:0	B
+
+tcp_connection_handle_connect_conditions_bad	O
+25340	B
+failed:	O
+3	B
+-	O
+No	O
+network	O
+route	O
+
+ARPT:	O
+771663.085756:	B
+wl0:	B
+Roamed	O
+or	O
+switched	O
+channel,	O
+reason	O
+#8,	B
+bssid	O
+00:a6:ca:db:93:cc,	B
+last	O
+RSSI	O
+-60	B
+
+Captive:	O
+CNPluginHandler	O
+en0:	B
+Inactive	O
+
+en0:	B
+BSSID	O
+changed	O
+to	O
+0c:68:03:d6:c5:1c	B
+
+CCFile::copyFile	O
+fileName	O
+is	O
+[2017-07-07_16,24,11.442212]-AirPortBrcm4360_Logs-001.txt,	B
+source	O
+path:/var/log/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/DriverLogs//[2017-07-07_16,24,11.442212]-AirPortBrcm4360_Logs-001.txt,	B
+dest	O
+path:/Library/Logs/CrashReporter/CoreCapture/com.apple.driver.AirPort.Brcm4360.0/[2017-07-07_16,24,11.124183]=AssocFail:sts:2_rsn:0/DriverLogs//[2017-07-07_16,24,11.442212]-AirPortBrcm4360_Logs-001.txt	B
+
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry	O
+clearing	O
+out	O
+any	O
+previous	O
+subscriptions	O
+
+Received	O
+Capture	O
+Event	O
+
+-[NETClientConnection	O
+effectiveBundleID]	O
+using	O
+process	O
+name	O
+apsd	B
+as	O
+bundle	O
+ID	O
+(this	O
+is	O
+expected	O
+for	O
+daemons	O
+without	O
+bundle	O
+ID	O
+
+dnssd_clientstub	O
+ConnectToServer:	O
+connect()->	O
+No	O
+of	O
+tries:	O
+3	B
+
+CGXDisplayDidWakeNotification	O
+[771797848593539]:	B
+posting	O
+kCGSDisplayDidWake	O
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+KeychainGetICDPStatus:	O
+keychain:	O
+-25300	B
+
+Path	O
+not	O
+allowed	O
+in	O
+target	O
+domain:	O
+type	O
+=	O
+pid,	B
+path	O
+=	O
+/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper	B
+error	O
+=	O
+147:	B
+The	O
+specified	O
+service	O
+did	O
+not	O
+ship	O
+in	O
+the	O
+requestor's	O
+bundle,	O
+origin	O
+=	O
+/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+12	B
+unplug	O
+=	O
+0	B
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+en0:	B
+channel	O
+changed	O
+to	O
+1	B
+
+[HID]	O
+[ATC]	O
+AppleDeviceManagementHIDEventService::processWakeReason	O
+Wake	O
+reason:	O
+Host	O
+(0x01)	B
+
+Saw	O
+change	O
+in	O
+network	O
+reachability	O
+(isReachable=0)	B
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+40	B
+seconds.	O
+Ignoring.	O
+
+IO80211AWDLPeerManager::setAwdlOperatingMode	O
+Setting	O
+the	O
+AWDL	O
+operation	O
+mode	O
+from	O
+AUTO	B
+to	O
+SUSPENDED	B
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+com.apple.EscrowSecurityAlert.daily:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+68031	B
+seconds.	O
+Ignoring.	O
+
+com.apple.Safari.SafeBrowsing.Update:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+2889	B
+seconds.	O
+Ignoring.	O
+
+IO80211AWDLPeerManager::setAwdlSuspendedMode()	O
+Suspending	O
+AWDL,	O
+enterQuietMode(true)	B
+
+IO80211AWDLPeerManager::setAwdlSuspendedMode()	O
+Suspending	O
+AWDL,	O
+enterQuietMode(true)	B
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+442301	B
+seconds.	O
+Ignoring.	O
+
+-[SOAPParser:0x7fca6040cb50	B
+parser:didStartElement:namespaceURI:qualifiedName:attributes:]	O
+Type	O
+not	O
+found	O
+in	O
+EWSItemType	O
+for	O
+ExchangePersonIdGuid	O
+(t:ExchangePersonIdGuid)	O
+
+com.apple.icloud.fmfd.heartbeat:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+441483	B
+seconds.	O
+Ignoring.	O
+
+18:50:46.109	B
+:	O
+BTLE	O
+scanner	O
+Powered	O
+On	B
+
+com.apple.SoftwareUpdate.Activity:	B
+scheduler_evaluate_activity	O
+told	O
+me	O
+to	O
+run	O
+this	O
+job;	O
+however,	O
+but	O
+the	O
+start	O
+time	O
+isn't	O
+for	O
+4223	B
+seconds.	O
+Ignoring.	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+AppleCamIn::handleWakeEvent_gated	O
+
+[com.apple.calendar.store.log.caldav.coredav]	B
+[Refusing	O
+to	O
+parse	O
+response	O
+to	O
+PROPPATCH	O
+because	O
+of	O
+content-type:	O
+[text/html;	B
+charset=UTF-8].]	B
+
+NETWORK:	O
+requery,	O
+0,	B
+0,	B
+0,	B
+0,	B
+328,	B
+items,	O
+fQueryRetries,	O
+0,	B
+fLastRetryTimestamp,	O
+521177334.4	B
+
+NSURLSession/NSURLConnection	O
+HTTP	O
+load	O
+failed	O
+(kCFStreamErrorDomainSSL,	O
+-9806)	B
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+KeychainGetICDPStatus:	O
+keychain:	O
+-25300	B
+
+Thermal	O
+pressure	O
+state:	O
+0	B
+Memory	O
+pressure	O
+state:	O
+0	B
+
+KeychainGetICDPStatus:	O
+status:	O
+off	B
+
+Error	O
+returned	O
+from	O
+iconservicesagent:	O
+(null)	B
+
+jemmytest	O
+
+KeychainGetICDPStatus:	O
+keychain:	O
+-25300	B
+
+Path	O
+not	O
+allowed	O
+in	O
+target	O
+domain:	O
+type	O
+=	O
+pid,	B
+path	O
+=	O
+/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SocialHelper.xpc/Contents/MacOS/com.apple.Safari.SocialHelper	B
+error	O
+=	O
+147:	B
+The	O
+specified	O
+service	O
+did	O
+not	O
+ship	O
+in	O
+the	O
+requestor's	O
+bundle,	O
+origin	O
+=	O
+/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc	B
+
+<<<<	O
+MediaValidator	O
+>>>>	O
+mv_LookupCodecSupport:	O
+Unrecognized	O
+codec	O
+1	B
+
+<<<<	O
+MediaValidator	O
+>>>>	O
+mv_ValidateRFC4281CodecId:	O
+Unrecognized	O
+codec	O
+1.(null).	B
+Failed	O
+codec	O
+specific	O
+check.	O
+
+CoreAnimation:	O
+timed	O
+out	O
+fence	O
+5fe83	B
+
+tcp_connection_tls_session_error_callback_imp	O
+2515	B
+__tcp_connection_tls_session_callback_write_block_invoke.434	B
+error	O
+22	B
+
+KeychainGetICDPStatus:	O
+keychain:	O
+-25300	B
+
+Location	O
+icon	O
+should	O
+now	O
+be	O
+in	O
+state	O
+'Inactive'	B
+
+ARPT:	O
+783667.697957:	B
+AirPort_Brcm43xx::powerChange:	O
+System	O
+Sleep	O
+
+Bluetooth	O
+--	O
+LE	O
+is	O
+supported	O
+-	O
+Disable	O
+LE	O
+meta	O
+event	O
+
+send_datagram_available_ping:	O
+pid	O
+445	B
+failed	O
+to	O
+act	O
+on	O
+a	O
+ping	O
+it	O
+dequeued	O
+before	O
+timing	O
+out.	O
+
+21:58:33.765	B
+ERROR:	O
+177:	B
+timed	O
+out	O
+after	O
+15.000s	B
+(0	B
+0);	B
+mMajorChangePending=0	B
+
+ARPT:	O
+783795.288172:	B
+AirPort_Brcm43xx::powerChange:	B
+System	O
+Wake	O
+-	O
+Full	O
+Wake/	O
+Dark	O
+Wake	O
+/	O
+Maintenance	O
+wake	O
+
+button	O
+report:	O
+0x8002be0	B
+
+22:24:31.135	B
+:	O
+BTLE	O
+scanner	O
+Powered	O
+On	B
+
+button	O
+report:	O
+0x8002be0	B
+
+ARPT:	O
+783991.995027:	B
+wl0:	B
+setup_keepalive:	O
+interval	O
+900,	B
+retry_interval	O
+30,	B
+retry_count	O
+10	B
+
+ARPT:	O
+784053.579480:	B
+wl0:	B
+setup_keepalive:	O
+Local	O
+port:	O
+59927,	B
+Remote	O
+port:	O
+443	B
+
+ARPT:	O
+784117.089800:	B
+AirPort_Brcm43xx::powerChange:	O
+System	O
+Sleep	O
+
+ARPT:	O
+784178.158614:	B
+AirPort_Brcm43xx::platformWoWEnable:	O
+WWEN[enable]	B
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+in6_unlink_ifa:	O
+IPv6	O
+address	O
+0x77c911454f1523ab	B
+has	O
+no	O
+prefix	O
+
+__73-[NetworkAnalyticsEngine	B
+observeValueForKeyPath:ofObject:change:context:]_block_invoke	O
+unexpected	O
+switch	O
+value	O
+2	B
+
+USBMSC	O
+Identifier	O
+(non-unique):	O
+000000000820	B
+0x5ac	B
+0x8406	B
+0x820,	B
+3	B
+
+efi	O
+pagecount	O
+72	B
+
+mDNS_RegisterInterface:	O
+Frequent	O
+transitions	O
+for	O
+interface	O
+en0	B
+(FE80:0000:0000:0000:C6B3:01FF:FECD:467F)	B
+
+ARPT:	O
+784486.498066:	B
+wlc_dump_aggfifo:	O
+
+CCFile::captureLogRun()	O
+Exiting	O
+CCFile::captureLogRun	O
+
+CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry	O
+clearing	O
+out	O
+any	O
+previous	O
+subscriptions	O
+
+Previous	O
+sleep	O
+cause:	O
+5	B
+
+****	O
+[BroadcomBluetoothHostControllerUSBTransport][start]	O
+--	O
+Completed	O
+(matched	O
+on	O
+Device)	O
+--	O
+0x3800	B
+****	O
+
+nw_nat64_post_new_ifstate	O
+successfully	O
+changed	O
+NAT64	O
+ifstate	O
+from	O
+0x4	B
+to	O
+0x8000000000000000	B
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499506366.010075,	B
+reason	O
+=	O
+AuthFail:sts:5_rsn:0	B
+
+did	O
+discard	O
+act	O
+12083	B
+inact	O
+17640	B
+purgeable	O
+20264	B
+spec	O
+28635	B
+cleaned	O
+0	B
+
+en0::IO80211Interface::postMessage	B
+bssid	O
+changed	O
+
+CCDataTap::profileRemoved,	O
+Owner:	O
+com.apple.iokit.IO80211Family,	B
+Name:	O
+AssociationEventHistory	B
+
+ARPT:	O
+784632.788065:	B
+wl0:	B
+Roamed	O
+or	O
+switched	O
+channel,	O
+reason	O
+#8,	B
+bssid	O
+5c:50:15:36:bc:03,	B
+last	O
+RSSI	O
+-69	B
+
+DB	O
+Error:	O
+1	B
+"no	O
+such	O
+table:	O
+tb_c2cMsg_2909288299"	B
+
+AirPort:	O
+Link	O
+Down	O
+on	O
+en0.	B
+Reason	O
+8	B
+(Disassociated	O
+because	O
+station	O
+leaving).	O
+
+IOThunderboltSwitch<0>(0x0)::listenerCallback	B
+-	O
+Thunderbolt	O
+HPD	O
+packet	O
+for	O
+route	O
+=	O
+0x0	B
+port	O
+=	O
+11	B
+unplug	O
+=	O
+0	B
+
+****	O
+[BroadcomBluetoothHostControllerUSBTransport][start]	O
+--	O
+Completed	O
+(matched	O
+on	O
+Device)	O
+--	O
+0x8800	B
+****	O
+
+USBMSC	O
+Identifier	O
+(non-unique):	O
+000000000820	B
+0x5ac	B
+0x8406	B
+0x820,	B
+3	B
+
+Captive:	O
+CNPluginHandler	O
+en0:	O
+Evaluating	O
+
+Captive:	O
+CNPluginHandler	O
+en0:	O
+Authenticated	O
+
+button	O
+report:	O
+0x8002bdf	B
+
+FA||Url||taskID[2019353853]	B
+dealloc	O
+
+[BluetoothHIDDeviceController]ERROR:	O
+Could	O
+not	O
+find	O
+the	O
+disconnected	O
+object	O
+
+Captive:	O
+CNPluginHandler	O
+en0:	B
+Inactive	O
+
+AppleCamIn::systemWakeCall	O
+-	O
+messageType	O
+=	O
+0xE0000340	B
+
+[BluetoothHIDDeviceController]ERROR:	O
+Could	O
+not	O
+find	O
+the	O
+disconnected	O
+object	O
+
+setting	O
+hostname	O
+to	O
+"calvisitor-10-105-162-124.calvisitor.1918.berkeley.edu"	B
+
+efi	O
+pagecount	O
+72	B
+
+Unrecognized	O
+XSSimpleTypeDefinition:	O
+OneOff	B
+
+vm_compressor_fastwake_warmup	O
+completed	O
+-	O
+took	O
+12461	B
+msecs	O
+
+CCFile::captureLog	O
+Received	O
+Capture	O
+notice	O
+id:	O
+1499518522.558304,	B
+reason	O
+=	O
+AssocFail:sts:2_rsn:0	B
+
+[Accounts]	O
+Current	O
+connection,	O
+<NSXPCConnection:	O
+0x7fda72614240>	B
+connection	O
+from	O
+pid	O
+30318,	B
+doesn't	O
+have	O
+account	O
+access.	O
+
+Path	O
+not	O
+allowed	O
+in	O
+target	O
+domain:	O
+type	O
+=	O
+pid,	B
+path	O
+=	O
+/System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.ImageDecoder.xpc/Contents/MacOS/com.apple.Safari.ImageDecoder	B
+error	O
+=	O
+147:	B
+The	O
+specified	O
+service	O
+did	O
+not	O
+ship	O
+in	O
+the	O
+requestor's	O
+bundle,	O
+origin	O
+=	O
+/System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc	B
+
+2017-07-08	B
+06:26:32.364	B
+GoogleSoftwareUpdateAgent[39159/0x7000002a0000]	B
+[lvl=2]	B
+-[KSAgentApp(KeystoneDelegate)	O
+updateEngineFinishedWithErrors:]	O
+Keystone	O
+finished:	O
+errors=0	B
+
+Arranged	O
+view	O
+frame:	O
+{{0,	B
+0},	B
+{260,	B
+877}}	B
+
+[com.apple.calendar.store.log.caldav.coredav]	B
+[Refusing	O
+to	O
+parse	O
+response	O
+to	O
+PROPPATCH	O
+because	O
+of	O
+content-type:	O
+[text/html;	B
+charset=UTF-8].]	B
+
+CCProfileMonitor::setStreamEventHandler	O
+
+Telling	O
+CSI	O
+to	O
+go	O
+low	O
+power.	O
+
+Bluetooth	O
+--	O
+LE	O
+is	O
+supported	O
+-	O
+Disable	O
+LE	O
+meta	O
+event	O
+
+USBMSC	O
+Identifier	O
+(non-unique):	O
+000000000820	B
+0x5ac	B
+0x8406	B
+0x820,	B
+3	B
+

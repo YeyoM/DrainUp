@@ -1,0 +1,1697 @@
+ambient=29	B
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root13_local	B
+is	O
+full	O
+
+boot	O
+(command	O
+2417)	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+running	O
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Link	O
+error	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-9	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+ambient=27	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage131	B
+
+ambient=32	B
+
+warning	O
+
+wait	O
+(command	O
+2607)	B
+
+wait	O
+(command	O
+2513)	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage221	B
+
+running	O
+
+configured	O
+out	O
+
+warning	O
+
+warning	O
+
+wait	O
+(command	O
+2449)	B
+
+normal	O
+
+not	O
+responding	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+critical	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-212	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+warning	O
+
+not	O
+responding	O
+
+normal	O
+
+ambient=30	B
+
+not	O
+responding	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+clusterAddMember	O
+(command	O
+1900)	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+not	O
+responding	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=34	B
+
+normal	O
+
+NIFF:	O
+node	O
+node-84	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+configured	O
+out	O
+
+configured	O
+out	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+NIFF:	O
+node	O
+node-218	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1331	B
+
+normal	O
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1311	B
+
+ambient=27	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+ambient=33	B
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+wait	O
+(command	O
+2909)	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+warning	O
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+storage534	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-18	B
+
+normal	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+ambient=30	B
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+ambient=28	B
+
+NIFF:	O
+node	O
+node-241	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+link	O
+errors	O
+remain	O
+current	O
+
+warning	O
+
+normal	O
+
+configured	O
+out	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+wait	O
+(command	O
+4117)	B
+
+wait	O
+(command	O
+3087)	B
+
+Link	O
+in	O
+reset	O
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+running	O
+
+Targeting	O
+domains:node-D0	B
+and	O
+nodes:node-0	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-182	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+link	O
+errors	O
+remain	O
+current	O
+
+ServerFileSystem:	O
+An	O
+ServerFileSystem	O
+domain	O
+panic	O
+has	O
+occurred	O
+on	O
+storage442	B
+
+NIFF:	O
+node	O
+node-29	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-142	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+warning	O
+
+normal	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=30	B
+
+configured	O
+out	O
+
+normal	O
+
+ambient=30	B
+
+blocked	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=34	B
+
+boot	O
+(command	O
+4170)	B
+
+normal	O
+
+warning	O
+
+running	O
+
+normal	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-77	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+configured	O
+out	O
+
+normal	O
+
+warning	O
+
+running	O
+
+ambient=30	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=30	B
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+boot	O
+(command	O
+3512)	B
+
+configured	O
+out	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-202	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+ambient=32	B
+
+running	O
+
+wait	O
+(command	O
+3981)	B
+
+running	O
+
+warning	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+running	O
+
+Link	O
+ok	O
+
+warning	O
+
+ambient=32	B
+
+ambient=27	B
+
+warning	O
+
+running	O
+
+configured	O
+out	O
+
+NIFF:	O
+node	O
+node-248	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-91	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+normal	O
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=27	B
+
+warning	O
+
+ambient=29	B
+
+ambient=29	B
+
+ambient=32	B
+
+NIFF:	O
+node	O
+node-23	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+running	O
+
+warning	O
+
+ambient=28	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1644	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+wait	O
+(command	O
+3141)	B
+
+Link	O
+error	O
+on	O
+broadcast	O
+tree	O
+Interconnect-1T00:00:2:0	B
+
+active	O
+
+critical	O
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-205	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+ambient=34	B
+
+boot	O
+(command	O
+3951)	B
+
+ambient=30	B
+
+warning	O
+
+ambient=31	B
+
+ambient=32	B
+
+warning	O
+
+running	O
+
+ambient=34	B
+
+boot	O
+(command	O
+1981)	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root25_local	B
+is	O
+full	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+NIFF:	O
+node	O
+node-193	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-73	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+blocked	O
+
+ambient=27	B
+
+running	O
+
+warning	O
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=3713)	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+configured	O
+out	O
+
+normal	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+not	O
+responding	O
+
+normal	O
+
+Link	O
+error	O
+
+ambient=31	B
+
+warning	O
+
+ambient=30	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+NIFF:	O
+node	O
+node-42	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+configured	O
+out	O
+
+ambient=24	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=29	B
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=3180)	B
+
+ambient=36	B
+
+normal	O
+
+ambient=26	B
+
+wait	O
+(command	O
+2302)	B
+
+ServerFileSystem:	O
+ServerFileSystem	O
+domain	O
+root26_tmp	B
+is	O
+full	O
+
+ambient=35	B
+
+NIFF:	O
+node	O
+node-30	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+ambient=29	B
+
+configured	O
+out	O
+
+wait	O
+(command	O
+3612)	B
+
+configured	O
+out	O
+
+NIFF:	O
+node	O
+node-176	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.226.0	B
+via	O
+interface	O
+alt0	B
+
+NIFF:	O
+node	O
+node-84	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage1534	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+wait	O
+(command	O
+4116)	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root23_local	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-182	B
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+cluster_usr_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-160	B
+
+Link	O
+in	O
+reset	O
+
+normal	O
+
+ambient=32	B
+
+configured	O
+out	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+warning	O
+
+ambient=27	B
+
+ambient=28	B
+
+configured	O
+out	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-234	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-46	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+5.5.224.0	B
+via	O
+interface	O
+alt0	B
+
+warning	O
+
+normal	O
+
+ambient=28	B
+
+normal	O
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root5_domain	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-196	B
+
+running	O
+
+running	O
+
+boot	O
+(command	O
+3928)	B
+
+warning	O
+
+boot	O
+(command	O
+2316)	B
+
+ambient=29	B
+
+ambient=25	B
+
+configured	O
+out	O
+
+warning	O
+
+NIFF:	O
+node	O
+node-29	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+risBoot	O
+(command	O
+1903)	B
+
+boot	O
+(command	O
+4176)	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=33	B
+
+wait	O
+(command	O
+3609)	B
+
+running	O
+
+wait	O
+(command	O
+4061)	B
+
+boot	O
+(command	O
+2625)	B
+
+warning	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+not	O
+responding	O
+
+blocked	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+running	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+ClusterFileSystem:	O
+ServerFileSystem	O
+domain	O
+root1_tmp_backup	B
+is	O
+no	O
+longer	O
+served	O
+by	O
+node	O
+node-96	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=28	B
+
+ambient=30	B
+
+ambient=27	B
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=27	B
+
+running	O
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage112	B
+
+NIFF:	O
+node	O
+node-188	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+Link	O
+ok	O
+
+normal	O
+
+ambient=34	B
+
+ambient=27	B
+
+warning	O
+
+ambient=35	B
+
+link	O
+errors	O
+remain	O
+current	O
+
+wait	O
+(command	O
+3523)	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Link	O
+in	O
+reset	O
+
+normal	O
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage832	B
+
+wait	O
+(command	O
+3690)	B
+
+ambient=31	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+Link	O
+error	O
+on	O
+broadcast	O
+tree	O
+Interconnect-1T00:00:2:0	B
+
+blocked	O
+
+configured	O
+out	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+NIFF:	O
+node	O
+node-202	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+10.128.0.0	B
+via	O
+interface	O
+ee0	B
+
+normal	O
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+running	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=26	B
+
+running	O
+
+Command	O
+has	O
+completed	O
+successfully	O
+
+normal	O
+
+ambient=29	B
+
+ClusterFileSystem:	O
+There	O
+is	O
+no	O
+server	O
+for	O
+ServerFileSystem	O
+domain	O
+storage132	B
+
+boot	O
+(command	O
+3317)	B
+
+Link	O
+ok	O
+
+ambient=31	B
+
+boot	O
+(command	O
+2110)	B
+
+NIFF:	O
+node	O
+node-17	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+blocked	O
+
+running	O
+
+normal	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+warning	O
+
+running	O
+
+link	O
+errors	O
+remain	O
+current	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+configured	O
+out	O
+
+warning	O
+
+Component	O
+State	O
+Change:	O
+Component	O
+\042alt0\042	B
+is	O
+in	O
+the	O
+unavailable	O
+state	O
+(HWID=2538)	B
+
+ambient=33	B
+
+running	O
+
+warning	O
+
+running	O
+
+NIFF:	O
+node	O
+node-106	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+ambient=25	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+configured	O
+out	O
+
+not	O
+responding	O
+
+running	O
+
+running	O
+
+boot	O
+(command	O
+3615)	B
+
+ambient=26	B
+
+Linkerror	O
+event	O
+interval	O
+expired	O
+
+normal	O
+
+NIFF:	O
+node	O
+node-142	B
+has	O
+detected	O
+an	O
+available	O
+network	O
+connection	O
+on	O
+network	O
+0.0.0.0	B
+via	O
+interface	O
+alt0	B
+
+ambient=33	B
+
+boot	O
+(command	O
+3580)	B
+
+boot	O
+(command	O
+3318)	B
+
+warning	O
+
+warning	O
+
+warning	O
+
+ambient=26	B
+

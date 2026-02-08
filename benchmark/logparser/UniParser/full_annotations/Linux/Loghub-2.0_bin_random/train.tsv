@@ -1,0 +1,1727 @@
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=218.22.3.51	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=061092085098.ctinets.com	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=61.53.154.93	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=209.152.168.249	B
+user=guest	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=d211-116-254-214.rev.krline.net	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=061092085098.ctinets.com	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=60.30.224.116	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=195.129.24.210	B
+user=root	B
+
+There	O
+is	O
+already	O
+a	O
+security	O
+framework	O
+initialized,	O
+register_security	O
+failed.	O
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=211-76-104-65.ebix.net.tw	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=211.9.58.217	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=218.16.122.48	B
+user=root	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=h64-187-1-131.gtconnect.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=202.181.236.180	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=csnsu.nsuok.edu	B
+user=root	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=68.143.156.89.nw.nuvox.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=211.214.161.141	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=220.117.241.87	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=68.143.156.89.nw.nuvox.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=n219076184117.netvigator.com	B
+user=root	B
+
+removing	O
+device	O
+node	O
+'/udev/vcs2'	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=82.77.200.128	B
+user=root	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=n219076184117.netvigator.com	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=209.152.168.249	B
+user=guest	B
+
+restart.	O
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=h64-187-1-131.gtconnect.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=211.137.205.253	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=211.214.161.141	B
+user=root	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=220.117.241.87	B
+user=root	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=h64-187-1-131.gtconnect.net	B
+user=root	B
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=68.143.156.89.nw.nuvox.net	B
+user=root	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=60.30.224.116	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+restart.	O
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=220.117.241.87	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=65.166.159.14	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+CPU	O
+0	B
+irqstacks,	O
+hard=02345000	B
+soft=02344000	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=c51471f2c.cable.wanadoo.nl	B
+user=root	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=62-192-102-94.dsl.easynet.nl	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=220.117.241.87	B
+user=root	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=210.76.59.29	B
+user=root	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=82.77.200.128	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=61.53.154.93	B
+user=root	B
+
+CPU:	O
+L2	O
+cache:	O
+256K	B
+
+On	O
+node	O
+0	B
+totalpages:	O
+32430	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=218.22.3.51	B
+user=root	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=h64-187-1-131.gtconnect.net	B
+user=root	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+getpeername	O
+(ftpd):	O
+Transport	O
+endpoint	O
+is	O
+not	O
+connected	O
+
+pci_hotplug:	O
+PCI	O
+Hot	O
+Plug	O
+PCI	O
+Core	O
+version:	O
+0.5	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=zummit.com	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+creating	O
+device	O
+node	O
+'/udev/vcs2'	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=210.76.59.29	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=csnsu.nsuok.edu	B
+user=root	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=220-135-151-1.hinet-ip.hinet.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=220.117.241.87	B
+user=root	B
+
+Detected	O
+731.219	B
+MHz	O
+processor.	O
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=60.30.224.116	B
+user=root	B
+
+Dentry	O
+cache	O
+hash	O
+table	O
+entries:	O
+16384	B
+(order:	O
+4,	B
+65536	B
+bytes)	O
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=h64-187-1-131.gtconnect.net	B
+user=root	B
+
+Real	O
+Time	O
+Clock	O
+Driver	O
+v1.12	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+BIOS-provided	O
+physical	O
+RAM	O
+map:	O
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=218.188.2.4	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=82.77.200.128	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=p15105218.pureserver.info	B
+user=root	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=n219076184117.netvigator.com	B
+user=root	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=65.166.159.14	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+cupsd	B
+startup	O
+succeeded	O
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=207.243.167.114	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=h64-187-1-131.gtconnect.net	B
+user=root	B
+
+Dquot-cache	O
+hash	O
+table	O
+entries:	O
+1024	B
+(order	O
+0,	B
+4096	B
+bytes)	O
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=202.181.236.180	B
+user=root	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=p15105218.pureserver.info	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=211.137.205.253	B
+user=root	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+Starting	O
+pcmcia:	O
+succeeded	O
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=65.166.159.14	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=061092085098.ctinets.com	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+NET:	O
+Registered	O
+protocol	O
+family	O
+16	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=218.16.122.48	B
+user=root	B
+
+ALERT	O
+exited	O
+abnormally	O
+with	O
+[1]	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=61-220-159-99.hinet-ip.hinet.net	B
+user=root	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Software	O
+caused	O
+connection	O
+abort	O
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=202.181.236.180	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=211-76-104-65.ebix.net.tw	B
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+session	O
+opened	O
+for	O
+user	O
+cyrus	B
+by	O
+(uid=0)	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=150.183.249.110	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=218.22.3.51	B
+user=root	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=211.9.58.217	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=61.53.154.93	B
+user=root	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Permission	O
+denied	O
+in	O
+replay	O
+cache	O
+code	O
+
+notify	O
+question	O
+section	O
+contains	O
+no	O
+SOA	O
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=217.60.212.66	B
+user=guest	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=ip-216-69-169-168.ip.secureserver.net	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+session	O
+opened	O
+for	O
+user	O
+test	B
+by	O
+(uid=509)	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=61-220-159-99.hinet-ip.hinet.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=207.243.167.114	B
+user=root	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=h64-187-1-131.gtconnect.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=68.143.156.89.nw.nuvox.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=220-135-151-1.hinet-ip.hinet.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=202-132-40-29.adsl.ttn.net	B
+user=root	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=220.117.241.87	B
+user=root	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+session	O
+closed	O
+for	O
+user	O
+test	B
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=csnsu.nsuok.edu	B
+user=root	B
+
+Authentication	O
+failed	O
+from	O
+163.27.187.39	B
+(163.27.187.39):	B
+Permission	O
+denied	O
+in	O
+replay	O
+cache	O
+code	O
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=60.30.224.116	B
+user=root	B
+
+session	O
+closed	O
+for	O
+user	O
+cyrus	B
+
+cupsd	B
+startup	O
+succeeded	O
+
+session	O
+closed	O
+for	O
+user	O
+news	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net	B
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=207.243.167.114	B
+user=root	B
+
+Memory:	O
+125312k/129720k	B
+available	O
+(1540k	B
+kernel	O
+code,	O
+3860k	B
+reserved,	O
+599k	B
+data,	O
+144k	B
+init,	O
+0k	B
+highmem)	O
+
+Linux	O
+agpgart	O
+interface	O
+v0.100	B
+(c)	O
+Dave	O
+Jones	O
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=csnsu.nsuok.edu	B
+user=root	B
+
+session	O
+opened	O
+for	O
+user	O
+news	B
+by	O
+(uid=0)	B
+
+Inode-cache	O
+hash	O
+table	O
+entries:	O
+8192	B
+(order:	O
+3,	B
+32768	B
+bytes)	O
+
+authentication	O
+failure;	O
+logname=	B
+uid=0	B
+euid=0	B
+tty=NODEVssh	B
+ruser=	B
+rhost=n219076184117.netvigator.com	B
+user=root	B
+
+Kerberos	O
+authentication	O
+failed	O
+
+check	O
+pass;	O
+user	O
+unknown	B
+
+authentication	O
+failure;	O
+logname=	O
+uid=0	B
+euid=0	B
+tty=NODEVssh	O
+ruser=	O
+rhost=65.166.159.14	B
+

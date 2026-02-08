@@ -1,0 +1,8560 @@
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+CE	O
+sym	O
+2,	B
+at	O
+0x0b85eee0,	B
+mask	O
+0x05	B
+
+ciod:	O
+failed	O
+to	O
+read	O
+message	O
+prefix	O
+on	O
+control	O
+stream	O
+(CioStream	O
+socket	O
+to	O
+172.16.96.116:33569	B
+
+ciod:	O
+failed	O
+to	O
+read	O
+message	O
+prefix	O
+on	O
+control	O
+stream	O
+(CioStream	O
+socket	O
+to	O
+172.16.96.116:33370	B
+
+generating	O
+core.2275	B
+
+generating	O
+core.862	B
+
+generating	O
+core.3276	B
+
+generating	O
+core.2079	B
+
+generating	O
+core.1414	B
+
+generating	O
+core.3055	B
+
+generating	O
+core.1125	B
+
+generating	O
+core.7828	B
+
+generating	O
+core.8275	B
+
+generating	O
+core.4183	B
+
+generating	O
+core.6545	B
+
+generating	O
+core.4245	B
+
+force	O
+load/store	O
+alignment...............0	B
+
+generating	O
+core.6471	B
+
+generating	O
+core.4155	B
+
+generating	O
+core.449	B
+
+generating	O
+core.6990	B
+
+generating	O
+core.4876	B
+
+generating	O
+core.2218	B
+
+generating	O
+core.7518	B
+
+generating	O
+core.7457	B
+
+generating	O
+core.6896	B
+
+generating	O
+core.3488	B
+
+generating	O
+core.2286	B
+
+generating	O
+core.786	B
+
+generating	O
+core.2680	B
+
+generating	O
+core.1524	B
+
+generating	O
+core.1744	B
+
+generating	O
+core.1588	B
+
+generating	O
+core.7192	B
+
+CE	O
+sym	O
+20,	B
+at	O
+0x01228120,	B
+mask	O
+0x10	B
+
+CE	O
+sym	O
+5,	B
+at	O
+0x11042a80,	B
+mask	O
+0x04	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.430	B
+
+generating	O
+core.174	B
+
+ciod:	O
+cpu	O
+0	B
+at	O
+treeaddr	O
+438	B
+sent	O
+unrecognized	O
+message	O
+0xffffffff	B
+
+generating	O
+core.3638	B
+
+generating	O
+core.2690	B
+
+generating	O
+core.418	B
+
+generating	O
+core.310	B
+
+generating	O
+core.2409	B
+
+generating	O
+core.8153	B
+
+generating	O
+core.7836	B
+
+generating	O
+core.2911	B
+
+generating	O
+core.2921	B
+
+generating	O
+core.122	B
+
+generating	O
+core.1973	B
+
+ciod:	O
+LOGIN	O
+chdir(/p/gb2/glosli/8M_5000K/t800)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+generating	O
+core.4984	B
+
+generating	O
+core.1822	B
+
+CE	O
+sym	O
+14,	B
+at	O
+0x06047860,	B
+mask	O
+0x20	B
+
+generating	O
+core.3265	B
+
+generating	O
+core.2599	B
+
+generating	O
+core.1818	B
+
+CE	O
+sym	O
+2,	B
+at	O
+0x1b85f080,	B
+mask	O
+0x02	B
+
+CE	O
+sym	O
+2,	B
+at	O
+0x1b85fe80,	B
+mask	O
+0x02	B
+
+generating	O
+core.8280	B
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+data	O
+TLB	O
+error	O
+interrupt	O
+
+ciod:	O
+Message	O
+code	O
+0	B
+is	O
+not	O
+51	B
+or	O
+4294967295	B
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+generating	O
+core.1711	B
+
+generating	O
+core.1521	B
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+data	O
+address:	O
+0x00000002	B
+
+machine	O
+check:	O
+i-fetch......................0	B
+
+program	O
+interrupt:	O
+illegal	O
+instruction......0	B
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+address:	O
+0x00000002	B
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+address:	O
+0x00000002	B
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+data	O
+storage	O
+interrupt	O
+
+instruction	O
+address:	O
+0x00004ed8	B
+
+exception	O
+syndrome	O
+register:	O
+0x00800000	B
+
+exception	O
+syndrome	O
+register:	O
+0x00800000	B
+
+exception	O
+syndrome	O
+register:	O
+0x00800000	B
+
+program	O
+interrupt:	O
+illegal	O
+instruction......0	B
+
+program	O
+interrupt:	O
+illegal	O
+instruction......0	B
+
+data	O
+address:	O
+0x00000002	B
+
+exception	O
+syndrome	O
+register:	O
+0x00800000	B
+
+machine	O
+check:	O
+i-fetch......................0	B
+
+data	O
+store	O
+interrupt	O
+caused	O
+by	O
+dcbf.........0	B
+
+machine	O
+check:	O
+i-fetch......................0	B
+
+data	O
+store	O
+interrupt	O
+caused	O
+by	O
+dcbf.........0	B
+
+program	O
+interrupt:	O
+illegal	O
+instruction......0	B
+
+program	O
+interrupt:	O
+privileged	O
+instruction...0	B
+
+program	O
+interrupt:	O
+imprecise	O
+exception......0	B
+
+store	O
+operation.............................1	B
+
+store	O
+operation.............................1	B
+
+machine	O
+state	O
+register:	O
+0x00002000	B
+
+data	O
+store	O
+interrupt	O
+caused	O
+by	O
+icbi.........0	B
+
+problem	O
+state	O
+(0=sup,1=usr).......0	B
+
+data	O
+store	O
+interrupt	O
+caused	O
+by	O
+icbi.........0	B
+
+floating	O
+point	O
+instr.	O
+enabled.....1	B
+
+floating	O
+point	O
+instr.	O
+enabled.....1	B
+
+auxiliary	O
+processor.........................0	B
+
+machine	O
+check	O
+enable..............0	B
+
+machine	O
+check	O
+enable..............0	B
+
+debug	O
+interrupt	O
+enable............0	B
+
+floating	O
+pt	O
+ex	O
+mode	O
+1	B
+enable......0	B
+
+byte	O
+ordering	O
+exception.....................0	B
+
+byte	O
+ordering	O
+exception.....................0	B
+
+data	O
+address	O
+space................0	B
+
+core	O
+configuration	O
+register:	O
+0x00002000	B
+
+program	O
+interrupt:	O
+fp	O
+cr	O
+update.............0	B
+
+guaranteed	O
+instruction	O
+cache	O
+block	O
+touch.0	B
+
+guaranteed	O
+instruction	O
+cache	O
+block	O
+touch.0	B
+
+program	O
+interrupt:	O
+fp	O
+cr	O
+field	O
+.............0	B
+
+program	O
+interrupt:	O
+fp	O
+cr	O
+field	O
+.............0	B
+
+program	O
+interrupt:	O
+fp	O
+cr	O
+field	O
+.............0	B
+
+machine	O
+state	O
+register:	O
+0x00002000	B
+
+icache	O
+prefetch	O
+threshold................0	B
+
+wait	O
+state	O
+enable.................0	B
+
+critical	O
+input	O
+interrupt	O
+enable...0	B
+
+problem	O
+state	O
+(0=sup,1=usr).......0	B
+
+problem	O
+state	O
+(0=sup,1=usr).......0	B
+
+lr:00004ed0	B
+cr:28244842	B
+xer:20000002	B
+ctr:00086000	B
+
+rts	O
+internal	O
+error	O
+
+floating	O
+pt	O
+ex	O
+mode	O
+0	B
+enable......0	B
+
+floating	O
+pt	O
+ex	O
+mode	O
+0	B
+enable......0	B
+
+debug	O
+wait	O
+enable.................0	B
+
+floating	O
+pt	O
+ex	O
+mode	O
+1	B
+enable......0	B
+
+data	O
+address	O
+space................0	B
+
+data	O
+address	O
+space................0	B
+
+data	O
+address	O
+space................0	B
+
+core	O
+configuration	O
+register:	O
+0x00002000	B
+
+core	O
+configuration	O
+register:	O
+0x00002000	B
+
+core	O
+configuration	O
+register:	O
+0x00002000	B
+
+core	O
+configuration	O
+register:	O
+0x00002000	B
+
+core	O
+configuration	O
+register:	O
+0x00002000	B
+
+disable	O
+store	O
+gathering..................0	B
+
+disable	O
+store	O
+gathering..................0	B
+
+total	O
+of	O
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+
+generating	O
+core.145	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.2961	B
+
+generating	O
+core.93	B
+
+generating	O
+core.6037	B
+
+generating	O
+core.886	B
+
+generating	O
+core.3053	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.1488	B
+
+generating	O
+core.2186	B
+
+generating	O
+core.2486	B
+
+generating	O
+core.5401	B
+
+generating	O
+core.2558	B
+
+generating	O
+core.9785	B
+
+generating	O
+core.4614	B
+
+generating	O
+core.7615	B
+
+generating	O
+core.15935	B
+
+ciod:	O
+Error	O
+creating	O
+node	O
+map	O
+from	O
+file	O
+/p/gb2/cabot/miranda/newmaps/8k_128x64x1_8x4x4.map:	B
+No	O
+child	O
+processes	O
+
+CE	O
+sym	O
+0,	B
+at	O
+0x1b858280,	B
+mask	O
+0x40	B
+
+generating	O
+core.8089	B
+
+generating	O
+core.721	B
+
+generating	O
+core.5287	B
+
+generating	O
+core.783	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+17,	B
+bit	O
+1	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+ciod:	O
+Error	O
+loading	O
+./runtime_malloc:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+199680	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1969920	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+2576000	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+6182400	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+6182400	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+6182400	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+3091200	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+CE	O
+sym	O
+0,	B
+at	O
+0x1b8584e0,	B
+mask	O
+0x80	B
+
+23431872	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+259966605	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.4184	B
+
+generating	O
+core.19579	B
+
+generating	O
+core.4501	B
+
+generating	O
+core.62516	B
+
+generating	O
+core.27921	B
+
+generating	O
+core.16830	B
+
+generating	O
+core.10140	B
+
+generating	O
+core.9654	B
+
+generating	O
+core.56155	B
+
+generating	O
+core.40250	B
+
+generating	O
+core.45353	B
+
+generating	O
+core.62468	B
+
+generating	O
+core.41347	B
+
+generating	O
+core.7619	B
+
+generating	O
+core.54486	B
+
+generating	O
+core.18261	B
+
+generating	O
+core.47736	B
+
+generating	O
+core.25048	B
+
+generating	O
+core.58777	B
+
+generating	O
+core.49137	B
+
+generating	O
+core.42553	B
+
+generating	O
+core.718	B
+
+generating	O
+core.10752	B
+
+generating	O
+core.323	B
+
+ciod:	O
+Error	O
+loading	O
+/home/glosli/src/ddcMD/ddcMD/1.1.13/ddcMDbglV:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+generating	O
+core.21112	B
+
+program	O
+interrupt:	O
+illegal	O
+instruction......1	B
+
+program	O
+interrupt:	O
+privileged	O
+instruction...0	B
+
+auxiliary	O
+processor.........................0	B
+
+auxiliary	O
+processor.........................0	B
+
+program	O
+interrupt:	O
+unimplemented	O
+operation..0	B
+
+program	O
+interrupt:	O
+imprecise	O
+exception......0	B
+
+generating	O
+core.14700	B
+
+program	O
+interrupt	O
+
+exception	O
+syndrome	O
+register:	O
+0x08000000	B
+
+program	O
+interrupt:	O
+privileged	O
+instruction...0	B
+
+data	O
+store	O
+interrupt	O
+caused	O
+by	O
+dcbf.........0	B
+
+auxiliary	O
+processor.........................0	B
+
+CE	O
+sym	O
+0,	B
+at	O
+0x1b8594e0,	B
+mask	O
+0x40	B
+
+generating	O
+core.1786	B
+
+generating	O
+core.4230	B
+
+generating	O
+core.179	B
+
+generating	O
+core.32693	B
+
+344040	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.2586	B
+
+generating	O
+core.6040	B
+
+generating	O
+core.16904	B
+
+generating	O
+core.2112	B
+
+generating	O
+core.23659	B
+
+generating	O
+core.1605	B
+
+generating	O
+core.16483	B
+
+generating	O
+core.257	B
+
+generating	O
+core.18751	B
+
+generating	O
+core.22783	B
+
+generating	O
+core.3613	B
+
+generating	O
+core.4246	B
+
+generating	O
+core.7777	B
+
+generating	O
+core.8691	B
+
+generating	O
+core.5512	B
+
+generating	O
+core.1641	B
+
+CE	O
+sym	O
+0,	B
+at	O
+0x1b858ca0,	B
+mask	O
+0x40	B
+
+ciod:	O
+Error	O
+creating	O
+node	O
+map	O
+from	O
+file	O
+/p/gb2/welcome3/32k_128x256x1_8x4x4.map:	B
+Bad	O
+file	O
+descriptor	O
+
+generating	O
+core.1165	B
+
+generating	O
+core.23615	B
+
+generating	O
+core.16594	B
+
+generating	O
+core.30586	B
+
+generating	O
+core.4525	B
+
+generating	O
+core.6028	B
+
+generating	O
+core.8628	B
+
+generating	O
+core.2210	B
+
+generating	O
+core.10312	B
+
+generating	O
+core.228	B
+
+generating	O
+core.15740	B
+
+generating	O
+core.3389	B
+
+Can	O
+not	O
+get	O
+assembly	O
+information	O
+for	O
+node	O
+card	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+458720	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+458720	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+458720	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+458720	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1146800	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.1114	B
+
+generating	O
+core.848	B
+
+generating	O
+core.17222	B
+
+generating	O
+core.31006	B
+
+generating	O
+core.20088	B
+
+generating	O
+core.26993	B
+
+generating	O
+core.20954	B
+
+generating	O
+core.6139	B
+
+generating	O
+core.19596	B
+
+generating	O
+core.15557	B
+
+generating	O
+core.4193	B
+
+generating	O
+core.22905	B
+
+generating	O
+core.17853	B
+
+generating	O
+core.25568	B
+
+generating	O
+core.23080	B
+
+generating	O
+core.23438	B
+
+generating	O
+core.9778	B
+
+generating	O
+core.14627	B
+
+generating	O
+core.2348	B
+
+generating	O
+core.226	B
+
+generating	O
+core.1219	B
+
+generating	O
+core.13558	B
+
+ciod:	O
+Missing	O
+or	O
+invalid	O
+fields	O
+on	O
+line	O
+1	B
+of	O
+node	O
+map	O
+file	O
+/home/auselton/bgl/64mps.sequential.mapfile	B
+
+1	B
+torus	O
+receiver	O
+z+	B
+input	O
+pipe	O
+error(s)	O
+(dcr	O
+0x02f0)	B
+detected	O
+and	O
+corrected	O
+
+generating	O
+core.631	B
+
+generating	O
+core.998	B
+
+generating	O
+core.1129	B
+
+generating	O
+core.1433	B
+
+generating	O
+core.319	B
+
+generating	O
+core.303	B
+
+generating	O
+core.1998	B
+
+634368144	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+632254896	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+633283776	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.3436	B
+
+generating	O
+core.4592	B
+
+generating	O
+core.62507	B
+
+generating	O
+core.1807	B
+
+Node	O
+card	O
+is	O
+not	O
+fully	O
+functional	O
+
+generating	O
+core.9652	B
+
+generating	O
+core.11154	B
+
+generating	O
+core.7571	B
+
+generating	O
+core.12364	B
+
+generating	O
+core.13817	B
+
+generating	O
+core.14349	B
+
+generating	O
+core.8897	B
+
+generating	O
+core.10299	B
+
+generating	O
+core.9949	B
+
+generating	O
+core.10793	B
+
+generating	O
+core.24671	B
+
+generating	O
+core.47738	B
+
+generating	O
+core.6682	B
+
+generating	O
+core.23664	B
+
+generating	O
+core.3824	B
+
+generating	O
+core.5781	B
+
+generating	O
+core.38077	B
+
+generating	O
+core.36539	B
+
+generating	O
+core.51900	B
+
+generating	O
+core.33018	B
+
+generating	O
+core.29433	B
+
+generating	O
+core.41080	B
+
+generating	O
+core.57878	B
+
+generating	O
+core.245	B
+
+generating	O
+core.2315	B
+
+generating	O
+core.2633	B
+
+generating	O
+core.50240	B
+
+generating	O
+core.10211	B
+
+generating	O
+core.57863	B
+
+generating	O
+core.59907	B
+
+generating	O
+core.8646	B
+
+generating	O
+core.14589	B
+
+generating	O
+core.14807	B
+
+generating	O
+core.31758	B
+
+generating	O
+core.7205	B
+
+generating	O
+core.2299	B
+
+generating	O
+core.2481	B
+
+generating	O
+core.52376	B
+
+generating	O
+core.51134	B
+
+generating	O
+core.5235	B
+
+generating	O
+core.48433	B
+
+generating	O
+core.34955	B
+
+generating	O
+core.35872	B
+
+generating	O
+core.4622	B
+
+generating	O
+core.9158	B
+
+generating	O
+core.22376	B
+
+generating	O
+core.12329	B
+
+generating	O
+core.5342	B
+
+generating	O
+core.25604	B
+
+generating	O
+core.61172	B
+
+generating	O
+core.34015	B
+
+generating	O
+core.63070	B
+
+generating	O
+core.31192	B
+
+generating	O
+core.40528	B
+
+generating	O
+core.4180	B
+
+generating	O
+core.24538	B
+
+generating	O
+core.26078	B
+
+generating	O
+core.30706	B
+
+generating	O
+core.8147	B
+
+generating	O
+core.11784	B
+
+generating	O
+core.61963	B
+
+generating	O
+core.30275	B
+
+generating	O
+core.8575	B
+
+generating	O
+core.11921	B
+
+generating	O
+core.13067	B
+
+generating	O
+core.8544	B
+
+generating	O
+core.8531	B
+
+generating	O
+core.13946	B
+
+generating	O
+core.16095	B
+
+generating	O
+core.2347	B
+
+generating	O
+core.2573	B
+
+generating	O
+core.3985	B
+
+generating	O
+core.13592	B
+
+generating	O
+core.10842	B
+
+generating	O
+core.8138	B
+
+1365301360	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1315337824	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+1401390016	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.32657	B
+
+generating	O
+core.26835	B
+
+generating	O
+core.28242	B
+
+generating	O
+core.20970	B
+
+generating	O
+core.13753	B
+
+generating	O
+core.23542	B
+
+generating	O
+core.28918	B
+
+generating	O
+core.21145	B
+
+generating	O
+core.8832	B
+
+generating	O
+core.5167	B
+
+generating	O
+core.560	B
+
+generating	O
+core.5760	B
+
+generating	O
+core.28238	B
+
+generating	O
+core.12643	B
+
+generating	O
+core.21353	B
+
+generating	O
+core.17276	B
+
+generating	O
+core.11135	B
+
+generating	O
+core.6711	B
+
+generating	O
+core.21175	B
+
+generating	O
+core.28329	B
+
+generating	O
+core.20367	B
+
+generating	O
+core.16300	B
+
+generating	O
+core.1957	B
+
+generating	O
+core.3249	B
+
+generating	O
+core.2606	B
+
+generating	O
+core.3959	B
+
+generating	O
+core.2880	B
+
+generating	O
+core.3792	B
+
+generating	O
+core.2971	B
+
+generating	O
+core.31435	B
+
+generating	O
+core.3851	B
+
+generating	O
+core.20257	B
+
+generating	O
+core.4329	B
+
+generating	O
+core.6519	B
+
+generating	O
+core.15313	B
+
+generating	O
+core.16623	B
+
+generating	O
+core.10429	B
+
+CE	O
+sym	O
+2,	B
+at	O
+0x0d09f1c0,	B
+mask	O
+0x80	B
+
+ciod:	O
+Error	O
+loading	O
+/home/greeno/raptor.new.dev.3d.BGL.CXX_XL.MPI.ex:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+rts	O
+panic!	O
+-	O
+stopping	O
+execution	O
+
+generating	O
+core.9079	B
+
+generating	O
+core.6711	B
+
+generating	O
+core.2263	B
+
+generating	O
+core.9386	B
+
+generating	O
+core.4061	B
+
+generating	O
+core.14070	B
+
+generating	O
+core.14021	B
+
+generating	O
+core.2092	B
+
+generating	O
+core.5967	B
+
+113170696	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+116130784	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+114147592	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+113622512	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+113982272	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+115193048	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+111990296	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+116249832	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+112481672	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+generating	O
+core.12883	B
+
+generating	O
+core.5054	B
+
+generating	O
+core.47314	B
+
+generating	O
+core.5520	B
+
+generating	O
+core.22494	B
+
+CE	O
+sym	O
+16,	B
+at	O
+0x0456cd40,	B
+mask	O
+0x04	B
+
+generating	O
+core.26059	B
+
+generating	O
+core.17999	B
+
+generating	O
+core.30671	B
+
+generating	O
+core.2600	B
+
+generating	O
+core.15192	B
+
+generating	O
+core.26224	B
+
+generating	O
+core.284	B
+
+generating	O
+core.5381	B
+
+generating	O
+core.27051	B
+
+generating	O
+core.29420	B
+
+generating	O
+core.7855	B
+
+generating	O
+core.2296	B
+
+generating	O
+core.1103	B
+
+generating	O
+core.2010	B
+
+generating	O
+core.3181	B
+
+generating	O
+core.32010	B
+
+generating	O
+core.5939	B
+
+generating	O
+core.17467	B
+
+generating	O
+core.29367	B
+
+generating	O
+core.26646	B
+
+generating	O
+core.5428	B
+
+generating	O
+core.12212	B
+
+generating	O
+core.19942	B
+
+generating	O
+core.18324	B
+
+generating	O
+core.3510	B
+
+generating	O
+core.17851	B
+
+generating	O
+core.26735	B
+
+generating	O
+core.18689	B
+
+generating	O
+core.27698	B
+
+generating	O
+core.5009	B
+
+generating	O
+core.5785	B
+
+generating	O
+core.4505	B
+
+generating	O
+core.27577	B
+
+generating	O
+core.32755	B
+
+generating	O
+core.30675	B
+
+generating	O
+core.27926	B
+
+generating	O
+core.15967	B
+
+generating	O
+core.24172	B
+
+generating	O
+core.29732	B
+
+generating	O
+core.19481	B
+
+generating	O
+core.23873	B
+
+generating	O
+core.7156	B
+
+generating	O
+core.22967	B
+
+generating	O
+core.3980	B
+
+generating	O
+core.11473	B
+
+generating	O
+core.13043	B
+
+generating	O
+core.28011	B
+
+generating	O
+core.27197	B
+
+generating	O
+core.22886	B
+
+generating	O
+core.22325	B
+
+ciod:	O
+Error	O
+creating	O
+node	O
+map	O
+from	O
+file	O
+/home/pakin1/sweep3d-2.2b/results/random1-8x32x32x2.map:	B
+Permission	O
+denied	O
+
+ciod:	O
+Z	B
+coordinate	O
+32	B
+exceeds	O
+physical	O
+dimension	O
+32	B
+at	O
+line	O
+33	B
+of	O
+node	O
+map	O
+file	O
+/p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map	B
+
+generating	O
+core.896	B
+
+generating	O
+core.4675	B
+
+generating	O
+core.84	B
+
+generating	O
+core.1227	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+33,	B
+bit	O
+7	B
+
+generating	O
+core.59955	B
+
+generating	O
+core.38143	B
+
+generating	O
+core.41718	B
+
+generating	O
+core.33399	B
+
+generating	O
+core.36339	B
+
+generating	O
+core.42833	B
+
+generating	O
+core.20595	B
+
+generating	O
+core.17560	B
+
+generating	O
+core.17212	B
+
+generating	O
+core.26131	B
+
+generating	O
+core.45777	B
+
+generating	O
+core.62940	B
+
+generating	O
+core.465	B
+
+generating	O
+core.55352	B
+
+generating	O
+core.36787	B
+
+generating	O
+core.33706	B
+
+generating	O
+core.8879	B
+
+generating	O
+core.50988	B
+
+generating	O
+core.46157	B
+
+generating	O
+core.29543	B
+
+generating	O
+core.22119	B
+
+generating	O
+core.30256	B
+
+generating	O
+core.64146	B
+
+generating	O
+core.58328	B
+
+generating	O
+core.20241	B
+
+generating	O
+core.24337	B
+
+generating	O
+core.20691	B
+
+generating	O
+core.45943	B
+
+generating	O
+core.46425	B
+
+generating	O
+core.5738	B
+
+generating	O
+core.237	B
+
+generating	O
+core.47690	B
+
+generating	O
+core.58120	B
+
+generating	O
+core.17638	B
+
+generating	O
+core.52833	B
+
+generating	O
+core.56961	B
+
+generating	O
+core.7682	B
+
+generating	O
+core.14519	B
+
+generating	O
+core.51421	B
+
+generating	O
+core.26734	B
+
+generating	O
+core.39406	B
+
+generating	O
+core.11916	B
+
+generating	O
+core.23150	B
+
+generating	O
+core.31197	B
+
+generating	O
+core.29207	B
+
+generating	O
+core.16134	B
+
+generating	O
+core.14142	B
+
+generating	O
+core.7663	B
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+8	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+total	O
+of	O
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+
+generating	O
+core.8977	B
+
+generating	O
+core.15193	B
+
+generating	O
+core.9136	B
+
+generating	O
+core.9021	B
+
+generating	O
+core.3455	B
+
+generating	O
+core.3093	B
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.2241	B
+
+generating	O
+core.9713	B
+
+generating	O
+core.2505	B
+
+generating	O
+core.24634	B
+
+generating	O
+core.29493	B
+
+generating	O
+core.23425	B
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+15	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+generating	O
+core.4781	B
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+5	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+685	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+685	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+1005	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+1005	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+1005	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+1005	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+1005	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+CE	O
+sym	O
+25,	B
+at	O
+0x155e28e0,	B
+mask	O
+0x08	B
+
+generating	O
+core.33115	B
+
+generating	O
+core.4535	B
+
+generating	O
+core.53271	B
+
+generating	O
+core.31056	B
+
+generating	O
+core.62637	B
+
+generating	O
+core.15977	B
+
+generating	O
+core.37807	B
+
+generating	O
+core.38022	B
+
+generating	O
+core.2704	B
+
+generating	O
+core.114	B
+
+generating	O
+core.118	B
+
+generating	O
+core.64538	B
+
+generating	O
+core.55515	B
+
+generating	O
+core.46655	B
+
+generating	O
+core.38843	B
+
+generating	O
+core.45245	B
+
+generating	O
+core.34256	B
+
+generating	O
+core.50579	B
+
+generating	O
+core.9997	B
+
+generating	O
+core.64072	B
+
+generating	O
+core.45674	B
+
+generating	O
+core.59976	B
+
+generating	O
+core.50086	B
+
+generating	O
+core.63787	B
+
+generating	O
+core.18084	B
+
+generating	O
+core.2105	B
+
+generating	O
+core.306	B
+
+generating	O
+core.11346	B
+
+New	O
+ido	O
+chip	O
+inserted	O
+into	O
+the	O
+database:	O
+FF:F2:9F:16:BF:6C:00:0D:60:E9:40:93	B
+ip=10.5.0.46	B
+v=13	B
+t=4	B
+
+NodeCard	O
+is	O
+not	O
+fully	O
+functional	O
+
+Can	O
+not	O
+get	O
+assembly	O
+information	O
+for	O
+node	O
+card	O
+
+New	O
+ido	O
+chip	O
+inserted	O
+into	O
+the	O
+database:	O
+FF:F2:9F:16:C4:C2:00:0D:60:E9:3B:3D	B
+ip=10.2.1.37	B
+v=13	B
+t=4	B
+
+Can	O
+not	O
+get	O
+assembly	O
+information	O
+for	O
+node	O
+card	O
+
+Node	O
+card	O
+status:	O
+no	O
+ALERTs	O
+are	O
+active.	O
+Clock	O
+Mode	O
+is	O
+Low.	O
+Clock	O
+Select	O
+is	O
+Midplane.	O
+Phy	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+ASIC	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+Temperature	O
+Mask	O
+is	O
+not	O
+active.	O
+No	O
+temperature	O
+error.	O
+Temperature	O
+Limit	O
+Error	O
+Latch	O
+is	O
+clear.	O
+PGOOD	O
+IS	O
+NOT	O
+ASSERTED.	O
+PGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+MPGOOD	O
+IS	O
+NOT	O
+OK.	O
+MPGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+The	O
+2.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+The	O
+1.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+
+CE	O
+sym	O
+27,	B
+at	O
+0x11b3f3c0,	B
+mask	O
+0x10	B
+
+Can	O
+not	O
+get	O
+assembly	O
+information	O
+for	O
+node	O
+card	O
+
+Node	O
+card	O
+is	O
+not	O
+fully	O
+functional	O
+
+Node	O
+card	O
+status:	O
+no	O
+ALERTs	O
+are	O
+active.	O
+Clock	O
+Mode	O
+is	O
+Low.	O
+Clock	O
+Select	O
+is	O
+Midplane.	O
+Phy	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+ASIC	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+Temperature	O
+Mask	O
+is	O
+not	O
+active.	O
+No	O
+temperature	O
+error.	O
+Temperature	O
+Limit	O
+Error	O
+Latch	O
+is	O
+clear.	O
+PGOOD	O
+IS	O
+NOT	O
+ASSERTED.	O
+PGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+MPGOOD	O
+IS	O
+NOT	O
+OK.	O
+MPGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+The	O
+2.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+The	O
+1.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+
+CE	O
+sym	O
+18,	B
+at	O
+0x0e0272e0,	B
+mask	O
+0x10	B
+
+total	O
+of	O
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+
+CE	O
+sym	O
+8,	B
+at	O
+0x0a2ae600,	B
+mask	O
+0x10	B
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Exec	O
+format	O
+error	O
+
+ciod:	O
+LOGIN	O
+chdir(pwd)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+Missing	O
+or	O
+invalid	O
+fields	O
+on	O
+line	O
+1	B
+of	O
+node	O
+map	O
+file	O
+/home/auselton/bgl/mapfiles/bgl.128mps.f64.map	B
+
+rts:	O
+kernel	O
+terminated	O
+for	O
+reason	O
+1004	B
+
+CE	O
+sym	O
+22,	B
+at	O
+0x009c14e0,	B
+mask	O
+0x20	B
+
+total	O
+of	O
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+
+ciod:	O
+generated	O
+64	B
+core	O
+files	O
+for	O
+program	O
+/bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+10,	B
+bit	O
+0	B
+
+ciod:	O
+generated	O
+1	B
+core	O
+files	O
+for	O
+program	O
+/bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm	B
+
+ciod:	O
+generated	O
+64	B
+core	O
+files	O
+for	O
+program	O
+/bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm	B
+
+CE	O
+sym	O
+3,	B
+at	O
+0x0b19b8a0,	B
+mask	O
+0x08	B
+
+CE	O
+sym	O
+20,	B
+at	O
+0x180462c0,	B
+mask	O
+0x02	B
+
+ciod:	O
+LOGIN	O
+chdir(/home/germann2/SPaSM_static)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/home/germann2/BGL-demo/SPaSM_mpi	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/home/germann2/BGL-demo/SPaSM_mpi	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/home/germann2/BGL-demo/SPaSM_mpi	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/home/germann2/BGL-demo/SPaSM_mpi	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/home/germann2/BGL-demo/SPaSM_mpi	B
+
+ciod:	O
+LOGIN	O
+chdir(/home/germann2/BGL-demo)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/home/germann2/BGL-demo/SPaSM_mpi	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/home/germann2/BGL-demo/SPaSM_mpi	B
+
+total	O
+of	O
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+
+iar	O
+003a90dc	B
+dear	O
+00b35148	B
+
+iar	O
+003a90fc	B
+dear	O
+00b35db8	B
+
+iar	O
+003a9108	B
+dear	O
+00c07348	B
+
+2201500	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+2201500	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+003a9294	B
+dear	O
+00c06c48	B
+
+iar	O
+003a92a0	B
+dear	O
+00b36898	B
+
+1547520	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+003a9260	B
+dear	O
+00efe838	B
+
+iar	O
+003a9260	B
+dear	O
+00efcbc8	B
+
+iar	O
+003a929c	B
+dear	O
+00efc768	B
+
+iar	O
+003a929c	B
+dear	O
+00efd448	B
+
+iar	O
+003a92a0	B
+dear	O
+00efd358	B
+
+iar	O
+003a92a0	B
+dear	O
+00efd518	B
+
+iar	O
+003a9254	B
+dear	O
+00f05688	B
+
+3095040	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+773760	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+003a929c	B
+dear	O
+01291708	B
+
+iar	O
+003a9260	B
+dear	O
+00ef83b8	B
+
+iar	O
+003a9254	B
+dear	O
+01299f08	B
+
+iar	O
+003a9258	B
+dear	O
+0136bd38	B
+
+1524480	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+003a9260	B
+dear	O
+01299e48	B
+
+iar	O
+003a929c	B
+dear	O
+0136b2d8	B
+
+iar	O
+003a9260	B
+dear	O
+00e24bd8	B
+
+iar	O
+003a9260	B
+dear	O
+00f2a468	B
+
+iar	O
+003a92a0	B
+dear	O
+0129a488	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+28,	B
+bit	O
+3	B
+
+Node	O
+card	O
+status:	O
+no	O
+ALERTs	O
+are	O
+active.	O
+Clock	O
+Mode	O
+is	O
+Low.	O
+Clock	O
+Select	O
+is	O
+Midplane.	O
+Phy	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+ASIC	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+Temperature	O
+Mask	O
+is	O
+not	O
+active.	O
+No	O
+temperature	O
+error.	O
+Temperature	O
+Limit	O
+Error	O
+Latch	O
+is	O
+clear.	O
+PGOOD	O
+IS	O
+NOT	O
+ASSERTED.	O
+PGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+MPGOOD	O
+IS	O
+NOT	O
+OK.	O
+MPGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+The	O
+2.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+The	O
+1.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+
+156055738	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+139632470	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+155918940	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+00149fc0	B
+dear	O
+00739d98	B
+
+iar	O
+0014a150	B
+dear	O
+00719fc8	B
+
+28298332	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+34253552	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+35418742	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+39190074	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+24669022	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+38029258	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+27901852	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+54600944	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+32888202	B
+double-hummer	O
+alignment	O
+exceptions	O
+
+iar	O
+0014a150	B
+dear	O
+0098e178	B
+
+iar	O
+0014a150	B
+dear	O
+00998588	B
+
+iar	O
+0014a150	B
+dear	O
+00991c88	B
+
+iar	O
+00149f88	B
+dear	O
+0099be48	B
+
+iar	O
+0014a150	B
+dear	O
+00a53af8	B
+
+iar	O
+0014a150	B
+dear	O
+009b9288	B
+
+iar	O
+0014a150	B
+dear	O
+009a50f8	B
+
+iar	O
+0014a150	B
+dear	O
+0098cdc8	B
+
+iar	O
+00149ee0	B
+dear	O
+0099e5e8	B
+
+iar	O
+0014a1e4	B
+dear	O
+0099e6c8	B
+
+iar	O
+0014a150	B
+dear	O
+009a2998	B
+
+CE	O
+sym	O
+26,	B
+at	O
+0x07a95e80,	B
+mask	O
+0x10	B
+
+ciod:	O
+generated	O
+64	B
+core	O
+files	O
+for	O
+program	O
+IMB-MPI1.2MB_perf	B
+
+CE	O
+sym	O
+35,	B
+at	O
+0x1317cee0,	B
+mask	O
+0x10	B
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio559	B
+:	O
+point	O
+/p/gb1	B
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio344	B
+:	O
+point	O
+/p/gb1	B
+
+4	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+29,	B
+bit	O
+4	B
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio46	B
+:	O
+point	O
+/p/gb1	B
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio136	B
+:	O
+point	O
+/p/gb1	B
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio75	B
+:	O
+point	O
+/p/gb1	B
+
+Node	O
+card	O
+VPD	O
+check:	O
+U11	B
+node	O
+in	O
+processor	O
+card	O
+slot	O
+J18	B
+do	O
+not	O
+match.	O
+VPD	O
+ecid	O
+04CC81389C2FFFFF03071B7048DF,	B
+found	O
+04D780871F2FFFFF08031BD046E2	B
+
+ciod:	O
+LOGIN	O
+chdir(/LAPACK_440d/BLAS)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+CE	O
+sym	O
+33,	B
+at	O
+0x00dbd200,	B
+mask	O
+0x80	B
+
+ciod:	O
+pollControlDescriptors:	O
+Detected	O
+the	O
+debugger	O
+died.	O
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+3,	B
+bit	O
+6	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+after	O
+LOAD_MESSAGE	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:45713:	B
+Link	O
+has	O
+been	O
+severed	O
+
+suppressing	O
+further	O
+interrupts	O
+of	O
+same	O
+type	O
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+after	O
+LOAD_MESSAGE	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:41304:	B
+Link	O
+has	O
+been	O
+severed	O
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+after	O
+LOAD_MESSAGE	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:41217:	B
+Link	O
+has	O
+been	O
+severed	O
+
+CE	O
+sym	O
+25,	B
+at	O
+0x1a544020,	B
+mask	O
+0x40	B
+
+Node	O
+card	O
+status:	O
+no	O
+ALERTs	O
+are	O
+active.	O
+Clock	O
+Mode	O
+is	O
+Low.	O
+Clock	O
+Select	O
+is	O
+Midplane.	O
+Phy	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+ASIC	O
+JTAG	O
+Reset	O
+is	O
+asserted.	O
+Temperature	O
+Mask	O
+is	O
+not	O
+active.	O
+No	O
+temperature	O
+error.	O
+Temperature	O
+Limit	O
+Error	O
+Latch	O
+is	O
+clear.	O
+PGOOD	O
+IS	O
+NOT	O
+ASSERTED.	O
+PGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+MPGOOD	O
+IS	O
+NOT	O
+OK.	O
+MPGOOD	O
+ERROR	O
+LATCH	O
+IS	O
+ACTIVE.	O
+The	O
+2.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+The	O
+1.5	B
+volt	O
+rail	O
+is	O
+OK.	O
+
+CE	O
+sym	O
+9,	B
+at	O
+0x123b6ca0,	B
+mask	O
+0x20	B
+
+ciod:	O
+LOGIN	O
+chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+Node	O
+card	O
+VPD	O
+check:	O
+U01	B
+node	O
+in	O
+processor	O
+card	O
+slot	O
+J15	B
+do	O
+not	O
+match.	O
+VPD	O
+ecid	O
+04DE7DB80D7BFFFF04051B70D8D9,	B
+found	O
+04DE7DF2D37BFFFF09081B6088D9	B
+
+Node	O
+card	O
+VPD	O
+check:	O
+U01	B
+node	O
+in	O
+processor	O
+card	O
+slot	O
+J08	B
+do	O
+not	O
+match.	O
+VPD	O
+ecid	O
+075F04E8A27BFFFF07021C3096ED,	B
+found	O
+04D78137922FFFFF040E1C3052ED	B
+
+ciod:	O
+Error	O
+loading	O
+/home/yates//bandwidth.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+Error	O
+loading	O
+/home/yates//torus-latency.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/SWL/performance/MINIBEN//bandwidth.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/SWL/performance/MINIBEN//torus-latency.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+LOGIN	O
+chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+LOGIN	O
+chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.05)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+ciod:	O
+LOGIN	O
+chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01)	B
+failed:	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+CE	O
+sym	O
+29,	B
+at	O
+0x14123c20,	B
+mask	O
+0x08	B
+
+CE	O
+sym	O
+26,	B
+at	O
+0x022c3fc0,	B
+mask	O
+0x40	B
+
+CE	O
+sym	O
+27,	B
+at	O
+0x166a9f20,	B
+mask	O
+0x02	B
+
+CE	O
+sym	O
+15,	B
+at	O
+0x0bde77e0,	B
+mask	O
+0x04	B
+
+CE	O
+sym	O
+16,	B
+at	O
+0x0149a040,	B
+mask	O
+0x80	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+after	O
+LOAD_MESSAGE	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:34903:	B
+Link	O
+has	O
+been	O
+severed	O
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/bgl/apps/SWL/stability/DDCMD//ddcMDbglV	B
+
+CE	O
+sym	O
+2,	B
+at	O
+0x0fa3d060,	B
+mask	O
+0x08	B
+
+critical	O
+input	O
+interrupt	O
+(unit=0x0b	B
+bit=0x06):	B
+warning	O
+for	O
+torus	O
+y+	B
+wire	O
+
+CE	O
+sym	O
+5,	B
+at	O
+0x0e37bbe0,	B
+mask	O
+0x40	B
+
+CE	O
+sym	O
+9,	B
+at	O
+0x11b9cc60,	B
+mask	O
+0x04	B
+
+ciod:	O
+generated	O
+108	B
+core	O
+files	O
+for	O
+program	O
+/home/spelce1/HPCC_IBM/Urgent/VNM/32K/vnm.rts	B
+
+CE	O
+sym	O
+6,	B
+at	O
+0x0148b640,	B
+mask	O
+0x10	B
+
+ciod:	O
+Error	O
+loading	O
+/home/spelce1/HPCC_IBM/Urgent/VNM/64K/vnm.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+after	O
+LOAD_MESSAGE	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:53591:	B
+Link	O
+has	O
+been	O
+severed	O
+
+total	O
+of	O
+2	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+28,	B
+bit	O
+0	B
+
+CE	O
+sym	O
+5,	B
+at	O
+0x13253280,	B
+mask	O
+0x04	B
+
+ciod:	O
+Error	O
+loading	O
+/home/spelce1/HPCC_IBM/Urgent/COP/64K/vnm.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/followup/SPASM/spasm.254:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/followup/SPASM/spasm.254:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+CE	O
+sym	O
+14,	B
+at	O
+0x17086be0,	B
+mask	O
+0x02	B
+
+4	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+13,	B
+bit	O
+5	B
+
+4	B
+tree	O
+receiver	O
+2	B
+in	O
+re-synch	O
+state	O
+event(s)	O
+(dcr	O
+0x019a)	B
+detected	O
+
+ciod:	O
+generated	O
+64	B
+core	O
+files	O
+for	O
+program	O
+/home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts	B
+
+ciod:	O
+generated	O
+58	B
+core	O
+files	O
+for	O
+program	O
+/home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+after	O
+LOAD_MESSAGE	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:47696:	B
+Link	O
+has	O
+been	O
+severed	O
+
+data	O
+cache	O
+search	O
+parity	O
+error	O
+detected.	O
+attempting	O
+to	O
+correct	O
+
+data	O
+cache	O
+search	O
+parity	O
+error	O
+detected.	O
+attempting	O
+to	O
+correct	O
+
+data	O
+cache	O
+search	O
+parity	O
+error	O
+detected.	O
+attempting	O
+to	O
+correct	O
+
+data	O
+cache	O
+search	O
+parity	O
+error	O
+detected.	O
+attempting	O
+to	O
+correct	O
+
+data	O
+cache	O
+search	O
+parity	O
+error	O
+detected.	O
+attempting	O
+to	O
+correct	O
+
+CE	O
+sym	O
+12,	B
+at	O
+0x18e33e80,	B
+mask	O
+0x04	B
+
+CE	O
+sym	O
+13,	B
+at	O
+0x00f254e0,	B
+mask	O
+0x20	B
+
+shutdown	O
+complete	O
+
+critical	O
+input	O
+interrupt	O
+(unit=0x0b	B
+bit=0x0b):	B
+warning	O
+for	O
+torus	O
+z-	B
+wire	O
+
+rts:	O
+kernel	O
+terminated	O
+for	O
+reason	O
+1004	B
+
+Error	O
+receiving	O
+packet	O
+on	O
+tree	O
+network,	O
+expecting	O
+type	O
+57	B
+instead	O
+of	O
+type	O
+3	B
+(softheader=0064588e	B
+8aff0003	B
+00000002	B
+00000000)	B
+PSR0=00001f01	B
+PSR1=00000000	B
+PRXF=00000002	B
+PIXF=00000007	B
+
+CE	O
+sym	O
+27,	B
+at	O
+0x1b70b860,	B
+mask	O
+0x80	B
+
+4	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+24,	B
+bit	O
+1	B
+
+ciod:	O
+Error	O
+loading	O
+/g/g0/spelce1/HPCC_IBM/Urgent/COP/64K/RandomAccess.64R.rts:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+loading	O
+/home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+No	O
+such	O
+file	O
+or	O
+directory	O
+
+iar	O
+00106210	B
+dear	O
+0244c1dc	B
+
+640404	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+00106210	B
+dear	O
+0244c1dc	B
+
+iar	O
+00106228	B
+dear	O
+0244c1ec	B
+
+iar	O
+00106228	B
+dear	O
+0244c21c	B
+
+iar	O
+001061dc	B
+dear	O
+0244c22c	B
+
+iar	O
+001061dc	B
+dear	O
+0244c22c	B
+
+iar	O
+00106228	B
+dear	O
+0244c1ec	B
+
+iar	O
+00106210	B
+dear	O
+0244c20c	B
+
+iar	O
+00106228	B
+dear	O
+0244c1ec	B
+
+iar	O
+001061dc	B
+dear	O
+0244c22c	B
+
+iar	O
+00105e94	B
+dear	O
+02f5883c	B
+
+iar	O
+001061dc	B
+dear	O
+0244c28c	B
+
+640764	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+640404	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+640404	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+00106210	B
+dear	O
+0244c1dc	B
+
+iar	O
+00106228	B
+dear	O
+0244c21c	B
+
+iar	O
+001061dc	B
+dear	O
+0244c25c	B
+
+iar	O
+00106228	B
+dear	O
+0244c21c	B
+
+iar	O
+001061dc	B
+dear	O
+0244c28c	B
+
+iar	O
+00106210	B
+dear	O
+0244c26c	B
+
+iar	O
+00106228	B
+dear	O
+0244c27c	B
+
+iar	O
+00106228	B
+dear	O
+0244c27c	B
+
+487476	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+00106580	B
+dear	O
+02494bcc	B
+
+iar	O
+00106568	B
+dear	O
+02494bbc	B
+
+iar	O
+00106580	B
+dear	O
+02494bcc	B
+
+iar	O
+00106534	B
+dear	O
+02494c0c	B
+
+iar	O
+00106534	B
+dear	O
+02494c0c	B
+
+iar	O
+00106568	B
+dear	O
+02494bec	B
+
+iar	O
+00106568	B
+dear	O
+02494bec	B
+
+iar	O
+00106534	B
+dear	O
+02494c3c	B
+
+iar	O
+00106580	B
+dear	O
+02494bfc	B
+
+iar	O
+00106534	B
+dear	O
+02494c3c	B
+
+iar	O
+00106580	B
+dear	O
+02494c2c	B
+
+iar	O
+00106580	B
+dear	O
+02494c2c	B
+
+iar	O
+00106580	B
+dear	O
+045e141c	B
+
+iar	O
+00106580	B
+dear	O
+045e141c	B
+
+iar	O
+00106534	B
+dear	O
+045e145c	B
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+2354412	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+62500	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+001061fc	B
+dear	O
+02f6676c	B
+
+iar	O
+00106bd8	B
+dear	O
+0245ce0c	B
+
+iar	O
+00106834	B
+dear	O
+0245ccfc	B
+
+iar	O
+00106bd8	B
+dear	O
+0245cd8c	B
+
+iar	O
+0010682c	B
+dear	O
+0245ccfc	B
+
+iar	O
+00106bc0	B
+dear	O
+0245cd7c	B
+
+iar	O
+00106bd8	B
+dear	O
+0245cd9c	B
+
+iar	O
+00106bd8	B
+dear	O
+0245ceec	B
+
+iar	O
+00106b8c	B
+dear	O
+0245cf5c	B
+
+iar	O
+00106bc0	B
+dear	O
+0245cdec	B
+
+iar	O
+00106600	B
+dear	O
+0245ccfc	B
+
+iar	O
+00106bd8	B
+dear	O
+0245cf0c	B
+
+iar	O
+0010686c	B
+dear	O
+02f6951c	B
+
+iar	O
+00106704	B
+dear	O
+0245b83c	B
+
+iar	O
+00106704	B
+dear	O
+0245d57c	B
+
+iar	O
+001063a0	B
+dear	O
+02f67e4c	B
+
+iar	O
+0010671c	B
+dear	O
+0245b72c	B
+
+16604010	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+16469355	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+00106390	B
+dear	O
+02f67cfc	B
+
+iar	O
+00106704	B
+dear	O
+0245b6bc	B
+
+iar	O
+00106168	B
+dear	O
+0245b64c	B
+
+iar	O
+0010635c	B
+dear	O
+0245b62c	B
+
+iar	O
+001064fc	B
+dear	O
+0245b64c	B
+
+16736445	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+001061cc	B
+dear	O
+02f6667c	B
+
+iar	O
+00105fd4	B
+dear	O
+0245a09c	B
+
+iar	O
+00105fd4	B
+dear	O
+0245a09c	B
+
+74350836	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+0010650c	B
+dear	O
+0246a95c	B
+
+iar	O
+00106988	B
+dear	O
+02f7bd6c	B
+
+iar	O
+00106cf8	B
+dear	O
+0246f9fc	B
+
+iar	O
+001069a8	B
+dear	O
+02f7bd7c	B
+
+iar	O
+00106678	B
+dear	O
+0252523c	B
+
+iar	O
+001007b8	B
+dear	O
+065b4c7c	B
+
+iar	O
+001007a8	B
+dear	O
+065b4cac	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/g/g20/valone1/SPaSM-shock/SPaSM_mpi	B
+
+iar	O
+001066c4	B
+dear	O
+0252527c	B
+
+iar	O
+001066ac	B
+dear	O
+025252bc	B
+
+iar	O
+001066c4	B
+dear	O
+0252529c	B
+
+2667384	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+00106570	B
+dear	O
+0245a5bc	B
+
+iar	O
+00106570	B
+dear	O
+0245a5ec	B
+
+iar	O
+0010653c	B
+dear	O
+0245a63c	B
+
+407736	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+441348	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+001061d4	B
+dear	O
+024696cc	B
+
+iar	O
+00106348	B
+dear	O
+024696bc	B
+
+iar	O
+00106204	B
+dear	O
+02f75edc	B
+
+CE	O
+sym	O
+21,	B
+at	O
+0x111d8c60,	B
+mask	O
+0x01	B
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+2	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+18,	B
+bit	O
+6	B
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/followup/RAPTOR/pre-study/raptor.newcomp.r1:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+iar	O
+00105e84	B
+dear	O
+0244f29c	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/g/g24/germann2/BGL-demo/SPaSM_mpi	B
+
+iar	O
+001061e8	B
+dear	O
+0247012c	B
+
+iar	O
+001061e8	B
+dear	O
+0247015c	B
+
+iar	O
+001061e8	B
+dear	O
+0247015c	B
+
+iar	O
+00105e84	B
+dear	O
+024701dc	B
+
+iar	O
+00106200	B
+dear	O
+0247019c	B
+
+iar	O
+001061e8	B
+dear	O
+0247015c	B
+
+iar	O
+001061e8	B
+dear	O
+0247018c	B
+
+iar	O
+001061e8	B
+dear	O
+0247015c	B
+
+iar	O
+001061e8	B
+dear	O
+0247012c	B
+
+iar	O
+001061b4	B
+dear	O
+0247017c	B
+
+iar	O
+001061b4	B
+dear	O
+0247017c	B
+
+iar	O
+00106200	B
+dear	O
+0247019c	B
+
+19220208	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+program	O
+interrupt:	O
+privileged	O
+instruction...0	B
+
+iar	O
+00106b98	B
+dear	O
+0246dd9c	B
+
+iar	O
+00106c0c	B
+dear	O
+0246de1c	B
+
+5302707	B
+floating	O
+point	O
+alignment	O
+exceptions	O
+
+iar	O
+00106448	B
+dear	O
+0246dbbc	B
+
+CE	O
+sym	O
+25,	B
+at	O
+0x10e1bce0,	B
+mask	O
+0x40	B
+
+iar	O
+00113890	B
+dear	O
+0fee9c3c	B
+
+iar	O
+00113898	B
+dear	O
+0fee9c4c	B
+
+5	B
+torus	O
+receiver	O
+z+	B
+input	O
+pipe	O
+error(s)	O
+(dcr	O
+0x02f0)	B
+detected	O
+and	O
+corrected	O
+
+CE	O
+sym	O
+9,	B
+at	O
+0x12870760,	B
+mask	O
+0x40	B
+
+3	B
+L3	O
+EDRAM	B
+error(s)	O
+(dcr	O
+0x0157)	B
+detected	O
+and	O
+corrected	O
+
+CE	O
+sym	O
+6,	B
+at	O
+0x00e462c0,	B
+mask	O
+0x02	B
+
+CE	O
+sym	O
+25,	B
+at	O
+0x00e19cc0,	B
+mask	O
+0x10	B
+
+2	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+4,	B
+bit	O
+4	B
+
+rts:	O
+kernel	O
+terminated	O
+for	O
+reason	O
+1004	B
+
+iar	O
+00106298	B
+dear	O
+02f7a18c	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/bgl/apps/followup/SPaSM_static/SPaSM_mpi.new_comp	B
+
+1	B
+ddr	O
+errors(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+8,	B
+bit	O
+7	B
+
+CE	O
+sym	O
+25,	B
+at	O
+0x12127ee0,	B
+mask	O
+0x10	B
+
+Error	O
+receiving	O
+packet	O
+on	O
+tree	O
+network,	O
+expecting	O
+type	O
+57	B
+instead	O
+of	O
+type	O
+3	B
+(softheader=00ce22e8	B
+e6200003	B
+00000002	B
+00000000)	B
+PSR0=20021f01	B
+PSR1=00000000	B
+PRXF=00000002	B
+PIXF=00000007	B
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/bgl/apps/followup/SPaSM_static/SPaSM_mpi.rel2	B
+
+Node	O
+card	O
+VPD	O
+check:	O
+U11	B
+node	O
+in	O
+processor	O
+card	O
+slot	O
+J04	B
+do	O
+not	O
+match.	O
+VPD	O
+ecid	O
+04D58088CB2FFFFF08031C104CE9,	B
+found	O
+04CA80D8012FFFFF08061A8094CB	B
+
+rts:	O
+kernel	O
+terminated	O
+for	O
+reason	O
+1004	B
+
+Error	O
+receiving	O
+packet	O
+on	O
+tree	O
+network,	O
+expecting	O
+type	O
+57	B
+instead	O
+of	O
+type	O
+3	B
+(softheader=009756d5	B
+8bfa0003	B
+00000002	B
+00000000)	B
+PSR0=20021f01	B
+PSR1=00000000	B
+PRXF=00000002	B
+PIXF=00000007	B
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/followup/SPaSM_static/SPaSM.460-1115:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+26741629	B
+torus	O
+sender	O
+z-	B
+retransmission	O
+error(s)	O
+(dcr	O
+0x02f9)	B
+detected	O
+and	O
+corrected	O
+over	O
+268	B
+seconds	O
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001b0	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001b0	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001b0	B
+
+CE	O
+sym	O
+28,	B
+at	O
+0x1efc7020,	B
+mask	O
+0x20	B
+
+Lustre	O
+mount	O
+FAILED	O
+:	O
+bglio78	B
+:	O
+block_id	O
+:	O
+location	O
+
+MACHINE	O
+CHECK	O
+DCR	O
+read	O
+timeout	O
+(mc=e08x	B
+iar	O
+0x00000000	B
+lr	O
+0xc00045a4)	B
+
+MACHINE	O
+CHECK	O
+DCR	O
+read	O
+timeout	O
+(mc=e08x	B
+iar	O
+0x00000000	B
+lr	O
+0xc00045a4)	B
+
+MACHINE	O
+CHECK	O
+DCR	O
+read	O
+timeout	O
+(mc=e08x	B
+iar	O
+0x00000000	B
+lr	O
+0xc00045a4)	B
+
+MACHINE	O
+CHECK	O
+DCR	O
+read	O
+timeout	O
+(mc=e08x	B
+iar	O
+0x00000000	B
+lr	O
+0xc00045a4)	B
+
+MACHINE	O
+CHECK	O
+DCR	O
+read	O
+timeout	O
+(mc=e08x	B
+iar	O
+0x00000000	B
+lr	O
+0xc00045a4)	B
+
+MACHINE	O
+CHECK	O
+DCR	O
+read	O
+timeout	O
+(mc=e08x	B
+iar	O
+0x00000000	B
+lr	O
+0xc00045a4)	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001b2	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x0000044d	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:53387,	B
+Connection	O
+reset	O
+by	O
+peer	O
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:41060,	B
+Connection	O
+timed	O
+out	O
+
+dbcr0=0x00000000	B
+dbsr=0x00000000	B
+ccr0=0x40002000	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:41534,	B
+Link	O
+has	O
+been	O
+severed	O
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x00001a12	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:54780,	B
+Link	O
+has	O
+been	O
+severed	O
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001f8	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001f5	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001f2	B
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:47189,	B
+Link	O
+has	O
+been	O
+severed	O
+
+r24=0x0ffea4c8	B
+r25=0x00000003	B
+r26=0x0000000f	B
+r27=0xffffd000	B
+
+13	B
+tree	O
+receiver	O
+1	B
+in	O
+re-synch	O
+state	O
+event(s)	O
+(dcr	O
+0x0185)	B
+detected	O
+over	O
+4562	B
+seconds	O
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001f2	B
+
+ciod:	O
+Received	O
+signal	O
+15,	B
+code=0,	B
+errno=0,	B
+address=0x000001f2	B
+
+Node	O
+card	O
+VPD	O
+check:	O
+U01	B
+node	O
+in	O
+processor	O
+card	O
+slot	O
+J05	B
+do	O
+not	O
+match.	O
+VPD	O
+ecid	O
+04D37DF2DE7BFFFF0D081AF0DAD2,	B
+found	O
+04DD80740E2FFFFF0A0C19D0CEBD	B
+
+CE	O
+sym	O
+1,	B
+at	O
+0x01d7eaa0,	B
+mask	O
+0x02	B
+
+10740	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10744	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10700	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10732	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10655	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10650	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10722	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10730	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10660	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10752	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10732	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10676	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10752	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10728	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10712	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10718	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10738	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10646	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10710	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10706	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10765	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10698	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10744	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10740	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10684	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+1966	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10738	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10718	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10698	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10752	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10666	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10738	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10744	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10663	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10766	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10722	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10680	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10684	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+CE	O
+sym	O
+4,	B
+at	O
+0x0589f8e0,	B
+mask	O
+0x10	B
+
+10616	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10754	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10668	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10676	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10640	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10666	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10722	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10684	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10676	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10714	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10712	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10636	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10664	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10730	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+10722	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+10736	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+0	B
+microseconds	O
+spent	O
+in	O
+the	O
+rbs	O
+signal	O
+handler	O
+during	O
+0	B
+calls.	O
+0	B
+microseconds	O
+was	O
+the	O
+maximum	O
+time	O
+for	O
+a	O
+single	O
+instance	O
+of	O
+a	O
+correctable	O
+ddr.	O
+
+720	B
+total	O
+interrupts.	O
+0	B
+critical	O
+input	O
+interrupts.	O
+0	B
+microseconds	O
+total	O
+spent	O
+on	O
+critical	O
+input	O
+interrupts,	O
+0	B
+microseconds	O
+max	O
+time	O
+in	O
+a	O
+critical	O
+input	O
+interrupt.	O
+
+CE	O
+sym	O
+27,	B
+at	O
+0x00284720,	B
+mask	O
+0x11	B
+
+CE	O
+sym	O
+9,	B
+at	O
+0x0021d9c0,	B
+mask	O
+0x20	B
+
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+24	B
+over	O
+335	B
+seconds	O
+
+Kernel	O
+detected	O
+35591540	B
+integer	O
+alignment	O
+exceptions	O
+(35591533)	B
+iar	O
+0x0023f108,	B
+dear	O
+0x1feaa260	B
+(35591534)	B
+iar	O
+0x00265564,	B
+dear	O
+0x1feaa1c0	B
+(35591535)	B
+iar	O
+0x00265574,	B
+dear	O
+0x1feaa1e0	B
+(35591536)	B
+iar	O
+0x00265578,	B
+dear	O
+0x1feaa200	B
+(35591537)	B
+iar	O
+0x00265588,	B
+dear	O
+0x1feaa220	B
+(35591538)	B
+iar	O
+0x0026558c,	B
+dear	O
+0x1feaa240	B
+(35591539)	B
+iar	O
+0x00265594,	B
+dear	O
+0x1feaa260	B
+(35591540)	B
+iar	O
+0x00265598,	B
+dear	O
+0x1feaa280	B
+
+CE	O
+sym	O
+27,	B
+at	O
+0x1b70b860,	B
+mask	O
+0x80	B
+
+CE	O
+sym	O
+11,	B
+at	O
+0x06366640,	B
+mask	O
+0x04	B
+
+CE	O
+sym	O
+19,	B
+at	O
+0x057c7e00,	B
+mask	O
+0x20	B
+
+159	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+29	B
+over	O
+2486	B
+seconds	O
+
+CE	O
+sym	O
+29,	B
+at	O
+0x0ea9fd60,	B
+mask	O
+0x40	B
+
+total	O
+of	O
+1	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+over	O
+2487	B
+seconds	O
+
+fraction	O
+rounded.........................0	B
+
+Node	O
+card	O
+is	O
+not	O
+fully	O
+functional	O
+
+critical	O
+input	O
+interrupt	O
+(unit=0x0b	B
+bit=0x17):	B
+warning	O
+for	O
+tree	O
+C1	B
+wire,	O
+suppressing	O
+further	O
+interrupts	O
+of	O
+same	O
+type	O
+
+Kernel	O
+detected	O
+3853444	B
+integer	O
+alignment	O
+exceptions	O
+(3853437)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01ef5e20	B
+(3853438)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01ef5e40	B
+(3853439)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01ef5e60	B
+(3853440)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01ef5e80	B
+(3853441)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01ef5ea0	B
+(3853442)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01ef5ec0	B
+(3853443)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01ef5ee0	B
+(3853444)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01ef5f00	B
+
+Kernel	O
+detected	O
+4909176	B
+integer	O
+alignment	O
+exceptions	O
+(4909169)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01fc8a40	B
+(4909170)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01fc8a60	B
+(4909171)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01fc8a80	B
+(4909172)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01fc8aa0	B
+(4909173)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01fc8ac0	B
+(4909174)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01fc8ae0	B
+(4909175)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01fc8b00	B
+(4909176)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01fc8b20	B
+
+Kernel	O
+detected	O
+3945740	B
+integer	O
+alignment	O
+exceptions	O
+(3945733)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01ef7960	B
+(3945734)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01ef7980	B
+(3945735)	B
+iar	O
+0x00544ea8,	B
+dear	O
+0x01ef79a0	B
+(3945736)	B
+iar	O
+0x00544eb8,	B
+dear	O
+0x01ef79c0	B
+(3945737)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01ef79e0	B
+(3945738)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01ef7a00	B
+(3945739)	B
+iar	O
+0x00544ee0,	B
+dear	O
+0x01ef7a20	B
+(3945740)	B
+iar	O
+0x00544ef0,	B
+dear	O
+0x01ef7a40	B
+
+ciod:	O
+Error	O
+loading	O
+/bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+loading	O
+/p/gb1/stella/UMT2K/1372/umt2k_DD:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+loading	O
+/p/gb1/stella/UMT2K/1325/umt2k_DD:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+loading	O
+/p/gb1/stella/UMT2K/1369/umt2k_DD:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+ciod:	O
+Error	O
+loading	O
+/g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline:	B
+invalid	O
+or	O
+missing	O
+program	O
+image,	O
+Permission	O
+denied	O
+
+2	B
+ddr	O
+error(s)	O
+detected	O
+and	O
+corrected	O
+on	O
+rank	O
+0,	B
+symbol	O
+34	B
+over	O
+2738	B
+seconds	O
+
+ciod:	O
+Error	O
+reading	O
+message	O
+prefix	O
+on	O
+CioStream	O
+socket	O
+to	O
+172.16.96.116:49934,	B
+Link	O
+has	O
+been	O
+severed	O
+
+ciod:	O
+pollControlDescriptors:	O
+Detected	O
+the	O
+debugger	O
+died.	O
+
+2	B
+L3	O
+EDRAM	B
+error(s)	O
+(dcr	O
+0x0157)	B
+detected	O
+and	O
+corrected	O
+over	O
+282	B
+seconds	O
+
+ciod:	O
+pollControlDescriptors:	O
+Detected	O
+the	O
+debugger	O
+died.	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+instruction	O
+cache	O
+parity	O
+error	O
+corrected	O
+
+ciod:	O
+generated	O
+128	B
+core	O
+files	O
+for	O
+program	O
+/g/g24/germann2/SPaSM_mini/MEAM/r13	B
+

@@ -6,9 +6,7 @@ import json
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from collections import defaultdict
-
 from collections import defaultdict, deque, Counter
-
 sys.path.append('../')
 from utils.common import common_args
 
@@ -24,7 +22,7 @@ datasets_2k = [
     "Mac",
     "OpenSSH",
     "Spark",
-    "Thunderbird",
+    #"Thunderbird",
     "BGL",
     "HDFS",
 ]
@@ -41,7 +39,7 @@ datasets_full = [
     "Mac",
     "OpenSSH",
     "Spark",
-    "Thunderbird",
+    #"Thunderbird",
     "BGL",
     "HDFS",
 ]
@@ -51,36 +49,68 @@ def _safe_read_csv(path, **kwargs):
         raise FileNotFoundError(f"File not found: {path}")
     return pd.read_csv(path, **kwargs)
 
+def is_already_processed(dataset, output_dir, data_type="2k"):
+    """
+    Check if a dataset has already been processed by verifying output files exist.
+    
+    Args:
+        dataset: Name of the dataset
+        output_dir: Directory where output files should be
+        data_type: Either "2k" or "full"
+    
+    Returns:
+        bool: True if all expected output files exist, False otherwise
+    """
+    # Define expected output files
+    out_struct_path = os.path.join(output_dir, f"{dataset}_{data_type}.log_structured.csv")
+    out_templates_path = os.path.join(output_dir, f"{dataset}_{data_type}.log_templates.csv")
+    mapping_path = os.path.join(output_dir, f"{dataset}_{data_type}.uni_to_drain_mapping.csv")
+    
+    # Check if all files exist
+    files_exist = all([
+        os.path.exists(out_struct_path),
+        os.path.exists(out_templates_path),
+        os.path.exists(mapping_path)
+    ])
+    
+    return files_exist
+
 def merge_results(dataset,
                   input_drain_dir,
                   input_uniparser_dir,
                   output_dir,
                   data_type="2k",
-                  make_backups: bool = True):
+                  make_backups: bool = True,
+                  skip_if_exists: bool = True):
     """
     Merge Drain + UniParser results for a single dataset.
-
     Changes:
     - File paths use pattern: {dataset}_{data_type}.log_*.csv
     - For each Drain EventId that UniParser produced templates for (via mapping),
       replace EventTemplate for ALL structured rows with that EventId by the
       most-common UniParser template mapped to that EventId.
     - Recompute template occurrences after replacement.
+    - Skip processing if output already exists (optional).
     """
-    print(f"\n--- Merging dataset: {dataset} ---")
-
+    print(f"\n--- Processing dataset: {dataset} ---")
+    
+    # Check if already processed
+    if skip_if_exists and is_already_processed(dataset, output_dir, data_type):
+        print(f"[SKIP] Dataset {dataset} already processed. Output files exist. Skipping...")
+        return
+    
     # Input file paths (updated to requested pattern)
     drain_struct_path = os.path.join(input_drain_dir, f"{dataset}_{data_type}.log_structured.csv")
     drain_low_with_eid_path = os.path.join(input_drain_dir, f"{dataset}_{data_type}.log_low_confidence_with_eventid.csv")
     uni_struct_path = os.path.join(input_uniparser_dir, f"{dataset}_{data_type}.log_structured.csv")
     uni_templates_path = os.path.join(input_uniparser_dir, f"{dataset}_{data_type}.log_templates.csv")
-
+    
     # Output file paths
     out_struct_path = os.path.join(output_dir, f"{dataset}_{data_type}.log_structured.csv")
     out_templates_path = os.path.join(output_dir, f"{dataset}_{data_type}.log_templates.csv")
     mapping_path = os.path.join(output_dir, f"{dataset}_{data_type}.uni_to_drain_mapping.csv")
     backups_dir = os.path.join(output_dir, "backups")
-
+    
     # Read inputs
     try:
         drain_struct = _safe_read_csv(drain_struct_path, encoding='utf-8-sig', dtype=str)
@@ -89,7 +119,7 @@ def merge_results(dataset,
     except FileNotFoundError as e:
         print(f"[ERROR] {e}")
         return
-
+    
     # Backups of UniParser inputs (safe-guard)
     if make_backups:
         os.makedirs(backups_dir, exist_ok=True)
@@ -100,7 +130,7 @@ def merge_results(dataset,
             print(f"[INFO] Backed up UniParser input files to {backups_dir}")
         except Exception as e:
             print(f"[WARN] Could not create backups: {e}")
-
+    
     # Validate presence of Content column (required)
     if 'Content' not in drain_struct.columns:
         raise KeyError("Drain structured missing required column: 'Content'")
@@ -108,13 +138,14 @@ def merge_results(dataset,
         raise KeyError("Drain low_confidence missing required column: 'Content'")
     if 'Content' not in uni_struct.columns:
         raise KeyError("UniParser structured must have a 'Content' column")
-
+    
     # Decide matching keys (Level optional)
     possible = []
     if 'Time' in drain_struct.columns and 'Time' in drain_low.columns:
         possible.append('Time')
     if 'Level' in drain_struct.columns and 'Level' in drain_low.columns:
         possible.append('Level')
+    
     # Content is always present
     if 'Time' in possible and 'Level' in possible:
         match_keys = ['Time', 'Level', 'Content']
@@ -124,22 +155,22 @@ def merge_results(dataset,
         match_keys = ['Level', 'Content']
     else:
         match_keys = ['Content']
-
+    
     print(f"[INFO] Using match keys: {match_keys}")
-
+    
     # Normalization helper
     def _norm(x):
         if pd.isna(x):
             return ""
         return str(x).strip()
-
+    
     # Build candidate_map using chosen match_keys
     candidate_map = defaultdict(deque)
     drain_positions = list(drain_struct.index)
     for pos in drain_positions:
         key = tuple(_norm(drain_struct.at[pos, k]) if k in drain_struct.columns else "" for k in match_keys)
         candidate_map[key].append(pos)
-
+    
     # Map each drain_low row in order to the next unused drain_struct position
     used_idx = set()
     mappings = []
@@ -153,6 +184,7 @@ def merge_results(dataset,
                 if pos not in used_idx:
                     mapped_pos = pos
                     break
+        
         if mapped_pos is None:
             # Fallback: match by Content only (search next unused)
             content_key = _norm(low_row.get('Content', ""))
@@ -177,7 +209,7 @@ def merge_results(dataset,
                     'drain_LineId': None,
                 })
                 continue
-
+        
         used_idx.add(mapped_pos)
         mappings.append({
             'low_row_index': low_idx,
@@ -188,7 +220,7 @@ def merge_results(dataset,
             'uni_eventtemplate': None,
             'drain_LineId': drain_struct.at[mapped_pos, 'LineId'] if 'LineId' in drain_struct.columns else None,
         })
-
+    
     # Assign UniParser rows (in order) to mappings (in order)
     uni_len = len(uni_struct)
     m_idx = 0
@@ -207,7 +239,7 @@ def merge_results(dataset,
         mapping['uni_eventtemplate'] = _norm(uni_row.get('EventTemplate', ""))
         assigned_mappings.append(mapping)
         m_idx += 1
-
+    
     # Build DrainEventId -> Counter(uni_templates) from assigned_mappings
     drainid_to_uni_templates = defaultdict(Counter)
     for mp in assigned_mappings:
@@ -217,7 +249,7 @@ def merge_results(dataset,
         tmpl = mp['uni_eventtemplate']
         if tmpl:
             drainid_to_uni_templates[did][tmpl] += 1
-
+    
     # For each drain_eventid that UniParser provided templates for,
     # pick most common uni template and apply it to ALL drain_struct rows with that EventId.
     templates_replaced = 0
@@ -237,14 +269,14 @@ def merge_results(dataset,
             drain_struct['EventTemplate'] = ""
         drain_struct.loc[mask, 'EventTemplate'] = chosen_template
         templates_replaced += affected
-
+    
     print(f"[INFO] Applied UniParser templates to {len(drainid_to_uni_templates)} Drain EventIds, affecting {templates_replaced} structured rows total.")
-
+    
     # Final sanity & recompute templates
     total_struct_rows = len(drain_struct)
     drain_struct['EventId'] = drain_struct['EventId'].astype(str)
     drain_struct['EventTemplate'] = drain_struct['EventTemplate'].astype(str)
-
+    
     merged_templates = (
         drain_struct
         .groupby(['EventId', 'EventTemplate'], dropna=False)
@@ -252,7 +284,7 @@ def merge_results(dataset,
         .reset_index(name='Occurrences')
         .sort_values(by=['Occurrences'], ascending=False)
     )
-
+    
     # Write outputs
     os.makedirs(output_dir, exist_ok=True)
     try:
@@ -260,13 +292,13 @@ def merge_results(dataset,
         print(f"[INFO] Wrote merged structured file to: {out_struct_path}")
     except Exception as e:
         print(f"[ERROR] Could not write merged structured file: {e}")
-
+    
     try:
         merged_templates.to_csv(out_templates_path, index=False, encoding='utf-8')
         print(f"[INFO] Wrote merged templates file to: {out_templates_path}")
     except Exception as e:
         print(f"[ERROR] Could not write merged templates file: {e}")
-
+    
     # Write mapping for traceability (include assigned_mappings so you see which uni rows were used)
     mapping_df = pd.DataFrame(mappings)
     try:
@@ -274,7 +306,7 @@ def merge_results(dataset,
         print(f"[INFO] Wrote mapping file to: {mapping_path}")
     except Exception as e:
         print(f"[WARN] Could not write mapping file: {e}")
-
+    
     # Final checks
     occurrences_sum = merged_templates['Occurrences'].sum()
     if occurrences_sum != total_struct_rows:
@@ -282,7 +314,7 @@ def merge_results(dataset,
               "Double-check merged output.")
     else:
         print(f"[OK] Template occurrences sum matches structured rows ({total_struct_rows}).")
-
+    
     print(f"[DONE] Dataset {dataset}: structured_rows={total_struct_rows}, templates={len(merged_templates)}\n")
 
 def load_json(path):
@@ -291,7 +323,6 @@ def load_json(path):
 def merge_sum_files(file_a, file_b, out_file=None):
     a = load_json(file_a)
     b = load_json(file_b)
-
     sums = defaultdict(Decimal)
     for d in (a, b):
         for k, v in d.items():
@@ -301,45 +332,53 @@ def merge_sum_files(file_a, file_b, out_file=None):
                 raise ValueError(f"Value for key {k!r} is not numeric: {v!r}")
             val = abs(val)
             sums[k] += val
-
     result = {}
     for k, dec in sums.items():
         if dec == dec.to_integral_value():
             result[k] = int(dec)
         else:
             result[k] = float(dec)
-
     if out_file:
         Path(out_file).write_text(json.dumps(result, indent=2))
     return result
 
-
 def merge_results_wrapper():
     args = common_args()
     data_type = "full" if args.full_data else "2k"
-
     input_drain_dir = f"../../result/result_Drain_{data_type}"
     input_uniparser_dir = f"../../result/result_UniParser_{data_type}"
     output_dir = f"../../result/result_DrainUP_{data_type}"
-
+    
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
-
+    
     datasets = datasets_full if args.full_data else datasets_2k
-
+    
+    processed_count = 0
+    skipped_count = 0
+    
     for dataset in datasets:
         try:
-            merge_results(dataset, input_drain_dir, input_uniparser_dir, output_dir, data_type=data_type, make_backups=True)
+            # Check if already processed before calling merge_results
+            if is_already_processed(dataset, output_dir, data_type):
+                skipped_count += 1
+            else:
+                processed_count += 1
+            
+            merge_results(dataset, input_drain_dir, input_uniparser_dir, output_dir, 
+                         data_type=data_type, make_backups=True, skip_if_exists=True)
         except Exception as e:
             print(f"[ERROR] Failed merging dataset {dataset}: {e}")
-
+    
+    print(f"\n[SUMMARY] Processed: {processed_count}, Skipped: {skipped_count}, Total: {len(datasets)}")
+    
     # Merge parsing times
-    print("Merging Parsing Times...")
-    merged = merge_sum_files(f"{input_drain_dir}/parsing_times.json", f"{input_uniparser_dir}/parsing_times.json", out_file=f"{output_dir}/parsing_times.json")
+    print("\nMerging Parsing Times...")
+    merged = merge_sum_files(f"{input_drain_dir}/parsing_times.json", 
+                            f"{input_uniparser_dir}/parsing_times.json", 
+                            out_file=f"{output_dir}/parsing_times.json")
     print(merged)
-
 
 if __name__ == "__main__":
     merge_results_wrapper()
     print('\n=== All merges complete! ===')
-

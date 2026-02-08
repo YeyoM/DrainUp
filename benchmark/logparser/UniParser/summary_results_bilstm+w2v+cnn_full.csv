@@ -1,0 +1,15 @@
+word_input_dim,char_pad_idx,word_pad_idx,tag_names,device,word_emb_dim,word_emb_dropout,word_emb_froze,use_char_emb,char_emb_pretrained,char_input_dim,char_emb_dim,char_emb_dropout,char_cnn_filter_num,char_cnn_kernel_size,char_cnn_dropout,lstm_hidden_dim,lstm_layers,lstm_dropout,max_epochs,no_improvement,batch_size,lr,weight_decay,Dataset,TestEM
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,48,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,Apache,99.58
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,48,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,Apache,100.0
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,70,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,BGL,99.15
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,57,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,HDFS,100.0
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,56,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,HPC,98.95
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,78,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,Hadoop,96.08
+400000,1,1,"['<pad>', 'B', 'O']",cpu,50,0.5,True,True,,64,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,HealthApp,98.3
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,69,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,Linux,83.79
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,90,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,Mac,83.62
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,68,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,OpenSSH,6.75
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,68,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,OpenStack,100.0
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,48,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,Proxifier,100.0
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,61,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,Spark,98.65
+400000,1,1,"['<pad>', 'O', 'B']",cpu,50,0.5,True,True,,68,37,0.25,4,3,0.25,64,2,0.1,100,10,16,0.1,0.01,Zookeeper,99.33

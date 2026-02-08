@@ -1,0 +1,3507 @@
+Got	O
+assigned	O
+task	O
+1246	B
+
+Reading	O
+broadcast	O
+variable	O
+15	B
+took	O
+15	B
+ms	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+3	B
+
+Found	O
+block	O
+rdd_42_5	B
+locally	O
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+-73,	B
+init	O
+=	O
+111,	B
+finish	O
+=	O
+1	B
+
+Found	O
+block	O
+rdd_2_0	B
+locally	O
+
+Got	O
+assigned	O
+task	O
+590	B
+
+Got	O
+assigned	O
+task	O
+349	B
+
+Got	O
+assigned	O
+task	O
+1285	B
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+-81,	B
+init	O
+=	O
+119,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+17.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1257).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+1288	B
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+23,	B
+init	O
+=	O
+17,	B
+finish	O
+=	O
+1	B
+
+Partition	O
+rdd_42_17	B
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_6_2	B
+locally	O
+
+Finished	O
+task	O
+26.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1226).	B
+2705	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+attempt_201706092018_0024_m_000084_1141:	B
+Committed	O
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+7,	B
+init	O
+=	O
+33,	B
+finish	O
+=	O
+0	B
+
+Times:	O
+total	O
+=	O
+1077,	B
+boot	O
+=	O
+865,	B
+init	O
+=	O
+206,	B
+finish	O
+=	O
+6	B
+
+Running	O
+task	O
+0.0	B
+in	O
+stage	O
+5.0	B
+(TID	O
+206)	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+-74,	B
+init	O
+=	O
+113,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+2.0	B
+in	O
+stage	O
+14.0	B
+(TID	O
+590).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+23,	B
+init	O
+=	O
+19,	B
+finish	O
+=	O
+0	B
+
+Times:	O
+total	O
+=	O
+51,	B
+boot	O
+=	O
+12,	B
+init	O
+=	O
+34,	B
+finish	O
+=	O
+5	B
+
+Reading	O
+broadcast	O
+variable	O
+1	B
+took	O
+16	B
+ms	O
+
+Times:	O
+total	O
+=	O
+38,	B
+boot	O
+=	O
+20,	B
+init	O
+=	O
+18,	B
+finish	O
+=	O
+0	B
+
+Running	O
+task	O
+3.0	B
+in	O
+stage	O
+12.0	B
+(TID	O
+518)	B
+
+Found	O
+block	O
+rdd_42_38	B
+locally	O
+
+Times:	O
+total	O
+=	O
+43,	B
+boot	O
+=	O
+13,	B
+init	O
+=	O
+29,	B
+finish	O
+=	O
+1	B
+
+Running	O
+task	O
+32.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1272)	B
+
+Got	O
+assigned	O
+task	O
+1350	B
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+-83,	B
+init	O
+=	O
+123,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+13.0	B
+(TID	O
+542).	B
+2241	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+1157	B
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:218760+7292	B
+
+Finished	O
+task	O
+3.0	B
+in	O
+stage	O
+17.0	B
+(TID	O
+718).	B
+2156	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+1316	B
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+27,	B
+init	O
+=	O
+14,	B
+finish	O
+=	O
+0	B
+
+Starting	O
+executor	O
+ID	O
+5	B
+on	O
+host	O
+mesos-slave-07	B
+
+Finished	O
+task	O
+12.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1292).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+18,	B
+init	O
+=	O
+22,	B
+finish	O
+=	O
+0	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+-75,	B
+init	O
+=	O
+114,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+26.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1266).	B
+2267	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+attempt_201706092018_0024_m_000080_1135:	B
+Committed	O
+
+Running	O
+task	O
+3.0	B
+in	O
+stage	O
+22.0	B
+(TID	O
+918)	B
+
+Finished	O
+task	O
+24.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1344).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+4.0	B
+in	O
+stage	O
+9.0	B
+(TID	O
+399)	B
+
+Found	O
+block	O
+rdd_2_3	B
+locally	O
+
+Running	O
+task	O
+17.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1297)	B
+
+Got	O
+assigned	O
+task	O
+886	B
+
+Running	O
+task	O
+31.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1351)	B
+
+Finished	O
+task	O
+4.0	B
+in	O
+stage	O
+4.0	B
+(TID	O
+199).	B
+2138	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+-342,	B
+init	O
+=	O
+381,	B
+finish	O
+=	O
+0	B
+
+Running	O
+task	O
+3.0	B
+in	O
+stage	O
+5.0	B
+(TID	O
+238)	B
+
+Got	O
+assigned	O
+task	O
+959	B
+
+Finished	O
+task	O
+9.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1329).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Partition	O
+rdd_30_2	B
+not	O
+found,	O
+computing	O
+it	O
+
+Times:	O
+total	O
+=	O
+50,	B
+boot	O
+=	O
+6,	B
+init	O
+=	O
+39,	B
+finish	O
+=	O
+5	B
+
+Finished	O
+task	O
+4.0	B
+in	O
+stage	O
+16.0	B
+(TID	O
+679).	B
+2163	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+30.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1310).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_2_1	B
+locally	O
+
+Reading	O
+broadcast	O
+variable	O
+39	B
+took	O
+716	B
+ms	O
+
+attempt_201706092018_0024_m_000163_1158:	B
+Committed	O
+
+Got	O
+assigned	O
+task	O
+1215	B
+
+Reading	O
+broadcast	O
+variable	O
+16	B
+took	O
+13	B
+ms	O
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+-340,	B
+init	O
+=	O
+380,	B
+finish	O
+=	O
+0	B
+
+Finished	O
+task	O
+2.0	B
+in	O
+stage	O
+3.0	B
+(TID	O
+150).	B
+2667	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+52,	B
+boot	O
+=	O
+2,	B
+init	O
+=	O
+45,	B
+finish	O
+=	O
+5	B
+
+Got	O
+assigned	O
+task	O
+776	B
+
+Found	O
+block	O
+rdd_42_4	B
+locally	O
+
+Running	O
+task	O
+2.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1242)	B
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:284388+7303	B
+
+Running	O
+task	O
+16.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1336)	B
+
+Found	O
+block	O
+rdd_30_2	B
+locally	O
+
+Times:	O
+total	O
+=	O
+38,	B
+boot	O
+=	O
+21,	B
+init	O
+=	O
+17,	B
+finish	O
+=	O
+0	B
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+16,	B
+init	O
+=	O
+25,	B
+finish	O
+=	O
+0	B
+
+Found	O
+block	O
+rdd_42_30	B
+locally	O
+
+Partition	O
+rdd_6_2	B
+not	O
+found,	O
+computing	O
+it	O
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+-4134,	B
+init	O
+=	O
+4175,	B
+finish	O
+=	O
+1	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+10,	B
+init	O
+=	O
+29,	B
+finish	O
+=	O
+1	B
+
+Found	O
+block	O
+rdd_2_4	B
+locally	O
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+15,	B
+init	O
+=	O
+25,	B
+finish	O
+=	O
+0	B
+
+Finished	O
+task	O
+4.0	B
+in	O
+stage	O
+18.0	B
+(TID	O
+759).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+171	B
+
+Found	O
+block	O
+rdd_42_13	B
+locally	O
+
+Running	O
+task	O
+30.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1350)	B
+
+Found	O
+block	O
+rdd_2_1	B
+locally	O
+
+Found	O
+block	O
+rdd_42_21	B
+locally	O
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+18,	B
+init	O
+=	O
+22,	B
+finish	O
+=	O
+1	B
+
+Found	O
+block	O
+rdd_26_1	B
+locally	O
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+-71,	B
+init	O
+=	O
+111,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+4.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1324).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+-129,	B
+init	O
+=	O
+168,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+9.0	B
+(TID	O
+374).	B
+2298	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+2.0	B
+in	O
+stage	O
+24.0	B
+(TID	O
+998)	B
+
+Running	O
+task	O
+0.0	B
+in	O
+stage	O
+23.0	B
+(TID	O
+926)	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+13.0	B
+(TID	O
+542)	B
+
+Found	O
+block	O
+rdd_42_18	B
+locally	O
+
+Got	O
+assigned	O
+task	O
+706	B
+
+Got	O
+assigned	O
+task	O
+1273	B
+
+Finished	O
+task	O
+20.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1260).	B
+2355	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+24,	B
+init	O
+=	O
+17,	B
+finish	O
+=	O
+1	B
+
+Found	O
+block	O
+rdd_2_0	B
+locally	O
+
+Running	O
+task	O
+36.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1236)	B
+
+Finished	O
+task	O
+0.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1240).	B
+2474	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_2_2	B
+locally	O
+
+Times:	O
+total	O
+=	O
+51,	B
+boot	O
+=	O
+3,	B
+init	O
+=	O
+43,	B
+finish	O
+=	O
+5	B
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+39	B
+
+Running	O
+task	O
+33.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1353)	B
+
+Finished	O
+task	O
+4.0	B
+in	O
+stage	O
+9.0	B
+(TID	O
+399).	B
+2239	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+37,	B
+boot	O
+=	O
+-62,	B
+init	O
+=	O
+99,	B
+finish	O
+=	O
+0	B
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+-343,	B
+init	O
+=	O
+384,	B
+finish	O
+=	O
+1	B
+
+Running	O
+task	O
+3.0	B
+in	O
+stage	O
+17.0	B
+(TID	O
+718)	B
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1241).	B
+2428	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_42_25	B
+locally	O
+
+Finished	O
+task	O
+17.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1217).	B
+2701	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+4.0	B
+in	O
+stage	O
+13.0	B
+(TID	O
+559).	B
+2241	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+25.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1265)	B
+
+Got	O
+assigned	O
+task	O
+867	B
+
+Found	O
+block	O
+rdd_42_9	B
+locally	O
+
+Found	O
+block	O
+rdd_42_18	B
+locally	O
+
+Found	O
+block	O
+rdd_42_20	B
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B
+locally	O
+
+Found	O
+block	O
+rdd_2_1	B
+locally	O
+
+Finished	O
+task	O
+38.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1318).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+25.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1345).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_42_33	B
+locally	O
+
+Reading	O
+broadcast	O
+variable	O
+29	B
+took	O
+11	B
+ms	O
+
+attempt_201706092018_0024_m_000044_1129:	B
+Committed	O
+
+Got	O
+assigned	O
+task	O
+716	B
+
+Got	O
+assigned	O
+task	O
+159	B
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+22	B
+
+Times:	O
+total	O
+=	O
+47,	B
+boot	O
+=	O
+5,	B
+init	O
+=	O
+37,	B
+finish	O
+=	O
+5	B
+
+Got	O
+assigned	O
+task	O
+1279	B
+
+Got	O
+assigned	O
+task	O
+839	B
+
+Got	O
+assigned	O
+task	O
+559	B
+
+Got	O
+assigned	O
+task	O
+1254	B
+
+Times:	O
+total	O
+=	O
+55,	B
+boot	O
+=	O
+-8764,	B
+init	O
+=	O
+8814,	B
+finish	O
+=	O
+5	B
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B
+
+Running	O
+task	O
+8.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1248)	B
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000163_1158'	B
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000163	B
+
+Reading	O
+broadcast	O
+variable	O
+17	B
+took	O
+12	B
+ms	O
+
+Finished	O
+task	O
+0.0	B
+in	O
+stage	O
+16.0	B
+(TID	O
+643).	B
+2151	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+32.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1352)	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+-99,	B
+init	O
+=	O
+139,	B
+finish	O
+=	O
+0	B
+
+Times:	O
+total	O
+=	O
+38,	B
+boot	O
+=	O
+23,	B
+init	O
+=	O
+15,	B
+finish	O
+=	O
+0	B
+
+Found	O
+block	O
+rdd_42_26	B
+locally	O
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+20,	B
+init	O
+=	O
+18,	B
+finish	O
+=	O
+1	B
+
+Times:	O
+total	O
+=	O
+43,	B
+boot	O
+=	O
+-104,	B
+init	O
+=	O
+146,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+5.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1285).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+52,	B
+boot	O
+=	O
+7,	B
+init	O
+=	O
+40,	B
+finish	O
+=	O
+5	B
+
+Got	O
+assigned	O
+task	O
+1146	B
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:211468+7292	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+-400,	B
+init	O
+=	O
+440,	B
+finish	O
+=	O
+0	B
+
+Found	O
+block	O
+rdd_30_1	B
+locally	O
+
+Finished	O
+task	O
+7.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1327).	B
+2171	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+335	B
+
+Running	O
+task	O
+7.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1207)	B
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:0+7292	B
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+4.0	B
+(TID	O
+185).	B
+2099	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_42_12	B
+locally	O
+
+Finished	O
+task	O
+0.0	B
+in	O
+stage	O
+1.0	B
+(TID	O
+42).	B
+2474	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+278	B
+
+Running	O
+task	O
+2.0	B
+in	O
+stage	O
+9.0	B
+(TID	O
+388)	B
+
+Got	O
+assigned	O
+task	O
+1242	B
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+-75,	B
+init	O
+=	O
+115,	B
+finish	O
+=	O
+1	B
+
+Running	O
+task	O
+29.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1309)	B
+
+Got	O
+assigned	O
+task	O
+1264	B
+
+Finished	O
+task	O
+28.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1348).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+28.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1228).	B
+2705	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+150	B
+
+attempt_201706092018_0024_m_000001_984:	B
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000004_1026'	B
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000004	B
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+20,	B
+init	O
+=	O
+18,	B
+finish	O
+=	O
+1	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+25.0	B
+(TID	O
+1180)	B
+
+Got	O
+assigned	O
+task	O
+1214	B
+
+Finished	O
+task	O
+4.0	B
+in	O
+stage	O
+15.0	B
+(TID	O
+639).	B
+2667	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+1220	B
+
+Running	O
+task	O
+2.0	B
+in	O
+stage	O
+0.0	B
+(TID	O
+2)	B
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+19,	B
+init	O
+=	O
+22,	B
+finish	O
+=	O
+1	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+20,	B
+init	O
+=	O
+19,	B
+finish	O
+=	O
+1	B
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+-107,	B
+init	O
+=	O
+146,	B
+finish	O
+=	O
+0	B
+
+Found	O
+block	O
+rdd_42_24	B
+locally	O
+
+Running	O
+task	O
+15.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1215)	B
+
+Got	O
+assigned	O
+task	O
+1292	B
+
+Found	O
+block	O
+rdd_42_14	B
+locally	O
+
+Found	O
+block	O
+rdd_42_19	B
+locally	O
+
+Got	O
+assigned	O
+task	O
+1247	B
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+20,	B
+init	O
+=	O
+21,	B
+finish	O
+=	O
+1	B
+
+Running	O
+task	O
+34.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1354)	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+19.0	B
+(TID	O
+776)	B
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B
+
+Found	O
+block	O
+rdd_2_2	B
+locally	O
+
+Found	O
+block	O
+rdd_26_2	B
+locally	O
+
+Slf4jLogger	O
+started	O
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+27,	B
+init	O
+=	O
+14,	B
+finish	O
+=	O
+1	B
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+31,	B
+init	O
+=	O
+9,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+2.0	B
+in	O
+stage	O
+16.0	B
+(TID	O
+671).	B
+2163	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+60,	B
+boot	O
+=	O
+-8772,	B
+init	O
+=	O
+8827,	B
+finish	O
+=	O
+5	B
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+12,	B
+init	O
+=	O
+28,	B
+finish	O
+=	O
+1	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+11.0	B
+(TID	O
+464)	B
+
+Finished	O
+task	O
+3.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1203).	B
+2703	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+247	B
+
+Finished	O
+task	O
+39.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1239).	B
+2703	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Partition	O
+rdd_26_4	B
+not	O
+found,	O
+computing	O
+it	O
+
+Finished	O
+task	O
+3.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1243).	B
+2651	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+34.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1314)	B
+
+Found	O
+block	O
+rdd_42_10	B
+locally	O
+
+Running	O
+task	O
+29.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1349)	B
+
+Got	O
+assigned	O
+task	O
+1320	B
+
+Found	O
+block	O
+rdd_6_4	B
+locally	O
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+17,	B
+init	O
+=	O
+24,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+0.0	B
+in	O
+stage	O
+9.0	B
+(TID	O
+360).	B
+2239	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+11.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1211).	B
+2703	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+23.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1303)	B
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:87504+7292	B
+
+Changing	O
+modify	O
+acls	O
+to:	O
+yarn,curi	B
+
+Running	O
+task	O
+34.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1234)	B
+
+Running	O
+task	O
+0.0	B
+in	O
+stage	O
+21.0	B
+(TID	O
+853)	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1201)	B
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:29168+7292	B
+
+Found	O
+block	O
+rdd_2_0	B
+locally	O
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+-134,	B
+init	O
+=	O
+173,	B
+finish	O
+=	O
+0	B
+
+Finished	O
+task	O
+3.0	B
+in	O
+stage	O
+19.0	B
+(TID	O
+798).	B
+2667	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+24	B
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+-139,	B
+init	O
+=	O
+179,	B
+finish	O
+=	O
+1	B
+
+Partition	O
+rdd_21_4	B
+not	O
+found,	O
+computing	O
+it	O
+
+Got	O
+assigned	O
+task	O
+1327	B
+
+Finished	O
+task	O
+16.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1336).	B
+2171	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_6_0	B
+locally	O
+
+Found	O
+block	O
+rdd_42_2	B
+locally	O
+
+Finished	O
+task	O
+2.0	B
+in	O
+stage	O
+25.0	B
+(TID	O
+1194).	B
+2364	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Partition	O
+rdd_6_1	B
+not	O
+found,	O
+computing	O
+it	O
+
+Finished	O
+task	O
+11.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1291).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:102088+7292	B
+
+Got	O
+assigned	O
+task	O
+1298	B
+
+Partition	O
+rdd_11_4	B
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_2_4	B
+locally	O
+
+Running	O
+task	O
+15.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1255)	B
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:138548+7292	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+10.0	B
+(TID	O
+416)	B
+
+Finished	O
+task	O
+3.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1323).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+13.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1213)	B
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+24,	B
+init	O
+=	O
+18,	B
+finish	O
+=	O
+0	B
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000082_1137'	B
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000082	B
+
+Got	O
+assigned	O
+task	O
+558	B
+
+Finished	O
+task	O
+27.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1307).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+14.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1294)	B
+
+Running	O
+task	O
+20.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1340)	B
+
+Finished	O
+task	O
+23.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1263).	B
+2385	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_16_0	B
+locally	O
+
+Got	O
+assigned	O
+task	O
+1277	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+20.0	B
+(TID	O
+821)	B
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+40	B
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+15,	B
+init	O
+=	O
+24,	B
+finish	O
+=	O
+0	B
+
+Running	O
+task	O
+28.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1348)	B
+
+Reading	O
+broadcast	O
+variable	O
+33	B
+took	O
+9	B
+ms	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B
+
+Times:	O
+total	O
+=	O
+58,	B
+boot	O
+=	O
+7,	B
+init	O
+=	O
+46,	B
+finish	O
+=	O
+5	B
+
+Running	O
+task	O
+164.0	B
+in	O
+stage	O
+24.0	B
+(TID	O
+1159)	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+7.0	B
+(TID	O
+299)	B
+
+Times:	O
+total	O
+=	O
+38,	B
+boot	O
+=	O
+19,	B
+init	O
+=	O
+19,	B
+finish	O
+=	O
+0	B
+
+Got	O
+assigned	O
+task	O
+598	B
+
+Running	O
+task	O
+2.0	B
+in	O
+stage	O
+3.0	B
+(TID	O
+150)	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+22.0	B
+(TID	O
+900)	B
+
+mapred.task.id	B
+is	O
+deprecated.	O
+Instead,	O
+use	O
+mapreduce.task.attempt.id	B
+
+Running	O
+task	O
+30.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1230)	B
+
+Running	O
+task	O
+20.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1220)	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+-93,	B
+init	O
+=	O
+133,	B
+finish	O
+=	O
+0	B
+
+Partition	O
+rdd_42_30	B
+not	O
+found,	O
+computing	O
+it	O
+
+Got	O
+assigned	O
+task	O
+1347	B
+
+Successfully	O
+started	O
+service	O
+'org.apache.spark.network.netty.NettyBlockTransferService'	B
+on	O
+port	O
+40984.	B
+
+Found	O
+block	O
+rdd_2_1	B
+locally	O
+
+Finished	O
+task	O
+31.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1271).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Reading	O
+broadcast	O
+variable	O
+38	B
+took	O
+11	B
+ms	O
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+-159,	B
+init	O
+=	O
+198,	B
+finish	O
+=	O
+0	B
+
+Found	O
+block	O
+rdd_2_2	B
+locally	O
+
+Partition	O
+rdd_6_4	B
+not	O
+found,	O
+computing	O
+it	O
+
+Times:	O
+total	O
+=	O
+41,	B
+boot	O
+=	O
+15,	B
+init	O
+=	O
+26,	B
+finish	O
+=	O
+0	B
+
+Found	O
+block	O
+rdd_2_3	B
+locally	O
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+19,	B
+init	O
+=	O
+21,	B
+finish	O
+=	O
+0	B
+
+Partition	O
+rdd_42_8	B
+not	O
+found,	O
+computing	O
+it	O
+
+Running	O
+task	O
+3.0	B
+in	O
+stage	O
+15.0	B
+(TID	O
+638)	B
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+17.0	B
+(TID	O
+706).	B
+2156	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_42_17	B
+locally	O
+
+Finished	O
+task	O
+0.0	B
+in	O
+stage	O
+25.0	B
+(TID	O
+1166).	B
+2364	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_2_0	B
+locally	O
+
+Times:	O
+total	O
+=	O
+38,	B
+boot	O
+=	O
+18,	B
+init	O
+=	O
+20,	B
+finish	O
+=	O
+0	B
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+-107,	B
+init	O
+=	O
+148,	B
+finish	O
+=	O
+1	B
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+17,	B
+init	O
+=	O
+21,	B
+finish	O
+=	O
+1	B
+
+Running	O
+task	O
+25.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1225)	B
+
+Partition	O
+rdd_42_26	B
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_30_3	B
+locally	O
+
+Found	O
+block	O
+rdd_2_1	B
+locally	O
+
+Got	O
+assigned	O
+task	O
+1295	B
+
+Finished	O
+task	O
+42.0	B
+in	O
+stage	O
+24.0	B
+(TID	O
+1127).	B
+2364	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+22,	B
+init	O
+=	O
+17,	B
+finish	O
+=	O
+0	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+5.0	B
+(TID	O
+220)	B
+
+Got	O
+assigned	O
+task	O
+1344	B
+
+Finished	O
+task	O
+10.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1250).	B
+2667	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+123.0	B
+in	O
+stage	O
+24.0	B
+(TID	O
+1150)	B
+
+Finished	O
+task	O
+3.0	B
+in	O
+stage	O
+22.0	B
+(TID	O
+918).	B
+2667	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+attempt_201706092018_0024_m_000082_1137:	B
+Committed	O
+
+Got	O
+assigned	O
+task	O
+1138	B
+
+Got	O
+assigned	O
+task	O
+1180	B
+
+Got	O
+assigned	O
+task	O
+1332	B
+
+Reading	O
+broadcast	O
+variable	O
+11	B
+took	O
+15	B
+ms	O
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+14,	B
+init	O
+=	O
+26,	B
+finish	O
+=	O
+0	B
+
+Got	O
+assigned	O
+task	O
+1252	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+26,	B
+init	O
+=	O
+13,	B
+finish	O
+=	O
+1	B
+
+Reading	O
+broadcast	O
+variable	O
+14	B
+took	O
+12	B
+ms	O
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+2.0	B
+(TID	O
+101).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+attempt_201706092018_0024_m_000043_1128:	B
+Committed	O
+
+Got	O
+assigned	O
+task	O
+1284	B
+
+Running	O
+task	O
+2.0	B
+in	O
+stage	O
+22.0	B
+(TID	O
+912)	B
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+15	B
+
+Times:	O
+total	O
+=	O
+38,	B
+boot	O
+=	O
+19,	B
+init	O
+=	O
+19,	B
+finish	O
+=	O
+0	B
+
+Finished	O
+task	O
+4.0	B
+in	O
+stage	O
+11.0	B
+(TID	O
+479).	B
+2667	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+19,	B
+init	O
+=	O
+20,	B
+finish	O
+=	O
+0	B
+
+Finished	O
+task	O
+17.0	B
+in	O
+stage	O
+29.0	B
+(TID	O
+1337).	B
+2128	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+161.0	B
+in	O
+stage	O
+24.0	B
+(TID	O
+1156)	B
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+17	B
+
+Finished	O
+task	O
+37.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1317).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Partition	O
+rdd_16_4	B
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_42_15	B
+locally	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+15.0	B
+(TID	O
+626).	B
+2667	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+38,	B
+boot	O
+=	O
+12,	B
+init	O
+=	O
+26,	B
+finish	O
+=	O
+0	B
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000122_1147'	B
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000122	B
+
+Times:	O
+total	O
+=	O
+53,	B
+boot	O
+=	O
+14,	B
+init	O
+=	O
+34,	B
+finish	O
+=	O
+5	B
+
+Running	O
+task	O
+4.0	B
+in	O
+stage	O
+5.0	B
+(TID	O
+239)	B
+
+Got	O
+assigned	O
+task	O
+112	B
+
+Finished	O
+task	O
+9.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1249).	B
+2427	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+16.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1216)	B
+
+Partition	O
+rdd_2_1	B
+not	O
+found,	O
+computing	O
+it	O
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+18,	B
+init	O
+=	O
+23,	B
+finish	O
+=	O
+1	B
+
+Got	O
+assigned	O
+task	O
+636	B
+
+Running	O
+task	O
+2.0	B
+in	O
+stage	O
+10.0	B
+(TID	O
+430)	B
+
+Finished	O
+task	O
+40.0	B
+in	O
+stage	O
+24.0	B
+(TID	O
+1125).	B
+2364	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+1297	B
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0025_m_000003_1198'	B
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000003	B
+
+Reading	O
+broadcast	O
+variable	O
+22	B
+took	O
+11	B
+ms	O
+
+Got	O
+assigned	O
+task	O
+1329	B
+
+Running	O
+task	O
+19.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1299)	B
+
+Got	O
+assigned	O
+task	O
+416	B
+
+Times:	O
+total	O
+=	O
+40,	B
+boot	O
+=	O
+-337,	B
+init	O
+=	O
+376,	B
+finish	O
+=	O
+1	B
+
+Changing	O
+modify	O
+acls	O
+to:	O
+yarn,curi	B
+
+Got	O
+assigned	O
+task	O
+1127	B
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+16.0	B
+(TID	O
+657).	B
+2163	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B
+
+Found	O
+block	O
+rdd_2_4	B
+locally	O
+
+Finished	O
+task	O
+21.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1301).	B
+2087	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+34,	B
+init	O
+=	O
+7,	B
+finish	O
+=	O
+1	B
+
+Times:	O
+total	O
+=	O
+43,	B
+boot	O
+=	O
+23,	B
+init	O
+=	O
+19,	B
+finish	O
+=	O
+1	B
+
+Finished	O
+task	O
+11.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1251).	B
+2402	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+39.0	B
+in	O
+stage	O
+27.0	B
+(TID	O
+1279)	B
+
+Finished	O
+task	O
+1.0	B
+in	O
+stage	O
+25.0	B
+(TID	O
+1180).	B
+2364	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+399	B
+
+Times:	O
+total	O
+=	O
+43,	B
+boot	O
+=	O
+-85,	B
+init	O
+=	O
+127,	B
+finish	O
+=	O
+1	B
+
+Got	O
+assigned	O
+task	O
+799	B
+
+Times:	O
+total	O
+=	O
+42,	B
+boot	O
+=	O
+-73,	B
+init	O
+=	O
+114,	B
+finish	O
+=	O
+1	B
+
+Times:	O
+total	O
+=	O
+38,	B
+boot	O
+=	O
+-156,	B
+init	O
+=	O
+194,	B
+finish	O
+=	O
+0	B
+
+Finished	O
+task	O
+23.0	B
+in	O
+stage	O
+26.0	B
+(TID	O
+1223).	B
+2703	B
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+24,	B
+init	O
+=	O
+14,	B
+finish	O
+=	O
+1	B
+
+Running	O
+task	O
+11.0	B
+in	O
+stage	O
+28.0	B
+(TID	O
+1291)	B
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+29	B
+
+Times:	O
+total	O
+=	O
+39,	B
+boot	O
+=	O
+-147,	B
+init	O
+=	O
+186,	B
+finish	O
+=	O
+0	B
+
+Running	O
+task	O
+1.0	B
+in	O
+stage	O
+2.0	B
+(TID	O
+101)	B
+

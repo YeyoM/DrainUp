@@ -64,7 +64,7 @@ if __name__ == "__main__":
     set_seed(42)
     use_device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     files = ['Apache', 'BGL', 'HDFS', 'HPC', 'Hadoop', 'HealthApp', 'Linux', 'Mac', 'OpenSSH', 'OpenStack',
-             'Proxifier', 'Spark', 'Thunderbird', 'Zookeeper']
+             'Proxifier', 'Spark', 'Zookeeper']
 
     all_results = {}
     for log_file in files:
@@ -209,7 +209,6 @@ OpenSSH 98.03
 OpenStack       99.3
 Proxifier       99.94
 Spark   99.97
-Thunderbird     95.63
 Zookeeper       99.32
 ======================
 """
