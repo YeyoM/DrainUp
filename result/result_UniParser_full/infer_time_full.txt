@@ -1,0 +1,14 @@
+UniParser: Apache 46.928781
+UniParser: Apache 49.733157
+UniParser: BGL 3431.808
+UniParser: HDFS 11430.718
+UniParser: HPC 219.988
+UniParser: Hadoop 214.725
+UniParser: HealthApp 182.282
+UniParser: Linux 22.700
+UniParser: Mac 194.545
+UniParser: OpenSSH 858.202
+UniParser: OpenStack 368.769
+UniParser: Proxifier 30.560
+UniParser: Spark 23205.319
+UniParser: Zookeeper 128.273
