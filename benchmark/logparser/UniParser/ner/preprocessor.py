@@ -1,7 +1,7 @@
 import json
 import re
 import random
-# from spacy.lang.id import Indonesian
+
 import spacy
 
 

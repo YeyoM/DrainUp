@@ -1,8 +1,4 @@
-"""
-Description : This file implements the Drain algorithm for log parsing with confidence scoring
-Author      : LogPAI team (modified for confidence filtering)
-License     : MIT
-"""
+# Original: LogPAI (modified for confidence filtering). See NOTICE.
 
 import regex as re
 import os

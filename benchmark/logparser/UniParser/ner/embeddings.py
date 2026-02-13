@@ -1,8 +1,6 @@
-
 import os
 from typing import List
 
-# from spacy.lang.id import Indonesian
 import spacy
 from gensim.models import Word2Vec, KeyedVectors
 from spacy.language import Language

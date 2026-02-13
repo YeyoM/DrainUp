@@ -9,13 +9,7 @@ import os
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '1'
 
-"""
 
-"""
-
-
-
-# ——————————————————————————————————————构建用于预训练的语料———————————————————————————————————————
 def createSentenceList(mode):
     files = ['Android', 'Apache', 'BGL', 'HDFS', 'HPC', 'Hadoop', 'HealthApp', 'Linux', 'Mac', 'OpenSSH', 'OpenStack',
              'Proxifier', 'Spark', 'Thunderbird', 'Windows', 'Zookeeper']
@@ -36,7 +30,6 @@ def createSentenceList(mode):
     return sentenceList
 
 
-# ——————————————————————————————————————DaGuan杯word2vec,glove,fastText预训练———————————————————————————————————————
 def fastTextTrans(model):
     modelList = []
     for key in model.wv.vocab.keys():
@@ -60,12 +53,11 @@ def gloveTrans(model):
 
 
 def getPreTrain(mode, dimNum, minCount, saveFileWord2Vec, saveFileFastText, saveFileGlove):
-    # 从语料中构建bichar形式的list，并预训练bichar的word2vec，glove，FastText
+    # Build sentence list from corpus and train Word2Vec, GloVe, FastText
     sentenceList = createSentenceList(mode)
 
     gloveCorpusModel = Corpus()
     gloveCorpusModel.fit(sentenceList, window=10, ignore_missing=False)
-    # corpus_model.save('corpus.model')
     print('Dict size: %s' % len(gloveCorpusModel.dictionary))
     print('Collocations: %s' % gloveCorpusModel.matrix.nnz)
     GloveModel = Glove(no_components=dimNum, learning_rate=0.05)
@@ -80,7 +72,7 @@ def getPreTrain(mode, dimNum, minCount, saveFileWord2Vec, saveFileFastText, save
             fr1.writelines(s.strip() + '\n')
     fr1.close()
 
-    # 上下文窗口默认为5
+    # Word2Vec with context window 10
     Word2VecModel = gensim.models.Word2Vec(sentenceList, size=dimNum, sg=1, iter=15, window=10, workers=20,
                                            min_count=minCount)
     Word2VecModel.wv.save_word2vec_format(saveFileWord2Vec, binary=False)
@@ -110,10 +102,6 @@ def tokenEmbeddingFileToEmbedding(hdf5Path, savePath):
         fr1.write(' '.join(embedding) + '\n')
 
 
-# ——————————————————————————————————————构建所需语料———————————————————————————————————————
-# constructCorpusForDaGuan()
-
-# ——————————————————————————————————————150dim word2Vec,fastText预训练———————————————————————————————————————
 print("Training word embedding 100")
 getPreTrain(mode='word', dimNum=100, minCount=5,
             saveFileWord2Vec='inputs/embedding_matrix/char_log/Log2kWord_Word2Vec_100dim.txt',

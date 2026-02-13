@@ -1,8 +1,4 @@
-"""
-Description : This file implements the function to evaluation accuracy of log parsing
-Author      : LogPAI team
-License     : MIT
-"""
+# Original: LogPAI. See NOTICE.
 
 import sys
 import pandas as pd

@@ -1,0 +1,22 @@
+DrainUp includes or uses the following third-party works:
+
+-----------------------------------------------------------------------------
+LOGPAI / Loghub (benchmark, Drain parser, evaluation harness)
+-----------------------------------------------------------------------------
+  - benchmark/logparser/Drain/* (Drain algorithm; modified for confidence)
+  - benchmark/logparser/utils/* (log loading, evaluator)
+  - Original license: Apache License 2.0 (Drain) and MIT (utils).
+  - Copyright (C) 2018-2023 LOGPAI (https://github.com/logpai).
+
+-----------------------------------------------------------------------------
+University of Luxembourg (TA-Eval-Rep evaluation utilities)
+-----------------------------------------------------------------------------
+  - benchmark/evaluation/utils/* (e.g. PA_calculator, evaluator_main, oracle_template_correction, template_level_analysis, common)
+  - License: GNU General Public License v3.0.
+  - Copyright (C) 2022 University of Luxembourg.
+
+-----------------------------------------------------------------------------
+Loghub datasets (2k_dataset)
+-----------------------------------------------------------------------------
+  - The datasets under 2k_dataset/ are from Loghub.
+  - For terms and citation, see 2k_dataset/LICENSE.txt and 2k_dataset/README.md.

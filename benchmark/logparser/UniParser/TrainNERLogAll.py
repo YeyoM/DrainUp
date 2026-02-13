@@ -191,24 +191,3 @@ if __name__ == "__main__":
     for k, v in all_results.items():
         print(f"{k}\t{v}")
     print("======================")
-
-
-
-"""
-Experiment record saved to summary_results_bilstm+w2v+cnn.csv.
-======================
-Apache  99.68
-BGL     97.11
-HDFS    98.86
-HPC     99.94
-Hadoop  98.24
-HealthApp       99.67
-Linux   98.5
-Mac     87.53
-OpenSSH 98.03
-OpenStack       99.3
-Proxifier       99.94
-Spark   99.97
-Zookeeper       99.32
-======================
-"""

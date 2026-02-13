@@ -1,17 +1,4 @@
-"""
-This file is part of TA-Eval-Rep.
-Copyright (C) 2022 University of Luxembourg
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, version 3 of the License.
-
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
-    You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <https://www.gnu.org/licenses/>.
-"""
+# Original: University of Luxembourg (TA-Eval-Rep). See NOTICE.
 
 import os
 import time
@@ -23,7 +10,6 @@ from evaluation.utils.template_level_analysis import evaluate_template_level, ev
 from evaluation.utils.PA_calculator import calculate_parsing_accuracy, calculate_parsing_accuracy_lstm
 import pandas as pd
 
-# TIMEOUT = 3600 * 12  # log template identification timeout (sec)
 TIMEOUT = 3600 * 12  # log template identification timeout (sec)
 
 
@@ -36,8 +22,6 @@ def prepare_results(output_dir, otc, complex, frequent):
     result_file = 'summary_[otc={},complex={},frequent={}].csv'.format(str(otc), str(int(complex)), str(int(frequent)))
     with open(os.path.join(output_dir, result_file), 'w') as csv_file:
         fw = csv.writer(csv_file, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
-        # fw.writerow(['Dataset', 'GA_time', 'PA_time', 'TA_time', 'parse_time', 'identified_templates',
-        #              'ground_templates', 'GA', 'PA', 'FTA', 'PTA', 'RTA', 'OG', 'UG', 'MX'])
         fw.writerow(['Dataset', 'parse_time', 'identified_templates',
                      'ground_templates', 'GA', 'PA', 'FGA', 'PTA', 'RTA', 'FTA'])
 
@@ -97,10 +81,6 @@ def evaluator(
         parse_time = -1
     print("parsing time: ", parse_time)
 
-    # if not os.path.exists(parsedresult):
-    #     with open(parsedresult, 'w') as fw:
-    #         pass
-    # print(parsedresult)
     if not os.path.exists(parsedresult) or is_file_empty(parsedresult):
         print("No output file generated.")
         result = dataset + ',' + \
@@ -113,9 +93,6 @@ def evaluator(
                 "None" + ',' + \
                 "None" + ',' + \
                 "None" + '\n'
-                # "{:.1f}".format(GA_end_time) + ',' + \
-                # "{:.1f}".format(PA_end_time) + ',' + \
-                # "{:.1f}".format(TA_end_time) + ',' + \
 
         with open(os.path.join(output_dir, result_file), 'a') as summary_file:
             summary_file.write(result)
@@ -150,19 +127,6 @@ def evaluator(
         print("length of filter templates: ", len(filter_templates))
 
     if filter_templates != None and len(filter_templates) == 0:
-        # result = dataset + ',' + \
-                # "None" + ',' + \
-                # "None" + ',' + \
-                # "None" + ',' + \
-                # "None" + ',' + \
-                # "None" + ',' + \
-                # "None" + ',' + \
-                # "None" + ',' + \
-                # "None" + ',' + \
-                # "None" + '\n'
-
-        # with open(os.path.join(output_dir, result_file), 'a') as summary_file:
-            # summary_file.write(result)
         return   
 
     parsedresult = pd.read_csv(parsedresult, dtype=str)

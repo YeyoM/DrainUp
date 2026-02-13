@@ -1,5 +1,3 @@
-# FROM: https://github.com/davidtvs/pytorch-lr-finder
-
 import copy
 import os
 import torch
