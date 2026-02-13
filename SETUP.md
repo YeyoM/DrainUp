@@ -2,6 +2,10 @@
 
 How to install dependencies and prepare environments for running Drain, UniParser, the evaluation pipeline, and the analyzer. All paths below are relative to the **repository root**.
 
+## Download the Full Datasets
+
+Download the full datasets of Loghub-2.0 via [Zenodo](https://zenodo.org/record/8275861). Then the contents of that download place them into the `full_dataset/` directory.
+
 ## Python version
 
 - **Drain and evaluation:** Python **3.11** is recommended (used in development).

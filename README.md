@@ -2,13 +2,9 @@
 
 Thesis: A hybrid log parsing pipeline that combines **Drain** (rule-based, fast) with **UniParser** (LSTM-based, semantic) for robust log template extraction, evaluated on the Loghub benchmark.
 
----
-
 ## Context and motivation
 
 Existing log parsing solutions trade off between two incompatible strengths: semantic (local) parsers, which achieve high accuracy at extracting fine-grained event structure from individual log lines, and statistical (global) parsers, which group logs consistently across a corpus using pattern statistics. No single approach reliably provides both precise local parsing and coherent global grouping. As a result, practitioners must choose between per-log correctness and global consistency—a trade-off that reduces parser utility in real SRE environments where logs come from diverse frameworks, heterogeneous systems, and rapidly evolving formats. The core deficiency is the lack of a unified method that integrates semantic understanding for local accuracy with statistical patterning for global consistency, leaving many parsers context-dependent and unable to generalize across systems and logging practices.
-
----
 
 ## Research Questions
 
@@ -37,8 +33,6 @@ Why it matters (motivation): SRE environments are heterogeneous; a practical par
 
 Hypothesis: The hybrid approach provides stronger zero-shot generalization than statistical-only parsers and requires fewer labeled examples (or smaller adaptation steps) to reach in-domain performance than semantic-only parsers when confronted with novel logging frameworks.
 
----
-
 ## Investigation Objectives
 
 I have 3 main objectives for this thesis:
@@ -49,13 +43,9 @@ The second one is to conduct a comprehensive evaluation comparing the hybrid par
 
 And as the third one, I am going to assess the generalization capabilities of the hybrid approach across multiple logging frameworks, system types, and log format variations to validate its applicability in diverse SRE production environments. The analysis will compare how the hybrid approach’s combination of semantic understanding and statistical grounding affects sample efficiency and robustness relative to purely semantic or purely statistical baselines, and will surface concrete deployment guidance.
 
----
-
 ## Approach
 
 The project uses **Drain** (fixed-depth tree, similarity threshold) for efficient template extraction and adds confidence-related logic to identify uncertain parses. **UniParser** (LSTM-based NER) provides a semantic, learning-based alternative. The **hybrid** pipeline runs both parsers and merges their outputs; the evaluation harness computes grouping accuracy (GA), parsing accuracy (PA), and template-level metrics (FGA, PTA, RTA, FTA). Results can be analyzed and visualized with the provided analyzer (comparison tables and plots).
-
----
 
 ## Repository structure
 
@@ -73,8 +63,6 @@ The project uses **Drain** (fixed-depth tree, similarity threshold) for efficien
 | `NOTICE` | Third-party attribution (LOGPAI, University of Luxembourg, Loghub). |
 | `LICENSE` | Project license (see also `2k_dataset/LICENSE.txt` for dataset terms). |
 
----
-
 ## Getting started
 
 1. **Setup** — Install dependencies and create environments (Drain and evaluation venvs, UniParser Conda env, analyzer venv). See **[SETUP.md](SETUP.md)**.
@@ -86,8 +74,6 @@ The project uses **Drain** (fixed-depth tree, similarity threshold) for efficien
    # … then UniParser steps, merge, evaluation, analyzer as in scripts/README.md
    ```
 
----
-
 ## Documentation
 
 - **[SETUP.md](SETUP.md)** — Python version, venvs, Conda, and requirements for each component.
@@ -95,11 +81,17 @@ The project uses **Drain** (fixed-depth tree, similarity threshold) for efficien
 - **[benchmark/analyzer/README.md](benchmark/analyzer/README.md)** — What the analyzer does and what result files it expects.
 - **Dataset and parsers** — Citation and attribution: `2k_dataset/README.md`, `benchmark/logparser/Drain/README.md`, `benchmark/logparser/UniParser/README.md`.
 
----
-
 ## Attribution and license
 
 This project builds on **LOGPAI/Loghub** (Drain, benchmark, datasets), **UniParser**, and **University of Luxembourg** (TA-Eval-Rep evaluation utilities). See **[NOTICE](NOTICE)** for full attribution and **[LICENSE](LICENSE)** for the project license. Dataset terms: **2k_dataset/LICENSE.txt**.
 
 **Thesis:** Ingeniería en Computación Inteligente, Universidad Autónoma de Aguascalientes, 2026.  
 **Author:** Diego Emilio Moreno Sanchez.
+
+## References
+
+- Loghub: Jieming Zhu, Shilin He, Pinjia He, Jinyang Liu, Michael R. Lyu. Loghub: A Large Collection of System Log Datasets for AI-driven Log Analytics. ISSRE, 2023.
+
+- Loghub-2.0: Zhihan Jiang, Jinyang Liu, Junjie Huang, Yichen Li, Yintong Huo, Jiazhen Gu, Zhuangbin Chen, Jieming Zhu, Michael R. Lyu. A Large-scale Evaluation for Log Parsing Techniques: How Far are We? ISSTA, 2024.
+
+- Jieming Zhu, Shilin He, Jinyang Liu, Pinjia He, Qi Xie, Zibin Zheng, Michael R. Lyu. Tools and Benchmarks for Automated Log Parsing. ICSE, 2019.
