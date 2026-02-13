@@ -4,7 +4,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import torch
 from torch.optim.lr_scheduler import ReduceLROnPlateau
-# from spacy.lang.id import Indonesian
 import spacy
 from sklearn.metrics import f1_score, classification_report
 
