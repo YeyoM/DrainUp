@@ -1,6 +1,6 @@
 # DrainUP — Combining Semantic and Statistical Techniques for Robust Template Extraction and Parsing
 
-Thesis: A hybrid log parsing pipeline that combines **Drain** (rule-based, fast) with **UniParser** (LSTM-based, semantic) for robust log template extraction, evaluated on the Loghub benchmark.
+Thesis: A hybrid log parsing pipeline that combines **Drain** (rule-based, fast) with **UniParser** (LSTM-based, semantic) for robust log template extraction, evaluated on the Loghub benchmark. Check the full thesis in https://github.com/YeyoM/DrainUp/blob/main/Thesis.pdf
 
 ## Context and motivation
 
